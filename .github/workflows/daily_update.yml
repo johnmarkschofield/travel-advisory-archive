@@ -25,6 +25,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Ensure data directory exists
+        run: mkdir -p data
+        
       - name: Run scraper script
         run: python main.py
 
