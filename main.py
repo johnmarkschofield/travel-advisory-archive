@@ -19,11 +19,11 @@ HEADERS = {
 }
 
 def clean_filename(name):
-    """Converts a country name into a safe filename (e.g. 'United Kingdom' -> 'united_kingdom.md')"""
+    """Converts a country name into a safe filename (e.g. 'United Kingdom' -> 'united_kingdom')"""
     # Remove non-alphanumeric characters except spaces
     clean = re.sub(r'[^a-zA-Z0-9 ]', '', name)
     # Replace spaces with underscores and lowercase
-    return clean.replace(' ', '_').lower() + ".md"
+    return clean.replace(' ', '_').lower()
 
 def fetch_advisories():
     print(f"Fetching RSS feed from: {RSS_URL}")
@@ -49,7 +49,6 @@ def fetch_advisories():
             link = entry.link
 
             # Get the content/description
-            # The RSS feed usually puts the text in 'summary' or 'description'
             raw_html = getattr(entry, 'summary', '') or getattr(entry, 'description', '')
 
             # Convert HTML content to Markdown
@@ -69,17 +68,15 @@ def fetch_advisories():
             if "Level" in country:
                 country = country.split('Level')[0].strip()
 
-            # Generate local filename
-            filename = clean_filename(country)
-            local_path = os.path.join(ADVISORY_DIR, filename)
+            # Generate local filename base (no extension)
+            filename_base = clean_filename(country)
 
             advisories.append({
                 "country": country,
                 "level": level,
                 "full_title": title,
                 "remote_link": link,
-                "local_path": local_path,
-                "filename": filename,
+                "filename_base": filename_base, # Used for both .md and .json
                 "date": pub_date,
                 "content_md": markdown_text
             })
@@ -91,16 +88,15 @@ def fetch_advisories():
         return []
 
 def save_advisories_locally(advisories):
-    """Saves individual markdown files for each country."""
+    """Saves individual markdown AND json files for each country."""
     if not os.path.exists(ADVISORY_DIR):
         os.makedirs(ADVISORY_DIR)
 
-    # Clean up old files? (Optional: simplistic approach is just overwrite)
-
     for item in advisories:
-        filepath = item['local_path']
+        base_name = item['filename_base']
 
-        # Create the content for the individual country file
+        # 1. Save Markdown File (.md)
+        md_path = os.path.join(ADVISORY_DIR, f"{base_name}.md")
         file_content = f"""# {item['country']}
 
 **Level {item['level']} Advisory**
@@ -111,16 +107,22 @@ def save_advisories_locally(advisories):
 
 {item['content_md']}
 """
-        with open(filepath, 'w', encoding='utf-8') as f:
+        with open(md_path, 'w', encoding='utf-8') as f:
             f.write(file_content)
 
-    print(f"Saved {len(advisories)} local advisory files in /{ADVISORY_DIR}.")
+        # 2. Save JSON File (.json)
+        json_path = os.path.join(ADVISORY_DIR, f"{base_name}.json")
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(item, f, indent=2)
+
+    print(f"Saved {len(advisories)} advisory pairs (MD + JSON) in /{ADVISORY_DIR}.")
 
 def save_json_history(advisories):
+    """Saves the master list in data/ folder."""
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
 
-    # We remove the heavy content_md from the JSON to keep it light
+    # We remove the heavy content_md from the master JSON to keep it light
     lightweight_list = [{k: v for k, v in a.items() if k != 'content_md'} for a in advisories]
 
     with open(HISTORY_FILE, 'w', encoding='utf-8') as f:
@@ -173,9 +175,8 @@ Click on a country to view the full archived text of the advisory.
 
         for item in current_level_list:
             # Link to the local file in the advisories/ folder
-            # GitHub uses forward slashes for relative links
-            link_path = f"advisories/{item['filename']}"
-            md_content += f"| **{item['country']}** | {item['date']} | [📄 View Advisory]({link_path}) |\n"
+            link_path_md = f"advisories/{item['filename_base']}.md"
+            md_content += f"| **{item['country']}** | {item['date']} | [📄 View Advisory]({link_path_md}) |\n"
 
     md_content += """
 ---
@@ -192,3 +193,5 @@ if __name__ == "__main__":
         save_advisories_locally(data)
         save_json_history(data)
         update_readme(data)
+
+        
