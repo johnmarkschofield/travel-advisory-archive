@@ -4,18 +4,17 @@ import os
 import re
 from datetime import datetime
 
+
 # Configuration
-RSS_URL = "https://travel.state.gov/_layouts/15/sas/sp/rss.aspx?list=TravelAdvisories"
+RSS_URL = "https://travel.state.gov/_res/rss/TAsTWs.xml"
 DATA_DIR = "data"
 HISTORY_FILE = os.path.join(DATA_DIR, "current_advisories.json")
 README_FILE = "README.md"
 
 def fetch_advisories():
-    print(f"Fetching RSS feed from: {RSS_URL}")
     feed = feedparser.parse(RSS_URL)
 
     advisories = []
-
     for entry in feed.entries:
         # Title format is usually: "Country Name - Level X: Reason"
         # We want to parse this to make it usable data
@@ -37,7 +36,6 @@ def fetch_advisories():
             "link": link,
             "date": pub_date
         })
-
     return advisories
 
 def save_data(advisories):
