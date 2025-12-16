@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-15 08:03 UTC
+**Last Updated:** 2025-12-16 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 84 countries*
+*Total: 85 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -27,7 +27,7 @@ Click on a country to view the full archived text of the advisory.
 | **British Virgin Islands** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/british_virgin_islands.md) |
 | **Brunei** | Wed, 19 Mar 2025 | [📄 View Advisory](advisories/brunei.md) |
 | **Bulgaria** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/bulgaria.md) |
-| **Cabo Verde** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/cabo_verde.md) |
+| **Cabo Verde** | Mon, 15 Dec 2025 | [📄 View Advisory](advisories/cabo_verde.md) |
 | **Canada** | Wed, 11 Jun 2025 | [📄 View Advisory](advisories/canada.md) |
 | **Cayman Islands** | Wed, 04 Sep 2024 | [📄 View Advisory](advisories/cayman_islands.md) |
 | **Croatia** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/croatia.md) |
@@ -66,6 +66,7 @@ Click on a country to view the full archived text of the advisory.
 | **Montserrat** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/montserrat.md) |
 | **Nauru** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/nauru.md) |
 | **New Zealand** | Fri, 03 Jan 2025 | [📄 View Advisory](advisories/new_zealand.md) |
+| **North Korea** | Tue, 16 Dec 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **North Macedonia** | Tue, 14 Jan 2025 | [📄 View Advisory](advisories/north_macedonia.md) |
 | **Norway** | Mon, 03 Feb 2025 | [📄 View Advisory](advisories/norway.md) |
 | **Palau** | Tue, 06 Aug 2024 | [📄 View Advisory](advisories/palau.md) |
@@ -138,7 +139,7 @@ Click on a country to view the full archived text of the advisory.
 | **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
 | **Guinea** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/guinea.md) |
 | **Hong Kong** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/hong_kong.md) |
-| **India** | Sun, 01 Jun 2025 | [📄 View Advisory](advisories/india.md) |
+| **India** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/india.md) |
 | **Indonesia** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
 | **Jordan** | Thu, 12 Sep 2024 | [📄 View Advisory](advisories/jordan.md) |
@@ -148,7 +149,7 @@ Click on a country to view the full archived text of the advisory.
 | **Laos** | Thu, 21 Nov 2024 | [📄 View Advisory](advisories/laos.md) |
 | **Lesotho** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/lesotho.md) |
 | **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
-| **Madagascar** | Thu, 04 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
+| **Madagascar** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Malawi** | Fri, 06 Dec 2024 | [📄 View Advisory](advisories/malawi.md) |
 | **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
@@ -217,7 +218,7 @@ Click on a country to view the full archived text of the advisory.
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 21 countries*
+*Total: 20 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -233,7 +234,6 @@ Click on a country to view the full archived text of the advisory.
 | **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
 | **Mali** | Thu, 30 Oct 2025 | [📄 View Advisory](advisories/mali.md) |
 | **Niger** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/niger.md) |
-| **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **Russia** | Thu, 08 May 2025 | [📄 View Advisory](advisories/russia.md) |
 | **Somalia** | Wed, 14 May 2025 | [📄 View Advisory](advisories/somalia.md) |
 | **South Sudan** | Thu, 13 Nov 2025 | [📄 View Advisory](advisories/south_sudan.md) |
