@@ -6,7 +6,7 @@
 
 ---
 
-** _There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
 Exercise normal precautions in Cabo Verde.
 

@@ -1,7 +1,7 @@
 # Norway
 
 **Level 1 Advisory**
-**Date:** Mon, 03 Feb 2025
+**Date:** Sat, 03 Feb 2920
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/norway-travel-advisory.html)
 
 ---

@@ -1,7 +1,7 @@
 # Kiribati
 
 **Level 1 Advisory**
-**Date:** Mon, 02 Dec 2024
+**Date:** Fri, 02 Aug 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kiribati-travel-advisory.html)
 
 ---

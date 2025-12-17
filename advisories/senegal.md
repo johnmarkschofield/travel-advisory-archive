@@ -10,5 +10,5 @@ Exercise normal precaution
 
 in **Senegal**.
 
-Senegal is generally a safe destination for travelers. Read our travel guidance for Senegal to learn how to prepare for a safe trip. 
+Senegal is generally a safe destination for travelers. 
 
