@@ -1,7 +1,7 @@
 # Finland
 
 **Level 1 Advisory**
-**Date:** Fri, 23 Aug 2024
+**Date:** Fri, 09 Aug 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/finland-travel-advisory.html)
 
 ---

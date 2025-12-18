@@ -1,7 +1,7 @@
 # Latvia
 
 **Level 1 Advisory**
-**Date:** Wed, 28 Aug 2024
+**Date:** Mon, 26 Aug 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/latvia-travel-advisory.html)
 
 ---

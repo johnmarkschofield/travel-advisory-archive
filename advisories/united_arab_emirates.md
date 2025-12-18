@@ -6,7 +6,7 @@
 
 ---
 
-**_Reissued to reflect current security conditions._**
+** _Reissued to reflect current security conditions._**
 
 Exercise increased caution in the United Arab Emirates due to** ** the threat of terrorism and missile or drone attacks.
 
