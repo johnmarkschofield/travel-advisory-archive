@@ -1,5 +1,13 @@
 [
   {
+    "country": "Jordan",
+    "level": 2,
+    "full_title": "Jordan - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
+    "filename_base": "jordan",
+    "date": "Thu, 18 Dec 2025"
+  },
+  {
     "country": "Cabo Verde",
     "level": 1,
     "full_title": "Cabo Verde - Level 1: Exercise Normal Precautions",
@@ -11,7 +19,7 @@
     "country": "Syria",
     "level": 4,
     "full_title": "Syria - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
     "filename_base": "syria",
     "date": "Thu, 11 Dec 2025"
   },
@@ -19,7 +27,7 @@
     "country": "Guinea",
     "level": 3,
     "full_title": "Guinea-Bissau - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-bissau-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gnb.html",
     "filename_base": "guinea",
     "date": "Thu, 11 Dec 2025"
   },
@@ -35,7 +43,7 @@
     "country": "Seychelles",
     "level": 1,
     "full_title": "Seychelles - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/seychelles-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syc.html",
     "filename_base": "seychelles",
     "date": "Tue, 09 Dec 2025"
   },
@@ -51,7 +59,7 @@
     "country": "Mauritius",
     "level": 2,
     "full_title": "Mauritius - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html",
     "filename_base": "mauritius",
     "date": "Mon, 08 Dec 2025"
   },
@@ -1326,14 +1334,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html",
     "filename_base": "kingdom_of_denmark",
     "date": "Tue, 17 Sep 2024"
-  },
-  {
-    "country": "Jordan",
-    "level": 2,
-    "full_title": "Jordan - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
-    "filename_base": "jordan",
-    "date": "Thu, 12 Sep 2024"
   },
   {
     "country": "Saudi Arabia",

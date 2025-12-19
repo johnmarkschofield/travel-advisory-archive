@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-18 08:03 UTC
+**Last Updated:** 2025-12-19 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -141,7 +141,7 @@ Click on a country to view the full archived text of the advisory.
 | **India** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/india.md) |
 | **Indonesia** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
-| **Jordan** | Thu, 12 Sep 2024 | [📄 View Advisory](advisories/jordan.md) |
+| **Jordan** | Thu, 18 Dec 2025 | [📄 View Advisory](advisories/jordan.md) |
 | **Kenya** | Mon, 17 Mar 2025 | [📄 View Advisory](advisories/kenya.md) |
 | **Kingdom of Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
 | **Kosovo** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kosovo.md) |
