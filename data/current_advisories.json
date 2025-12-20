@@ -1,5 +1,13 @@
 [
   {
+    "country": "Yemen",
+    "level": 4,
+    "full_title": "Yemen - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
+    "filename_base": "yemen",
+    "date": "Fri, 19 Dec 2025"
+  },
+  {
     "country": "Jordan",
     "level": 2,
     "full_title": "Jordan - Level 2: Exercise Increased Caution",
@@ -781,14 +789,6 @@
     "full_title": "The Bahamas - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-bahamas-travel-advisory.html",
     "filename_base": "the_bahamas",
-    "date": "Mon, 31 Mar 2025"
-  },
-  {
-    "country": "Yemen",
-    "level": 4,
-    "full_title": "Yemen - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
-    "filename_base": "yemen",
     "date": "Mon, 31 Mar 2025"
   },
   {

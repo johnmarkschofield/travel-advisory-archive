@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-19 08:03 UTC
+**Last Updated:** 2025-12-20 08:02 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -241,7 +241,7 @@ Click on a country to view the full archived text of the advisory.
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Ukraine** | Thu, 14 Nov 2024 | [📄 View Advisory](advisories/ukraine.md) |
 | **Venezuela** | Wed, 03 Dec 2025 | [📄 View Advisory](advisories/venezuela.md) |
-| **Yemen** | Mon, 31 Mar 2025 | [📄 View Advisory](advisories/yemen.md) |
+| **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
 *Automated by GitHub Actions.*

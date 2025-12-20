@@ -1,40 +1,96 @@
 # Yemen
 
 **Level 4 Advisory**
-**Date:** Mon, 31 Mar 2025
+**Date:** Fri, 19 Dec 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits related to terrorism and security._**__
+_**The Department of State renewed its Travel Advisory for Yemen on December 19, 2025. There were no changes to the advisory level or risk indicators. Advisory summary was updated.**_
 
-Do not travel to Yemen due to **terrorism, civil unrest, crime, health risks, kidnapping, armed conflict,  **and**  landmines**.
+Do not travel to Yemen due to risk of **terrorism, unrest, crime, health risks, kidnapping,  **and**  landmines**.
 
-**Country Summary:**  The U.S. Embassy in Sana'a suspended its operations in February 2015. The U.S. government is unable to provide emergency or routine consular services to U.S. citizens in Yemen. U.S. citizens should not travel to Yemen for any reason.
+**Advisory summary**  
+U.S. citizens should not travel to Yemen for any reason. The U.S. Embassy in Sana'a suspended its operations in February 2015. The U.S. government is unable to provide emergency or routine consular services to U.S. citizens in Yemen.
 
-The Department of State has re-designated Ansarallah (commonly referred to as the Houthis) as a Foreign Terrorist Organization. Other terrorist groups, like Al-Qaeda in the Arabian Peninsula (AQAP) and Islamic State affiliates, also plan and carry out attacks in Yemen. Terrorists may attack with little or no warning, targeting public sites, transportation hubs, markets, as well as government buildings and facilities. There is also a risk of kidnapping/detention by terrorists, criminals, and other groups or individuals. Foreign workers and employees may be targeted.
+**Terrorism**  
+The Department of State has re-designated Ansarallah, commonly referred to as the Houthis, as a Foreign Terrorist Organization.
 
-A civil war continues in Yemen. Even though violence has decreased since a truce in April 2022, instability and fighting are still common, especially along the front lines in central Yemen. Travelers should not rely on significant assistance from local authorities. Foreigners are frequently targets of kidnapping and carjacking, especially outside of urban areas.
+  * Other terrorist groups also plan and carry out attacks in Yemen. These include Al-Qa'ida in the Arabian Peninsula (AQAP) and Islamic State affiliates.
+  * Terrorists may attack with little or no warning and may target:
+    * Public sites
+    * Places of worship
+    * Transportation hubs
+    * Markets
+    * Government buildings and facilities
 
-Military conflict has destroyed basic infrastructure like housing, medical facilities, schools, and utilities. This makes it hard to get electricity, clean water, and medical care. Humanitarian groups face obstacles in delivering food, medicine, and water. Landmines are found throughout Yemen.
 
+
+There is risk of terrorist violence, including terrorist attacks and other activity in Yemen. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+
+Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+
+**Unrest**  
+A civil war continues in Yemen. Although violence has decreased since the April 2022 truce, Yemen still faces instability. Fighting continues, especially near the front lines in central Yemen.
+
+  * Travelers should not rely on significant assistance from local authorities.
+  * Foreigners are frequently targets of kidnapping and carjacking, especially outside of urban areas.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Military conflict has destroyed basic infrastructure like housing, medical facilities, schools, and utilities. This makes it hard to get electricity, clean water, and medical care. Humanitarian groups face obstacles in delivering food, medicine, and water.
+
+
+
+**Crime**  
 Violent and organized crime is common in Yemen. Local law enforcement may not be able or willing to respond to serious crimes.
 
-Health services in Yemen are poor. There is a re-emergence of diseases like cholera, polio, and measles, which are spreading, especially in Houthi-controlled areas. Medicine and medical supplies are hard to find. Adequate medical treatment is often not available.
+**Health**  
+Health services in Yemen are poor. There is a re-emergence of diseases like cholera, polio, and measles. They are spreading in Houthi-controlled areas. Medicine and medical supplies are hard to find. Adequate medical treatment for routine and emergency procedures is often not available.
 
-U.S. citizens, especially dual U.S.-Yemeni citizens, are at high risk of kidnapping and detention in Yemen. U.S. citizens, particularly young people, may be kidnapped for forced marriage. These often involve family members in the United States and/or Yemen. The Houthis, who control Sana'a, have detained U.S. citizens, including those with dual citizenship. U.S. citizens have faced difficulty and delays when trying to leave Yemen.
+**If you decide to travel to Yemen:**
 
-Some companies outside Yemen have misrepresented the safety of the Yemeni island of Socotra. They offer tourist trips with unofficial and invalid "visas." These companies put tourists in danger and legal jeopardy. Only the Republic of Yemen government can issue valid Yemeni visas. The U.S. government cannot assist U.S. citizens in Socotra. Do not travel to Socotra or any part of Yemen.
+  * Make sure you have medical or travel insurance that includes medical evacuation. Review our information on[ Travel Insurance](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html).
+  * Check with your doctor about required vaccines and shots for high-risk exposure before you go to Yemen.
+  * Bring enough supply of over counter and prescription medicines to cover the duration of the trip. 
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information for Yemen](https://wwwnc.cdc.gov/travel/destinations/traveler/none/yemen?s_cid=ncezid-dgmq-travel-single-001).
 
+
+
+**Kidnapping**  
+U.S. citizens, especially dual U.S.-Yemeni citizens, are at high risk of kidnapping and detention in Yemen.
+
+  * Young U.S. citizens may be kidnapped for forced marriage. Family members in the United States or Yemen are often involved in these kidnappings.
+  * The Houthis control Sana'a. They have detained U.S. citizens, including some with dual citizenship.
+  * U.S. citizens have faced difficulty and delays when trying to leave Yemen.
+
+
+
+Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+
+**Landmines**  
+Landmines and unexploded ordnance exist throughout Yemen. The locations of landmines and unexploded ordnance are often not marked or easy to recognize.
+
+**Tourism safety**  
+Do not travel to Socotra or any part of Yemen. Some companies outside Yemen have misrepresented the safety of the Yemeni island of Socotra
+
+  * They offer tourist trips with unofficial and invalid "visas."
+  * These companies put tourists in danger and legal jeopardy.
+  * Only the Republic of Yemen government can issue valid Yemeni visas.
+
+
+
+The U.S. government cannot assist U.S. citizens in Socotra.
+
+**Aviation safety**  
 Limited commercial flights are available from Aden and Sana'a to other airports in the region. Check with airlines and travel companies for the latest flight information.
 
 Due to risks to civil aviation operating within or in the vicinity of Yemen, the Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR). For more information, U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions, and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions/).
 
-Due to risks to commercial shipping operating within or in the vicinity of Yemen territorial waters, the Department of Transportation's Maritime Administration (MARAD) has issued a Maritime Advisory. For more information, U.S. citizens should consult the [Maritime Administration's Maritime Security Communications with Industry (MSCI)](https://www.maritime.dot.gov/msci/maritime-security-communications-industry-msci-web-portal).
+**Maritime travel**  
+Due to risks to commercial shipping operating within or in the vicinity of Yemen territorial waters, the Department of Transportation's Maritime Administration (MARAD) has issued a Maritime Advisory. For more information, U.S. citizens should consult the [Maritime Administration's Maritime Security Communications with Industry (MSCI)](https://www.maritime.dot.gov/msci/2025-012-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-persian-gulf-and-somali-basin).
 
-The U.S. Coast Guard has determined that effective anti-terrorism measures are not in place in Yemen ports and has imposed conditions of entry on vessels that arrive in U.S. ports having visited ports in Yemen. Mariners and passengers traveling through the ports of Yemen should exercise caution.
+The U.S. Coast Guard determined Yemeni ports do not have effective anti-terrorism measures. Vessels that arrive in U.S. ports from Yemeni ports must meet additional U.S. Coast Guard conditions of entry as described in the current Port Security Advisory, [International Port Security Program - Port Security Advisory](https://www.dco.uscg.mil/Our-Organization/Assistant-Commandant-for-Prevention-Policy-CG-5P/Inspections-Compliance-CG-5PC-/International-Domestic-Port-Assessment/International-Port-Security-Program-Port-Security-Advisory/).
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Yemen.html) for additional information on travel to Yemen.
+Mariners and passengers traveling through the ports of Yemen should exercise caution.
 
 If, despite this Travel Advisory, you decide to travel to Yemen:
 
@@ -43,16 +99,20 @@ If, despite this Travel Advisory, you decide to travel to Yemen:
   * Have evacuation plans that do not rely on U.S. government assistance.
   * Draft a will and designate appropriate insurance beneficiaries or power of attorney.
   * Make a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
-  * Share important documents, login information, and points of contact with loved ones. This is so that they can manage your affairs if you are unable to return as planned to the United States. Review this [list](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html/) of documents to prepare for your trip.
+  * Share important documents, login information, and points of contact with loved ones. This is so that they can manage your affairs if you are unable to return as planned to the United States. Review our [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) to prepare for your trip.
   * Stay aware of your surroundings.
   * Consider hiring a professional security organization.
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Keep travel documents up to date and easily accessible.
+  * Review local laws and conditions before traveling.
+  * Before you travel, delete any sensitive photos, comments, or content that might be seen as controversial or inappropriate in your destination. Do this for your social media accounts, cameras, laptops, phones, and other accounts and devices.
+  * Check with your doctor about required vaccines and shots for high-risk exposure before you go to Yemen. Review the Health section in the Travel Guidance for Yemen.
   * Develop a communication plan with family, or your employer or host organization (if you are traveling on business). This is so that they can monitor your safety and location as you travel through high-risk areas. Specify how you'll confirm you're safe (texts, calls, etc.), how often, and who you'll contact first to share the information.
   * Appoint one family member to serve as the point of contact if you are taken hostage or detained. Set up a proof-of-life protocol. If you become a hostage, that person will know what questions to ask and answers to expect. This will help them be sure that you are alive (and to rule out a hoax).
   * Leave DNA samples with your medical provider in case it is necessary for your family to access them.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook ](https://www.facebook.com/travelgov/) and [X/Twitter](https://twitter.com/TravelGov). 
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Yemen.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/be3c9c94-9ef2-4b14-bc5c-1d14c93428d6) for Yemen.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information for Yemen](https://wwwnc.cdc.gov/travel/destinations/traveler/none/yemen?s_cid=ncezid-dgmq-travel-single-001).
   * Prepare a plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
   * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
