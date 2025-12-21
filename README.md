@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-20 08:02 UTC
+**Last Updated:** 2025-12-21 08:02 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -165,21 +165,21 @@ Click on a country to view the full archived text of the advisory.
 | **Philippines** | Thu, 08 May 2025 | [📄 View Advisory](advisories/philippines.md) |
 | **Republic of the Congo** | Wed, 02 Oct 2024 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
 | **Rwanda** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/rwanda.md) |
+| **Sao Tome and Principe** | Wed, 08 Oct 2025 | [📄 View Advisory](advisories/sao_tome_and_principe.md) |
 | **Saudi Arabia** | Mon, 09 Sep 2024 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **Serbia** | Fri, 11 Apr 2025 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
 | **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Mon, 12 May 2025 | [📄 View Advisory](advisories/spain.md) |
-| **Sri Lanka** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
+| **Sri Lanka** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
 | **Sweden** | Wed, 24 Jul 2024 | [📄 View Advisory](advisories/sweden.md) |
-| **São Tomé and Príncipe** | Wed, 08 Oct 2025 | [📄 View Advisory](advisories/so_tom_and_prncipe.md) |
 | **Tajikistan** | Fri, 16 May 2025 | [📄 View Advisory](advisories/tajikistan.md) |
 | **Thailand** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/thailand.md) |
 | **The Bahamas** | Mon, 31 Mar 2025 | [📄 View Advisory](advisories/the_bahamas.md) |
 | **The Gambia** | Wed, 16 Oct 2024 | [📄 View Advisory](advisories/the_gambia.md) |
 | **Timor** | Fri, 21 Mar 2025 | [📄 View Advisory](advisories/timor.md) |
-| **Togo** | Thu, 07 Nov 2024 | [📄 View Advisory](advisories/togo.md) |
+| **Togo** | Sat, 18 May 2030 | [📄 View Advisory](advisories/togo.md) |
 | **Tunisia** | Wed, 23 Oct 2024 | [📄 View Advisory](advisories/tunisia.md) |
 | **Turkey** | Wed, 16 Oct 2024 | [📄 View Advisory](advisories/turkey.md) |
 | **Turks and Caicos Islands** | Tue, 04 Mar 2025 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
