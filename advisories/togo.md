@@ -1,7 +1,7 @@
 # Togo
 
 **Level 2 Advisory**
-**Date:** Sat, 18 May 2030
+**Date:** Thu, 07 Nov 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/togo-travel-advisory.html)
 
 ---
