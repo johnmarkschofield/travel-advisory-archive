@@ -1,7 +1,7 @@
 # Solomon Islands
 
 **Level 2 Advisory**
-**Date:** Tue, 29 Apr 2025
+**Date:** Sat, 29 Apr 2023
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html)
 
 ---

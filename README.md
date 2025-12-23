@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-22 08:03 UTC
+**Last Updated:** 2025-12-23 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -168,7 +168,7 @@ Click on a country to view the full archived text of the advisory.
 | **Saudi Arabia** | Mon, 09 Sep 2024 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **Serbia** | Fri, 11 Apr 2025 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
-| **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
+| **Solomon Islands** | Sat, 29 Apr 2023 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Mon, 12 May 2025 | [📄 View Advisory](advisories/spain.md) |
 | **Sri Lanka** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
@@ -222,7 +222,7 @@ Click on a country to view the full archived text of the advisory.
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Afghanistan** | Mon, 13 Jan 2025 | [📄 View Advisory](advisories/afghanistan.md) |
-| **Belarus** | Thu, 28 Aug 2025 | [📄 View Advisory](advisories/belarus.md) |
+| **Belarus** | Mon, 22 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
 | **Burkina Faso** | Wed, 16 Apr 2025 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma (Myanmar)** | Mon, 12 May 2025 | [📄 View Advisory](advisories/burma_myanmar.md) |
 | **Central African Republic** | Mon, 10 Nov 2025 | [📄 View Advisory](advisories/central_african_republic.md) |

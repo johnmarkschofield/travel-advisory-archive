@@ -28,11 +28,9 @@ There is risk of terrorist violence in Syria. Visit the U.S. Department of State
 
 
 Hostage taking  
-Hostage taking of U.S. citizens and other foreign nationals continues to be a risk throughout the country.  
 
-  * Detainees may lack access to fair judicial process or medical attention. 
-  * Detention centers can be harsh and unsanitary. 
-  * You can be detained if you do not get your entry visa directly from the Syrian government.
+
+  * Hostage taking of U.S. citizens and other foreign nationals continues to be a risk throughout the country.  
 
 
 
