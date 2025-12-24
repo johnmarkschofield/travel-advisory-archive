@@ -1,5 +1,13 @@
 [
   {
+    "country": "Portugal",
+    "level": 1,
+    "full_title": "Portugal - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.prt.html",
+    "filename_base": "portugal",
+    "date": "Tue, 23 Dec 2025"
+  },
+  {
     "country": "Belarus",
     "level": 4,
     "full_title": "Belarus - Level 4: Do Not Travel",
@@ -696,6 +704,14 @@
     "date": "Tue, 29 Apr 2025"
   },
   {
+    "country": "Solomon Islands",
+    "level": 2,
+    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
+    "filename_base": "solomon_islands",
+    "date": "Tue, 29 Apr 2025"
+  },
+  {
     "country": "Czechia",
     "level": 1,
     "full_title": "Czechia - Level 1: Exercise Normal Precautions",
@@ -870,14 +886,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turks-and-caicos-travel-advisory.html",
     "filename_base": "turks_and_caicos_islands",
     "date": "Tue, 04 Mar 2025"
-  },
-  {
-    "country": "Portugal",
-    "level": 1,
-    "full_title": "Portugal - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.prt.html",
-    "filename_base": "portugal",
-    "date": "Mon, 03 Mar 2025"
   },
   {
     "country": "Turkmenistan",
@@ -1678,13 +1686,5 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zimbabwe-travel-advisory.html",
     "filename_base": "zimbabwe",
     "date": "Tue, 27 Jun 2023"
-  },
-  {
-    "country": "Solomon Islands",
-    "level": 2,
-    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
-    "filename_base": "solomon_islands",
-    "date": "Sat, 29 Apr 2023"
   }
 ]
