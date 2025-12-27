@@ -1,7 +1,7 @@
 # Chad
 
 **Level 3 Advisory**
-**Date:** Tue, 18 Mar 2025
+**Date:** Sun, 15 Sep 2030
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html)
 
 ---

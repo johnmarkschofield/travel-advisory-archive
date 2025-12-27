@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2025-12-26 08:03 UTC
+**Last Updated:** 2025-12-27 08:02 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -27,7 +27,7 @@ Click on a country to view the full archived text of the advisory.
 | **British Virgin Islands** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/british_virgin_islands.md) |
 | **Brunei** | Wed, 19 Mar 2025 | [📄 View Advisory](advisories/brunei.md) |
 | **Bulgaria** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/bulgaria.md) |
-| **Cabo Verde** | Wed, 15 Dec 20202 | [📄 View Advisory](advisories/cabo_verde.md) |
+| **Cabo Verde** | Mon, 15 Dec 2025 | [📄 View Advisory](advisories/cabo_verde.md) |
 | **Canada** | Wed, 11 Jun 2025 | [📄 View Advisory](advisories/canada.md) |
 | **Cayman Islands** | Wed, 04 Sep 2024 | [📄 View Advisory](advisories/cayman_islands.md) |
 | **Croatia** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/croatia.md) |
@@ -195,7 +195,7 @@ Click on a country to view the full archived text of the advisory.
 | :--- | :--- | :--- |
 | **Bangladesh** | Fri, 18 Apr 2025 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
-| **Chad** | Tue, 18 Mar 2025 | [📄 View Advisory](advisories/chad.md) |
+| **Chad** | Sun, 15 Sep 2030 | [📄 View Advisory](advisories/chad.md) |
 | **Colombia** | Thu, 17 Apr 2025 | [📄 View Advisory](advisories/colombia.md) |
 | **Democratic Republic of the Congo** | Tue, 12 Aug 2025 | [📄 View Advisory](advisories/democratic_republic_of_the_congo.md) |
 | **Ethiopia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/ethiopia.md) |

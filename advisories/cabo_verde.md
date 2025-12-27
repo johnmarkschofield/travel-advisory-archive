@@ -1,7 +1,7 @@
 # Cabo Verde
 
 **Level 1 Advisory**
-**Date:** Wed, 15 Dec 20202
+**Date:** Mon, 15 Dec 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cabo-verde-travel-advisory.html)
 
 ---
