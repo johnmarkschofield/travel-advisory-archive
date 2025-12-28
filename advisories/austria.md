@@ -1,7 +1,7 @@
 # Austria
 
 **Level 1 Advisory**
-**Date:** Fri, 23 Aug 2024
+**Date:** Thu, 14 Feb 2030
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/austria-travel-advisory.html)
 
 ---
