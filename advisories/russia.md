@@ -1,70 +1,74 @@
 # Russia
 
 **Level 4 Advisory**
-**Date:** Thu, 08 May 2025
+**Date:** Mon, 29 Dec 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/russia-travel-advisory.html)
 
 ---
 
-_Reissued after periodic review._
+_**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**_
 
-**Do not travel to Russia** **due to:**
+**Advisory summary**
 
-  * Danger associated with the continuing war between Russia and Ukraine.****
-  * The risk of harassment or wrongful detention by Russian security officials.****
-  * The arbitrary enforcement of local laws.****
+**Do not travel to Russia**  **due to:**
+
+  * Danger associated with the continuing war between Russia and Ukraine.
+  * The risk of harassment or wrongful detention by Russian security officials.
+  * The arbitrary enforcement of local laws.
   * The possibility of terrorism.
 
 
 
-**U.S. citizens in Russia should leave immediately.  
-**The U.S. government has limited ability to help U.S. citizens in Russia, especially outside of Moscow. The U.S. Embassy in Moscow has reduced its staff and the Russian government has restricted travel for embassy personnel. All U.S. consulates in Russia have suspended operations, including consular services. **Do not travel to Russia for any reason.**
+**U.S. citizens in Russia should leave immediately**  
+The U.S. government has limited ability to help U.S. citizens in Russia, especially outside of Moscow. The U.S. Embassy in Moscow has reduced its staff. The Russian government has also restricted travel for embassy personnel. All U.S. consulates in Russia have suspended operations, including consular services. 
 
-The U.S. Embassy in Moscow has limited ability to assist in the case of a detention of a U.S. citizen. There is no guarantee that a U.S. citizen will be afforded consular access or released before their entire prison sentence is served. The risk of wrongful detention of U.S. nationals remains high. Even if a case is determined wrongful, there is no guarantee of release.
+**Do not travel to Russia for any reason**  
+The U.S. Embassy in Moscow has limited ability to assist in the case of a detention of a U.S. citizen. There is no guarantee that the Russian government will grant the U.S. Embassy consular access to detained U.S. citizens. U.S. citizens may serve their entire prison sentence without release. The risk of wrongful detention of U.S. citizens remains high. Even if a case is determined wrongful, there is no guarantee of release.
 
-Russian officials have questioned and threatened U.S. citizens without reason. Russian security services have arrested U.S. citizens on false charges. They have denied them fair treatment and convicted them without credible evidence. Russian authorities have opened questionable investigations against U.S. citizens for their religious activities.
+Russian officials often question and threaten U.S. citizens without reason. Russian security services have arrested U.S. citizens on false charges. They have denied them fair treatment and convicted them without credible evidence. Russian authorities have opened questionable investigations against U.S. citizens for their religious activities.
 
-There have been drone attacks and explosions near the border with Ukraine, and in Moscow, Kazan, St. Petersburg, and other large cities. In 2024, ISIS Khorasan claimed responsibility for the attack at Crocus Music Hall in Moscow that killed 130 people, as well as attacks in Dagestan targeting places of worship. In an emergency, you should follow instructions from local authorities and seek shelter.
+There have been drone attacks and explosions near the border with Ukraine, and in Moscow, Kazan, St. Petersburg, and other large cities. In 2024, ISIS Khorasan claimed responsibility for the attack at Crocus Music Hall in Moscow. This attack killed 130 people. They also targeted places of worship in Dagestan. In an emergency, you should follow instructions from local authorities and seek shelter.
 
-**Dual citizenship  
-**Russia will **not** recognize your U.S. citizenship if you are a dual U.S.-Russian citizen or have a claim to Russian citizenship.
+**Dual citizenship**  
+Russia will **not**  recognize your U.S. citizenship if you are a dual U.S.-Russian citizen or have a claim to Russian citizenship.
 
   * Russia has blocked U.S. consular officers from visiting detained dual U.S.-Russian citizens.
-  * The Russian government has forced people with dual citizenship to join the military and has stopped them from leaving the country.
-  * In 2022, Russia started drafting citizens for the war in Ukraine. The military draft is ongoing.****
+  * The Russian government has forced dual citizens to join the military. They also have stopped them from leaving the country.
+  * In 2022, Russia started drafting citizens for the war in Ukraine. The military draft is ongoing.
+  * Failure to adhere to Russian laws and regulations on dual citizenship can result in arrest.
 
 
 
-**Demonstrations  
-**In Russia, peaceful assembly and freedom of speech are not protected rights. U.S. citizens should avoid protests and taking photos of security staff at these events. Russian authorities have arrested U.S. citizens who have joined protests. Russians and U.S. citizens have been detained for posts on social media.
+**Demonstrations**  
+In Russia, peaceful assembly and freedom of speech are not protected rights. U.S. citizens should avoid protests and taking photos of security staff at these events. Russian authorities have arrested U.S. citizens who have joined protests. Russians and U.S. citizens have been detained for posts on social media.
 
-**Electronic devices  
-**Reconsider bringing electronic devices into Russia. U.S. citizens should assume all electronic communications and devices in Russia are monitored by Russian security services. Russian security services have arrested U.S. citizens and other foreign nationals based on information found on electronic devices. This includes information that was created, transmitted, or stored while in another country.
+**Electronic devices**  
+Reconsider bringing electronic devices into Russia. U.S. citizens should assume all electronic communications and devices in Russia are monitored by Russian security services. Russian security services have arrested U.S. citizens and other foreign nationals based on information found on electronic devices. This includes information that was created, transmitted, or stored while in another country.
 
-**Debit and credit cards  
-**U.S. credit and debit cards no longer work in Russia. Due to sanctions, sending electronic money transfers from the United States to Russia is nearly impossible.
+**Debit and credit cards**  
+U.S. credit and debit cards no longer work in Russia. Due to sanctions, sending electronic money transfers from the United States to Russia is nearly impossible. The U.S. Embassy cannot assist with transferring money to circumvent sanctions.
 
-**Air travel  
-**There are few commercial air travel options available. It may not be easy to book flights on short notice. If you wish to leave Russia, you should make your own travel plans. The U.S. Embassy can only offer limited help to U.S. citizens trying to leave. Transportation options could become even more limited at any time.
+**Air travel**  
+There are few commercial air travel options available. It may not be easy to book flights on short notice. If you wish to leave Russia, you should make your own travel plans. The U.S. Embassy can only offer limited help to U.S. citizens trying to leave. Transportation options could become even more limited at any time.
 
-Click [here ](https://travel.state.gov/content/travel/en/international-travel/before-you-go/informationforuscitizeninrussia.html)for Information for U.S. Citizens Seeking to Depart Russia.
+Visit our website for information for [U.S. Citizens Seeking to Depart Russia](https://travel.state.gov/content/travel/en/international-travel/before-you-go/informationforuscitizeninrussia.html).
 
-The Federal Aviation Administration (FAA) has downgraded Russia's air safety rating from [Category 1 to Category 2 due to safety concerns](https://www.faa.gov/travelers/international_travel). U.S. government personnel outside of Russia generally are not allowed to fly on Russian airlines due to safety concerns.
+The Federal Aviation Administration (FAA) has downgraded Russia's air safety rating from [Category 1 to Category 2 due to safety concerns](https://www.faa.gov/travelers/international_travel). U.S. government personnel are generally not allowed to fly on Russian airlines due to safety concerns.
 
 Additionally, the FAA banned U.S. flights within certain areas of Russian airspace, by issuing a Notice to Airmen (NOTAM). This is due to risks to civil aviation operating within or in the vicinity of these certain areas. For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions#RussianFederation).
 
-**Laws and special circumstances  
-**Russian officials have questioned, threatened, and detained U.S. citizens without reason. This includes both former and current U.S. government and military personnel, as well as private U.S. citizens. Russian authorities have a history of wrongfully detaining U.S. nationals and using them as bargaining chips.
+**Laws and special circumstances**  
+Russian officials have questioned, threatened, and detained U.S. citizens without reason. This includes both former and current U.S. government and military personnel, as well as private U.S. citizens. Russian authorities have a history of wrongfully detaining U.S. nationals and using them as bargaining chips.
 
   * U.S. citizens may become victims of harassment, mistreatment, and extortion.
-  * Russian authorities do not always notify the U.S. Embassy about the detention of a U.S. citizen. They may delay or deny U.S. consular assistance.
+  * Russian authorities do not always notify the U.S. embassy about the detention of a U.S. citizen. They may delay or deny U.S. consular help.
   * Russian security services target foreign nationals and international organizations considered "undesirable."
   * Russian law allows authorities to punish foreigners for treason. This includes working for organizations that Russia perceives as acting against Russian interests. Former and current U.S. government employees and contractors should pay special attention to this part of Russian law.
 
 
 
-**Security  
-**There have been drone attacks and explosions near the border with Ukraine and in Moscow, Kazan, St. Petersburg, and other large cities. In an emergency, you should follow instructions from local authorities and seek shelter.
+**Security**  
+Drone attacks and explosions have taken place near the border with Ukraine and in Moscow, Kazan, St. Petersburg, and other large cities. In an emergency, you should follow instructions from local authorities and seek shelter.
 
 Russia's war in Ukraine has destabilized security in southwestern Russia. In October 2022, the Russian government declared martial law in the following border areas with Ukraine: Bryansk, Kursk, Belgorod, Voronezh, Rostov, and Krasnodar.
 
@@ -81,42 +85,45 @@ Under martial law, authorities can:
 
 Russian authorities have questioned, detained, and arrested people for "acting against Russia's interests." Local authorities have targeted people for posting on social media or supporting "anti-Russian" groups. They have punished people for criticizing the government or military.
 
-**LGB travelers  
-**The Russian government's current "propaganda" law bans discussion of LGB topics. The community has been labeled as extremist, and it is considered a crime to support the human rights of LGB people in Russia. Displaying certain symbols, including the rainbow flag, is a crime.
+**Gay and lesbian travelers**  
+The Russian government's "propaganda" law bans discussion of gay and lesbian topics. The community has been labeled as "extremist," and it is considered a crime to support the human rights of gay and lesbian people in Russia. Displaying certain symbols, including the rainbow flag, is a crime. Foreigners found guilty of violating this law may be arrested and detained for up to 15 days and then deported.
 
-**Terrorism  
-**Terrorists continue to plan and carry out attacks in Russia. The March 2024 Crocus City Hall incident in Moscow proved terrorists can strike suddenly.
+**Terrorism**  
+Terrorists continue to plan and carry out attacks in Russia. The March 2024 Crocus City Hall attack in Moscow proved terrorists can strike without warning.
 
 U.S. government employees working in Russia are prohibited from traveling to the North Caucasus, including Chechnya and Mt. Elbrus.
 
-**Russian annexation of territories  
-**The international community does not recognize Russia's annexation of Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhya.
+**Russian annexation of territories**  
+The international community does not recognize Russia's purported annexation of Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhya.
 
 Russia staged its full-scale invasion of Ukraine, in part, from occupied Crimea. There is a heavy Russian military presence in these areas and intense fighting across these regions.
 
-Russian authorities have abused foreigners and locals. In particular, they have targeted people who they see as opposing Russia's authority.****
+Russian authorities have abused foreigners and locals. In particular, they have targeted people who they see as opposing Russia's authority.
 
-The U.S. Embassy in Kyiv, Ukraine offers consular services to U.S. citizens in Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhya. However, the ongoing war limits the Embassy's ability to help U.S. citizens in these areas.
+The U.S. Embassy in Kyiv, Ukraine offers consular services to U.S. citizens in Crimea, Donetsk, Luhansk, Kherson, and Zaporizhzhya. However, the ongoing war limits the embassy's ability to help U.S. citizens in these areas.
 
 **If you choose to disregard the Travel Advisory and decide to travel to Russia:**
 
   * The Department has determined that the risk of wrongful detention of U.S. nationals is significant.
   * Be ready for the possibility of detention for an unknown amount of time, possibly without a clear reason, and without the ability to contact your embassy or anyone else for help.
   * Prepare a will and designate appropriate insurance beneficiaries or power of attorney.
-  * Share important documents, login information, and points of contact with loved ones so that they can manage your affairs if you are unable to return as planned to the United States. Review this list of documents to prepare for your trip.
+  * Share important documents, login information, and points of contact with loved ones so that they can manage your affairs if you are unable to return as planned to the United States. Review [this list](https://travel.state.gov/en/international-travel/planning/checklist.html#processlist-95341df8a8-item-b032ace2a3) of documents to prepare for your trip.
   * Discuss a plan with loved ones regarding care and custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
   * Leave DNA samples with your medical provider in case it is necessary for your family to access them.
   * Develop a communication plan with family, your employer or host organization. List how and when you'll confirm you're safe (text or call). Specify how often you will do this.
-  * Have evacuation plans that do not rely on U.S. government assistance. Read the information on [what the U.S. government can and cannot do to assist you in an emergency overseas](https://travel.state.gov/content/travel/en/international-travel/emergencies/what-state-dept-can-cant-do-crisis.html).
-  * Visit our website on [Travel to High-Risk areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+  * Have evacuation plans that do not rely on U.S. government assistance. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html). 
+  * Visit our website on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and [Travel to High-Risk areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
   * Consider the risks involved in having dual U.S.-Russian nationality.
   * Log out of all social media accounts and do not access your social media accounts while in Russia.
   * Keep travel documents up-to-date and easily accessible.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/) (STEP) to receive messages and alerts from the U.S. Embassy and make it easier to locate you in an emergency.  
+  * Stay aware of your surroundings.
+  * Stay alert in tourist spots.
+  * Follow the instructions of local authorities. 
+  * Monitor local media for breaking news. Be prepared to adjust your plans. 
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.  
   * Review the [Country Security Report](https://www.osac.gov/Content/Report/f312a926-0723-427a-947f-1c391b3776e8) for Russia.
-  * Prepare a plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/notices) related to your travel and return to the United States.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) for Russia.
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
