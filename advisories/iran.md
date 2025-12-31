@@ -2,28 +2,22 @@
 
 **Level 4 Advisory**
 **Date:** Fri, 05 Dec 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iran-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html)
 
 ---
 
-**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
+Do not travel
 
-**Do Not Travel** to **Iran** due to the risk of **terrorism, civil unrest, kidnapping, arbitrary arrest** of U.S. citizens, and **wrongful detention**. Read the entire Travel Advisory.
+to **Iran** due to the risk of **terrorism** , **unrest** , **kidnapping** , **arbitrary arrest** of U.S. citizens, and **wrongful detention**. Read the entire Travel Advisory.
 
-**Advisory summary**
+Do not travel to Iran for any reason. U.S. citizens in Iran should leave immediately. There is no U.S. Embassy in Iran. Review our information on [Travel to High-Risk Areas](/en/international-travel/travel-advisories/high-risk-areas.html).
 
-  * **Do not travel to Iran for any reason. U.S. citizens in Iran should leave immediately.**
-  * There is no U.S. Embassy in Iran. Review our information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+U.S. citizens in Iran face serious dangers including **terrorism** , **unrest** , **kidnapping** , **arbitrary arrest** , and **wrongful detention**. Some U.S. nationals have been held for years on false charges, subjected to torture, and even sentenced to death.
 
+**No U.S. embassy in Iran  
+**The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran. The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.
 
-
-U.S. citizens in Iran face serious dangers including **terrorism, civil unrest, kidnapping, arbitrary arrest,** and **wrongful detention**. Some U.S. nationals have been held for years on false charges, subjected to torture, and even sentenced to death.
-
-**No U.S. embassy in Iran**
-
-The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran. The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.
-
-As of October 15, 2025, routine consular services are no longer available for U.S. citizens in Iran.  This includes acceptance of applications for full-validity passports and Consular Reports of Birth Abroad (CRBA), and for fee-based notarial services.  This change reinforces the travel advice to U.S. citizens:  **Do Not Travel to Iran**.
+As of October 15, 2025, routine consular services are no longer available for U.S. citizens in Iran. This includes acceptance of applications for full-validity passports and Consular Reports of Birth Abroad (CRBA), and for fee-based notarial services. This change reinforces the travel advice to U.S. citizens: **Do Not Travel to Iran**.
 
 The Swiss Protecting Power will continue to provide emergency services to U.S. citizens, including acceptance of emergency passport applications, Consular Report of Death Abroad applications, emergency financial assistance, assistance to detained U.S. nationals, and welfare and whereabouts checks for U.S. citizens when security conditions permit.
 
@@ -35,9 +29,9 @@ For routine consular services, U.S. citizens should visit the nearest U.S. embas
   * Iranian authorities continue to unjustly detain U.S. nationals without warning or any evidence they committed a crime. This includes dual U.S.-Iranian nationals, students, journalists, business travelers, academics, and people with U.S. military or government experience. Charges include espionage and posing a threat to national security.
   * U.S. nationals are at significant risk of questioning, arrest, and detention in Iran.
   * Having a U.S. passport or connections to the United States can be reason enough for Iranian authorities to detain someone.
-  * Iranian law allows authorities to punish individuals for "collaboration with a hostile state." This includes having any real or perceived connection with a government or organization that Iranian authorities consider as acting against Iranian interests.
+  * Iranian law allows authorities to punish individuals for “collaboration with a hostile state.” This includes having any real or perceived connection with a government or organization that Iranian authorities consider as acting against Iranian interests.
   * Prior travel to Israel by an Iranian citizen can result in a prison sentence of two to five years. 
-  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Review our information on [U.S. Citizens Missing Abroad](/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](/en/international-travel/travel-advisories/high-risk-areas.html).
 
 
 
@@ -66,10 +60,9 @@ For routine consular services, U.S. citizens should visit the nearest U.S. embas
 
   * Demonstrations are common and unpredictable. They may take place in response to political or economic issues. They may also occur on significant holidays and during large events.
   * Past demonstrations have turned violent. 
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](/en/international-travel/help-abroad/crisis-response.html).
 
 
-
-Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
 
 **Assisted Reproductive Technology (ART) and surrogacy  
 **Companies providing surrogacy services in Iran are misrepresenting the security situation. They downplay the risks of the unregulated surrogacy tourism industry:
@@ -82,19 +75,4 @@ Have a plan to leave in an emergency that does not depend on U.S. government hel
 
 **Aviation Safety Oversight  
 **The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby Iran. For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
-
-**For U.S. citizens in Iran:**
-
-  * Be ready for the possibility of detention for an unknown length of time, possibly without clear reason, and without the ability to contact anyone for help.****
-  * Draft a will and designate appropriate insurance beneficiaries or power of attorney.****
-  * Share important documents, login information, and points of contact with loved ones. This helps them manage your affairs if you cannot return to the United States.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step#_blank) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
-  * Receive alerts from the U.S. Department of State's Bureau of Consular Affairs via [WhatsApp](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flinks-2.govdelivery.com%2FCL0%2Fhttps%3A%252F%252Fmcas-proxyweb.mcas.ms%252Fcertificate-checker%253Flogin%3Dfalse%2526originalUrl%3Dhttps%25253A%25252F%25252Fgcc02.safelinks.protection.outlook.com.mcas.ms%25252F%25253Furl%25253Dhttps%2525253A%2525252F%2525252Fwhatsapp.com%2525252Fchannel%2525252F0029Var8szHInlqREVL5jC0g%252526data%25253D05%2525257C02%2525257CCooperKM%25252540state.gov%2525257C3dd4072d06c84d8777f408dce96cfadf%2525257C66cf50745afe48d1a691a12b2121f44b%2525257C0%2525257C0%2525257C638641901478048639%2525257CUnknown%2525257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%2525253D%2525257C0%2525257C%2525257C%2525257C%252526sdata%25253DIQnP5mzf8YE43nC8SUyCNHrg%2525252FqikMJnDWz0nASwMSqU%2525253D%252526reserved%25253D0%252526McasTsid%25253D20893%2526McasCSRF%3D43e5bbaf068a56bf47ff85d422bfc53d6b348509e47fc8bd2a25a626fb9e9d93%2F1%2F0101019832be8e4a-175e0dac-bb49-4cb4-9e92-fda7ec321349-000000%2FBorMGxkK8htP73AFfx9zws1J68sXBh2rEMSksV29lg4%3D414&data=05%7C02%7CBernACS%40state.gov%7C9e159a609bf34067749008ddc9342d53%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C638887948119485315%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3%2B%2FHP%2FTGVcYBLLod4ifhReSgXVbS1Sk5wQaYQy2nv7o%3D&reserved=0).
-  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/iran?s_cid=ncezid-dgmq-travel-single-001) for Iran.
-  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
-  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
-
-
-
-** **
 
