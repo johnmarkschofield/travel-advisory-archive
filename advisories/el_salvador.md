@@ -1,7 +1,7 @@
 # El Salvador
 
 **Level 1 Advisory**
-**Date:** Tue, 08 Apr 2025
+**Date:** Mon, 31 Mar 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html)
 
 ---
