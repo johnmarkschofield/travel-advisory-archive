@@ -1,11 +1,11 @@
 [
   {
-    "country": "Uruguay",
-    "level": 2,
-    "full_title": "Uruguay - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html",
-    "filename_base": "uruguay",
-    "date": "Thu, 24 Aug 2028"
+    "country": "Mauritius",
+    "level": 1,
+    "full_title": "Mauritius - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html",
+    "filename_base": "mauritius",
+    "date": "Mon, 05 Jan 2026"
   },
   {
     "country": "Russia",
@@ -85,14 +85,6 @@
     "full_title": "Uganda - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uga.html",
     "filename_base": "uganda",
-    "date": "Mon, 08 Dec 2025"
-  },
-  {
-    "country": "Mauritius",
-    "level": 2,
-    "full_title": "Mauritius - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
-    "filename_base": "mauritius",
     "date": "Mon, 08 Dec 2025"
   },
   {
@@ -638,6 +630,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-kingdom-travel-advisory.html",
     "filename_base": "united_kingdom",
     "date": "Thu, 08 May 2025"
+  },
+  {
+    "country": "Uruguay",
+    "level": 2,
+    "full_title": "Uruguay - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html",
+    "filename_base": "uruguay",
+    "date": "Wed, 07 May 2025"
   },
   {
     "country": "Cuba",
@@ -1408,6 +1408,14 @@
     "date": "Thu, 22 Aug 2024"
   },
   {
+    "country": "Dominica",
+    "level": 1,
+    "full_title": "Dominica - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/dominica-travel-advisory.html",
+    "filename_base": "dominica",
+    "date": "Thu, 22 Aug 2024"
+  },
+  {
     "country": "French West Indies",
     "level": 1,
     "full_title": "French West Indies - Level 1: Exercise Normal Precautions",
@@ -1510,14 +1518,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saba-travel-advisory.html",
     "filename_base": "saba",
     "date": "Mon, 19 Aug 2024"
-  },
-  {
-    "country": "Dominica",
-    "level": 1,
-    "full_title": "Dominica - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/dominica-travel-advisory.html",
-    "filename_base": "dominica",
-    "date": "Fri, 09 Aug 2024"
   },
   {
     "country": "Finland",

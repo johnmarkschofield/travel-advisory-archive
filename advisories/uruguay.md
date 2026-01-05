@@ -1,7 +1,7 @@
 # Uruguay
 
 **Level 2 Advisory**
-**Date:** Thu, 24 Aug 2028
+**Date:** Wed, 07 May 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uruguay-travel-advisory.html)
 
 ---

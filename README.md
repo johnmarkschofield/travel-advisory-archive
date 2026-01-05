@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-04 08:03 UTC
+**Last Updated:** 2026-01-05 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 84 countries*
+*Total: 85 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -34,7 +34,7 @@ Click on a country to view the full archived text of the advisory.
 | **Curaçao** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/curaao.md) |
 | **Cyprus** | Mon, 13 Jan 2025 | [📄 View Advisory](advisories/cyprus.md) |
 | **Czechia** | Mon, 28 Apr 2025 | [📄 View Advisory](advisories/czechia.md) |
-| **Dominica** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/dominica.md) |
+| **Dominica** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/dominica.md) |
 | **El Salvador** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/el_salvador.md) |
 | **Estonia** | Tue, 23 Jul 2024 | [📄 View Advisory](advisories/estonia.md) |
 | **Federated States of Micronesia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
@@ -61,6 +61,7 @@ Click on a country to view the full archived text of the advisory.
 | **Malaysia** | Wed, 24 Jul 2024 | [📄 View Advisory](advisories/malaysia.md) |
 | **Malta** | Wed, 28 May 2025 | [📄 View Advisory](advisories/malta.md) |
 | **Marshall Islands** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/marshall_islands.md) |
+| **Mauritius** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/mauritius.md) |
 | **Mongolia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/mongolia.md) |
 | **Montenegro** | Tue, 26 Nov 2024 | [📄 View Advisory](advisories/montenegro.md) |
 | **Montserrat** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/montserrat.md) |
@@ -99,7 +100,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 84 countries*
+*Total: 83 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -152,7 +153,6 @@ Click on a country to view the full archived text of the advisory.
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Malawi** | Fri, 06 Dec 2024 | [📄 View Advisory](advisories/malawi.md) |
 | **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
-| **Mauritius** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/mauritius.md) |
 | **Mexico Travel Advisory** | Tue, 12 Aug 2025 | [📄 View Advisory](advisories/mexico_travel_advisory.md) |
 | **Moldova** | Fri, 29 Nov 2024 | [📄 View Advisory](advisories/moldova.md) |
 | **Morocco** | Mon, 21 Apr 2025 | [📄 View Advisory](advisories/morocco.md) |
@@ -185,7 +185,7 @@ Click on a country to view the full archived text of the advisory.
 | **Turks and Caicos Islands** | Tue, 04 Mar 2025 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
 | **United Arab Emirates** | Fri, 08 Aug 2025 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **United Kingdom** | Thu, 08 May 2025 | [📄 View Advisory](advisories/united_kingdom.md) |
-| **Uruguay** | Thu, 24 Aug 2028 | [📄 View Advisory](advisories/uruguay.md) |
+| **Uruguay** | Wed, 07 May 2025 | [📄 View Advisory](advisories/uruguay.md) |
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel

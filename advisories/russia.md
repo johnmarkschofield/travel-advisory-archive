@@ -6,7 +6,7 @@
 
 ---
 
-_**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**_
+ _**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**_
 
 **Advisory summary**
 
