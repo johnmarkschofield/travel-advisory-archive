@@ -1,31 +1,34 @@
 # Grenada
 
-**Level 1 Advisory**
-**Date:** Tue, 12 Nov 2024
+**Level 2 Advisory**
+**Date:** Mon, 05 Jan 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/grenada-travel-advisory.html)
 
 ---
 
-**_Updated to reflect Hurricane Beryl's July 2024 impact on Carriacou and Petite Martinque._**
+**_The advisory level was increased to 2. The "crime" risk indicator was added. Areas of increased risk were removed. Advisory summary was updated._**
 
-Exercise normal precautions in Grenada.** ** The islands of Carriacou and Petite Martinque are in varying stages of recovery from Hurricane Beryl. 
+Exercise Increased Caution in Grenada due to risk of **crime**.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Grenada.html) for additional information on travel to Grenada.
+**Advisory summary  
+**Violent crime can occur anywhere in Grenada. American citizens in Grenada have been victims of armed robbery, assault, burglary, and rape. In some cases, American citizens have been killed. Police response times are not as fast as one may expect in the United States.
 
-If you decide to travel to Grenada: 
+**If you decide to travel to** **Grenada:**
 
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://facebook.com/travelgov) and [X/Twitter](http://twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Grenada.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-
-
-
-**Carriacou and Petite Martinque  
-**In July 2024, Hurricane Beryl damaged buildings on these islands. Restaurant and other food options were affected. Until repairs are complete, fewer hotels may be available. Internet service was severely impacted by the hurricane and may be unreliable or unavailable.
-
-  * Contact your destination before traveling to these islands.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Do not physically resist any robbery attempt.
+  * Use caution when walking or driving at night.
+  * Keep a low profile.
+  * Stay aware of your surroundings.
+  * Do not answer your door at your hotel or residence unless you know who it is.
+  * University students: Contact campus security in the event of an on-campus emergency. Security staff may respond more quickly than local police.
+  * Boaters: Use caution if unfamiliar people or watercraft approach your boat, whether at anchor or at sea.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/5eb105d8-3c66-4c4a-9f49-1c4923a87467). _  
+_
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information ](https://wwwnc.cdc.gov/travel/destinations/traveler/none/grenada)for Grenada.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
