@@ -1,7 +1,7 @@
 # Venezuela
 
 **Level 4 Advisory**
-**Date:** Tue, 03 Dec 2024
+**Date:** Wed, 03 Dec 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html)
 
 ---

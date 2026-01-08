@@ -1,58 +1,96 @@
 # Benin
 
 **Level 2 Advisory**
-**Date:** Fri, 24 May 2024
+**Date:** Wed, 07 Jan 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/benin-travel-advisory.html)
 
 ---
 
-**Reissued to update information on Crime, Terrorism, and Kidnapping. Risks due to Maritime Crime (Other) is removed.**
+**_There was no change to the advisory level. The "unrest" risk indicator was added. Advisory summary was updated._**
 
-Exercise increased caution in Benin due to**  crime, kidnapping, and  terrorism. **Some areas have increased risk. Read the entire Travel Advisory.
+Exercise Increased Caution in Benin due to**  unrest, crime, terrorism, **and**kidnapping.  **Some areas have increased risk. Read the entire Travel Advisory.
 
-**Do Not Travel to the below areas of Benin due to crime, terrorism, and kidnapping:**
+**Do Not Travel** to**areas of Benin bordering Burkina Faso; Niger; and the Nigerian states of Kebbi, Niger, and Kwara** due to **crime** , **terrorism** , and **kidnapping**.
 
-  * The city of Kandi and all areas north and east extending to Benin's borders with Burkina Faso, Niger, and Nigeria.
-  * The city of Tanguieta and all areas north and west extending to Benin's borders with Burkina Faso and Togo.
-  * The Pendjari and W National Parks
-  * The Pendjari, Atacora, and Djona Hunting Zones
-  * Route Nationale Inter-Etats 7 (RNIE 7) between Banikora and Segbana
-  * Route Nationale 10 (RN 10) between Nikki and Segbana
+**Advisory summary  
+**Do not travel to the border region in northern or northeastern Benin for any reason.
+
+**U.S. government employee travel restrictions  
+**U.S. government employees working in Benin are not allowed to travel to the following areas without Ambassador approval due to safety risks:
+
+  * Alibori Department
+  * Atacora Department
+  * Borgou Department in areas north, east, and west of Parakou
+  * Donga Department in the area north of Djougou
+  * Official travel in Borgou Department north, east, and west of Parakou as well as official travel in Donga Department north of Djougou is authorized for day trips only.
+  * Safety risks prevent emergency consular services to U.S. citizens in the areas of Benin bordering Burkina Faso; Niger; and the Nigerian states of Kebbi, Niger, and Kwara.
+  * There are no safety risks in Benin that would stop the U.S. government's ability to offer routine or emergency services, except in the identified areas of concern.
 
 
 
-**Country Summary:**  
-Bandits, criminal organizations, and terrorist groups are active in Benin, particularly in areas of Benin bordering Burkina Faso and Niger. Attacks in these areas can occur with little or no warning, and could target shops, markets, hotels, places of worship, restaurants, bars, schools, government installations, transportation hubs, and other places where crowds gather.  Violent attacks are far more likely in the northern areas of Benin than in the southern and coastal areas.
+**Crime  
+**Most coastal and southern areas of Benin are safe. However, violent crime can occur in remote locations. These crimes often happen at night and include kidnapping, assault, and armed robbery.
 
-Crimes such as robbery and assault occur in Benin. These crimes often happen at night and in isolated locations. Crime occurs more frequently in urban areas and crowded markets.  
+Stay aware of your surroundings in:
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Benin.html) for additional information on travel to Benin.
+  * Urban areas and crowded markets.
+  * Areas near roadblocks, which may be manned by armed groups. Armed groups are present throughout the country.
 
-If you decide to travel to Benin:
 
-  * Monitor local media for breaking events and adjust your plans.
-  * Use caution when walking or driving at night.
-  * Be aware of your surroundings.
-  * Keep a low profile.
-  * Do not display signs of wealth, such as expensive watches or jewelry.
+
+**Terrorism  
+**There is risk of terrorist violence, including terrorist attacks and other activity in Benin. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+
+Terrorist and armed groups have attacked areas near the borders with Burkina Faso and Niger. There have also been kidnappings for ransom in areas of the Alibori and Borgou Departments near the Nigerian border.
+
+Terrorists may target:
+
+  * Places frequented by foreigners anywhere in the country
+  * Popular hotels, clubs, and restaurants
+  * Schools
+  * Places of worship
+  * International diplomatic missions
+  * Local security forces
+
+
+
+**Unrest  
+**There have been instances of military activity and civil unrest that resulted in violence in Benin. This type of violence may lead to road and land border closures as well as impacted operations at the Cotonou International Airport. Although U.S. citizens have not been targeted, sporadic military activity or civil unrest may happen suddenly and poses a risk.
+
+**Kidnapping  
+**Kidnapping for ransom occurs in Benin. Criminal groups and terrorist organizations target both locals and foreign visitors.
+
+**Level 4 - Do Not Travel -  Benin's northern and northeastern border regions**
+
+**Do Not Travel to areas of Benin bordering Burkina Faso; Niger; and the Nigerian states of Kebbi, Niger, and Kwara** due to **crime** , **terrorism** , and **kidnapping**.
+
+Terrorists and criminal organizations carry out attacks in northern Benin. Foreign nationals and residents are at risk of kidnapping in this region. The areas of greatest risk are:
+
+  * Pendjari and W National Parks
+  * Alibori Department
+  * Atacora Department
+  * The Forest of the Three Rivers
+  * The Oueme Superior Forest
+  * All areas east of Route Nationale 10 up to the Benin-Nigeria border, including the cities of Kalele, Nikki, and Segbana
+
+
+
+**If you decide to travel to Benin:**
+
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) _,_[Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html), [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html), [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html), and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Give your itinerary to a family member or friend.
+  * Develop a communication plan with family, your employer, or host organization. This helps them monitor your safety and location as you travel through high-risk areas. Specify how you'll confirm you're safe (text, calls, etc.), how often, and who you'll contact first to share the information.
+  * Carry a copy of your passport and visa (if applicable). Leave originals in your hotel safe.
+  * Do not display signs of wealth, like expensive watches or jewelry.
   * Do not physically resist any robbery attempt.
-  * Develop a communication plan with family and/or your employer or host organization.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](http://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/), [Threads](https://www.threads.net/@statedept) and [X](https://twitter.com/TravelGov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Benin.
-  * Obtain comprehensive travel medical insurance that includes medical evacuation prior to travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Keep travel documents up to date and easily accessible.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy. Enrolling helps the U.S. embassy contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Benin/Detail) for Benin.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/benin) for Benin. 
+  * Whether you are a first time or frequent traveler, use the [International Travel Checklist.](https://travel.state.gov/en/international-travel/planning/checklist.html)
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
-
-**Level 4: Do Not Travel - Areas of Benin bordering Burkina Faso, Niger, and the Nigerian states of Kebbi, Niger, and Kwara**
-
-Violent attacks may occur in these areas with little or no warning. Bandits, criminal organizations, and terrorist groups have carried out attacks in areas of southern Burkina Faso, southern Niger, and northern Benin (including near Park Pendjari, Park W, and adjacent hunting zones). Foreign nationals and residents traveling in these areas have been kidnapped in Park Pendjari.
-
-Bandits, criminal organizations, and terrorist groups are active in the vicinity of Kandi and Tanguieta and in the northeastern border region between Benin and Nigeria, specifically in the border region north of Nikki. Foreign nationals and residents are at risk of kidnapping in this region.
-
-The U.S. government has limited ability to provide routine or emergency consular services to U.S. citizens in Benin's northern border areas. U.S. government employees under Chief of Mission security responsibility are prohibited from personal travel and must obtain special authorization for official travel to the areas described above.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 

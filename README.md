@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-07 08:03 UTC
+**Last Updated:** 2026-01-08 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -15,7 +15,7 @@ Click on a country to view the full archived text of the advisory.
 | :--- | :--- | :--- |
 | **Andorra** | Tue, 25 Mar 2025 | [📄 View Advisory](advisories/andorra.md) |
 | **Anguilla** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/anguilla.md) |
-| **Antigua and Barbuda** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/antigua_and_barbuda.md) |
+| **Antigua and Barbuda** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/antigua_and_barbuda.md) |
 | **Argentina** | Fri, 20 Sep 2024 | [📄 View Advisory](advisories/argentina.md) |
 | **Aruba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/aruba.md) |
 | **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
@@ -93,7 +93,7 @@ Click on a country to view the full archived text of the advisory.
 | **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
 | **Uzbekistan** | Fri, 27 Sep 2024 | [📄 View Advisory](advisories/uzbekistan.md) |
-| **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
+| **Vanuatu** | Mon, 22 May 2000 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Mon, 16 Dec 2024 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
@@ -111,7 +111,7 @@ Click on a country to view the full archived text of the advisory.
 | **Bahrain** | Mon, 09 Sep 2024 | [📄 View Advisory](advisories/bahrain.md) |
 | **Belgium** | Thu, 22 May 2025 | [📄 View Advisory](advisories/belgium.md) |
 | **Belize** | Mon, 30 Dec 2024 | [📄 View Advisory](advisories/belize.md) |
-| **Benin** | Fri, 24 May 2024 | [📄 View Advisory](advisories/benin.md) |
+| **Benin** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/benin.md) |
 | **Bolivia** | Thu, 06 Jun 2024 | [📄 View Advisory](advisories/bolivia.md) |
 | **Bosnia and Herzegovina** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/bosnia_and_herzegovina.md) |
 | **Botswana** | Mon, 26 Feb 2024 | [📄 View Advisory](advisories/botswana.md) |
@@ -240,7 +240,7 @@ Click on a country to view the full archived text of the advisory.
 | **Sudan** | Wed, 15 Oct 2025 | [📄 View Advisory](advisories/sudan.md) |
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Ukraine** | Thu, 14 Nov 2024 | [📄 View Advisory](advisories/ukraine.md) |
-| **Venezuela** | Tue, 03 Dec 2024 | [📄 View Advisory](advisories/venezuela.md) |
+| **Venezuela** | Wed, 03 Dec 2025 | [📄 View Advisory](advisories/venezuela.md) |
 | **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
