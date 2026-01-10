@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-09 08:03 UTC
+**Last Updated:** 2026-01-10 08:02 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -231,7 +231,7 @@ Click on a country to view the full archived text of the advisory.
 | **Iraq** | Thu, 17 Jul 2025 | [📄 View Advisory](advisories/iraq.md) |
 | **Lebanon** | Thu, 03 Jul 2025 | [📄 View Advisory](advisories/lebanon.md) |
 | **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
-| **Mali** | Thu, 30 Oct 2025 | [📄 View Advisory](advisories/mali.md) |
+| **Mali** | Fri, 09 Jan 2026 | [📄 View Advisory](advisories/mali.md) |
 | **Niger** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/niger.md) |
 | **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **Russia** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/russia.md) |
