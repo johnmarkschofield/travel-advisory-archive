@@ -1,7 +1,7 @@
 # Cote d Ivoire
 
 **Level 2 Advisory**
-**Date:** Mon, 08 Apr 2024
+**Date:** Sat, 20 Apr 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cote-d-ivoire-travel-advisory.html)
 
 ---

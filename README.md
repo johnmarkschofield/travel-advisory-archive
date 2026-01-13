@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-12 08:03 UTC
+**Last Updated:** 2026-01-13 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -119,9 +119,9 @@ Click on a country to view the full archived text of the advisory.
 | **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Thu, 16 Jan 2025 | [📄 View Advisory](advisories/chile.md) |
-| **Comoros** | Tue, 28 May 2024 | [📄 View Advisory](advisories/comoros.md) |
+| **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/costa_rica.md) |
-| **Cote d Ivoire** | Mon, 08 Apr 2024 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
+| **Cote d Ivoire** | Sat, 20 Apr 2024 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
 | **Cuba** | Wed, 07 May 2025 | [📄 View Advisory](advisories/cuba.md) |
 | **Djibouti** | Thu, 06 Mar 2025 | [📄 View Advisory](advisories/djibouti.md) |
 | **Dominican Republic** | Thu, 12 Jun 2025 | [📄 View Advisory](advisories/dominican_republic.md) |
@@ -171,7 +171,7 @@ Click on a country to view the full archived text of the advisory.
 | **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Mon, 12 May 2025 | [📄 View Advisory](advisories/spain.md) |
-| **Sri Lanka** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
+| **Sri Lanka** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
 | **Sweden** | Wed, 24 Jul 2024 | [📄 View Advisory](advisories/sweden.md) |
 | **São Tomé and Príncipe** | Wed, 08 Oct 2025 | [📄 View Advisory](advisories/so_tom_and_prncipe.md) |
 | **Tajikistan** | Fri, 16 May 2025 | [📄 View Advisory](advisories/tajikistan.md) |
@@ -183,7 +183,7 @@ Click on a country to view the full archived text of the advisory.
 | **Tunisia** | Wed, 23 Oct 2024 | [📄 View Advisory](advisories/tunisia.md) |
 | **Turkey** | Wed, 16 Oct 2024 | [📄 View Advisory](advisories/turkey.md) |
 | **Turks and Caicos Islands** | Tue, 04 Mar 2025 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
-| **United Arab Emirates** | Fri, 08 Aug 2025 | [📄 View Advisory](advisories/united_arab_emirates.md) |
+| **United Arab Emirates** | Sat, 02 Aug 2025 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **United Kingdom** | Thu, 08 May 2025 | [📄 View Advisory](advisories/united_kingdom.md) |
 | **Uruguay** | Wed, 07 May 2025 | [📄 View Advisory](advisories/uruguay.md) |
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |

@@ -1,7 +1,7 @@
 # United Arab Emirates
 
 **Level 2 Advisory**
-**Date:** Fri, 08 Aug 2025
+**Date:** Sat, 02 Aug 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html)
 
 ---
