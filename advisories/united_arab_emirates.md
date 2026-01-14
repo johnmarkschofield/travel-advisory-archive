@@ -1,12 +1,12 @@
 # United Arab Emirates
 
 **Level 2 Advisory**
-**Date:** Sat, 02 Aug 2025
+**Date:** Fri, 08 Aug 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html)
 
 ---
 
-** _Reissued to reflect current security conditions._**
+**_Reissued to reflect current security conditions._**
 
 Exercise increased caution in the United Arab Emirates due to** ** the threat of terrorism and missile or drone attacks.
 

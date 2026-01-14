@@ -1,12 +1,12 @@
 # Ghana
 
 **Level 2 Advisory**
-**Date:** Tue, 08 Apr 2025
+**Date:** Mon, 12 Jan 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html)
 
 ---
 
-**_Updated to reflect threats against women travelers and increased risks in specific regions._**
+** _Updated to reflect threats against women travelers and increased risks in specific regions._**
 
 Exercise increased caution in Ghana due to **crime**  and **violence against women travelers and lesbian, gay, and bisexual travelers**.  Some areas of Ghana have increased risk. Read the entire Travel Advisory.
 

@@ -2,13 +2,23 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 23 Sep 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ata.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/antarctica-travel-advisory.html)
 
 ---
 
-Exercise increased caution
+Exercise increased caution in Antarctica due to **environmental hazards posed by extreme and unpredictable weather** and**limited emergency services**.
 
-in **Antarctica** due to **environmental hazards** **posed by extreme and unpredictable weather** and **limited emergency services**.
+**Advisory summary:  
+**There are no U.S. government consular services available to U.S. citizens in the Antarctic Region. The closest U.S embassies and consulates are in [Argentina](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Argentina.html), [Australia](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html), [Chile](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Chile.html), [New Zealand](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/NewZealand.html), and [South Africa](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html). U.S. government resources in the Antarctic Region are committed to the [U.S. Antarctic Program](https://www.usap.gov/), per longstanding U.S. policy.
 
-There are no U.S. government consular services available to U.S. citizens in the Antarctic Region. The closest U.S embassies and consulates are in [Argentina](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Argentina.html), [Australia](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Australia.html), [Chile](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Chile.html), [New Zealand](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/NewZealand.html), and [South Africa](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SouthAfrica.html). U.S. government resources in the Antarctic Region are committed to the [U.S. Antarctic Program](https://www.usap.gov/), per longstanding U.S. policy. 
+**If you travel to Antarctica:**
+
+  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Travel with a professional guide or organization such as those that are a member of the International Association of Antarctica Tour Operators. If organizing a private expedition, be self-sufficient and have emergency medical evacuation insurance.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive security messages and make it easier to locate you in an emergency.
+  * Prepare a contingency plan for emergency situations.  Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+  * Contact the Department of State's Office of Ocean and Polar Affairs for travel information at [Antarctica@state.gov](mailto:Antarctica@state.gov).
+
+
 
