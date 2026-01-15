@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-14 08:03 UTC
+**Last Updated:** 2026-01-15 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 84 countries*
+*Total: 83 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -21,7 +21,6 @@ Click on a country to view the full archived text of the advisory.
 | **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
 | **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
 | **Barbados** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/barbados.md) |
-| **Belarus** | Wed, 14 Jan 2026 | [📄 View Advisory](advisories/belarus.md) |
 | **Bermuda** | Tue, 12 Nov 2024 | [📄 View Advisory](advisories/bermuda.md) |
 | **Bhutan** | Mon, 20 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
 | **Bonaire** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/bonaire.md) |
@@ -94,7 +93,7 @@ Click on a country to view the full archived text of the advisory.
 | **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
 | **Uzbekistan** | Fri, 27 Sep 2024 | [📄 View Advisory](advisories/uzbekistan.md) |
-| **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
+| **Vanuatu** | Thu, 15 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Mon, 16 Dec 2024 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
@@ -134,7 +133,7 @@ Click on a country to view the full archived text of the advisory.
 | **France** | Wed, 28 May 2025 | [📄 View Advisory](advisories/france.md) |
 | **Gabon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/gabon.md) |
 | **Germany** | Tue, 13 May 2025 | [📄 View Advisory](advisories/germany.md) |
-| **Ghana** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/ghana.md) |
+| **Ghana** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/ghana.md) |
 | **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
 | **Grenada** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/grenada.md) |
 | **Guinea** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/guinea.md) |
@@ -218,11 +217,12 @@ Click on a country to view the full archived text of the advisory.
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 20 countries*
+*Total: 21 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Afghanistan** | Mon, 13 Jan 2025 | [📄 View Advisory](advisories/afghanistan.md) |
+| **Belarus** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
 | **Burkina Faso** | Wed, 16 Apr 2025 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma (Myanmar)** | Mon, 12 May 2025 | [📄 View Advisory](advisories/burma_myanmar.md) |
 | **Central African Republic** | Mon, 10 Nov 2025 | [📄 View Advisory](advisories/central_african_republic.md) |

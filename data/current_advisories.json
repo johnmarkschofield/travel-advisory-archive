@@ -1,21 +1,5 @@
 [
   {
-    "country": "Belarus",
-    "level": 1,
-    "full_title": "Belarus - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html",
-    "filename_base": "belarus",
-    "date": "Wed, 14 Jan 2026"
-  },
-  {
-    "country": "Ghana",
-    "level": 2,
-    "full_title": "Ghana - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html",
-    "filename_base": "ghana",
-    "date": "Mon, 12 Jan 2026"
-  },
-  {
     "country": "Comoros",
     "level": 2,
     "full_title": "Comoros - Level 2: Exercise Increased Caution",
@@ -46,6 +30,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/grenada-travel-advisory.html",
     "filename_base": "grenada",
     "date": "Mon, 05 Jan 2026"
+  },
+  {
+    "country": "Belarus",
+    "level": 4,
+    "full_title": "Belarus - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html",
+    "filename_base": "belarus",
+    "date": "Mon, 29 Dec 2025"
   },
   {
     "country": "Russia",
@@ -560,14 +552,6 @@
     "date": "Thu, 22 May 2025"
   },
   {
-    "country": "Vanuatu",
-    "level": 1,
-    "full_title": "Vanuatu - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html",
-    "filename_base": "vanuatu",
-    "date": "Thu, 22 May 2025"
-  },
-  {
     "country": "Azerbaijan",
     "level": 2,
     "full_title": "Azerbaijan - Level 2: Exercise Increased Caution",
@@ -605,6 +589,14 @@
     "full_title": "Japan - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/japan-travel-advisory.html",
     "filename_base": "japan",
+    "date": "Thu, 15 May 2025"
+  },
+  {
+    "country": "Vanuatu",
+    "level": 1,
+    "full_title": "Vanuatu - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html",
+    "filename_base": "vanuatu",
     "date": "Thu, 15 May 2025"
   },
   {
@@ -790,6 +782,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/serbia-travel-advisory.html",
     "filename_base": "serbia",
     "date": "Fri, 11 Apr 2025"
+  },
+  {
+    "country": "Ghana",
+    "level": 2,
+    "full_title": "Ghana - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html",
+    "filename_base": "ghana",
+    "date": "Tue, 08 Apr 2025"
   },
   {
     "country": "El Salvador",
