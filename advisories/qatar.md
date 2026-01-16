@@ -6,7 +6,7 @@
 
 ---
 
-**_Updated after periodic review with minor edits._**
+** _Updated after periodic review with minor edits._**
 
 Exercise normal precautions in Qatar.
 
