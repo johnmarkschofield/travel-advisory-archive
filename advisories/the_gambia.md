@@ -1,46 +1,44 @@
 # The Gambia
 
 **Level 2 Advisory**
-**Date:** Wed, 16 Oct 2024
+**Date:** Fri, 16 Jan 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html)
 
 ---
 
-_**Reissued after periodic review with minor edits.**_
+**_There was no change to the advisory level. The "Other" risk indicator was removed, and the "Unrest" risk indicator was added. Advisory summary was updated._**
 
-Exercise increased caution in The Gambia due to **crime** and **inadequate health infrastructure**. Some areas have increased risk. Read the entire travel advisory.
+**Exercise increased caution** in **The Gambia** due to **crime** , **unrest** , and inadequate **health infrastructure**. 
 
-Exercise increased caution due to other factors in
+**Advisory summary**
 
-  * The southern border area adjacent to Senegal's Casamance region due to the potential presence of **landmines** and**sporadic border skirmishes.**
+**Crime  
+**Petty street crime and home burglaries happen often in The Gambia. This is most common in the Banjul area and tourist spots.
+
+Do not display cash and valuable personal property. Avoid walking alone, including on beaches, in tourist areas, and after dark.
+
+**Unrest  
+**A separatist rebel group operates in the Casamance region of southern Senegal. There has been sporadic fighting along The Gambia's southern border in the recent past. Stay on main roads and do not travel at night if travelling near or across the southern border.
+
+**Health  
+**The Gambia's health infrastructure is inadequate. Health services, hygiene, and quality control do not meet U.S. standards of care. Pharmacies are not well regulated. Locally available medications may be unsafe.
+
+**If you decide to travel to The Gambia:**
+
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) and [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Stay aware of your surroundings.
+  * Use caution when walking or driving at night.
+  * Do not physically resist any robbery attempt.
+  * Be extra vigilant when visiting banks or ATMs.
+  * Keep travel documents up to date and easily accessible.
+  * Make sure your insurance includes medical evacuation coverage.
+  * Be sure to bring enough prescription medications to last the entire duration of your trip.
+  * Check with your doctor about required vaccines and shots for high-risk exposure before you go to The Gambia. Review the Health section in the Travel Guidance for The Gambia.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Gambia/Detail) for The Gambia.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/the-gambia) for The Gambia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
-
-**Country Summary:**  Theft and home burglaries occur frequently in The Gambia, especially in the broader Banjul area. 
-
-The Gambia's **health infrastructure** is inadequate.  Health services, hygiene, and quality control do not meet U.S. standards of care.  Pharmacies are not well regulated.  Locally available medications may be unsafe.
-
-The Centers for Disease Control and Prevention (CDC) has issued a Level Two Health Notice for circulating [Poliovirus in The Gambia](https://wwwnc.cdc.gov/travel/notices/level2/global-polio).
-
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/TheGambia.html) for additional information about travel to The Gambia.
-
-If you decide to travel to The Gambia:
-
-  * Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/TheGambia.html) related to your travel.
-  * Before any international travel, make sure you are up to date on your CDC recommended vaccinations for the region.  
-
-  * Stay on main roads. Avoid less-traveled areas near southern Gambia that border the Casamance region in Senegal.
-  * Be aware of your surroundings.
-  * Bring your own over the counter and prescription medications.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [X/Twitter](https://twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for The Gambia.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/TheGambia.html#ExternalPopup) related to your travel.
-
-
-
-**The Gambia 's Southern Border with Senegal - Level 2: Exercise Increased Caution**
-
-Some landmines from the Casamance conflict remain in this area. There have been occasional border skirmishes in this region.  If travelling near or across the border stay on main roads and do not travel at night.
 
