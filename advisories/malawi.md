@@ -1,7 +1,7 @@
 # Malawi
 
 **Level 2 Advisory**
-**Date:** Mon, 31 Mar 2025
+**Date:** Fri, 06 Dec 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malawi-travel-advisory.html)
 
 ---
