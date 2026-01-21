@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-20 08:03 UTC
+**Last Updated:** 2026-01-21 08:03 UTC
 **Total Countries Tracked:** 211
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -194,7 +194,7 @@ Click on a country to view the full archived text of the advisory.
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Bangladesh** | Fri, 18 Apr 2025 | [📄 View Advisory](advisories/bangladesh.md) |
+| **Bangladesh** | Tue, 20 Jan 2026 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
 | **Chad** | Tue, 18 Mar 2025 | [📄 View Advisory](advisories/chad.md) |
 | **Colombia** | Thu, 17 Apr 2025 | [📄 View Advisory](advisories/colombia.md) |

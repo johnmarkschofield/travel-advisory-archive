@@ -1,5 +1,13 @@
 [
   {
+    "country": "Bangladesh",
+    "level": 3,
+    "full_title": "Bangladesh - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
+    "filename_base": "bangladesh",
+    "date": "Tue, 20 Jan 2026"
+  },
+  {
     "country": "Jamaica",
     "level": 2,
     "full_title": "Jamaica - Level 2: Exercise Increased Caution",
@@ -774,14 +782,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-kyrgyz-republic-travel-advisory.html",
     "filename_base": "kyrgyzstan",
     "date": "Mon, 21 Apr 2025"
-  },
-  {
-    "country": "Bangladesh",
-    "level": 3,
-    "full_title": "Bangladesh - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
-    "filename_base": "bangladesh",
-    "date": "Fri, 18 Apr 2025"
   },
   {
     "country": "Colombia",
