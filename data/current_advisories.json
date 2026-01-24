@@ -1,5 +1,61 @@
 [
   {
+    "country": "Hong Kong",
+    "level": 2,
+    "full_title": "Hong Kong - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory.html",
+    "filename_base": "hong_kong",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Macau",
+    "level": 3,
+    "full_title": "Macau - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory.html",
+    "filename_base": "macau",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Greenland",
+    "level": 2,
+    "full_title": "Greenland - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html",
+    "filename_base": "greenland",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "level": 1,
+    "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/federated-states-of-micronesia-travel-advisory.html",
+    "filename_base": "federated_states_of_micronesia",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Czechia",
+    "level": 1,
+    "full_title": "Czechia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/czechia-travel-advisory.html",
+    "filename_base": "czechia",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Mainland China, Hong Kong & Macau",
+    "level": 2,
+    "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "filename_base": "mainland_china_hong_kong__macau",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
+    "country": "Mainland China, Hong Kong & Macau",
+    "level": 2,
+    "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "filename_base": "mainland_china_hong_kong__macau",
+    "date": "Sat, 24 Jan 2026"
+  },
+  {
     "country": "Uzbekistan",
     "level": 1,
     "full_title": "Uzbekistan - Level 1: Exercise Normal Precautions",
@@ -43,6 +99,14 @@
     "country": "Comoros",
     "level": 2,
     "full_title": "Comoros - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.com.html",
+    "filename_base": "comoros",
+    "date": "Mon, 12 Jan 2026"
+  },
+  {
+    "country": "Comoros",
+    "level": 2,
+    "full_title": "Comoros - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/comoros-travel-advisory.html",
     "filename_base": "comoros",
     "date": "Mon, 12 Jan 2026"
@@ -62,6 +126,14 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cze.html",
     "filename_base": "czechia",
     "date": "Thu, 08 Jan 2026"
+  },
+  {
+    "country": "Palau",
+    "level": 1,
+    "full_title": "Palau - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.plw.html",
+    "filename_base": "palau",
+    "date": "Wed, 07 Jan 2026"
   },
   {
     "country": "Benin",
@@ -155,7 +227,7 @@
     "country": "Seychelles",
     "level": 1,
     "full_title": "Seychelles - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/seychelles-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syc.html",
     "filename_base": "seychelles",
     "date": "Tue, 09 Dec 2025"
   },
@@ -584,19 +656,19 @@
     "date": "Fri, 23 May 2025"
   },
   {
+    "country": "Liechtenstein",
+    "level": 1,
+    "full_title": "Liechtenstein - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lie.html",
+    "filename_base": "liechtenstein",
+    "date": "Thu, 22 May 2025"
+  },
+  {
     "country": "Belgium",
     "level": 2,
     "full_title": "Belgium - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html",
     "filename_base": "belgium",
-    "date": "Thu, 22 May 2025"
-  },
-  {
-    "country": "Liechtenstein",
-    "level": 1,
-    "full_title": "Liechtenstein  - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/Liechtenstein-Travel-Advisory.html",
-    "filename_base": "liechtenstein",
     "date": "Thu, 22 May 2025"
   },
   {
@@ -618,8 +690,8 @@
   {
     "country": "Switzerland",
     "level": 1,
-    "full_title": "Switzerland - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/switzerland-travel-advisory.html",
+    "full_title": "Switzerland\u00a0 - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.che.html",
     "filename_base": "switzerland",
     "date": "Tue, 20 May 2025"
   },
@@ -960,14 +1032,6 @@
     "date": "Wed, 22 Jan 2025"
   },
   {
-    "country": "Federated States of Micronesia",
-    "level": 1,
-    "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/federated-states-of-micronesia-travel-advisory.html",
-    "filename_base": "federated_states_of_micronesia",
-    "date": "Wed, 22 Jan 2025"
-  },
-  {
     "country": "Chile",
     "level": 2,
     "full_title": "Chile - Level 2: Exercise Increased Caution",
@@ -1208,22 +1272,6 @@
     "date": "Wed, 27 Nov 2024"
   },
   {
-    "country": "Hong Kong",
-    "level": 2,
-    "full_title": "Hong Kong - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory.html",
-    "filename_base": "hong_kong",
-    "date": "Wed, 27 Nov 2024"
-  },
-  {
-    "country": "Macau",
-    "level": 3,
-    "full_title": "Macau - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory.html",
-    "filename_base": "macau",
-    "date": "Wed, 27 Nov 2024"
-  },
-  {
     "country": "Montenegro",
     "level": 1,
     "full_title": "Montenegro - Level 1: Exercise Normal Precautions",
@@ -1278,14 +1326,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html",
     "filename_base": "oman",
     "date": "Mon, 04 Nov 2024"
-  },
-  {
-    "country": "Greenland",
-    "level": 2,
-    "full_title": "Greenland - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html",
-    "filename_base": "greenland",
-    "date": "Tue, 29 Oct 2024"
   },
   {
     "country": "Tunisia",
@@ -1566,14 +1606,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lithuania-travel-advisory.html",
     "filename_base": "lithuania",
     "date": "Fri, 09 Aug 2024"
-  },
-  {
-    "country": "Palau",
-    "level": 1,
-    "full_title": "Palau - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/palau-travel-advisory.html",
-    "filename_base": "palau",
-    "date": "Tue, 06 Aug 2024"
   },
   {
     "country": "Kazakhstan",

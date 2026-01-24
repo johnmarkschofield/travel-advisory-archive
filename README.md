@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-23 08:03 UTC
-**Total Countries Tracked:** 212
+**Last Updated:** 2026-01-24 08:07 UTC
+**Total Countries Tracked:** 216
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 83 countries*
+*Total: 84 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -33,11 +33,12 @@ Click on a country to view the full archived text of the advisory.
 | **Croatia** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/croatia.md) |
 | **Curaçao** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/curaao.md) |
 | **Cyprus** | Mon, 13 Jan 2025 | [📄 View Advisory](advisories/cyprus.md) |
+| **Czechia** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/czechia.md) |
 | **Czechia** | Thu, 08 Jan 2026 | [📄 View Advisory](advisories/czechia.md) |
 | **Dominica** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/dominica.md) |
 | **El Salvador** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/el_salvador.md) |
 | **Estonia** | Tue, 23 Jul 2024 | [📄 View Advisory](advisories/estonia.md) |
-| **Federated States of Micronesia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
+| **Federated States of Micronesia** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
 | **Fiji** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/fiji.md) |
 | **Finland** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/finland.md) |
 | **French Guiana** | Thu, 16 Jan 2025 | [📄 View Advisory](advisories/french_guiana.md) |
@@ -67,7 +68,7 @@ Click on a country to view the full archived text of the advisory.
 | **New Zealand** | Fri, 03 Jan 2025 | [📄 View Advisory](advisories/new_zealand.md) |
 | **North Macedonia** | Tue, 14 Jan 2025 | [📄 View Advisory](advisories/north_macedonia.md) |
 | **Norway** | Mon, 03 Feb 2025 | [📄 View Advisory](advisories/norway.md) |
-| **Palau** | Tue, 06 Aug 2024 | [📄 View Advisory](advisories/palau.md) |
+| **Palau** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/palau.md) |
 | **Paraguay** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/paraguay.md) |
 | **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
 | **Portugal** | Tue, 23 Dec 2025 | [📄 View Advisory](advisories/portugal.md) |
@@ -98,7 +99,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 86 countries*
+*Total: 89 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -120,6 +121,7 @@ Click on a country to view the full archived text of the advisory.
 | **Cameroon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Thu, 16 Jan 2025 | [📄 View Advisory](advisories/chile.md) |
 | **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
+| **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/costa_rica.md) |
 | **Cote d Ivoire** | Mon, 08 Apr 2024 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
 | **Cuba** | Wed, 07 May 2025 | [📄 View Advisory](advisories/cuba.md) |
@@ -134,10 +136,10 @@ Click on a country to view the full archived text of the advisory.
 | **Gabon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/gabon.md) |
 | **Germany** | Tue, 13 May 2025 | [📄 View Advisory](advisories/germany.md) |
 | **Ghana** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/ghana.md) |
-| **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
+| **Greenland** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/greenland.md) |
 | **Grenada** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/grenada.md) |
 | **Guinea** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/guinea.md) |
-| **Hong Kong** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/hong_kong.md) |
+| **Hong Kong** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/hong_kong.md) |
 | **India** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/india.md) |
 | **Indonesia** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
@@ -150,6 +152,8 @@ Click on a country to view the full archived text of the advisory.
 | **Lesotho** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/lesotho.md) |
 | **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
 | **Madagascar** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
+| **Mainland China, Hong Kong & Macau** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
+| **Mainland China, Hong Kong & Macau** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Malawi** | Fri, 06 Dec 2024 | [📄 View Advisory](advisories/malawi.md) |
 | **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
@@ -204,7 +208,7 @@ Click on a country to view the full archived text of the advisory.
 | **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
 | **Guyana** | Mon, 12 May 2025 | [📄 View Advisory](advisories/guyana.md) |
 | **Honduras** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/honduras.md) |
-| **Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/macau.md) |
+| **Macau** | Sat, 24 Jan 2026 | [📄 View Advisory](advisories/macau.md) |
 | **Mauritania** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/mauritania.md) |
 | **Nepal** | Thu, 11 Sep 2025 | [📄 View Advisory](advisories/nepal.md) |
 | **New Caledonia** | Tue, 04 Jun 2024 | [📄 View Advisory](advisories/new_caledonia.md) |
