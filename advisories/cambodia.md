@@ -6,7 +6,7 @@
 
 ---
 
-_**The advisory level was increased to 2. The "unrest" risk indicator was added. An area of increased risk was added. The advisory summary was updated. **_
+ _**The advisory level was increased to 2. The "unrest" risk indicator was added. An area of increased risk was added. The advisory summary was updated. **_
 
 Exercise increased caution in Cambodia due to **crime** and **landmines**. Some areas have increased risks. Read the entire Travel Advisory.**__**
 

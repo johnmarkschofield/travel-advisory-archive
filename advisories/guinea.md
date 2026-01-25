@@ -1,35 +1,43 @@
 # Guinea
 
-**Level 2 Advisory**
-**Date:** Thu, 12 Dec 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-travel-advisory.html)
+**Level 3 Advisory**
+**Date:** Thu, 11 Dec 2025
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-bissau-travel-advisory.html)
 
 ---
 
-_Updated to reflect change in Travel Advisory from a Level 3 to a Level 2 and removing the "E" (time-limited event) indicator related to the catastrophic 2023 fuel depot explosion and its after-effects._
+_**There were no changes to the advisory level. The "Crime" indicator was removed. The "Other" indicator was added. The advisory summary was updated.**_
 
-Exercise increased caution in Guinea due to **crime** , **civil unrest** , and **inadequate health infrastructure**.
+Reconsider travel to Guinea-Bissau due to **unrest** , inadequate **health** infrastructure, and **landmines**.
 
-**Country Summary:  **There is considerable risk of crimes of opportunity in Guinea, especially in Conakry, such as pickpocketing, purse snatching, theft of valuables from vehicles, assaults, and residential burglaries. Travelers should be especially alert in crowded areas where people congregate, such as markets.
+**Advisory Summary  
+**There is no U.S. embassy or consulate in Guinea-Bissau. The U.S. government has limited ability to provide emergency services to U.S. citizens. Consular services are provided by the U.S. embassy in Dakar, Senegal.
 
-**Demonstrations** and**protests** occur unpredictably in Guinea and occasionally result in violence. If traveling outside the Conakry peninsula, make all efforts to complete your travel before nightfall. There are increased safety hazards and security concerns at night. U.S. government employees under Chief of Mission authority are restricted from traveling between cities after dark and are unable to provide emergency services at night.
+**Unrest  
+**Guinea-Bissau has had periods of political instability for decades, including political unrest in November 2025. Large-scale demonstrations related to the local political situation may occur with little notice. Demonstrations may disrupt transportation and other essential services.
 
-Guinea's **health infrastructure** is inadequate. Health services, hygiene, and quality control do not meet U.S. standards of care. Local drinking water is unsafe, pharmacies are not well regulated, locally available medications may be unsafe, and necessary healthcare may not be available.
+**Health  
+**Guinea-Bissau's health infrastructure is inadequate. Health services, hygiene, and quality control do not meet U.S. standards of care. Pharmacies are not well regulated. Locally available medications are limited and may be unsafe. Even a minor health issue may require medical evacuation at your own expense.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guinea.html) for additional information about travel to Guinea.
+**Landmines  
+**Landmines and unexploded ordnance from prior conflicts exist throughout Guinea-Bissau. Areas of greatest risk are Bafata, Oio, Biombo, Quinara, and Tombali. The locations of landmines and unexploded ordnance are often not known, marked, or easy to recognize.
 
-  * If you decide to travel to Guinea:
-  * Use caution when walking or driving at night.
+**If you decide to travel to Guinea-Bissau:**
+
+  * Review our information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Be aware of your surroundings.
   * Do not physically resist any robbery attempt.
-  * Do not display signs of wealth, such as expensive watches or jewelry.
   * Avoid demonstrations and crowds.
-  * Obtain comprehensive medical insurance that includes medical evacuation.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/notices) related to your travel.
-  * Always carry a copy of your U.S. passport and visa (if applicable). Keep original documents in a secure location.
-  * Enroll in the [Smart Traveler Enrollment Program](https://mytravel.state.gov/s/step) (STEP) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/), [Instagram](https://www.instagram.com/travelgov/?hl=en), and [X](https://x.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Guinea.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Use caution when walking or driving at night.
+  * Refer to our [list of medical providers](https://sn.usembassy.gov/services/#v270v-pills-2).
+  * Make sure your insurance includes medical evacuation coverage.
+  * Do not visit locations where landmines are known to exist. Be alert to signs that mark unexploded landmines. Stay on main roads and do not travel at night.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/GuineaBissau/Detail) for Guinea-Bissau.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/guinea-bissau?s_cid=ncezid-dgmq-travel-single-001) for Guinea-Bissau, including which vaccines are recommended prior to your travel.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

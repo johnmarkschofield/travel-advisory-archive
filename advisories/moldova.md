@@ -6,7 +6,7 @@
 
 ---
 
-** _Reissued after periodic review with minor edits._**
+**_Reissued after periodic review with minor edits._**
 
 Exercise increased caution while traveling to Moldova. This is due to unresolved conflict between the breakaway region of Transnistria and the central government. Read the entire Travel Advisory.
 
