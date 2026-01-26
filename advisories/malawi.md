@@ -1,10 +1,32 @@
 # Malawi
 
 **Level 2 Advisory**
-**Date:** Sun, 25 Jan 2026
+**Date:** Fri, 06 Dec 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malawi-travel-advisory.html)
 
 ---
+
+**_Reissued after periodic review without changes._**
+
+Exercise increased caution in Malawi due to **crime** and **civil unrest.**
+
+**Country Summary:**  Violent crime such as theft, burglary, armed robbery, and assault is common. The capabilities of the Malawi Police Service are growing but its resources and abilities to deter and investigate crimes, assist victims, and apprehend criminals are limited.
+
+Demonstrations may occur and increase in frequency due to political issues and events such as elections. Tear gas is frequently deployed at demonstrations and roads may be blocked.
+
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Malawi.html) for additional information on travel to Malawi.
+
+If you decide to travel to Malawi:
+
+  * Avoid demonstrations and crowds.
+  * Monitor local media for breaking events and be prepared to adjust your plans.
+  * Keep travel documents up to date and easily accessible.
+  * Enroll in the [Smart Traveler Enrollment Program ](https://step.state.gov/step/)([STEP](https://step.state.gov/step/)) to receive security messages and make it easier to locate you in an emergency.
+  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
+  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Malawi.
+  * U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+  * U.S. citizens are reminded to avoid all gatherings, even peaceful ones, that could turn violent with little or no warning.
 
 
 

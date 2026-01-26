@@ -6,7 +6,7 @@
 
 ---
 
-**_There was no change to the advisory level. The "health" risk indicator was added. Advisory summary was updated._**
+** _There was no change to the advisory level. The "health" risk indicator was added. Advisory summary was updated._**
 
 Exercise increase caution in Comoros**** due to **crime, unrest** and **health**.
 
