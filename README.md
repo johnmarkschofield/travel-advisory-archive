@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-26 08:04 UTC
+**Last Updated:** 2026-01-27 08:03 UTC
 **Total Countries Tracked:** 215
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -213,7 +213,7 @@ Click on a country to view the full archived text of the advisory.
 | **New Caledonia** | Tue, 04 Jun 2024 | [📄 View Advisory](advisories/new_caledonia.md) |
 | **Nicaragua** | Fri, 13 Dec 2024 | [📄 View Advisory](advisories/nicaragua.md) |
 | **Nigeria** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/nigeria.md) |
-| **Pakistan** | Fri, 07 Mar 2025 | [📄 View Advisory](advisories/pakistan.md) |
+| **Pakistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/pakistan.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Wed, 07 May 2025 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |

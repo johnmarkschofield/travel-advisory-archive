@@ -6,7 +6,7 @@
 
 ---
 
-** _Updated to remove Crime indicator and to include area-specific Level 3 advisory for the border with Eritrea._**
+**_Updated to remove Crime indicator and to include area-specific Level 3 advisory for the border with Eritrea._**
 
 Exercise increased caution in Djibouti due to **terrorism**. Some areas have increased risk. Read the entire Travel Advisory.****
 
