@@ -56,14 +56,6 @@
     "date": "Mon, 12 Jan 2026"
   },
   {
-    "country": "Comoros",
-    "level": 2,
-    "full_title": "Comoros - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/comoros-travel-advisory.html",
-    "filename_base": "comoros",
-    "date": "Mon, 12 Jan 2026"
-  },
-  {
     "country": "Mali",
     "level": 4,
     "full_title": "Mali - Level 4: Do Not Travel",
@@ -246,14 +238,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ssd.html",
     "filename_base": "south_sudan",
     "date": "Thu, 13 Nov 2025"
-  },
-  {
-    "country": "Central African Republic",
-    "level": 4,
-    "full_title": "Central African Republic - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/central-african-republic-travel-advisory.html",
-    "filename_base": "central_african_republic",
-    "date": "Mon, 10 Nov 2025"
   },
   {
     "country": "Niger",

@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-01-27 08:03 UTC
-**Total Countries Tracked:** 215
+**Last Updated:** 2026-01-28 08:03 UTC
+**Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -98,7 +98,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 89 countries*
+*Total: 88 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -119,7 +119,6 @@ Click on a country to view the full archived text of the advisory.
 | **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Thu, 16 Jan 2025 | [📄 View Advisory](advisories/chile.md) |
-| **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/costa_rica.md) |
 | **Cote d Ivoire** | Mon, 08 Apr 2024 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
@@ -220,7 +219,7 @@ Click on a country to view the full archived text of the advisory.
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 22 countries*
+*Total: 21 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -229,7 +228,6 @@ Click on a country to view the full archived text of the advisory.
 | **Burkina Faso** | Wed, 16 Apr 2025 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma (Myanmar)** | Mon, 12 May 2025 | [📄 View Advisory](advisories/burma_myanmar.md) |
 | **Central African Republic** | Thu, 15 Jan 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
-| **Central African Republic** | Mon, 10 Nov 2025 | [📄 View Advisory](advisories/central_african_republic.md) |
 | **Haiti** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/haiti.md) |
 | **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
 | **Iraq** | Thu, 17 Jul 2025 | [📄 View Advisory](advisories/iraq.md) |
