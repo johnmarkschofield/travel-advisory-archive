@@ -1,7 +1,7 @@
 # Niger
 
 **Level 4 Advisory**
-**Date:** Fri, 31 Oct 2025
+**Date:** Thu, 29 Jan 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ner.html)
 
 ---
@@ -10,7 +10,7 @@ Do not travel
 
 to **Niger** for any reason due to **crime** , **unrest** , **terrorism** , **health** , and **kidnapping**. 
 
-Do not travel to Niger for any reason. On October 30, 2025, the Department of State authorized the departure of all family members of U.S. government employees in Niger due to safety risks.
+On January 30, 2026, the Department of State ordered non-emergency government employees and their family members to leave Niger due to safety risks. 
 
 The U.S. government cannot offer routine or emergency services to U.S. citizens outside of Niamey due to safety risks.
 
