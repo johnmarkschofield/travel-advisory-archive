@@ -24,14 +24,6 @@
     "date": "Mon, 26 Jan 2026"
   },
   {
-    "country": "Pakistan",
-    "level": 3,
-    "full_title": "Pakistan - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/pakistan-travel-advisory.html",
-    "filename_base": "pakistan",
-    "date": "Mon, 26 Jan 2026"
-  },
-  {
     "country": "Bangladesh",
     "level": 3,
     "full_title": "Bangladesh - Level 3: Reconsider Travel",
@@ -52,14 +44,6 @@
     "level": 2,
     "full_title": "The Gambia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gmb.html",
-    "filename_base": "the_gambia",
-    "date": "Fri, 16 Jan 2026"
-  },
-  {
-    "country": "The Gambia",
-    "level": 2,
-    "full_title": "The Gambia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html",
     "filename_base": "the_gambia",
     "date": "Fri, 16 Jan 2026"
   },
@@ -269,6 +253,14 @@
     "full_title": "Tanzania - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tanzania-travel-advisory.html",
     "filename_base": "tanzania",
+    "date": "Fri, 31 Oct 2025"
+  },
+  {
+    "country": "Solomon Islands",
+    "level": 2,
+    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
+    "filename_base": "solomon_islands",
     "date": "Fri, 31 Oct 2025"
   },
   {
@@ -752,6 +744,14 @@
     "date": "Wed, 07 May 2025"
   },
   {
+    "country": "Paraguay",
+    "level": 1,
+    "full_title": "Paraguay - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/paraguay-travel-advisory.html",
+    "filename_base": "paraguay",
+    "date": "Wed, 30 Apr 2025"
+  },
+  {
     "country": "Indonesia",
     "level": 2,
     "full_title": "Indonesia - Level 2: Exercise Increased Caution",
@@ -781,14 +781,6 @@
     "full_title": "Burundi - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burundi-travel-advisory.html",
     "filename_base": "burundi",
-    "date": "Tue, 29 Apr 2025"
-  },
-  {
-    "country": "Solomon Islands",
-    "level": 2,
-    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
-    "filename_base": "solomon_islands",
     "date": "Tue, 29 Apr 2025"
   },
   {
@@ -1235,7 +1227,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1243,7 +1235,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
