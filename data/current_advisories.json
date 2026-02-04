@@ -256,14 +256,6 @@
     "date": "Fri, 31 Oct 2025"
   },
   {
-    "country": "Solomon Islands",
-    "level": 2,
-    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
-    "filename_base": "solomon_islands",
-    "date": "Fri, 31 Oct 2025"
-  },
-  {
     "country": "Greece",
     "level": 1,
     "full_title": "Greece - Level 1: Exercise Normal Precautions",
@@ -784,6 +776,14 @@
     "date": "Tue, 29 Apr 2025"
   },
   {
+    "country": "Solomon Islands",
+    "level": 2,
+    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/solomon-island-travel-advisory.html",
+    "filename_base": "solomon_islands",
+    "date": "Tue, 29 Apr 2025"
+  },
+  {
     "country": "Morocco",
     "level": 2,
     "full_title": "Morocco - Level 2: Exercise Increased Caution",
@@ -1227,7 +1227,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1235,7 +1235,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
