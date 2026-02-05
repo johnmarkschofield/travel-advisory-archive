@@ -1,7 +1,7 @@
 # Estonia
 
 **Level 1 Advisory**
-**Date:** Tue, 23 Jul 2024
+**Date:** Mon, 23 Jul 0031
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/estonia-travel-advisory.html)
 
 ---

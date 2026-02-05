@@ -1227,7 +1227,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1235,7 +1235,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1350,14 +1350,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/panama-travel-advisory.html",
     "filename_base": "panama",
     "date": "Mon, 23 Sep 2024"
-  },
-  {
-    "country": "Argentina",
-    "level": 1,
-    "full_title": "Argentina - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
-    "filename_base": "argentina",
-    "date": "Fri, 20 Sep 2024"
   },
   {
     "country": "Lesotho",
@@ -1616,14 +1608,6 @@
     "date": "Wed, 24 Jul 2024"
   },
   {
-    "country": "Estonia",
-    "level": 1,
-    "full_title": "Estonia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/estonia-travel-advisory.html",
-    "filename_base": "estonia",
-    "date": "Tue, 23 Jul 2024"
-  },
-  {
     "country": "Luxembourg",
     "level": 1,
     "full_title": "Luxembourg - Level 1: Exercise Normal Precautions",
@@ -1702,5 +1686,21 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zimbabwe-travel-advisory.html",
     "filename_base": "zimbabwe",
     "date": "Tue, 27 Jun 2023"
+  },
+  {
+    "country": "Estonia",
+    "level": 1,
+    "full_title": "Estonia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/estonia-travel-advisory.html",
+    "filename_base": "estonia",
+    "date": "Mon, 23 Jul 0031"
+  },
+  {
+    "country": "Argentina",
+    "level": 1,
+    "full_title": "Argentina - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html",
+    "filename_base": "argentina",
+    "date": "Mon, 20 Sep 0017"
   }
 ]

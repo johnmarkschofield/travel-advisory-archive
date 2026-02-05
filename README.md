@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-02-04 08:09 UTC
+**Last Updated:** 2026-02-05 08:10 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -16,7 +16,7 @@ Click on a country to view the full archived text of the advisory.
 | **Andorra** | Tue, 25 Mar 2025 | [📄 View Advisory](advisories/andorra.md) |
 | **Anguilla** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/anguilla.md) |
 | **Antigua and Barbuda** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/antigua_and_barbuda.md) |
-| **Argentina** | Fri, 20 Sep 2024 | [📄 View Advisory](advisories/argentina.md) |
+| **Argentina** | Mon, 20 Sep 0017 | [📄 View Advisory](advisories/argentina.md) |
 | **Aruba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/aruba.md) |
 | **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
 | **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
@@ -36,7 +36,7 @@ Click on a country to view the full archived text of the advisory.
 | **Czechia** | Thu, 08 Jan 2026 | [📄 View Advisory](advisories/czechia.md) |
 | **Dominica** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/dominica.md) |
 | **El Salvador** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/el_salvador.md) |
-| **Estonia** | Tue, 23 Jul 2024 | [📄 View Advisory](advisories/estonia.md) |
+| **Estonia** | Mon, 23 Jul 0031 | [📄 View Advisory](advisories/estonia.md) |
 | **Federated States of Micronesia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
 | **Fiji** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/fiji.md) |
 | **Finland** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/finland.md) |
