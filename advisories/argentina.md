@@ -1,7 +1,7 @@
 # Argentina
 
 **Level 1 Advisory**
-**Date:** Mon, 20 Sep 0017
+**Date:** Fri, 20 Sep 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/argentina-travel-advisory.html)
 
 ---
