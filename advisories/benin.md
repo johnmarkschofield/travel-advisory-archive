@@ -1,7 +1,7 @@
 # Benin
 
 **Level 2 Advisory**
-**Date:** Wed, 07 Jan 2026
+**Date:** Tue, 07 Jan 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/benin-travel-advisory.html)
 
 ---
