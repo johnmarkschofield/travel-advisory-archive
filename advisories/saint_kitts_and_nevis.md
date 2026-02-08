@@ -1,7 +1,7 @@
 # Saint Kitts and Nevis
 
 **Level 1 Advisory**
-**Date:** Thu, 22 Aug 2024
+**Date:** Fri, 15 Feb 2030
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-kitts-and-nevis-travel-advisory.html)
 
 ---

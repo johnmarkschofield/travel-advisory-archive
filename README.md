@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-02-07 08:03 UTC
+**Last Updated:** 2026-02-08 08:05 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -27,7 +27,7 @@ Click on a country to view the full archived text of the advisory.
 | **British Virgin Islands** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/british_virgin_islands.md) |
 | **Brunei** | Wed, 19 Mar 2025 | [📄 View Advisory](advisories/brunei.md) |
 | **Bulgaria** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/bulgaria.md) |
-| **Cabo Verde** | Thu, 18 Dec 2025 | [📄 View Advisory](advisories/cabo_verde.md) |
+| **Cabo Verde** | Mon, 15 Dec 2025 | [📄 View Advisory](advisories/cabo_verde.md) |
 | **Canada** | Wed, 11 Jun 2025 | [📄 View Advisory](advisories/canada.md) |
 | **Cayman Islands** | Wed, 04 Sep 2024 | [📄 View Advisory](advisories/cayman_islands.md) |
 | **Croatia** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/croatia.md) |
@@ -74,7 +74,7 @@ Click on a country to view the full archived text of the advisory.
 | **Qatar** | Tue, 03 Jun 2025 | [📄 View Advisory](advisories/qatar.md) |
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
 | **Saba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/saba.md) |
-| **Saint Kitts and Nevis** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
+| **Saint Kitts and Nevis** | Fri, 15 Feb 2030 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
 | **Saint Lucia** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/saint_lucia.md) |
 | **Saint Vincent and the Grenadines** | Fri, 06 Dec 2024 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
 | **Samoa** | Mon, 10 Mar 2025 | [📄 View Advisory](advisories/samoa.md) |
@@ -92,7 +92,7 @@ Click on a country to view the full archived text of the advisory.
 | **Tonga** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tonga.md) |
 | **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
-| **Uzbekistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
+| **Uzbekistan** | Thu, 22 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
 | **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Mon, 16 Dec 2024 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
@@ -111,7 +111,7 @@ Click on a country to view the full archived text of the advisory.
 | **Bahrain** | Mon, 09 Sep 2024 | [📄 View Advisory](advisories/bahrain.md) |
 | **Belgium** | Thu, 22 May 2025 | [📄 View Advisory](advisories/belgium.md) |
 | **Belize** | Mon, 30 Dec 2024 | [📄 View Advisory](advisories/belize.md) |
-| **Benin** | Tue, 07 Jan 2025 | [📄 View Advisory](advisories/benin.md) |
+| **Benin** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/benin.md) |
 | **Bolivia** | Thu, 06 Jun 2024 | [📄 View Advisory](advisories/bolivia.md) |
 | **Bosnia and Herzegovina** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/bosnia_and_herzegovina.md) |
 | **Botswana** | Mon, 26 Feb 2024 | [📄 View Advisory](advisories/botswana.md) |
@@ -224,10 +224,10 @@ Click on a country to view the full archived text of the advisory.
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Afghanistan** | Mon, 13 Jan 2025 | [📄 View Advisory](advisories/afghanistan.md) |
-| **Belarus** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
+| **Belarus** | Mon, 22 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
 | **Burkina Faso** | Wed, 16 Apr 2025 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma (Myanmar)** | Mon, 12 May 2025 | [📄 View Advisory](advisories/burma_myanmar.md) |
-| **Central African Republic** | Thu, 15 Jan 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
+| **Central African Republic** | Mon, 10 Nov 2025 | [📄 View Advisory](advisories/central_african_republic.md) |
 | **Haiti** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/haiti.md) |
 | **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
 | **Iraq** | Thu, 17 Jul 2025 | [📄 View Advisory](advisories/iraq.md) |
