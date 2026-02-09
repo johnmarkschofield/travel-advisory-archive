@@ -1,7 +1,7 @@
 # Laos
 
 **Level 2 Advisory**
-**Date:** Thu, 21 Nov 2024
+**Date:** Fri, 23 Sep 2022
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/laos-travel-advisory.html)
 
 ---
