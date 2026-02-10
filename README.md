@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-02-09 08:12 UTC
+**Last Updated:** 2026-02-10 08:12 UTC
 **Total Countries Tracked:** 214
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -146,7 +146,7 @@ Click on a country to view the full archived text of the advisory.
 | **Kenya** | Mon, 17 Mar 2025 | [📄 View Advisory](advisories/kenya.md) |
 | **Kingdom of Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
 | **Kosovo** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kosovo.md) |
-| **Laos** | Fri, 23 Sep 2022 | [📄 View Advisory](advisories/laos.md) |
+| **Laos** | Thu, 21 Nov 2024 | [📄 View Advisory](advisories/laos.md) |
 | **Lesotho** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/lesotho.md) |
 | **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
 | **Madagascar** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
