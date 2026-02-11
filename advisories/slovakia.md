@@ -1,24 +1,25 @@
 # Slovakia
 
 **Level 1 Advisory**
-**Date:** Thu, 14 Nov 2024
+**Date:** Tue, 10 Feb 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
-Exercise normal precautions in Slovakia.
+**Advisory summary  
+**Slovakia is generally a safe destination for travelers _.  
+_Review our travel guidance for [Slovakia](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html) to learn how to prepare for a safe trip.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Slovakia.html) for additional information on travel to Slovakia.
+**If you decide to travel to Slovakia**
 
-If you decide to travel to Slovakia:
-
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Country/Slovakia/Detail) for Slovakia.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Avoid demonstrations.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Slovakia/Detail).
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) for Slovakia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

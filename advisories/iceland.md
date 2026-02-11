@@ -6,7 +6,7 @@
 
 ---
 
-**_Reissued after periodic review without changes._**
+** _Reissued after periodic review without changes._**
 
 Exercise normal precautions in Iceland.
 

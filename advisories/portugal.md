@@ -1,17 +1,10 @@
 # Portugal
 
 **Level 1 Advisory**
-**Date:** Tue, 23 Dec 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.prt.html)
+**Date:** Wed, 11 Feb 2026
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/portugal-travel-advisory.html)
 
 ---
-
-Exercise normal precaution
-
-in **Portugal**.
-
-  * Portugal is generally a safe destination for travelers. Travelers should remain vigilant against petty theft, particularly in crowded tourist areas and on public transportation. 
-  * Review our travel guidance for Portugal  to learn how to prepare for a safe trip.
 
 
 
