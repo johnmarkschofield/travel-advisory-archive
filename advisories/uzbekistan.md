@@ -1,10 +1,14 @@
 # Uzbekistan
 
 **Level 1 Advisory**
-**Date:** Wed, 11 Feb 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uzbekistan-travel-advisory.html)
+**Date:** Mon, 26 Jan 2026
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uzb.html)
 
 ---
 
+Exercise normal precaution
 
+in **Uzbekistan**.
+
+**Uzbekistan** is generally a safe destination for U.S. travelers.
 
