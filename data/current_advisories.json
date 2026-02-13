@@ -3,9 +3,9 @@
     "country": "Slovakia",
     "level": 1,
     "full_title": "Slovakia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.svk.html",
     "filename_base": "slovakia",
-    "date": "Tue, 10 Feb 2026"
+    "date": "Thu, 12 Feb 2026"
   },
   {
     "country": "Kyrgyzstan",
@@ -148,14 +148,6 @@
     "level": 4,
     "full_title": "Yemen - Level 4: Do Not Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
-    "filename_base": "yemen",
-    "date": "Fri, 19 Dec 2025"
-  },
-  {
-    "country": "Yemen",
-    "level": 4,
-    "full_title": "Yemen - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
     "filename_base": "yemen",
     "date": "Fri, 19 Dec 2025"
   },

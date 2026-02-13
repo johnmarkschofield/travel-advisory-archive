@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-02-12 08:10 UTC
-**Total Countries Tracked:** 214
+**Last Updated:** 2026-02-13 08:11 UTC
+**Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -83,7 +83,7 @@ Click on a country to view the full archived text of the advisory.
 | **Singapore** | Wed, 05 Mar 2025 | [📄 View Advisory](advisories/singapore.md) |
 | **Sint Eustatius** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_eustatius.md) |
 | **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
-| **Slovakia** | Tue, 10 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
+| **Slovakia** | Thu, 12 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
 | **Slovenia** | Fri, 26 Jul 2024 | [📄 View Advisory](advisories/slovenia.md) |
 | **South Korea** | Wed, 28 May 2025 | [📄 View Advisory](advisories/south_korea.md) |
 | **Suriname** | Fri, 13 Dec 2024 | [📄 View Advisory](advisories/suriname.md) |
@@ -219,7 +219,7 @@ Click on a country to view the full archived text of the advisory.
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 22 countries*
+*Total: 21 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -243,7 +243,6 @@ Click on a country to view the full archived text of the advisory.
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Ukraine** | Thu, 14 Nov 2024 | [📄 View Advisory](advisories/ukraine.md) |
 | **Venezuela** | Wed, 03 Dec 2025 | [📄 View Advisory](advisories/venezuela.md) |
-| **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 | **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
