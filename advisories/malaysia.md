@@ -1,36 +1,41 @@
 # Malaysia
 
 **Level 1 Advisory**
-**Date:** Wed, 24 Jul 2024
+**Date:** Sun, 22 Feb 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malaysia-travel-advisory.html)
 
 ---
 
-_**Reissued after periodic review with minor edits.**_
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated.  The geographic area in Sabah State subject to Level 2 carveout with a K indicator was revised._**
 
-Exercise normal precautions in Malaysia. Some areas have increased risk.   
-  
-Exercise Increased Caution in:
+Exercise normal precautions in Malaysia. Some areas have increased risk. Read the entire Travel Advisory.
 
-  * The eastern area of Sabah State due to **kidnapping**.
+Exercise increased caution on islands and maritime areas off the **coast of Eastern Sabah from Kudat** **in the north to Tawau in the south** due **to risk of kidnapping.**
 
+**Advisory summary  
+**Malaysia is generally a safe destination for travelers.
 
+**Level 2 - Exercise Increased Caution -  Islands and Maritime Areas Off the Coast of Sabah State**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Malaysia.html) for additional information on travel to Malaysia.  
-  
-If you decide to travel to Malaysia:
+Exercise increased caution on islands and maritime areas off the coast of Eastern Sabah from Kudat in the north to Tawau in the south due to risk of **kidnapping**.
 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [Twitter](https://twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Malaysia.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia) related to your travel.  
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+Kidnappings-for-ransom have occurred in this area, targeting island resorts and maritime activities. U.S. government employees working in Malaysia __ need special authorization to travel to this area, and due to its remote location, the U.S. government has limited ability to offer emergency services.  
 
+**If you decide to travel to islands and maritime areas between Kudat and Tawau in eastern Sabah State:**
+
+  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
 
 
-**Eastern Area of Sabah State - Level 2: Exercise Increased Caution**
 
-There is a threat of kidnappings-for-ransom from both terrorist and criminal groups. These groups may attack with little to no warning, targeting coastal resorts, island resorts, and boats ferrying tourists to resort islands.
+**If you decide to travel to Malaysia:**
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens in eastern Sabah as U.S. government employees must obtain special authorization to travel to parts of eastern Sabah.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the Country Security Report for [Malaysia](https://www.osac.gov/Country/Malaysia/Content/Detail/Report/aeeb98d4-996f-4cc6-aad9-1cfa76c98d29).
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) for Malaysia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
+
+
+
+** **
 

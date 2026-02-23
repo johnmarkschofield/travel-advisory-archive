@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-02-22 08:04 UTC
+**Last Updated:** 2026-02-23 08:11 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -57,7 +57,7 @@ Click on a country to view the full archived text of the advisory.
 | **Liechtenstein** | Thu, 22 May 2025 | [📄 View Advisory](advisories/liechtenstein.md) |
 | **Lithuania** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/lithuania.md) |
 | **Luxembourg** | Fri, 19 Jul 2024 | [📄 View Advisory](advisories/luxembourg.md) |
-| **Malaysia** | Wed, 24 Jul 2024 | [📄 View Advisory](advisories/malaysia.md) |
+| **Malaysia** | Sun, 22 Feb 2026 | [📄 View Advisory](advisories/malaysia.md) |
 | **Malta** | Wed, 28 May 2025 | [📄 View Advisory](advisories/malta.md) |
 | **Marshall Islands** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/marshall_islands.md) |
 | **Mongolia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/mongolia.md) |
@@ -172,7 +172,7 @@ Click on a country to view the full archived text of the advisory.
 | **Saudi Arabia** | Mon, 09 Sep 2024 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **Serbia** | Fri, 11 Apr 2025 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
-| **Solomon Islands** | Thu, 07 Apr 2033 | [📄 View Advisory](advisories/solomon_islands.md) |
+| **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Mon, 12 May 2025 | [📄 View Advisory](advisories/spain.md) |
 | **Sri Lanka** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
