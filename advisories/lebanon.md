@@ -1,22 +1,18 @@
 # Lebanon
 
 **Level 4 Advisory**
-**Date:** Thu, 03 Jul 2025
+**Date:** Mon, 23 Feb 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html)
 
 ---
 
-**Updated to reflect the lifting of ordered departure** of family members and non-emergency U.S. government personnel.**__**
+**Updated to reflect ordered departure** of non-emergency U.S. government personnel and family members of government personnel on February 23.
 
 Do Not Travel to Lebanon due to **crime, terrorism, civil unrest, kidnapping, unexploded landmines, and the risk of armed conflict**. Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
 
-U.S. Embassy Beirut personnel are restricted from personal travel without advance permission. Additional travel restrictions may be imposed on U.S. personnel under Chief of Mission security responsibility, with little to no notice due to increased security issues or threats.
-
-Commercial flights are available, but at reduced capacity. Please check flight options at [Beirut-Rafic Hariri International Airport](https://www.beirutairport.gov.lb/index.php?lang=en).
+On February 23 the Department of State ordered the departure of non-emergency U.S. government personnel and family members of government personnel due to the security situation in Beirut. U.S. Embassy Beirut personnel are restricted from personal travel without advance permission. Additional travel restrictions may be imposed on U.S. personnel under Chief of Mission security responsibility, with little to no notice due to increased security issues or threats.
 
 **Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
-
-Since October 8, 2023, cross-border exchanges of fire have occurred between Hizballah and Israel. In some instances, targets have been well north of the border region. A cessation of hostilities between Israel and Lebanon went into effect on November 27, and implementation is ongoing; however, there are continued instances of military activity in some areas of Lebanon. The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict. Family, neighborhood, or sectarian disputes can escalate quickly and can lead to gunfire or other violence with no warning.
 
 Terrorist groups continue plotting possible attacks in Lebanon. Terrorists may conduct attacks with little or no warning targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities.
 
@@ -37,27 +33,27 @@ If you decide to travel to Lebanon:
   * Keep travel documents up to date and easily accessible.
   * Do not touch unknown metal objects and avoid traveling off well-used roads, tracks, and paths due to risk of unexploded ordnance.
   * Avoid demonstrations and crowds.
-  * Stay alert in locations frequented by Westerners.
+  * Stay alert in locations frequented by tourists.
   * Monitor local media for breaking events and adjust your plans based on new information.
   * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook ](https://www.facebook.com/statedept/) and [ X/Twitter](https://x.com/travelgov).
+  * Follow the Department of State on [Facebook ](https://www.facebook.com/statedept/) and [X](https://x.com/TravelGov).
   * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Lebanon.
   * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
   * U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
 
 
 
-**Southern Lebanon - Level 4:  Do Not Travel, Depart If You Are There (See map below)**
+**Southern Lebanon - Level 4: Do Not Travel, Depart If You Are There (See map below)**
 
-The U.S. Embassy strongly urges U.S. citizens to avoid southern Lebanon and to depart if you are there; that is, all parts south of the city of Saida, to include inland areas, as illustrated in the map below. There have continued to be instances of military activity in South Lebanon and near the Syrian border since the cessation of hostilities went into effect.
+The U.S. Embassy strongly urges U.S. citizens to avoid southern Lebanon and to depart if you are there; that is, all parts of Lebanon south of the city of Saida, to include inland areas, as illustrated in the map below. There have continued to be instances of military activity in South Lebanon and near the Syrian border since the November 2024 cessation of hostilities arrangement.
 
 **![](/content/dam/NEWTravelAssets/images/Picture4.png)**
 
-**Border with Syria - Level 4:  Do Not Travel, Depart If You Are There**
+**Border with Syria - Level 4: Do Not Travel, Depart If You Are There**
 
 The U.S. Embassy strongly urges U.S. citizens to avoid the Lebanon-Syria border and to depart if you are there. This area has seen clashes between Lebanese security forces and Syrian-based groups, as well as recent airstrikes. The U.S. Department of State also warns U.S. citizens of the risk of traveling on flights that fly over Syria, which include some flights to and from Beirut.
 
-**Refugee Settlements - Level 4:  Do Not Travel, Depart If You Are There**
+**Refugee Settlements - Level 4: Do Not Travel, Depart If You Are There**
 
 The U.S. Embassy urges U.S. citizens to avoid travel to refugee settlements in Lebanon and depart if you are there. These settlements are prone to outbreaks of violence including shootings and explosions.
 
