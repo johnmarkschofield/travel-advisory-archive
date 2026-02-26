@@ -1,35 +1,23 @@
 # Guinea
 
-**Level 2 Advisory**
-**Date:** Thu, 12 Dec 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-travel-advisory.html)
+**Level 3 Advisory**
+**Date:** Thu, 11 Dec 2025
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gnb.html)
 
 ---
 
-_Updated to reflect change in Travel Advisory from a Level 3 to a Level 2 and removing the "E" (time-limited event) indicator related to the catastrophic 2023 fuel depot explosion and its after-effects._
+Reconsider travel
 
-Exercise increased caution in Guinea due to **crime** , **civil unrest** , and **inadequate health infrastructure**.
+to **Guinea-Bissau** due to **unrest** , inadequate **health** infrastructure, and **landmines**.
 
-**Country Summary:  **There is considerable risk of crimes of opportunity in Guinea, especially in Conakry, such as pickpocketing, purse snatching, theft of valuables from vehicles, assaults, and residential burglaries. Travelers should be especially alert in crowded areas where people congregate, such as markets.
+There is no U.S. embassy or consulate in Guinea-Bissau. The U.S. government has limited ability to provide emergency services to U.S. citizens. Consular services are provided by the U.S. embassy in Dakar, Senegal.
 
-**Demonstrations** and**protests** occur unpredictably in Guinea and occasionally result in violence. If traveling outside the Conakry peninsula, make all efforts to complete your travel before nightfall. There are increased safety hazards and security concerns at night. U.S. government employees under Chief of Mission authority are restricted from traveling between cities after dark and are unable to provide emergency services at night.
+Unrest  
+Guinea-Bissau has had periods of political instability for decades, including political unrest in November 2025. Large-scale demonstrations related to the local political situation may occur with little notice. Demonstrations may disrupt transportation and other essential services.
 
-Guinea's **health infrastructure** is inadequate. Health services, hygiene, and quality control do not meet U.S. standards of care. Local drinking water is unsafe, pharmacies are not well regulated, locally available medications may be unsafe, and necessary healthcare may not be available.
+Health  
+Guinea-Bissau’s health infrastructure is inadequate. Health services, hygiene, and quality control do not meet U.S. standards of care. Pharmacies are not well regulated. Locally available medications are limited and may be unsafe. Even a minor health issue may require medical evacuation at your own expense.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guinea.html) for additional information about travel to Guinea.
-
-  * If you decide to travel to Guinea:
-  * Use caution when walking or driving at night.
-  * Do not physically resist any robbery attempt.
-  * Do not display signs of wealth, such as expensive watches or jewelry.
-  * Avoid demonstrations and crowds.
-  * Obtain comprehensive medical insurance that includes medical evacuation.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/notices) related to your travel.
-  * Always carry a copy of your U.S. passport and visa (if applicable). Keep original documents in a secure location.
-  * Enroll in the [Smart Traveler Enrollment Program](https://mytravel.state.gov/s/step) (STEP) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/), [Instagram](https://www.instagram.com/travelgov/?hl=en), and [X](https://x.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Guinea.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-
-
+Landmines  
+Landmines and unexploded ordnance from prior conflicts exist throughout Guinea-Bissau. Areas of greatest risk are Bafata, Oio, Biombo, Quinara, and Tombali. The locations of landmines and unexploded ordnance are often not known, marked, or easy to recognize.
 

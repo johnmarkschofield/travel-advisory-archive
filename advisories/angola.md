@@ -8,7 +8,7 @@
 
 **_Updated information on health-related issues._**
 
-Exercise increased caution in Angola due to **crime**  and **health**. Some areas have increased risk. Read the entire Travel Advisory.
+Exercise Increased Caution in Angola due to risk of **crime, health, unrest,** and**landmines.** Some areas have increased risk. Read the entire Travel Advisory.
 
 Violent crime, such as armed robbery, assault, carjacking, and homicide, is common. Local police lack the resources to respond effectively to serious criminal incidents.
 
