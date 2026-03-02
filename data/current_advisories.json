@@ -1,5 +1,21 @@
 [
   {
+    "country": "Qatar",
+    "level": 3,
+    "full_title": "Qatar - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
+    "filename_base": "qatar",
+    "date": "Sun, 01 Mar 2026"
+  },
+  {
+    "country": "Kuwait",
+    "level": 3,
+    "full_title": "Kuwait - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+    "filename_base": "kuwait",
+    "date": "Sun, 01 Mar 2026"
+  },
+  {
     "country": "Bahrain",
     "level": 3,
     "full_title": "Bahrain - Level 3: Reconsider Travel",
@@ -592,14 +608,6 @@
     "date": "Thu, 05 Jun 2025"
   },
   {
-    "country": "Qatar",
-    "level": 1,
-    "full_title": "Qatar - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
-    "filename_base": "qatar",
-    "date": "Tue, 03 Jun 2025"
-  },
-  {
     "country": "Australia",
     "level": 1,
     "full_title": "Australia - Level 1: Exercise Normal Precautions",
@@ -893,14 +901,6 @@
     "full_title": "El Salvador - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html",
     "filename_base": "el_salvador",
-    "date": "Tue, 08 Apr 2025"
-  },
-  {
-    "country": "Kuwait",
-    "level": 1,
-    "full_title": "Kuwait - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
-    "filename_base": "kuwait",
     "date": "Tue, 08 Apr 2025"
   },
   {

@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-01 08:03 UTC
+**Last Updated:** 2026-03-02 08:09 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 83 countries*
+*Total: 81 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -51,7 +51,6 @@ Click on a country to view the full archived text of the advisory.
 | **Japan** | Thu, 15 May 2025 | [📄 View Advisory](advisories/japan.md) |
 | **Kazakhstan** | Mon, 05 Aug 2024 | [📄 View Advisory](advisories/kazakhstan.md) |
 | **Kiribati** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kiribati.md) |
-| **Kuwait** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/kuwait.md) |
 | **Latvia** | Mon, 26 Aug 2024 | [📄 View Advisory](advisories/latvia.md) |
 | **Liechtenstein** | Thu, 22 May 2025 | [📄 View Advisory](advisories/liechtenstein.md) |
 | **Lithuania** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/lithuania.md) |
@@ -70,7 +69,6 @@ Click on a country to view the full archived text of the advisory.
 | **Paraguay** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/paraguay.md) |
 | **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
 | **Portugal** | Tue, 23 Dec 2025 | [📄 View Advisory](advisories/portugal.md) |
-| **Qatar** | Tue, 03 Jun 2025 | [📄 View Advisory](advisories/qatar.md) |
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
 | **Saba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/saba.md) |
 | **Saint Kitts and Nevis** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
@@ -191,7 +189,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 22 countries*
+*Total: 24 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -206,6 +204,7 @@ Click on a country to view the full archived text of the advisory.
 | **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
 | **Guyana** | Mon, 12 May 2025 | [📄 View Advisory](advisories/guyana.md) |
 | **Honduras** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/honduras.md) |
+| **Kuwait** | Sun, 01 Mar 2026 | [📄 View Advisory](advisories/kuwait.md) |
 | **Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/macau.md) |
 | **Mauritania** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/mauritania.md) |
 | **Nepal** | Thu, 11 Sep 2025 | [📄 View Advisory](advisories/nepal.md) |
@@ -214,6 +213,7 @@ Click on a country to view the full archived text of the advisory.
 | **Nigeria** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/nigeria.md) |
 | **Pakistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/pakistan.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
+| **Qatar** | Sun, 01 Mar 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Wed, 07 May 2025 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
