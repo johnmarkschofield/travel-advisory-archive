@@ -5,15 +5,31 @@
     "full_title": "Qatar - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/qatar-travel-advisory.html",
     "filename_base": "qatar",
-    "date": "Sun, 01 Mar 2026"
+    "date": "Mon, 02 Mar 2026"
   },
   {
-    "country": "Kuwait",
+    "country": "Jordan",
     "level": 3,
-    "full_title": "Kuwait - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
-    "filename_base": "kuwait",
-    "date": "Sun, 01 Mar 2026"
+    "full_title": "Jordan - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
+    "filename_base": "jordan",
+    "date": "Mon, 02 Mar 2026"
+  },
+  {
+    "country": "Iraq",
+    "level": 4,
+    "full_title": "Iraq - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html",
+    "filename_base": "iraq",
+    "date": "Mon, 02 Mar 2026"
+  },
+  {
+    "country": "United Arab Emirates",
+    "level": 3,
+    "full_title": "United Arab Emirates - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html",
+    "filename_base": "united_arab_emirates",
+    "date": "Mon, 02 Mar 2026"
   },
   {
     "country": "Bahrain",
@@ -21,7 +37,15 @@
     "full_title": "Bahrain - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bahrain-travel-advisory.html",
     "filename_base": "bahrain",
-    "date": "Sat, 28 Feb 2026"
+    "date": "Mon, 02 Mar 2026"
+  },
+  {
+    "country": "Kuwait",
+    "level": 3,
+    "full_title": "Kuwait - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
+    "filename_base": "kuwait",
+    "date": "Mon, 02 Mar 2026"
   },
   {
     "country": "Guinea",
@@ -229,14 +253,6 @@
     "full_title": "Cabo Verde - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cpv.html",
     "filename_base": "cabo_verde",
-    "date": "Thu, 18 Dec 2025"
-  },
-  {
-    "country": "Jordan",
-    "level": 2,
-    "full_title": "Jordan - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jordan-travel-advisory.html",
-    "filename_base": "jordan",
     "date": "Thu, 18 Dec 2025"
   },
   {
@@ -480,14 +496,6 @@
     "date": "Tue, 12 Aug 2025"
   },
   {
-    "country": "United Arab Emirates",
-    "level": 2,
-    "full_title": "United Arab Emirates - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html",
-    "filename_base": "united_arab_emirates",
-    "date": "Fri, 08 Aug 2025"
-  },
-  {
     "country": "Cambodia",
     "level": 2,
     "full_title": "Cambodia - Level 2: Exercise Increased Caution",
@@ -502,14 +510,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/thailand-travel-advisory.html",
     "filename_base": "thailand",
     "date": "Fri, 25 Jul 2025"
-  },
-  {
-    "country": "Iraq",
-    "level": 4,
-    "full_title": "Iraq - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html",
-    "filename_base": "iraq",
-    "date": "Thu, 17 Jul 2025"
   },
   {
     "country": "Rwanda",
@@ -1259,7 +1259,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1267,7 +1267,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },

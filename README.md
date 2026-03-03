@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-02 08:09 UTC
+**Last Updated:** 2026-03-03 08:08 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -96,7 +96,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 87 countries*
+*Total: 85 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -139,7 +139,6 @@ Click on a country to view the full archived text of the advisory.
 | **Indonesia** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
 | **Jamaica** | Sat, 17 Jan 2026 | [📄 View Advisory](advisories/jamaica.md) |
-| **Jordan** | Thu, 18 Dec 2025 | [📄 View Advisory](advisories/jordan.md) |
 | **Kenya** | Mon, 17 Mar 2025 | [📄 View Advisory](advisories/kenya.md) |
 | **Kingdom of Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
 | **Kosovo** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kosovo.md) |
@@ -183,17 +182,16 @@ Click on a country to view the full archived text of the advisory.
 | **Tunisia** | Wed, 23 Oct 2024 | [📄 View Advisory](advisories/tunisia.md) |
 | **Turkey** | Wed, 16 Oct 2024 | [📄 View Advisory](advisories/turkey.md) |
 | **Turks and Caicos Islands** | Tue, 04 Mar 2025 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
-| **United Arab Emirates** | Fri, 08 Aug 2025 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **United Kingdom** | Thu, 08 May 2025 | [📄 View Advisory](advisories/united_kingdom.md) |
 | **Uruguay** | Wed, 07 May 2025 | [📄 View Advisory](advisories/uruguay.md) |
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 24 countries*
+*Total: 26 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Bahrain** | Sat, 28 Feb 2026 | [📄 View Advisory](advisories/bahrain.md) |
+| **Bahrain** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/bahrain.md) |
 | **Bangladesh** | Tue, 20 Jan 2026 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
 | **Chad** | Tue, 18 Mar 2025 | [📄 View Advisory](advisories/chad.md) |
@@ -204,7 +202,8 @@ Click on a country to view the full archived text of the advisory.
 | **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
 | **Guyana** | Mon, 12 May 2025 | [📄 View Advisory](advisories/guyana.md) |
 | **Honduras** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/honduras.md) |
-| **Kuwait** | Sun, 01 Mar 2026 | [📄 View Advisory](advisories/kuwait.md) |
+| **Jordan** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/jordan.md) |
+| **Kuwait** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/kuwait.md) |
 | **Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/macau.md) |
 | **Mauritania** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/mauritania.md) |
 | **Nepal** | Thu, 11 Sep 2025 | [📄 View Advisory](advisories/nepal.md) |
@@ -213,10 +212,11 @@ Click on a country to view the full archived text of the advisory.
 | **Nigeria** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/nigeria.md) |
 | **Pakistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/pakistan.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
-| **Qatar** | Sun, 01 Mar 2026 | [📄 View Advisory](advisories/qatar.md) |
+| **Qatar** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Wed, 07 May 2025 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
+| **United Arab Emirates** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 
 ## 🔴 Level 4: Do Not Travel
 *Total: 21 countries*
@@ -230,7 +230,7 @@ Click on a country to view the full archived text of the advisory.
 | **Central African Republic** | Thu, 15 Jan 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
 | **Haiti** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/haiti.md) |
 | **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
-| **Iraq** | Thu, 17 Jul 2025 | [📄 View Advisory](advisories/iraq.md) |
+| **Iraq** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/iraq.md) |
 | **Lebanon** | Mon, 23 Feb 2026 | [📄 View Advisory](advisories/lebanon.md) |
 | **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
 | **Mali** | Fri, 09 Jan 2026 | [📄 View Advisory](advisories/mali.md) |
