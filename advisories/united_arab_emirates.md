@@ -1,7 +1,7 @@
 # United Arab Emirates
 
 **Level 3 Advisory**
-**Date:** Mon, 02 Mar 2026
+**Date:** Tue, 03 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-arab-emirates-travel-advisory.html)
 
 ---
@@ -13,6 +13,8 @@
 **Advisory Summary**
 
 On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government family members to leave the United Arab Emirates due to the threat of armed conflict.
+
+U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy know they are requesting assistance.  Do not submit this form more than once.  The form is available at the following link:  <https://mytravel.state.gov/s/crisis-intake>
 
 **Armed Conflict**
 

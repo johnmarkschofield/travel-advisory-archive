@@ -1,42 +1,107 @@
 # Cyprus
 
-**Level 1 Advisory**
-**Date:** Mon, 13 Jan 2025
+**Level 3 Advisory**
+**Date:** Tue, 03 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits_**
+The advisory level was increased to 3. There were no changes to the risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations.
 
-Exercise normal precautions in Cyprus. Some areas have increased risk. Read the entire Travel Advisory.
+Reconsider travel to Cyprus due to the threat of** armed conflic**t and **limited U.S. embassy  assistance for Americans in the Turkish Cypriot Administered area**.
 
-**Country Summary:**  Do not attempt to enter the United Nations buffer zone at any place other than a designated crossing point. Police and UN peacekeeping forces strictly enforce this restriction.
+**Advisory Summary **
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Cyprus.html) for additional information on travel to Cyprus.
+On March 3, 2026, the Department of State authorized non-emergency U.S. government employees and U.S. government employee family members to leave Cyprus due to the safety risks.
 
-If you decide to travel to Cyprus:
+**Armed Conflict **
 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive security messages and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter](https://x.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Country/Cyprus/Detail) for Cyprus.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list)  related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+Following the onset of hostilities between the United States and Iran on February 28, there have been significant disruptions to commercial flights.
 
+A drone struck a building on the British Sovereign Base Area on Cyprus on March 2.
 
+Turkish Cypriot-Administered Area 
 
-**Turkish Cypriot-Administered Area - Exercise increased caution**
-
-  * **The U.S. Embassy in Nicosia has limited ability to assist U.S. citizens in this area.**
-  * **Human rights reports show that central prison and police detention facilities in this area do not meet international standards.**
+  * The U.S. Embassy in Nicosia has limited ability to help U.S. citizens in this area.
 
 
 
-Since 1974, the southern part of Cyprus has been under the control of the internationally recognized Government of the Republic of Cyprus. The northern part of Cyprus, administered by Turkish Cypriots, proclaimed itself the "Turkish Republic of Northern Cyprus" ("TRNC") in 1983. The United States does not recognize the "TRNC," nor does any country other than Turkiye. A buffer zone, patrolled by the UN Peacekeeping Force in Cyprus, separates the two sides. For U.S. citizen travelers:
+  * Human rights reports show that central prison and police detention facilities do not meet international standards.
 
-  * **Enter and exit the island of Cyprus ONLY  **at Larnaca and Paphos airports or at the seaports of Limassol, Larnaca, and Paphos. The Republic of Cyprus **does not consider**  entry via Ercan Airport or by a seaport in the north to be a legal entrance or departure to Cyprus. U.S. citizens who depart the island from Ercan could have difficulty returning to the Republic of Cyprus in the future.
-  * You **cannot receive a residency permit**  from the Republic of Cyprus to reside in the area administered by Turkish Cypriots.
-  * The Republic of Cyprus **does not recognize**  residence permits issued by Turkish Cypriots. If you arrive to the island at a north seaport or Ercan airport or stay in the Turkish Cypriot-administered area for over 90 days, you might be subsequently denied entry into the Republic of Cyprus.
-  * The U.S. Embassy has limited ability to help U.S. citizens in need of assistance in the area administered by Turkish Cypriots as the government of the Republic of Cyprus does not control the area. Travelers should factor this consideration into their activities in this area.
+
+
+
+Since 1974, the southern part of Cyprus has been under the control of the internationally recognized Government of the Republic of Cyprus. However, the northern part of Cyprus is administered by Turkish Cypriots. It proclaimed itself the "Turkish Republic of Northern Cyprus" ("TRNC") in 1983. 
+
+The United States does not recognize the "TRNC," nor does any country other than Turkiye. A buffer zone, patrolled by the UN Peacekeeping Force in Cyprus, separates the 2 sides. 
+
+**For U.S. citizen travelers:**
+
+  * Enter and exit the island of Cyprus only at Larnaca and Paphos airports or at the seaports of Limassol, Larnaca, and Paphos. The Republic of Cyprus does not consider entry or exit via Ercan Airport or by a seaport in the north to be legal. U.S. citizens who leave the island from Ercan could face challenges returning to the Republic of Cyprus in the future.
+
+
+
+  * You cannot receive a residency permit from the Republic of Cyprus to live in the area administered by Turkish Cypriots.
+
+
+
+  * The Republic of Cyprus does not recognize residence permits issued by Turkish Cypriots. If you arrive to the island at a north seaport or Ercan airport or stay in the Turkish Cypriot-administered area for over 90 days, you may be denied entry into the Republic of Cyprus.
+
+
+
+  * The U.S. Embassy has limited ability to help U.S. citizens in the area administered by Turkish Cypriots. The Government of the Republic of Cyprus does not control the area. Travelers should consider this when planning their activities.
+
+
+
+
+** If you decide to travel to Cyprus:**
+
+  * Visit our website for information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+
+
+
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis Response and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+
+
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency. 
+
+
+
+  * Monitor local media for breaking events and be prepared to adjust your plans.
+
+
+
+  * Develop a communication plan with family, your employer, or host organization. Plan together how and when you'll confirm you are safe (text or call).
+
+
+
+  * Keep travel documents up to date and easy to access.
+
+
+
+  * Make back-up plans to leave the country.
+
+
+
+  * Be aware of your surroundings.
+
+
+
+  * Stay alert especially in places visited by large groups of people and travelers or tourists.
+
+
+
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/kuwait) before you travel.
+
+
+
+  * You should make a safety plan for emergencies. Read the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+
+
+
+  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancelation coverage. 
+
 
 
 

@@ -1,41 +1,73 @@
 # Oman
 
-**Level 2 Advisory**
-**Date:** Mon, 04 Nov 2024
+**Level 3 Advisory**
+**Date:** Tue, 03 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html)
 
 ---
 
-**_Updated to include additional information in country summary and other minor edits._**
+The advisory level was increased to 3. There were no changes to the risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations.
 
-Exercise increased caution due to **terrorism**. Some areas have increased risk. Read the entire Travel Advisory.
+**Reconsider travel** to Oman due to risk of **armed conflict** and**terrorism.**
 
-Do not travel to:
+**Do Not Travel** to the **Yemen border** **area** due to**terrorism** and **armed conflict.**
 
-  * The Yemen border area due to **terrorism  **and**  armed conflict**.
+**Advisory summary**
+
+On March 3, 2026, the Department of State authorized non-emergency U.S. government employees and U.S. government employee family members to leave Oman due to safety risks.  
+
+**Armed Conflict**
+
+Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+
+**Terrorism**
+
+There is risk of terrorist violence, including terrorist attacks in Oman. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+
+Terrorism is a concern in Oman. Attacks can occur with little or no warning, especially around holidays. They can involve knives, firearms, and vehicles.
+
+Potential targets include:
+
+  * Important political, cultural, or religious locations
+  * Places visited by U.S. citizens and other foreigners
+  * Tourist locations and large gatherings
+  * Transportation hubs
+  * Markets and shopping malls
+  * Entertainment venues
+  * Government facilities
 
 
 
-**Country Summary:**  Due to risks to civil aviation operating within the Persian Gulf and the Gulf of Oman region, including Oman, the Federal Aviation Administration (FAA) has issued an advisory Notice to Air Missions (NOTAM) and/or a Special Federal Aviation Regulation (SFAR). For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions/).
+Terrorists may use violence to respond to direct attacks against them or other military operations in the region.
 
-**Terrorism Summary:** Residents and visitors generally find Oman to be safe, and protests have been rare, peaceful, and closely monitored by the government. However, threats - including terrorism - remain possible. Terrorists may attack with little or no warning, and targets may include tourist locations, transportation hubs, places of worship, markets, shopping malls, or any place where large crowds gather. The Embassy advises U.S. citizens to avoid protests and to always remain vigilant. 
+**Aviation Safety**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Oman.html) for additional information on travel to Oman.
+The Federal Aviation Administration (FAA) issued an ongoing Special Federal Aviation Regulation and Notice to Airmen (NOTAM). This is due to risks to civil aviation operating within or nearby Yemen. For more information Americans should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "faa.gov").
 
-If you decide to travel to Oman:
+**Risks in specific areas**
 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Keep travel documents up to date and easily accessible. 
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [X/Twitter](https://twitter.com/TravelGov).
-  * Review the [Country Security Report](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.osac.gov%2FContent%2FBrowse%2FReport%3FsubContentTypes%3DCountry%2520Security%2520Report&data=04%7C01%7CGatesDN%40state.gov%7Ce5b9981ae5a74576c4a508da0695e01f%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C637829538016617374%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=%2BjeekQvgUygW7iLkkt8eZiPkdP20FTgfwg8n96lPdw8%3D&reserved=0) for Oman.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+**Level 4 - Do Not Travel**
+
+**The Yemen border region**
+
+**Do Not Travel** to the **Yemen border area** due to**terrorism** and **armed conflict.**
+
+Do not travel to this area for any reason.
+
+Terrorist attacks and armed conflict continue in Yemen. Crossing the Oman-Yemen border can be dangerous. Americans who attempt to cross the border, from either Oman or Yemen, may be detained by Omani authorities.
+
+Review our information on  [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+
+**If you decide to travel to Oman** :
+
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Oman/Detail) for Oman.__
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis Response and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/oman) for Oman.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
+  * Please be sure to visit our website for [Crisis Response and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
 
 
-
-**Yemen Border Area**
-
-Terrorist attacks and armed conflict continue in Yemen. Crossing the Oman-Yemen border can be dangerous. U.S. citizens who attempt to cross the border, from either Oman or Yemen, may be detained by Omani authorities.
-
-Visit our website for [High-Risk Travelers](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
