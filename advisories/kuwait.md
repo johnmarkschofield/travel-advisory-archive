@@ -10,19 +10,18 @@
 
 Reconsider Travel to Kuwait due to the threat of **armed conflict, landmines, and crime**.
 
-**Advisory Summary**
+**Advisory Summary  
+**On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and the family members of government personnel to leave Kuwait due to safety risks.
 
-On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and the family members of government personnel to leave Kuwait due to safety risks.
+U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
 
-**Armed Conflict**
-
-Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+**Armed Conflict  
+**Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
 
 The U.S. government cannot offer emergency services to U.S. citizens in Kuwait due to the safety risks.
 
-**Notice to Airmen**
-
-The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR).  This is due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Kuwait.  Consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions) for the most up to date information on current FAA warnings.
+**Notice to Airmen  
+**The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Kuwait. Consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions) for the most up to date information on current FAA warnings.
 
 **Crime**
 

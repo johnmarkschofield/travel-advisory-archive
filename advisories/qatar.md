@@ -8,9 +8,12 @@
 
 **Updated to reflect the ordered departure of non-emergency U.S. government personnel and family members of government personnel on March 2. Advisory summary was updated.**
 
-**Reconsider travel to Qatar due to risk of armed conflict.**
+**Reconsider travel** to**Qatar** due to risk of**armed conflict.**
 
+**Advisory summary**  
 On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Qatar due to threat of armed conflict.
+
+U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
 
 Out of an abundance of caution and until further notice, U.S. Embassy Doha has suspended routine consular services. Americans should contact _[ACSDoha@state.gov](mailto:ACSDoha@state.gov)_ in case of emergency. Americans in Qatar are strongly encouraged to depart now. 
 
@@ -18,9 +21,8 @@ Americans who choose not to depart at this time should prepare contingency plans
 
 Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
 
-**Aviation Safety**
-
-The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and/or a Special Federal Aviation Regulation (SFAR) for the region, including Qatar.  This is due to risks to civil aviation from political and military tensions in the region.  The notice advises U.S. operators to review current threat information and to report safety or security incidents.  For more information, Americans should consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions/).
+**Aviation Safety  
+**The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and/or a Special Federal Aviation Regulation (SFAR) for the region, including Qatar.  This is due to risks to civil aviation from political and military tensions in the region.  The notice advises U.S. operators to review current threat information and to report safety or security incidents.  For more information, Americans should consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions/).
 
 **For U.S. citizens in Qatar:**
 
