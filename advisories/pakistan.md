@@ -12,10 +12,6 @@ to **Pakistan** due to **armed conflict, terrorism, crime, and kidnapping**. Som
 
 On March 3, 2026, the Department of State ordered non-emergency U.S. government employees and the family members of U.S. government personnel from U.S. Consulates Lahore and Karachi to leave Pakistan due to safety risks.  There is no change to the status of Embassy Islamabad.
 
-**Armed Conflict**
-
-Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights. 
-
 **Terrorism**
 
 There is risk of terrorist violence, including terrorist attacks and other activity in Pakistan. Visit the U.S. Department of State's country reports on terrorism to learn more.

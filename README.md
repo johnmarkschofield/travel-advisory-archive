@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-05 08:08 UTC
+**Last Updated:** 2026-03-06 08:06 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -101,7 +101,7 @@ Click on a country to view the full archived text of the advisory.
 | :--- | :--- | :--- |
 | **Albania** | Tue, 31 Dec 2024 | [📄 View Advisory](advisories/albania.md) |
 | **Algeria** | Thu, 26 Sep 2024 | [📄 View Advisory](advisories/algeria.md) |
-| **Angola** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/angola.md) |
+| **Angola** | Thu, 05 Mar 2026 | [📄 View Advisory](advisories/angola.md) |
 | **Antarctica** | Tue, 23 Sep 2025 | [📄 View Advisory](advisories/antarctica.md) |
 | **Armenia** | Fri, 05 Sep 2025 | [📄 View Advisory](advisories/armenia.md) |
 | **Azerbaijan** | Wed, 21 May 2025 | [📄 View Advisory](advisories/azerbaijan.md) |

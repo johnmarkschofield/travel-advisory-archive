@@ -1,5 +1,13 @@
 [
   {
+    "country": "Angola",
+    "level": 2,
+    "full_title": "Angola - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ago.html",
+    "filename_base": "angola",
+    "date": "Thu, 05 Mar 2026"
+  },
+  {
     "country": "Pakistan",
     "level": 3,
     "full_title": "Pakistan - Level 3: Reconsider Travel",
@@ -1366,14 +1374,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/algeria-travel-advisory.html",
     "filename_base": "algeria",
     "date": "Thu, 26 Sep 2024"
-  },
-  {
-    "country": "Angola",
-    "level": 2,
-    "full_title": "Angola - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/angola-travel-advisory.html",
-    "filename_base": "angola",
-    "date": "Mon, 23 Sep 2024"
   },
   {
     "country": "Panama",
