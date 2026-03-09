@@ -1,24 +1,28 @@
 # Saudi Arabia
 
 **Level 3 Advisory**
-**Date:** Tue, 03 Mar 2026
+**Date:** Sun, 08 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saudi-arabia-travel-advisory.html)
 
 ---
 
-The advisory level was increased to 3. There were no changes to the risk indicators. Advisory summary was updated to reflect changes to U.S. Mission operations.
+There were no changes to the advisory level or risk indicators. Advisory summary was updated to reflect changes to U.S. Mission operations.
 
-Reconsider travel to Saudi Arabia due to risk of **armed conflict** , **terrorism, exit bans,** and **local** **laws regarding social media activity.** Some areas have increased risk. Read the entire Travel Advisory.
+Reconsider travel to Saudi Arabia due to risk of **Iranian drone and missile targeting of American interests, armed conflict** , **terrorism, exit bans,** and **local** **laws regarding social media activity.**  Some areas have increased risk. Read the entire Travel Advisory.
 
 **Do Not Travel** to the**Yemen border** due to threat of**Terrorism.**
 
-**Advisory summary  
-**On March 3, 2026, the Department of State authorized non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks.  
+**Advisory summary**
+
+On March 8, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks.
+
+This amends the prior on March 3, 2026, Department of State authorization for non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks.  
 
 U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
 
-**Armed conflict  
-**Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+**Armed conflict**
+
+Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
 
 The U.S. government has limited ability to offer emergency services to U.S. citizens in Saudi Arabia due to the safety risks _._
 
@@ -27,12 +31,13 @@ The U.S. government has limited ability to offer emergency services to U.S. citi
   * U.S. government employees working in Saudi Arabia are not allowed to travel within 20 miles of the Yemen border due to safety risks.
   * U.S. government employees are not allowed to travel to Qatif for non-official travel due to safety risks
   * The U.S. government has limited ability to offer emergency services to U.S. citizens in the Yemen border region due to the safety risks.
-  * U.S. citizens in Saudi Arabia are advised to take the same precautions.
+  *  U.S. citizens in Saudi Arabia are advised to take the same precautions.
 
 
 
-**Terrorism  
-**There is risk of terrorist violence, including terrorist attacks in Saudi Arabia. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+**Terrorism**
+
+There is risk of terrorist violence, including terrorist attacks in Saudi Arabia. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
 Terrorism is a concern in Saudi Arabia. Attacks can occur with little or no warning, especially around holidays. They can involve knives, firearms, and vehicles.
 
@@ -50,15 +55,17 @@ Potential targets include:
 
 Terrorists may use violence to respond to direct attacks against them or other military operations in the region.
 
-**Missile and drone attacks from Yemen  
-**The Houthis in Yemen have launched **missile and drone attacks** into Saudi Arabia. Past attacks have targeted cities, infrastructure, airports, military bases, and energy facilities throughout the country.  The Houthis have previously conducted missile and drone attacks in Saudi Arabia, the last in 2022.
+**Missile and drone attacks from Yemen and Iran**
+
+Iran and the Houthis in Yemen have launched **missile and drone attacks** into Saudi Arabia. Attacks have targeted cities, infrastructure, airports, military bases, diplomatic, and energy facilities throughout the country.  The Houthis have previously conducted missile and drone attacks in Saudi Arabia.
 
 Recent Houthi attacks have targeted vessels in the Red Sea. The Houthis have threatened to attack Saudi Arabia again.
 
 Falling debris from intercepted drones and missiles are also a risk. U.S. citizens living and working near energy infrastructure and military bases may be at increased risk, especially closer to the Yemen border.
 
-**Exercise increased caution due to exit bans  
-**U.S. citizens have been prevented from leaving Saudi Arabia. Exit bans may be related to pending criminal and civil investigations and cases, including, but not limited to unpaid visa overstay fees, domestic family disputes, and other financial and labor disagreements.
+**Exercise increased caution due to exit bans**
+
+U.S. citizens have been prevented from leaving Saudi Arabia. Exit bans may be related to pending criminal and civil investigations and cases, including, but not limited to unpaid visa overstay fees, domestic family disputes, and other financial and labor disagreements.
 
   * Exit bans prevent individuals from leaving the country. These can last for many years.
   * In some cases, exit bans can continue even after a criminal sentence has been fully served or a private suit is settled.
@@ -75,12 +82,15 @@ Falling debris from intercepted drones and missiles are also a risk. U.S. citize
 
 
 
-**Aviation Safety  
-**The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR).  This is due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Saudi Arabia.  Consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions) for the most up to date information on current FAA warnings.
+**Aviation Safety**
+
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR).  This is due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Saudi Arabia.  Consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions) for the most up to date information on current FAA warnings.
 
 **Risks in specific areas**
 
-**Level: 4 - Do not travel - The Yemen border region**
+**Level: 4 - Do not travel**
+
+**The Yemen border region**
 
 **Do Not Travel** to the**Yemen border** due to threat of**Terrorism.**
 
@@ -109,7 +119,7 @@ Armed groups in Yemen have attacked Saudi border towns and other sites in Saudi 
   * Do not carry, produce, use, or distribute illegal drugs in Saudi Arabia.
   * Review local laws and conditions before traveling, including our [Saudi Arabia country information on arrests](https://sa.usembassy.gov/arrest-of-a-u-s-citizen/).
   * Review our information for [Gay and Lesbian](https://travel.state.gov/en/international-travel/planning/personal-needs/gay-lesbian.html) travelers.
-  * Before you travel, delete any sensitive photos, comments, or past content that might be seen as controversial or inappropriate in Saudi Arabia. Do not post, share, or like such content while in Saudi Arabia. Do this for your social media accounts, cameras, laptops, phones, and other accounts and devices.    
+  * Before you travel, delete any sensitive photos, comments, or past content that might be seen as controversial or inappropriate in Saudi Arabia. Do not post, share, or like such content while in Saudi Arabia. Do this for your social media accounts, cameras, laptops, phones, and other accounts and devices.   
   * Visit our page regarding [Arrest or Detention Abroad](https://travel.state.gov/en/international-travel/help-abroad/arrest-detention.html) for more information on what happens when you or a loved one are arrested abroad.
   * Review the [Country Security Report](https://www.osac.gov/Country/SaudiArabia/Detail) for Saudi Arabia.
   * Visit the Centers for Disease Control and Prevention (CDC) page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/saudi-arabia) for Saudi Arabia.

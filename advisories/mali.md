@@ -6,7 +6,7 @@
 
 ---
 
-** _This Travel Advisory reflects updates in U.S. Embassy Bamako 's posture as of January 9, 2026.  On October 30, 2025, the Department of State ordered non-emergency employees and family members to leave Mali due to safety risks.  As of January 9, 2026, the Department of State has normalized operations at U.S. Embassy Bamako noting the following conditions._**
+**_This Travel Advisory reflects updates in U.S. Embassy Bamako 's posture as of January 9, 2026.  On October 30, 2025, the Department of State ordered non-emergency employees and family members to leave Mali due to safety risks.  As of January 9, 2026, the Department of State has normalized operations at U.S. Embassy Bamako noting the following conditions._**
 
 **Do Not Travel** to Mali for any reason due to **crime, terrorism, kidnapping** , **unrest and health.**
 
