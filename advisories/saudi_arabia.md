@@ -57,9 +57,7 @@ Terrorists may use violence to respond to direct attacks against them or other m
 
 **Missile and drone attacks from Yemen and Iran**
 
-Iran and the Houthis in Yemen have launched **missile and drone attacks** into Saudi Arabia. Attacks have targeted cities, infrastructure, airports, military bases, diplomatic, and energy facilities throughout the country.  The Houthis have previously conducted missile and drone attacks in Saudi Arabia.
-
-Recent Houthi attacks have targeted vessels in the Red Sea. The Houthis have threatened to attack Saudi Arabia again.
+Iran have launched **missile and drone attacks** into Saudi Arabia. Attacks have targeted cities, infrastructure, airports, military bases, diplomatic, and energy facilities throughout the country.  The Houthis have previously conducted missile and drone attacks in Saudi Arabia.
 
 Falling debris from intercepted drones and missiles are also a risk. U.S. citizens living and working near energy infrastructure and military bases may be at increased risk, especially closer to the Yemen border.
 
