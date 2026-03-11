@@ -1,13 +1,5 @@
 [
   {
-    "country": "Eritrea",
-    "level": 2,
-    "full_title": "Eritrea - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eritrea-travel-advisory.html",
-    "filename_base": "eritrea",
-    "date": "Sun, 14 Jan 2029"
-  },
-  {
     "country": "Togo",
     "level": 2,
     "full_title": "Togo - Level 2: Exercise Increased Caution",
@@ -1685,6 +1677,14 @@
     "full_title": "Zambia - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zambia-travel-advisory.html",
     "filename_base": "zambia",
+    "date": "Mon, 31 Jul 2023"
+  },
+  {
+    "country": "Eritrea",
+    "level": 2,
+    "full_title": "Eritrea - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eritrea-travel-advisory.html",
+    "filename_base": "eritrea",
     "date": "Mon, 31 Jul 2023"
   },
   {

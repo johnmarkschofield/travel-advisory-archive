@@ -1,7 +1,7 @@
 # Eritrea
 
 **Level 2 Advisory**
-**Date:** Sun, 14 Jan 2029
+**Date:** Mon, 31 Jul 2023
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eritrea-travel-advisory.html)
 
 ---

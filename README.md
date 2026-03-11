@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-10 08:08 UTC
+**Last Updated:** 2026-03-11 08:08 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -124,7 +124,7 @@ Click on a country to view the full archived text of the advisory.
 | **Ecuador** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/ecuador.md) |
 | **Egypt** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/egypt.md) |
 | **Equatorial Guinea** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/equatorial_guinea.md) |
-| **Eritrea** | Sun, 14 Jan 2029 | [📄 View Advisory](advisories/eritrea.md) |
+| **Eritrea** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/eritrea.md) |
 | **Eswatini** | Mon, 01 Jul 2024 | [📄 View Advisory](advisories/eswatini.md) |
 | **France** | Wed, 28 May 2025 | [📄 View Advisory](advisories/france.md) |
 | **Gabon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/gabon.md) |
