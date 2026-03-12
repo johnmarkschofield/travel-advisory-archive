@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-11 08:08 UTC
+**Last Updated:** 2026-03-12 08:09 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -76,7 +76,7 @@ Click on a country to view the full archived text of the advisory.
 | **Samoa** | Mon, 10 Mar 2025 | [📄 View Advisory](advisories/samoa.md) |
 | **Senegal** | Mon, 01 Dec 2025 | [📄 View Advisory](advisories/senegal.md) |
 | **Seychelles** | Tue, 09 Dec 2025 | [📄 View Advisory](advisories/seychelles.md) |
-| **Singapore** | Wed, 05 Mar 2025 | [📄 View Advisory](advisories/singapore.md) |
+| **Singapore** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/singapore.md) |
 | **Sint Eustatius** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_eustatius.md) |
 | **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
 | **Slovakia** | Thu, 12 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
@@ -101,7 +101,7 @@ Click on a country to view the full archived text of the advisory.
 | :--- | :--- | :--- |
 | **Albania** | Tue, 31 Dec 2024 | [📄 View Advisory](advisories/albania.md) |
 | **Algeria** | Thu, 26 Sep 2024 | [📄 View Advisory](advisories/algeria.md) |
-| **Angola** | Thu, 05 Mar 2026 | [📄 View Advisory](advisories/angola.md) |
+| **Angola** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/angola.md) |
 | **Antarctica** | Tue, 23 Sep 2025 | [📄 View Advisory](advisories/antarctica.md) |
 | **Armenia** | Fri, 05 Sep 2025 | [📄 View Advisory](advisories/armenia.md) |
 | **Azerbaijan** | Wed, 21 May 2025 | [📄 View Advisory](advisories/azerbaijan.md) |

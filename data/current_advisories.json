@@ -8,6 +8,14 @@
     "date": "Mon, 09 Mar 2026"
   },
   {
+    "country": "Singapore",
+    "level": 1,
+    "full_title": "Singapore - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/singapore-travel-advisory.html",
+    "filename_base": "singapore",
+    "date": "Mon, 09 Mar 2026"
+  },
+  {
     "country": "Kuwait",
     "level": 3,
     "full_title": "Kuwait - Level 3: Reconsider Travel",
@@ -30,14 +38,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
     "filename_base": "turkey",
     "date": "Sun, 08 Mar 2026"
-  },
-  {
-    "country": "Angola",
-    "level": 2,
-    "full_title": "Angola - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ago.html",
-    "filename_base": "angola",
-    "date": "Thu, 05 Mar 2026"
   },
   {
     "country": "Pakistan",
@@ -411,7 +411,7 @@
     "country": "Greece",
     "level": 1,
     "full_title": "Greece - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grc.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greece-travel-advisory.html",
     "filename_base": "greece",
     "date": "Thu, 23 Oct 2025"
   },
@@ -1024,14 +1024,6 @@
     "date": "Thu, 06 Mar 2025"
   },
   {
-    "country": "Singapore",
-    "level": 1,
-    "full_title": "Singapore - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/singapore-travel-advisory.html",
-    "filename_base": "singapore",
-    "date": "Wed, 05 Mar 2025"
-  },
-  {
     "country": "Turks and Caicos Islands",
     "level": 2,
     "full_title": "Turks and Caicos Islands - Level 2: Exercise Increased Caution",
@@ -1374,6 +1366,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/algeria-travel-advisory.html",
     "filename_base": "algeria",
     "date": "Thu, 26 Sep 2024"
+  },
+  {
+    "country": "Angola",
+    "level": 2,
+    "full_title": "Angola - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/angola-travel-advisory.html",
+    "filename_base": "angola",
+    "date": "Mon, 23 Sep 2024"
   },
   {
     "country": "Panama",
