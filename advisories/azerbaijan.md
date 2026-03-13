@@ -1,23 +1,32 @@
 # Azerbaijan
 
-**Level 2 Advisory**
-**Date:** Wed, 21 May 2025
+**Level 3 Advisory**
+**Date:** Thu, 12 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+**_The advisory level was increased to 3. There were no changes to the risk indicators. Advisory summary was updated._**
 
-Exercise increased caution in Azerbaijan due to **terrorism.** Some areas have increased risk. Read the entire Travel Advisory.****
+Reconsider Travel to Azerbaijan due to **terrorism, armed conflict,** and**risk of landmines.** Some areas have increased risk. Read the entire Travel Advisory.****
 
 **Do not travel to:**
 
-  * The border region with Armenia due to potential for armed conflict.
-  * The former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories due to landmines.
+  * The **southern border region** due to risk of **armed conflict (unless this is your best overland exit from Iran)**.
+  * The **border with Armenia** due to risk of **landmines.**
+  * The **former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories** due to **landmines**.
 
 
 
-**Country Summary:**  Terrorist groups continue to plan attacks and are a risk in Azerbaijan. Terrorists may attack with little or no warning. They may target:
+**Advisory Summary**
+
+**Armed Conflict  
+**Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and a March 5 drone strike on Nakhchivan International Airport. Commercial flights have also been seriously disrupted.
+
+**Terrorism  
+**There is risk of terrorist violence, including terrorist attacks and other activity in Azerbaijan. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+
+Terrorist groups continue to plan attacks and are a risk in Azerbaijan. Terrorists may attack with little or no warning. They may target:
 
   * Tourist locations
   * Transportation centers (airports)
@@ -27,39 +36,54 @@ Exercise increased caution in Azerbaijan due to **terrorism.** Some areas have i
   * Places of worship
   * Parks
   * Major sporting and cultural events
-  * Educational institutions
-  * Other public areas
+  * Educational institutionsOther public areas
 
 
 
-Read the [country information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Azerbaijan.html) page for additional information on travel to Azerbaijan.
+**Risks in specific areas  
+Level 4 - Do not travel**
 
-**If you decide to travel to Azerbaijan:**
+**Border with Iran  
+Do not travel **to the**southern border region** due to risk of**armed conflict (unless this is your best overland exit from Iran)**.
 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Azerbaijan.
-  * Prepare a plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran. U.S. citizens should avoid the southern border area unless this is your best overland exit from Iran.
 
+**Border with Armenia  
+Do not Travel **to the**border with Armenia** due to the risk of**landmines**
 
+Landmines and unexploded ordnance exist throughout this region. Many of them are not marked, so it can be hard to know where they are.
 
-**Level 4: Do Not Travel -  Border with Armenia**  
-There is the potential for fighting along the Azerbaijan-Armenia border.  U.S. citizens should avoid the area. 
-
-Exercise caution on roads near Azerbaijan's border with Armenia:
+**Exercise a high degree of caution on roads near the Azerbaijan-Armenia border** :
 
   * Be aware that some portions of the road may cross international boundaries without notice.
   * Roads may be controlled by checkpoints or closed to travelers without notice.
-  * Due to the risks, U.S. government employees working in Azerbaijan are prohibited from non-essential travel to the border region. 
+
+
+
+The U.S. government is unable to provide immediate emergency assistance to U.S. citizens because U.S. government employees working in Azerbaijan are prohibited from non-official travel to the border region. 
+
+Visit our website for [Travel to High-Risk Areas.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html)
+
+**Do not travel** to the **former Nagorno-Karabakh Autonomous Oblast and surrounding territories** due to **landmines**.
+
+  * Following armed hostilities in 2023, the former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories are under the control of Azerbaijan.
+  * Despite the cessation of fighting, the dangers posed by landmine contamination continue.
+  * Landmines and unexploded ordnance exist throughout this region. Many of them are not marked, so it can be hard to know where they are.
+  * The U.S. government is unable to provide immediate emergency services to U.S. citizens in the former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories because U.S. government employees need approval to travel there.
 
 
 
 Visit our website for [Travel to High-Risk Areas.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html)
 
-**Level 4: Do Not Travel -  Former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories**
+**If you decide to travel to Azerbaijan:**
 
-Following armed hostilities in 2023, the former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories are under the control of Azerbaijan.  Despite the cessation of fighting, the dangers posed by landmine contamination continue.  Due to the risks, the U.S. government is unable to provide emergency services to U.S. citizens in the former Soviet-era Nagorno Karabakh Autonomous Oblast and surrounding territories, because U.S. government employees are prohibited from traveling there and Azerbaijan restricts access to the region.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Azerbaijan.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+  * Prepare a plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
-Visit our website for [Travel to High-Risk Areas.](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html)
+
 

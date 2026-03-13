@@ -17,9 +17,7 @@ U.S. citizens in Iran face serious dangers including **terrorism** , **unrest** 
 **No U.S. embassy in Iran  
 **The U.S. government does not have diplomatic or consular relations with the Islamic Republic of Iran. The Swiss government, acting through its Embassy in Tehran, serves as the protecting power for United States interests in Iran.
 
-As of October 15, 2025, routine consular services are no longer available for U.S. citizens in Iran. This includes acceptance of applications for full-validity passports and Consular Reports of Birth Abroad (CRBA), and for fee-based notarial services. This change reinforces the travel advice to U.S. citizens: **Do Not Travel to Iran**.
-
-The Swiss Protecting Power will continue to provide emergency services to U.S. citizens, including acceptance of emergency passport applications, Consular Report of Death Abroad applications, emergency financial assistance, assistance to detained U.S. nationals, and welfare and whereabouts checks for U.S. citizens when security conditions permit.
+The Embassy of Switzerland’s Foreign Interests Section in Tehran is temporarily closed due to the security situation in Iran until further notice. U.S. citizens in Iran in need of help should contact the U.S. Embassy in Bern, Switzerland by email at [BernACS@state.gov](mailto:BernACS@state.gov) or by phone at [+41-31-357-7011](). This change reinforces the travel advice to U.S. citizens: **Do Not Travel to Iran**.
 
 For routine consular services, U.S. citizens should visit the nearest U.S. embassy or consulate or return to the United States.
 

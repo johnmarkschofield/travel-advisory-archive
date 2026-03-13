@@ -1,64 +1,108 @@
 # Guatemala
 
 **Level 3 Advisory**
-**Date:** Mon, 30 Dec 2024
+**Date:** Thu, 12 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+**_There was no change to the advisory level. The "terrorism" risk indicator was added. Advisory summary was updated._**
 
-Reconsider travel to Guatemala due to**  crime**. Some areas have higher risks. Please read the full Travel Advisory.
+Reconsider travel to Guatemala due to**  crime **and **terrorism**. Some areas have higher risks. Please read the full Travel Advisory.
 
-Do not travel to:
+**Do not travel to:**
 
-  * San Marcos Department (except the city of San Marcos) due to **crime**.
-  * Huehuetenango Department (except the city of Huehuetenango) due to **crime**.
-  * Zone 18 in Guatemala City and the city of Villa Nueva due to **crime**.
+  * **San Marcos Department** due to **crime** and**terrorism** by**** cartels, gangs, and criminal organizations.
+  * **Huehuetenango Department** due to **crime** and**terrorism** by**** cartels, gangs, and criminal organizations.
+  * **Zone 18 in Guatemala City** and the **city of Villa Nueva** due to **crime** and**terrorism** by**** cartels, gangs, and criminal organizations.
 
 
 
-**Country Summary:**  Some areas of Guatemala have problems with gangs, robbery, carjacking, drug trafficking and violence. Local law enforcement may not always respond well to serious crimes, leading to low arrest and conviction rates.  While tourists are not usually targeted, they can still be victims of opportunistic crimes.
+**Advisory summary**
 
-Guatemala has a program called the [Tourist Assistance Program](https://asistur.gt/en/) ([ASISTUR](https://asistur.gt/en/)) that helps protect tourists. ASISTUR works with tourist police (DISETUR) in popular areas like Antigua, Lake Atitlan, Tikal, Quetzaltenango, Puerto Barrios, and Coban. They also have an emergency call center that speaks both Spanish and English. Tourist groups can request a security escort if they have safety concerns. You can call them anytime by dialing 1500 from a Guatemalan phone number or (502) 2290-2810, and you can also reach them on WhatsApp at +502-5188-1819.
+Some areas of Guatemala have higher levels of gang-related violence. Crimes include robbery, carjacking, drug trafficking, assaults, and murders. Local law enforcement often struggles to address serious crimes. This leads to low arrest and conviction rates.
 
-U.S. government employees and their families cannot travel to the San Marcos Department, Huehuetenango Department, Zone 18 in Guatemala City, or Villa Nueva. They can travel to other parts of Guatemala and visit popular places like Tikal, Antigua, Lake Atitlan, and the Pacific coast areas in the Santa Rosa and Escuintla. However, they should avoid driving outside Guatemala City at night because of poor lighting and safety risks. They may not use white car taxis or public transportation, like "chicken buses" due to the high chance of crime and injury.
+Tourists can become victims of opportunistic crimes such as scams and extortion.
 
-Check the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Guatemala.html) for helpful information about traveling to Guatemala. This includes information on entry and exit rules, safety, local laws, health, and getting around. Also, visit the [U.S. Embassy in Guatemala City](https://gt.usembassy.gov/services/)'s website for local resources, like legal help, medical services, driver's licenses, and information on residence and work permits, as well as rules about bringing weapons into Guatemala.
+There is risk of terrorist attacks and other terrorist activities from cartels, gangs, and criminal organizations in San Marcos Department, Huehuetenango Department, Zone 18 in Guatemala City, and the city of Villa Nueva. Visit the U.S. Department of State's [Country Reports on Terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
-If you decide to travel to Guatemala:
+**Tourist Assistance Program**
 
-  * Do not travel outside Guatemala City at night because the roads are poorly lit, and there is a high risk for serious traffic accidents.
-  * When visiting Lake Atitlan, use certified tour guides and travel between villages by chartered boat. The paths around the lake can be dangerous and hard to access. Emergency services cannot arrive quickly to help.
-  * Avoid swimming in the Pacific Ocean because the currents and undertow are very strong, and there are not many lifeguards.
-  * Never leave drinks unattended in bars and restaurants and say no to invitations from strangers to private parties.
+Guatemala offers the Tourist Assistance Program ([ASISTUR](https://asistur.gt/en/)) to protect tourists.
+
+  * ASISTUR partners with tourist police (DISETUR) in popular areas like Antigua, Lake Atitlan, Tikal, Quetzaltenango, Puerto Barrios, and Coban.
+  * _[**Dial 1500**]()_ or _[**+502-2290-2810**]()_ anytime from a Guatemalan phone number. You can also message them on WhatsApp at [**+502-5188-1819**](). Their emergency call center operates in Spanish and English.
+  * You can request a security escort if your group feels unsafe.
+
+
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees and their families are not permitted to travel to the San Marcos Department, Huehuetenango Department, Zone 18 in Guatemala City, and Villa Nueva due to safety risks.
+  * U. S. government employees can travel to other parts of Guatemala and visit popular destinations like Tikal, Antigua, Lake Atitlan, and the Pacific coast areas in Santa Rosa and Escuintla. However, U.S. government employees should avoid driving outside Guatemala City at night. This is due to poor lighting and safety risks.
+  * Outside of Zone 18 and Villa Nueva, U.S. government employees and their families can travel throughout Guatemala City, including at night.
+  * U.S. government employees may not use white taxis or public transportation, like "chicken buses." This is due to the high chance of crime and injury.
+  * Visit the [U.S. embassy in Guatemala City](https://gt.usembassy.gov/services/)'s website. You will find local resources, like legal help and medical services. You will also find information on residence and work permits, and driver's licenses. It also covers rules about bringing weapons into Guatemala.
+
+
+
+**Risks in specific areas**
+
+**San Marcos Department** -**  Level 4: Do Not Travel**
+
+**Do Not Travel** to**San Marcos Department** due to risk of **crime** and**terrorism**.****
+
+U.S. government employees and their families cannot go to the San Marcos Department for personal travel.
+
+  * Do not travel to San Marcos Department for any reason.
+  * There is a risk of violence in the state from terrorist groups, cartels, gangs, and criminal organizations.
+  * Some towns do not have enough police. Local officers may not have the resources to handle serious crimes.  
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+
+
+**Huehuetenango Department -  Level 4: Do Not Travel**
+
+**Do Not Travel** to**Huehuetenango Department** due to risk of **crime** and**terrorism**.****
+
+U.S. government employees and their families cannot go to Huehuetenango Department for personal travel.
+
+  * Do not travel to Huehuetenango Department for any reason.
+  * There is a risk of violence in the state from terrorist groups, cartels, gangs, and criminal organizations.
+  * Some towns do not have enough police. Local officers may not have the resources to handle serious crimes.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+
+
+**Zone 18  in Guatemala City **and the**city of Villa Nueva -  **
+
+**Level 4: Do Not Travel**
+
+**Do Not Travel** to**Zone 18 in Guatemala City** and the **city of Villa Nueva** due to risk of **crime** and**terrorism**.
+
+U.S. government employees and their families are not allowed to travel to or through Zone 18 in Guatemala City and the city of Villa Nueva. This is due to the risk of violence from terrorist groups, gangs, and criminal organizations.
+
+  * Do not travel to Zone 18 in Guatemala City and the city of Villa Nueva for any reason.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+
+
+**If you decide to travel to Guatemala:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html) _._
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+  * Never leave drinks unattended in bars and restaurants. Decline invitations from strangers to private parties.
   * Consider staying in hotels that have secure parking, doormen, and professional security staff.
-  * Use trusted taxi services like Taxis Amarillo Express, Taxi Seguro, or Uber, and only use INGUAT-approved taxis from the "SAFE" stand at the airport, hotel taxis, or vetted private drivers. Avoid public transport and white car taxis, as well as "chicken buses."
-  * Do not hike trails or volcanoes without a qualified local guide, as robberies can happen and getting help can be difficult.
-  * Avoid using public ATMs, and do not show signs of wealth like wearing expensive watches or jewelry. Also, try not to use your phone in public.
-  * Check the Overseas Security Advisory Council's (OSAC) [Country Security Report](https://www.osac.gov/Content/Report/2013f384-296b-4394-bfcb-1c9c40b9c7df) for Guatemala.
-  * Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html) and make a plan for emergencies.
-  * Visit the CDC page for the latest [Travel Health Notice](https://wwwnc.cdc.gov/travel/destinations/traveler/none/guatemala?s_cid=ncezid-dgmq-travel-single-001) and [Yellow Book](https://wwwnc.cdc.gov/travel/yellowbook/2024/itineraries/guatemala-and-belize) on Guatemala.
-  * Sign up for the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive alerts while in Guatemala and help others find you in case of an emergency.
-  * Follow the U.S. Embassy in Guatemala on [Facebook](https://www.facebook.com/Embajada.EEUU.Guatemala/) and [X(Twitter)](https://twitter.com/usembassyguate) for updates.
+  * Use trusted taxi services like Taxis Amarillo Express, Taxi Seguro, or Uber. Only use INGUAT-approved taxis from the "SAFE" stand at the airport, hotel taxis, or vetted private drivers. Avoid public transport and white taxis, as well as "chicken buses."
+  * Do not hike trails or volcanoes without a qualified local guide. Robberies can happen and getting help can be difficult.
+  * Avoid using public ATMs. Do not show signs of wealth like expensive watches or jewelry. Try not to use your phone in public.
+  * Drivers and motorcycles often do not stop for crosswalks, streetlights, or stop signs. Make sure vehicles come to a complete stop before crossing.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Guatemala/Detail) for Guatemala.
+  * Review the [Traveler's Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html) and make a plan for emergencies.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/guatemala) for Guatemala.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
-
-**San Marcos Department - Level 4: Do Not Travel**
-
-U.S. government personnel and their families may not go to the San Marcos Department for personal travel, except for the city of San Marcos itself. There is a lot of drug trafficking in this area, and many parts are controlled by drug gangs. Some towns do not have enough police, and local officers may not have the resources to handle serious crimes.  
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**Huehuetenango Department - Level 4: Do Not Travel**
-
-U.S. government personnel and their families may not go to Huehuetenango Department for personal travel, except for the city of Huehuetenango itself. There is a lot of drug trafficking in this area, and many parts are controlled by drug gangs. Some towns do not have enough police, and local officers may not have the resources to handle serious crimes. 
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**Zone 18  in Guatemala City and the city of Villa Nueva  - Level 4: Do Not Travel**
-
-U.S. government personnel and their families are not allowed to travel to or through Zone 18 in Guatemala City and the city of Villa Nueva due to increased risk of crime and significant gang activity. Aside from Zone 18 and Villa Nueva, U.S. government personnel and their family members are permitted to travel throughout Guatemala City, even at night.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 
