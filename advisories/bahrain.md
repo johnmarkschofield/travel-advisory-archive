@@ -13,10 +13,9 @@ Reconsider Travel to Bahrain due to **terrorism** and**armed conflict**.
 **Advisory Summary  
 **On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and family members of U.S. government employees to leave Bahrain due to safety risks.
 
-U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
+**Armed Conflict**
 
-**Armed Conflict  
-**Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
 
 **Terrorism  
 **There is a risk of terrorist violence, including terrorist attacks and other activity in Bahrain. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.  

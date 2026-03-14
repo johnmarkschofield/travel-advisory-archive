@@ -1,12 +1,12 @@
 # Oman
 
 **Level 3 Advisory**
-**Date:** Tue, 03 Mar 2026
+**Date:** Fri, 13 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html)
 
 ---
 
-The advisory level was increased to 3. There were no changes to the risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations.
+The advisory level remains at 3. There were no changes to the risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations.
 
 **Reconsider travel** to Oman due to risk of **armed conflict** and**terrorism.**
 
@@ -14,9 +14,7 @@ The advisory level was increased to 3. There were no changes to the risk indicat
 
 **Advisory summary**
 
-On March 3, 2026, the Department of State authorized non-emergency U.S. government employees and U.S. government employee family members to leave Oman due to safety risks.  
-
-U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link:  <https://mytravel.state.gov/s/crisis-intake>.
+On March 13, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Oman due to safety risks.
 
 **Armed Conflict**
 
@@ -44,7 +42,7 @@ Terrorists may use violence to respond to direct attacks against them or other m
 
 **Aviation Safety**
 
-The Federal Aviation Administration (FAA) issued an ongoing Special Federal Aviation Regulation and Notice to Airmen (NOTAM). This is due to risks to civil aviation operating within or nearby Yemen. For more information Americans should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "faa.gov").
+The Federal Aviation Administration (FAA) issued an ongoing Special Federal Aviation Regulation and Notice to Airmen (NOTAM). This is due to risks to civil aviation operating within or nearby Yemen. For more information Americans should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
 
 **Risks in specific areas**
 

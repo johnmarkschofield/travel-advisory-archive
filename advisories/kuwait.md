@@ -12,9 +12,7 @@ There were no changes to the advisory level or risk indicators. Advisory summary
 
 **Advisory summary**
 
-On March 5, 2026, the U.S. Embassy in Kuwait suspended operations (including routine consular services).  U.S. citizens in Kuwait should contact the State Department at +1-202-501-4444 or +1-888-407-4747 for emergency assistance or services.  (The Crisis Intake Form - below - is the preferred vehicle for departure assistance requests.) The Embassy remains on ordered departure status since March 2, 2026.
-
-U.S. citizens in Kuwait wanting to depart should complete the [Crisis Intake Form](https://mytravel.state.gov/s/crisis-intake)  once to let the U.S. Department of State know they are requesting help. Only one submission is necessary.  You can reply to the most recent email from our crisis case management system to update your case with your current plans and location so that we can send you the best departure information for your location. That link is <https://mytravel.state.gov/s/crisis-intake>
+On March 5, 2026, the U.S. Embassy in Kuwait suspended operations (including routine consular services).  U.S. citizens in Kuwait should contact the State Department at +1-202-501-4444 or +1-888-407-4747 for emergency assistance or services. 
 
 **Armed conflict**
 
@@ -44,7 +42,6 @@ The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) 
 
   * Visit our website for information on travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
   * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
-  * If you need assistance departing Kuwait, please complete the [crisis intake form ](https://mytravel.state.gov/s/crisis-intake) so the Department of State can better assist you and provide you with timely updates. If you have already completed the crisis intake form, please do not fill it out again.
   * Monitor local media for breaking events and be prepared to adjust your plans.
   * Develop a communication plan with family, your employer, or host organization. Plan together how and when you'll confirm you are safe (text or call). 
   * Keep travel documents up to date and easy to access.
