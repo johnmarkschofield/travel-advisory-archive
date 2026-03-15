@@ -14,8 +14,6 @@
 
 On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government family members to leave the United Arab Emirates due to the threat of armed conflict.
 
-U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy know they are requesting assistance.  Do not submit this form more than once.  The form is available at the following link:  <https://mytravel.state.gov/s/crisis-intake>
-
 **Armed Conflict**
 
 Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights. The Iranian regime has publicly stated its intention to target locations in the UAE associated with the United States.

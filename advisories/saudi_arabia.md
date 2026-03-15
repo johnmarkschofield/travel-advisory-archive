@@ -18,8 +18,6 @@ On March 8, 2026, the Department of State ordered non-emergency U.S. government 
 
 This amends the prior on March 3, 2026, Department of State authorization order for non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks.  
 
-U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
-
 **Armed conflict**
 
 Following the onset of hostilities between the United States and Iran on February 28, there has been an ongoing threat of drone and missile attacks from Iran. Commercial flights are operational from Saudi Arabia though have been significantly disrupted.  
