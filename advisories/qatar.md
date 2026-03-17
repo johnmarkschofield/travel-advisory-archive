@@ -13,8 +13,6 @@
 **Advisory summary**  
 On March 2, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Qatar due to threat of armed conflict.
 
-U.S. Citizens should complete the Crisis Intake Form to let the U.S. Embassy or consulate know they are requesting assistance. Do not submit this form more than once. The form is available at the following link: <https://mytravel.state.gov/s/crisis-intake>.
-
 Out of an abundance of caution and until further notice, U.S. Embassy Doha has suspended routine consular services. Americans should contact _[ACSDoha@state.gov](mailto:ACSDoha@state.gov)_ in case of emergency. Americans in Qatar are strongly encouraged to depart now. 
 
 Americans who choose not to depart at this time should prepare contingency plans should the situation deteriorate. **These alternative plans should not rely on the U.S. government for assisted departure or evacuation.**
