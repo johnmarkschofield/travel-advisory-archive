@@ -1,5 +1,13 @@
 [
   {
+    "country": "Venezuela",
+    "level": 3,
+    "full_title": "Venezuela - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html",
+    "filename_base": "venezuela",
+    "date": "Thu, 19 Mar 2026"
+  },
+  {
     "country": "Saudi Arabia",
     "level": 3,
     "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
@@ -72,19 +80,19 @@
     "date": "Sun, 08 Mar 2026"
   },
   {
-    "country": "Pakistan",
-    "level": 3,
-    "full_title": "Pakistan - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html",
-    "filename_base": "pakistan",
-    "date": "Tue, 03 Mar 2026"
-  },
-  {
     "country": "Cyprus",
     "level": 3,
     "full_title": "Cyprus - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html",
     "filename_base": "cyprus",
+    "date": "Tue, 03 Mar 2026"
+  },
+  {
+    "country": "Pakistan",
+    "level": 3,
+    "full_title": "Pakistan - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/pakistan-travel-advisory.html",
+    "filename_base": "pakistan",
     "date": "Tue, 03 Mar 2026"
   },
   {
@@ -203,9 +211,9 @@
     "country": "Uzbekistan",
     "level": 1,
     "full_title": "Uzbekistan - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uzb.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uzbekistan-travel-advisory.html",
     "filename_base": "uzbekistan",
-    "date": "Mon, 26 Jan 2026"
+    "date": "Thu, 22 Jan 2026"
   },
   {
     "country": "Bangladesh",
@@ -315,7 +323,7 @@
     "country": "Yemen",
     "level": 4,
     "full_title": "Yemen - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/yemen-travel-advisory.html",
     "filename_base": "yemen",
     "date": "Fri, 19 Dec 2025"
   },
@@ -339,7 +347,7 @@
     "country": "Syria",
     "level": 4,
     "full_title": "Syria - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html",
     "filename_base": "syria",
     "date": "Thu, 11 Dec 2025"
   },
@@ -371,7 +379,7 @@
     "country": "Uganda",
     "level": 3,
     "full_title": "Uganda - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uga.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uganda-travel-advisory.html",
     "filename_base": "uganda",
     "date": "Mon, 08 Dec 2025"
   },
@@ -390,14 +398,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mdg.html",
     "filename_base": "madagascar",
     "date": "Fri, 05 Dec 2025"
-  },
-  {
-    "country": "Venezuela",
-    "level": 4,
-    "full_title": "Venezuela - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html",
-    "filename_base": "venezuela",
-    "date": "Wed, 03 Dec 2025"
   },
   {
     "country": "Senegal",
@@ -475,7 +475,7 @@
     "country": "Ecuador",
     "level": 2,
     "full_title": "Ecuador - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ecu.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ecuador-travel-advisory.html",
     "filename_base": "ecuador",
     "date": "Tue, 14 Oct 2025"
   },
@@ -552,19 +552,19 @@
     "date": "Fri, 05 Sep 2025"
   },
   {
-    "country": "Mexico Travel Advisory",
-    "level": 2,
-    "full_title": "Mexico Travel Advisory - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mex.html",
-    "filename_base": "mexico_travel_advisory",
-    "date": "Tue, 12 Aug 2025"
-  },
-  {
     "country": "Democratic Republic of the Congo",
     "level": 3,
     "full_title": "Democratic Republic of the Congo - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
     "filename_base": "democratic_republic_of_the_congo",
+    "date": "Wed, 20 Aug 2025"
+  },
+  {
+    "country": "Mexico Travel Advisory",
+    "level": 2,
+    "full_title": "Mexico Travel Advisory - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mex.html",
+    "filename_base": "mexico_travel_advisory",
     "date": "Tue, 12 Aug 2025"
   },
   {
@@ -832,19 +832,19 @@
     "date": "Mon, 12 May 2025"
   },
   {
-    "country": "United Kingdom",
-    "level": 2,
-    "full_title": "United Kingdom - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gbr.html",
-    "filename_base": "united_kingdom",
-    "date": "Thu, 08 May 2025"
-  },
-  {
     "country": "Philippines",
     "level": 2,
     "full_title": "Philippines - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/philippines-travel-advisory.html",
     "filename_base": "philippines",
+    "date": "Thu, 08 May 2025"
+  },
+  {
+    "country": "United Kingdom",
+    "level": 2,
+    "full_title": "United Kingdom - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/united-kingdom-travel-advisory.html",
+    "filename_base": "united_kingdom",
     "date": "Thu, 08 May 2025"
   },
   {

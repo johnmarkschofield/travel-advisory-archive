@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-19 08:10 UTC
+**Last Updated:** 2026-03-20 08:09 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -89,7 +89,7 @@ Click on a country to view the full archived text of the advisory.
 | **Tonga** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tonga.md) |
 | **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
-| **Uzbekistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
+| **Uzbekistan** | Thu, 22 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
 | **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Mon, 16 Dec 2024 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
@@ -183,7 +183,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 30 countries*
+*Total: 31 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -194,7 +194,7 @@ Click on a country to view the full archived text of the advisory.
 | **Chad** | Tue, 18 Mar 2025 | [📄 View Advisory](advisories/chad.md) |
 | **Colombia** | Thu, 17 Apr 2025 | [📄 View Advisory](advisories/colombia.md) |
 | **Cyprus** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/cyprus.md) |
-| **Democratic Republic of the Congo** | Tue, 12 Aug 2025 | [📄 View Advisory](advisories/democratic_republic_of_the_congo.md) |
+| **Democratic Republic of the Congo** | Wed, 20 Aug 2025 | [📄 View Advisory](advisories/democratic_republic_of_the_congo.md) |
 | **Ethiopia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/ethiopia.md) |
 | **Guatemala** | Thu, 12 Mar 2026 | [📄 View Advisory](advisories/guatemala.md) |
 | **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
@@ -217,9 +217,10 @@ Click on a country to view the full archived text of the advisory.
 | **Trinidad and Tobago** | Wed, 07 May 2025 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 | **United Arab Emirates** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
+| **Venezuela** | Thu, 19 Mar 2026 | [📄 View Advisory](advisories/venezuela.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 21 countries*
+*Total: 20 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -242,7 +243,6 @@ Click on a country to view the full archived text of the advisory.
 | **Sudan** | Wed, 15 Oct 2025 | [📄 View Advisory](advisories/sudan.md) |
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Ukraine** | Thu, 14 Nov 2024 | [📄 View Advisory](advisories/ukraine.md) |
-| **Venezuela** | Wed, 03 Dec 2025 | [📄 View Advisory](advisories/venezuela.md) |
 | **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
