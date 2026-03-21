@@ -1,7 +1,7 @@
 # Democratic Republic of the Congo
 
 **Level 3 Advisory**
-**Date:** Wed, 20 Aug 2025
+**Date:** Tue, 12 Aug 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html)
 
 ---
