@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-21 08:04 UTC
+**Last Updated:** 2026-03-22 08:05 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -32,7 +32,7 @@ Click on a country to view the full archived text of the advisory.
 | **Cayman Islands** | Wed, 04 Sep 2024 | [📄 View Advisory](advisories/cayman_islands.md) |
 | **Croatia** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/croatia.md) |
 | **Curaçao** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/curaao.md) |
-| **Czechia** | Mon, 28 Apr 2025 | [📄 View Advisory](advisories/czechia.md) |
+| **Czechia** | Thu, 08 Jan 2026 | [📄 View Advisory](advisories/czechia.md) |
 | **Dominica** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/dominica.md) |
 | **El Salvador** | Tue, 08 Apr 2025 | [📄 View Advisory](advisories/el_salvador.md) |
 | **Estonia** | Tue, 23 Jul 2024 | [📄 View Advisory](advisories/estonia.md) |
@@ -228,7 +228,7 @@ Click on a country to view the full archived text of the advisory.
 | **Belarus** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
 | **Burkina Faso** | Wed, 16 Apr 2025 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma (Myanmar)** | Mon, 12 May 2025 | [📄 View Advisory](advisories/burma_myanmar.md) |
-| **Central African Republic** | Mon, 10 Nov 2025 | [📄 View Advisory](advisories/central_african_republic.md) |
+| **Central African Republic** | Thu, 15 Jan 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
 | **Haiti** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/haiti.md) |
 | **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
 | **Iraq** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/iraq.md) |
