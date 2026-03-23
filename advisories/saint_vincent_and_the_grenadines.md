@@ -6,7 +6,7 @@
 
 ---
 
-** _Updated to add Petit Saint Vincent to the list of islands affected by Hurricane Beryl in July 2024._**
+**_Updated to add Petit Saint Vincent to the list of islands affected by Hurricane Beryl in July 2024._**
 
 Exercise normal precautions in Saint Vincent and the Grenadines. The islands of Canouan, Mayreau, Palm Island, Petit Saint Vincent, and Union Island are in varying stages of recovery from Hurricane Beryl.
 

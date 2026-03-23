@@ -1,7 +1,7 @@
 # Cyprus
 
 **Level 3 Advisory**
-**Date:** Tue, 03 Mar 2026
+**Date:** Mon, 03 Mar 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html)
 
 ---
