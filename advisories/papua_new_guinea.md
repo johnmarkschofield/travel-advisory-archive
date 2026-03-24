@@ -1,7 +1,7 @@
 # Papua New Guinea
 
 **Level 3 Advisory**
-**Date:** Tue, 29 Apr 0010
+**Date:** Tue, 29 Apr 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/papua-new-guinea-travel-advisory.html)
 
 ---
