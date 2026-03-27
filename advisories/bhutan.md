@@ -1,7 +1,7 @@
 # Bhutan
 
 **Level 1 Advisory**
-**Date:** Mon, 20 Oct 2025
+**Date:** Sun, 12 Oct 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bhutan-travel-advisory.html)
 
 ---

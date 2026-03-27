@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-26 08:14 UTC
-**Total Countries Tracked:** 213
+**Last Updated:** 2026-03-27 08:12 UTC
+**Total Countries Tracked:** 214
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 80 countries*
+*Total: 81 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -22,7 +22,7 @@ Click on a country to view the full archived text of the advisory.
 | **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
 | **Barbados** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/barbados.md) |
 | **Bermuda** | Tue, 12 Nov 2024 | [📄 View Advisory](advisories/bermuda.md) |
-| **Bhutan** | Mon, 20 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
+| **Bhutan** | Sun, 12 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
 | **Bonaire** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/bonaire.md) |
 | **British Virgin Islands** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/british_virgin_islands.md) |
 | **Brunei** | Wed, 19 Mar 2025 | [📄 View Advisory](advisories/brunei.md) |
@@ -46,6 +46,7 @@ Click on a country to view the full archived text of the advisory.
 | **Greece** | Thu, 23 Oct 2025 | [📄 View Advisory](advisories/greece.md) |
 | **Hungary** | Wed, 21 Aug 2024 | [📄 View Advisory](advisories/hungary.md) |
 | **Iceland** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/iceland.md) |
+| **Ireland** | Fri, 20 Mar 2026 | [📄 View Advisory](advisories/ireland.md) |
 | **Ireland** | Fri, 20 Mar 2026 | [📄 View Advisory](advisories/ireland.md) |
 | **Japan** | Thu, 15 May 2025 | [📄 View Advisory](advisories/japan.md) |
 | **Kazakhstan** | Mon, 05 Aug 2024 | [📄 View Advisory](advisories/kazakhstan.md) |

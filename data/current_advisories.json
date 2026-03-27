@@ -3,6 +3,14 @@
     "country": "Ireland",
     "level": 1,
     "full_title": "Ireland - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irl.html",
+    "filename_base": "ireland",
+    "date": "Fri, 20 Mar 2026"
+  },
+  {
+    "country": "Ireland",
+    "level": 1,
+    "full_title": "Ireland - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ireland-travel-advisory.html",
     "filename_base": "ireland",
     "date": "Fri, 20 Mar 2026"
@@ -464,14 +472,6 @@
     "date": "Thu, 23 Oct 2025"
   },
   {
-    "country": "Bhutan",
-    "level": 1,
-    "full_title": "Bhutan - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bhutan-travel-advisory.html",
-    "filename_base": "bhutan",
-    "date": "Mon, 20 Oct 2025"
-  },
-  {
     "country": "Sudan",
     "level": 4,
     "full_title": "Sudan - Level 4: Do Not Travel",
@@ -502,6 +502,14 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ecu.html",
     "filename_base": "ecuador",
     "date": "Tue, 14 Oct 2025"
+  },
+  {
+    "country": "Bhutan",
+    "level": 1,
+    "full_title": "Bhutan - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bhutan-travel-advisory.html",
+    "filename_base": "bhutan",
+    "date": "Sun, 12 Oct 2025"
   },
   {
     "country": "Bulgaria",
