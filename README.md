@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-03-28 08:08 UTC
+**Last Updated:** 2026-03-29 08:08 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -57,7 +57,7 @@ Click on a country to view the full archived text of the advisory.
 | **Malaysia** | Sun, 22 Feb 2026 | [📄 View Advisory](advisories/malaysia.md) |
 | **Malta** | Wed, 28 May 2025 | [📄 View Advisory](advisories/malta.md) |
 | **Marshall Islands** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/marshall_islands.md) |
-| **Mongolia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/mongolia.md) |
+| **Mongolia** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/mongolia.md) |
 | **Montenegro** | Tue, 26 Nov 2024 | [📄 View Advisory](advisories/montenegro.md) |
 | **Montserrat** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/montserrat.md) |
 | **Nauru** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/nauru.md) |

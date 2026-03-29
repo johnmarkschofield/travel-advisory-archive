@@ -363,7 +363,7 @@
     "country": "Syria",
     "level": 4,
     "full_title": "Syria - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
     "filename_base": "syria",
     "date": "Thu, 11 Dec 2025"
   },
@@ -395,7 +395,7 @@
     "country": "Uganda",
     "level": 3,
     "full_title": "Uganda - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uganda-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.uga.html",
     "filename_base": "uganda",
     "date": "Mon, 08 Dec 2025"
   },
@@ -1080,14 +1080,6 @@
     "date": "Mon, 03 Feb 2025"
   },
   {
-    "country": "Mongolia",
-    "level": 1,
-    "full_title": "Mongolia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html",
-    "filename_base": "mongolia",
-    "date": "Wed, 22 Jan 2025"
-  },
-  {
     "country": "Federated States of Micronesia",
     "level": 1,
     "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
@@ -1549,6 +1541,14 @@
     "full_title": "Aruba - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/aruba-travel-advisory.html",
     "filename_base": "aruba",
+    "date": "Mon, 19 Aug 2024"
+  },
+  {
+    "country": "Mongolia",
+    "level": 1,
+    "full_title": "Mongolia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html",
+    "filename_base": "mongolia",
     "date": "Mon, 19 Aug 2024"
   },
   {
