@@ -1,7 +1,7 @@
 # Mongolia
 
 **Level 1 Advisory**
-**Date:** Mon, 19 Aug 2024
+**Date:** Wed, 22 Jan 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html)
 
 ---
