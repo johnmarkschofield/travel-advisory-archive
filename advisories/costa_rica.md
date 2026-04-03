@@ -1,7 +1,7 @@
 # Costa Rica
 
 **Level 2 Advisory**
-**Date:** Tue, 10 Dec 2024
+**Date:** Thu, 02 Apr 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cri.html)
 
 ---
