@@ -6,7 +6,7 @@
 
 ---
 
-Exercise Increased Caution in Sao Tome and Principe due to health risks.
+Exercise Increased Caution in Sao Tome and Principe due to **health risks**.
 
 Medical services in Sao Tome and Principe are limited. There are no adequate trauma or ambulance services. Even minor health issues may require medical evacuation at the traveler's expense. Review our information on [Travel Insurance](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html). 
 
