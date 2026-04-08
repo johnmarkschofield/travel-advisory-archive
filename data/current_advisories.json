@@ -56,14 +56,6 @@
     "date": "Mon, 30 Mar 2026"
   },
   {
-    "country": "Gabon",
-    "level": 2,
-    "full_title": "Gabon - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/gabon-travel-advisory.html",
-    "filename_base": "gabon",
-    "date": "Mon, 30 Mar 2026"
-  },
-  {
     "country": "Ireland",
     "level": 1,
     "full_title": "Ireland - Level 1: Exercise Normal Precautions",
@@ -128,19 +120,19 @@
     "date": "Thu, 12 Mar 2026"
   },
   {
+    "country": "Singapore",
+    "level": 1,
+    "full_title": "Singapore - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sgp.html",
+    "filename_base": "singapore",
+    "date": "Mon, 09 Mar 2026"
+  },
+  {
     "country": "Togo",
     "level": 2,
     "full_title": "Togo - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/togo-travel-advisory.html",
     "filename_base": "togo",
-    "date": "Mon, 09 Mar 2026"
-  },
-  {
-    "country": "Singapore",
-    "level": 1,
-    "full_title": "Singapore - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/singapore-travel-advisory.html",
-    "filename_base": "singapore",
     "date": "Mon, 09 Mar 2026"
   },
   {
@@ -158,6 +150,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
     "filename_base": "turkey",
     "date": "Sun, 08 Mar 2026"
+  },
+  {
+    "country": "Angola",
+    "level": 2,
+    "full_title": "Angola - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ago.html",
+    "filename_base": "angola",
+    "date": "Thu, 05 Mar 2026"
   },
   {
     "country": "Pakistan",
@@ -1312,11 +1312,11 @@
     "date": "Fri, 29 Nov 2024"
   },
   {
-    "country": "Mainland China, Hong Kong & Macau",
+    "country": "China",
     "level": 2,
-    "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/china-travel-advisory.html",
-    "filename_base": "mainland_china_hong_kong__macau",
+    "full_title": "China - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chn.html",
+    "filename_base": "china",
     "date": "Wed, 27 Nov 2024"
   },
   {
@@ -1414,14 +1414,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/algeria-travel-advisory.html",
     "filename_base": "algeria",
     "date": "Thu, 26 Sep 2024"
-  },
-  {
-    "country": "Angola",
-    "level": 2,
-    "full_title": "Angola - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/angola-travel-advisory.html",
-    "filename_base": "angola",
-    "date": "Mon, 23 Sep 2024"
   },
   {
     "country": "Panama",
