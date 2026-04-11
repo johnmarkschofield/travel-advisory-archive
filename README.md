@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-04-10 08:28 UTC
+**Last Updated:** 2026-04-11 08:10 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -20,8 +20,8 @@ Click on a country to view the full archived text of the advisory.
 | **Aruba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/aruba.md) |
 | **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
 | **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
-| **Barbados** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/barbados.md) |
-| **Bermuda** | Tue, 12 Nov 2024 | [📄 View Advisory](advisories/bermuda.md) |
+| **Barbados** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/barbados.md) |
+| **Bermuda** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/bermuda.md) |
 | **Bhutan** | Mon, 20 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
 | **Bonaire** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/bonaire.md) |
 | **British Virgin Islands** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/british_virgin_islands.md) |
@@ -53,7 +53,7 @@ Click on a country to view the full archived text of the advisory.
 | **Latvia** | Wed, 01 Apr 2026 | [📄 View Advisory](advisories/latvia.md) |
 | **Liechtenstein** | Thu, 22 May 2025 | [📄 View Advisory](advisories/liechtenstein.md) |
 | **Lithuania** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/lithuania.md) |
-| **Luxembourg** | Fri, 19 Jul 2024 | [📄 View Advisory](advisories/luxembourg.md) |
+| **Luxembourg** | Wed, 08 Apr 2026 | [📄 View Advisory](advisories/luxembourg.md) |
 | **Malaysia** | Sun, 22 Feb 2026 | [📄 View Advisory](advisories/malaysia.md) |
 | **Malta** | Wed, 28 May 2025 | [📄 View Advisory](advisories/malta.md) |
 | **Marshall Islands** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/marshall_islands.md) |
@@ -89,7 +89,7 @@ Click on a country to view the full archived text of the advisory.
 | **Tonga** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tonga.md) |
 | **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
-| **Uzbekistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
+| **Uzbekistan** | Thu, 22 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
 | **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Mon, 16 Dec 2024 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
@@ -101,7 +101,7 @@ Click on a country to view the full archived text of the advisory.
 | :--- | :--- | :--- |
 | **Albania** | Tue, 31 Dec 2024 | [📄 View Advisory](advisories/albania.md) |
 | **Algeria** | Thu, 26 Sep 2024 | [📄 View Advisory](advisories/algeria.md) |
-| **Angola** | Thu, 05 Mar 2026 | [📄 View Advisory](advisories/angola.md) |
+| **Angola** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/angola.md) |
 | **Antarctica** | Tue, 23 Sep 2025 | [📄 View Advisory](advisories/antarctica.md) |
 | **Armenia** | Fri, 05 Sep 2025 | [📄 View Advisory](advisories/armenia.md) |
 | **Belgium** | Thu, 22 May 2025 | [📄 View Advisory](advisories/belgium.md) |
@@ -114,7 +114,6 @@ Click on a country to view the full archived text of the advisory.
 | **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Wed, 18 Dec 2024 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Thu, 16 Jan 2025 | [📄 View Advisory](advisories/chile.md) |
-| **China** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/china.md) |
 | **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Thu, 02 Apr 2026 | [📄 View Advisory](advisories/costa_rica.md) |
 | **Cote d Ivoire** | Wed, 18 Feb 2026 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
@@ -145,6 +144,7 @@ Click on a country to view the full archived text of the advisory.
 | **Lesotho** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/lesotho.md) |
 | **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
 | **Madagascar** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
+| **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Malawi** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/malawi.md) |
