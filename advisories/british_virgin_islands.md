@@ -1,7 +1,7 @@
 # British Virgin Islands
 
 **Level 1 Advisory**
-**Date:** Fri, 22 Aug 0010
+**Date:** Thu, 22 Aug 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/british-virgin-islands-travel-advisory.html)
 
 ---
