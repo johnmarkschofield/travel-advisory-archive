@@ -1,12 +1,12 @@
 # Poland
 
 **Level 1 Advisory**
-**Date:** Thu, 05 Jun 2025
+**Date:** Wed, 05 Jun 20242024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/poland-travel-advisory.html)
 
 ---
 
-** _Reissued after periodic review with minor edits.  _**                  
+**_Reissued after periodic review with minor edits.  _**                  
   
 Exercise normal precautions in Poland.
 
