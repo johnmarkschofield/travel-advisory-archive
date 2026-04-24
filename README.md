@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-04-23 08:33 UTC
+**Last Updated:** 2026-04-24 08:38 UTC
 **Total Countries Tracked:** 214
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -66,7 +66,7 @@ Click on a country to view the full archived text of the advisory.
 | **Norway** | Mon, 03 Feb 2025 | [📄 View Advisory](advisories/norway.md) |
 | **Palau** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/palau.md) |
 | **Paraguay** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/paraguay.md) |
-| **Poland** | Wed, 05 Jun 20242024 | [📄 View Advisory](advisories/poland.md) |
+| **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
 | **Portugal** | Tue, 23 Dec 2025 | [📄 View Advisory](advisories/portugal.md) |
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
 | **Saba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/saba.md) |
@@ -80,7 +80,7 @@ Click on a country to view the full archived text of the advisory.
 | **Sint Eustatius** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_eustatius.md) |
 | **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
 | **Slovakia** | Thu, 12 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
-| **Slovenia** | Tue, 26 Jul 2022 | [📄 View Advisory](advisories/slovenia.md) |
+| **Slovenia** | Fri, 26 Jul 2024 | [📄 View Advisory](advisories/slovenia.md) |
 | **South Korea** | Wed, 28 May 2025 | [📄 View Advisory](advisories/south_korea.md) |
 | **Suriname** | Fri, 13 Dec 2024 | [📄 View Advisory](advisories/suriname.md) |
 | **Switzerland** | Tue, 20 May 2025 | [📄 View Advisory](advisories/switzerland.md) |
@@ -95,7 +95,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 82 countries*
+*Total: 81 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -173,7 +173,6 @@ Click on a country to view the full archived text of the advisory.
 | **Thailand** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/thailand.md) |
 | **The Bahamas** | Mon, 31 Mar 2025 | [📄 View Advisory](advisories/the_bahamas.md) |
 | **The Gambia** | Fri, 16 Jan 2026 | [📄 View Advisory](advisories/the_gambia.md) |
-| **Timor** | Fri, 21 Mar 2025 | [📄 View Advisory](advisories/timor.md) |
 | **Togo** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/togo.md) |
 | **Tunisia** | Wed, 23 Oct 2024 | [📄 View Advisory](advisories/tunisia.md) |
 | **Turkey** | Sun, 08 Mar 2026 | [📄 View Advisory](advisories/turkey.md) |
@@ -183,7 +182,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 32 countries*
+*Total: 33 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -215,6 +214,7 @@ Click on a country to view the full archived text of the advisory.
 | **Saudi Arabia** | Fri, 13 Mar 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **São Tomé and Príncipe** | Wed, 08 Apr 2026 | [📄 View Advisory](advisories/so_tom_and_prncipe.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
+| **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
 | **United Arab Emirates** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |

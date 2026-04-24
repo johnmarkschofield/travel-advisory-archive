@@ -1,7 +1,7 @@
 # Slovenia
 
 **Level 1 Advisory**
-**Date:** Tue, 26 Jul 2022
+**Date:** Fri, 26 Jul 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovenia-travel-advisory.html)
 
 ---
