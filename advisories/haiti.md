@@ -6,7 +6,7 @@
 
 ---
 
-**_There was no change to the advisory level or risk indicators. Advisory summary was updated._**
+** _There was no change to the advisory level or risk indicators. Advisory summary was updated._**
 
 Do Not Travel to Haiti due to the risk of **crime** , **terrorism** , **kidnapping** , **unrest** , and **limited health care**. Read the entire Travel Advisory.
 
