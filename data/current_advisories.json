@@ -1,5 +1,45 @@
 [
   {
+    "country": "Bolivia",
+    "level": 2,
+    "full_title": "Bolivia - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html",
+    "filename_base": "bolivia",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Chad",
+    "level": 4,
+    "full_title": "Chad - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
+    "filename_base": "chad",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Turkey",
+    "level": 2,
+    "full_title": "Turkey - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
+    "filename_base": "turkey",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Azerbaijan",
+    "level": 3,
+    "full_title": "Azerbaijan - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html",
+    "filename_base": "azerbaijan",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Lithuania",
+    "level": 1,
+    "full_title": "Lithuania - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lithuania-travel-advisory.html",
+    "filename_base": "lithuania",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
     "country": "Haiti",
     "level": 4,
     "full_title": "Haiti - Level 4: Do Not Travel",
@@ -51,7 +91,7 @@
     "country": "Luxembourg",
     "level": 1,
     "full_title": "Luxembourg - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/luxembourg-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lux.html",
     "filename_base": "luxembourg",
     "date": "Wed, 08 Apr 2026"
   },
@@ -152,14 +192,6 @@
     "date": "Thu, 12 Mar 2026"
   },
   {
-    "country": "Azerbaijan",
-    "level": 3,
-    "full_title": "Azerbaijan - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/azerbajian-travel-advisory.html",
-    "filename_base": "azerbaijan",
-    "date": "Thu, 12 Mar 2026"
-  },
-  {
     "country": "Belize",
     "level": 2,
     "full_title": "Belize - Level 2: Exercise Increased Caution",
@@ -190,14 +222,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kuwait-travel-advisory.html",
     "filename_base": "kuwait",
     "date": "Mon, 09 Mar 2026"
-  },
-  {
-    "country": "Turkey",
-    "level": 2,
-    "full_title": "Turkey - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
-    "filename_base": "turkey",
-    "date": "Sun, 08 Mar 2026"
   },
   {
     "country": "Cyprus",
@@ -1072,14 +1096,6 @@
     "date": "Wed, 19 Mar 2025"
   },
   {
-    "country": "Chad",
-    "level": 3,
-    "full_title": "Chad - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
-    "filename_base": "chad",
-    "date": "Tue, 18 Mar 2025"
-  },
-  {
     "country": "Kenya",
     "level": 2,
     "full_title": "Kenya  - Level 2: Exercise Increased Caution",
@@ -1608,14 +1624,6 @@
     "date": "Fri, 09 Aug 2024"
   },
   {
-    "country": "Lithuania",
-    "level": 1,
-    "full_title": "Lithuania - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lithuania-travel-advisory.html",
-    "filename_base": "lithuania",
-    "date": "Fri, 09 Aug 2024"
-  },
-  {
     "country": "Palau",
     "level": 1,
     "full_title": "Palau - Level 1: Exercise Normal Precautions",
@@ -1654,14 +1662,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eswatini-travel-advisory.html",
     "filename_base": "eswatini",
     "date": "Mon, 01 Jul 2024"
-  },
-  {
-    "country": "Bolivia",
-    "level": 2,
-    "full_title": "Bolivia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html",
-    "filename_base": "bolivia",
-    "date": "Thu, 06 Jun 2024"
   },
   {
     "country": "New Caledonia",
