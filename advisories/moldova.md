@@ -1,12 +1,12 @@
 # Moldova
 
 **Level 2 Advisory**
-**Date:** Fri, 13 Nov 1970
+**Date:** Fri, 29 Nov 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/moldova-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+** _Reissued after periodic review with minor edits._**
 
 Exercise increased caution while traveling to Moldova. This is due to unresolved conflict between the breakaway region of Transnistria and the central government. Read the entire Travel Advisory.
 

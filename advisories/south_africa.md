@@ -1,7 +1,7 @@
 # South Africa
 
 **Level 2 Advisory**
-**Date:** Tue, 27 May 2025
+**Date:** Mon, 02 Mar 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-africa-travel-advisory.html)
 
 ---
