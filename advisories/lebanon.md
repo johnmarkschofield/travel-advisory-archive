@@ -1,61 +1,97 @@
 # Lebanon
 
 **Level 4 Advisory**
-**Date:** Mon, 23 Feb 2026
+**Date:** Wed, 06 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html)
 
 ---
 
 **Updated to reflect ordered departure** of non-emergency U.S. government personnel and family members of government personnel on February 23.
 
-Do Not Travel to Lebanon due to **crime, terrorism, civil unrest, kidnapping, unexploded landmines, and the risk of armed conflict**. Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
+Do Not Travel to Lebanon for any reason due to the risk of **crime,** **terrorism, unrest, kidnapping, landmines, and armed conflict.** Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
 
-On February 23 the Department of State ordered the departure of non-emergency U.S. government personnel and family members of government personnel due to the security situation in Beirut. U.S. Embassy Beirut personnel are restricted from personal travel without advance permission. Additional travel restrictions may be imposed on U.S. personnel under Chief of Mission security responsibility, with little to no notice due to increased security issues or threats.
+### **Advisory Summary**
 
-**Country Summary:** U.S. citizens in Lebanon should be aware that consular officers from the U.S. Embassy are not always able to travel to assist them. The Department of State considers the threat to U.S. government personnel in Beirut serious enough to require them to live and work under strict security. The internal security policies of the U.S. Embassy may be adjusted at any time and without advance notice.
+On February 23, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to depart Lebanon due to safety risks.
 
-Terrorist groups continue plotting possible attacks in Lebanon. Terrorists may conduct attacks with little or no warning targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities.
+**U.S. government employee travel restrictions  **
 
-Local security authorities have noted a rise in violent crimes, including political violence. Multiple unsolved killings in Lebanon may have been politically motivated.
-
-Kidnapping, whether for ransom, political motives, or family disputes, has occurred in Lebanon. Suspects in kidnappings may have ties to terrorist or criminal organizations.
-
-Unexploded landmines and explosive remnants of war are a hazard along the border with Syria. Heed land mine warning signs. Do not venture off the road into areas marked off with red and white plastic tape. Avoid roadside ditches, shoulders, and unmarked trails. Never touch anything resembling unexploded munitions.
-
-U.S. citizens should avoid demonstrations and exercise caution if in the vicinity of any large gatherings or protests as these have the potential to turn violent quickly and with little notice. Protesters have blocked major roads, including thoroughfares between downtown Beirut and the area where the U.S. Embassy is located, and between Beirut and Beirut-Rafic Hariri International Airport.
-
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Lebanon.html) for additional information on travel to Lebanon.
-
-If you decide to travel to Lebanon:
-
-  * Visit our website for information on [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
-  * Appoint one family member to serve as the point of contact with kidnappers/hostage-takers, media, U.S. and host country government agencies, and members of Congress if you are kidnapped, or taken hostage.
-  * Keep travel documents up to date and easily accessible.
-  * Do not touch unknown metal objects and avoid traveling off well-used roads, tracks, and paths due to risk of unexploded ordnance.
-  * Avoid demonstrations and crowds.
-  * Stay alert in locations frequented by tourists.
-  * Monitor local media for breaking events and adjust your plans based on new information.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook ](https://www.facebook.com/statedept/) and [X](https://x.com/TravelGov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Lebanon.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel) related to your travel.
-  * U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * U.S. Embassy Beirut personnel are restricted from personal travel throughout Lebanon without advance permission.
+  * Additional travel restrictions may be imposed on U.S. personnel under Chief of Mission security responsibility, with little to no notice due to increased security issues or threats.
+  * Due to safety risks, family members cannot join U.S. government employees who work in Lebanon.
+  * The U.S. government has limited ability to offer emergency services to U.S. citizens in Lebanon due to safety risks.
+  * The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict.
 
 
 
-**Southern Lebanon - Level 4: Do Not Travel, Depart If You Are There (See map below)**
+**Aviation Safety**
 
-The U.S. Embassy strongly urges U.S. citizens to avoid southern Lebanon and to depart if you are there; that is, all parts of Lebanon south of the city of Saida, to include inland areas, as illustrated in the map below. There have continued to be instances of military activity in South Lebanon and near the Syrian border since the November 2024 cessation of hostilities arrangement.
+  * The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby the Damascus Flight Information Region (FIR).
+  * The FAA advises caution for flights operating in the airspace within 200 nautical miles of the Damascus FIR due to heightened military activity in or around Syria.
+  * For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "Federal Aviation Administration’s Prohibitions, Restrictions and Notices").****
 
-**![](/content/dam/NEWTravelAssets/images/Picture4.png)**
 
-**Border with Syria - Level 4: Do Not Travel, Depart If You Are There**
 
-The U.S. Embassy strongly urges U.S. citizens to avoid the Lebanon-Syria border and to depart if you are there. This area has seen clashes between Lebanese security forces and Syrian-based groups, as well as recent airstrikes. The U.S. Department of State also warns U.S. citizens of the risk of traveling on flights that fly over Syria, which include some flights to and from Beirut.
+**Crime**
 
-**Refugee Settlements - Level 4: Do Not Travel, Depart If You Are There**
+  * There is risk of non-violent crime throughout Lebanon.
+  * Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
 
-The U.S. Embassy urges U.S. citizens to avoid travel to refugee settlements in Lebanon and depart if you are there. These settlements are prone to outbreaks of violence including shootings and explosions.
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+
+**Terrorism**
+
+There is risk of terrorist violence, including terrorist attacks and other activity in Lebanon. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/reports/country-reports-on-terrorism-2023/lebanon/ "DOS country reports on terrorism") to learn more.
+
+  * Terrorist groups, including Hizballah, IRGC, ISIS, and Hamas, continue plotting possible attacks in Lebanon.
+  * Terrorists may conduct attacks with little or no warning targeting tourist locations, transportation hubs, markets/shopping malls, and local government facilities.
+
+
+
+**Kidnapping and hostage-taking**
+
+There is an ongoing risk of kidnapping and hostage-taking in Lebanon. Local authorities have warned that foreign nationals may be targeted.
+
+  * Americans and other travelers - including tourists, humanitarian workers, journalists, and business professionals - may be viewed as targets of opportunity. If you are kidnapped or taken hostage, the reason for you being in Lebanon is unlikely to offer protection.
+
+
+
+**Unrest**
+
+  * Drone and missile strikes can occur throughout Lebanon, including in Beirut.
+  * Hostilities can disrupt commercial flights, up to and including the infrastructure for accessing the international airport.
+
+
+
+**Landmines**
+
+  * Landmines and unexploded ordnance exist throughout Lebanon.****
+  * Areas of greatest risk are the border with Syria, south of the Litani river, and refugee settlements.****
+  * The locations of landmines and unexploded ordnance are often not marked or easy to recognize.****
+
+
+
+**Southern Lebanon**
+
+  * Southern Lebanon is very dangerous due to risk of terrorism, kidnapping, and armed conflict.
+
+
+
+**The border with Syria**
+
+  * The border with Syria is very dangerous due to risk of terrorism, kidnapping, unexploded ordnance, and armed conflict.
+
+
+
+**The Dahiyeh and areas of southern Beirut**
+
+  * The Dahiyeh and areas of southern Beirut are very dangerous due to risk of terrorism, kidnapping, unexploded ordnance, and armed conflict.
+
+
+
+**Refugee settlements**
+
+  * Refugee settlements are very dangerous due to risk of crime, terrorism, civil unrest, unexploded ordnance, and armed conflict.
+
+
 
