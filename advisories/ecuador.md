@@ -6,7 +6,7 @@
 
 ---
 
-** _There was no change to the advisory level.   The "terrorism" risk indicator was added.  Advisory summary was updated.  _**
+**_There was no change to the advisory level.   The "terrorism" risk indicator was added.  Advisory summary was updated.  _**
 
 Exercise increased caution in Ecuador due to risk of **crime** , **terrorism** , **unrest** , and **kidnapping**. Some areas have increased risk. Read the entire Travel Advisory. 
 
