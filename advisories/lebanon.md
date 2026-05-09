@@ -6,7 +6,7 @@
 
 ---
 
-**Updated to reflect ordered departure** of non-emergency U.S. government personnel and family members of government personnel on February 23.
+_**Updated to reflect ordered departure** of non-emergency U.S. government personnel and family members of government personnel on February 23._
 
 Do Not Travel to Lebanon for any reason due to the risk of **crime,** **terrorism, unrest, kidnapping, landmines, and armed conflict.** Some areas, especially near the borders, have increased risk. Read the entire Travel Advisory.
 
@@ -91,7 +91,27 @@ There is an ongoing risk of kidnapping and hostage-taking in Lebanon. Local auth
 
 **Refugee settlements**
 
-  * Refugee settlements are very dangerous due to risk of crime, terrorism, civil unrest, unexploded ordnance, and armed conflict.
+  * Refugee settlements are very dangerous due to risk of crime, terrorism, civil unrest, unexploded ordnance, and armed conflict.  
+
+
+
+
+**For U.S. citizens in Lebanon:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step#_blank "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/c4d55c2f-f1b7-4763-8317-1c202b33199d "Country Security Report") for Lebanon.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Do not accept drinks from strangers at bars and nightclubs.
+  * Choose one family member to serve as the point of contact. If you are kidnapped or taken hostage, that person can communicate with kidnappers or hostage-takers, media, U.S. or foreign government agencies, and members of Congress.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html "Crisis Response and Evacuations").
+  * Avoid demonstrations and crowds.
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Consider hiring a professional security organization.
+  * Review our information on travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html "High-Risk Areas"), [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html "U.S. Citizens Missing Abroad"), [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad"), and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime").
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/lebanon?s_cid=ncezid-dgmq-travel-leftnav-traveler "CDC Travel Health Information") for Lebanon.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * Prepare a will and end of life disposition instructions.
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
