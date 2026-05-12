@@ -1,28 +1,24 @@
 # Rwanda
 
 **Level 2 Advisory**
-**Date:** Wed, 06 May 2026
+**Date:** Mon, 11 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/rwanda-travel-advisory.html)
 
 ---
 
-**_There was no change to the advisory level.  The "crime" indicator was added. An area of increased risk was added. The Advisory Summary was updated._**
+_**There was no change to the advisory level.  The 3 areas of increased risk were combined into 1. The Advisory Summary was updated.**_
 
-Exercise increased caution in **Rwanda  **due to **crime  **and **unrest**. Some areas have increased risk. Read the entire Travel Advisory. Read the entire Travel Advisory.
+**Exercise increased caution**  in **Rwanda  **due to **crime  **and **unrest**. Some areas have increased risk. Read the entire Travel Advisory. Read the entire
 
-**Do not travel  to:**
+**Travel Advisory**
 
-  * **Musanze District**  within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due to **unrest**.
-  * **Rubavu  District** within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due to **unrest**.
-  * **Rusizi  District** within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due to **unrest.**
-
-
+**Do not travel** to within**  10 kilometers of Rwanda's border with the Democratic Republic of the Congo **due to**  unrest.**
 
 **Advisory Summary**
 
 **Crime**
 
-There is an increased risk of crime in Rwanda. This includes petty crime like pickpocketing or purse snatching, as well as violent crime like mugging, armed robbery, or assault.
+Petty crime like pickpocketing is a risk in urban areas. More serious incidents are less common but can happen. This includes burglary or targeted theft. Stay aware of your surroundings.
 
 **Unrest  **
 
@@ -30,37 +26,15 @@ Armed groups, individuals, and military forces often clash in nearby countries. 
 
 **Level 4 - Do Not Travel**
 
-**Musanze District**
+**Rwanda 's Border with the Democratic Republic of the Congo**
 
-Do not travel to **Musanze District** within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due to **unrest**.
-
-Multiple armed groups, individuals, and military forces operate in North and South Kivu provinces of the Democratic Republic of the Congo. Some of these groups oppose the Rwandan government. Violence may spill into Rwanda without warning.
-
-U.S. government employees working in Rwanda must obtain special authorization to travel to Musanze District.
-
-**Level 4 - Do Not Travel**
-
-**Rubavu  District**
-
-Do not travel to **Rubavu  District **within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due **to unrest**.
+Do not travel to within **10 kilometers of Rwanda 's border with the Democratic Republic of the Congo **for any reason due to **unrest**.
 
 Multiple armed groups, individuals, and military forces operate in North and South Kivu provinces of the Democratic Republic of the Congo. Some of these groups oppose the Rwandan government. Violence may spill into Rwanda without warning.
 
-A permit from the Rwanda Development Board is required for entry to Volcanoes National Park.
+U.S. government employees working in Rwanda must obtain special authorization to travel to this area.
 
-U.S. government employees working in Rwanda must obtain special authorization to travel to Rubavu District.
-
-**Level 4 - Do Not Travel**
-
-**Rusizi  District**
-
-Do not travel to **Rusizi  District** within 10 kilometers of Rwanda's border with the Democratic Republic of the Congo due to **unrest**.
-
-Multiple armed groups, individuals, and military forces operate in North and South Kivu provinces of the Democratic Republic of the Congo. Some of these groups oppose the Rwandan government. Violence may spill into Rwanda without warning.
-
-A permit from the Rwanda Development Board is required for entry to Nyungwe Forest National Park.
-
-U.S. government employees working in Rwanda must obtain special authorization to travel to Rusizi District.
+Volcanoes National Park is not included in this area of increased risk. Review our information on Tourism Safety in Rwanda.
 
 **If you decide to travel to  Rwanda:**
 

@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-05-11 09:04 UTC
-**Total Countries Tracked:** 214
+**Last Updated:** 2026-05-12 08:55 UTC
+**Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 81 countries*
+*Total: 80 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -61,7 +61,6 @@ Click on a country to view the full archived text of the advisory.
 | **Montenegro** | Tue, 26 Nov 2024 | [📄 View Advisory](advisories/montenegro.md) |
 | **Montserrat** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/montserrat.md) |
 | **Nauru** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/nauru.md) |
-| **New Zealand** | Wed, 29 Apr 2026 | [📄 View Advisory](advisories/new_zealand.md) |
 | **New Zealand** | Wed, 29 Apr 2026 | [📄 View Advisory](advisories/new_zealand.md) |
 | **North Macedonia** | Tue, 14 Jan 2025 | [📄 View Advisory](advisories/north_macedonia.md) |
 | **Norway** | Mon, 03 Feb 2025 | [📄 View Advisory](advisories/norway.md) |
@@ -162,7 +161,7 @@ Click on a country to view the full archived text of the advisory.
 | **Peru** | Fri, 16 May 2025 | [📄 View Advisory](advisories/peru.md) |
 | **Philippines** | Thu, 08 May 2025 | [📄 View Advisory](advisories/philippines.md) |
 | **Republic of the Congo** | Wed, 02 Oct 2024 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
-| **Rwanda** | Wed, 06 May 2026 | [📄 View Advisory](advisories/rwanda.md) |
+| **Rwanda** | Mon, 11 May 2026 | [📄 View Advisory](advisories/rwanda.md) |
 | **Serbia** | Fri, 11 Apr 2025 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
 | **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
