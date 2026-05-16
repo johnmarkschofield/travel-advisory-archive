@@ -1,74 +1,109 @@
 # Nicaragua
 
 **Level 3 Advisory**
-**Date:** Fri, 13 Dec 2024
+**Date:** Thu, 14 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nicaragua-travel-advisory.html)
 
 ---
 
-_**Reissued with updates to information on arbitrary enforcement of laws.**_
+**There was no change to the advisory level. Advisory summary was updated.**
 
-Reconsider travel to Nicaragua due to **arbitrary enforcement of laws** , **the risk of wrongful detention** , **and limited healthcare availability**. Exercise increased caution in Nicaragua due to** crime**.
+Reconsider Travel to Nicaragua due to risk of **crime** , **health** , **wrongful detention** , and **arbitrary enforcement of local laws.**
 
-**Country Summary:** The Government of Nicaragua targets individuals and organizations for political purposes. These include: 
+**Advisory summary**
 
-  * NGO workers,
-  * Academics and students,  
+**U.S. government employee travel restrictions**
 
-  * Business representatives,
-  * Civil society leaders,  
-
-  * Religious and charity workers (including foreign missionaries),  
-
-  * Journalists,
-  * And many others.
+  * U.S. government employees working in Nicaragua are generally **not allowed to drive after dark due** to safety risks. These include inadequate street lighting and poor road conditions. However, they are allowed to drive at all times in Managua and on Carretera Masaya between Managua and Granada.
+  * U.S. government employees working in Nicaragua are **not allowed to use public transportation** due to safety risks.
+  * U.S. government employees working in Nicaragua are not allowed to go to these places due to safety risks:
+    * Managua's oriental market
+    * Managua's national baseball stadium
+    * Casinos and strip clubs
 
 
 
-In the past year, the Government of Nicaragua has subjected U.S. citizens to arbitrary entry and exit bans, expulsions, arrests, revocations of Nicaraguan citizenship, and other actions.
+Non-personal service contractors traveling to Nicaragua on official U.S. government business must travel on a service passport starting April 15, 2026.
 
-The Government of Nicaragua may: 
+**Wrongful Detention  
+**The U.S. Department of State has determined that U.S. nationals are at serious risk of wrongful detention by the Government of Nicaragua. Wrongfully detained U.S. nationals may be held in prison for years, in poor conditions, and without due process or consistent access to U.S. government staff or their family. Familiarize yourself with and respect local laws and customs but be aware that local laws are often applied arbitrarily to those who are seen as government opponents. Foreign travelers may face an increased risk of detention and harassment, even if you are also a citizen of Nicaragua.
 
-  * Arbitrarily deny entry or re-entry to Nicaragua or departure from Nicaragua to U.S. citizens and Nicaraguan citizens. This includes entry by air or land. Travel refunds are NOT provided in these cases. Denials and exit bans can occur for political reasons. This includes perceived support for or association with those the government disfavors. **The government is not required to provide a basis for its denial**. 
-  * Search personal phones, computers, social media accounts, and documents for anti-government content. 
-  * Limit photography. 
-  * Seize personal devices. 
-  * Target individuals for political reasons, regardless of nationality. These can include former allies, political activists, business representatives, religious and charity groups, clergy, missionaries, human rights advocates, civil society leaders, academics, and journalists. 
-  * Target pro-democracy advocates and their family members. 
-  * Confiscate privately-owned land, residences, financial assets, or personal property. They may do this without warning or due process. 
-  * Arbitrarily detain, accuse, and charge individuals with terrorism, money laundering, or organized crime offenses. They may do this without fair or transparent processes. 
+The U.S. embassy will work to monitor your health and safety in detention but cannot guarantee your release. Most U.S. nationals who are convicted of committing a crime overseas serve out their sentences in prisons in that country.
+
+**Arbitrary enforcement of local laws  
+**Some U.S. citizens have been detained for several weeks or more. Offenders of some crimes can face 50 or more years in prison. The embassy cannot guarantee your release.
+
+The Government of Nicaragua has imposed some exit bans on U.S. citizens that prevent them from leaving the country without a fair and transparent process under the law.
+
+Authorities carry out expulsions, arrests, revocations of Nicaraguan citizenship, and other actions:
+
+  * On January 16, 2026, the Government of Nicaragua changed its constitution to prohibit dual nationality. Some previously dual Nicaraguan-U.S. citizens have had their Nicaraguan citizenship revoked. Individuals documented as U.S. citizens might no longer be considered Nicaraguan citizens.
+  * Authorities may seize property, including land, homes, cash, and financial assets, without warning or legal justification.
+  * Officials may search phones, computers, and social media for anti-government content. Personal devices may be confiscated.
+  * Public photography in Nicaragua is restricted and may result in penalties, especially for photography of government buildings or police activities.
+  * Drones are illegal.
 
 
 
-**The Department has determined there is a risk of wrongful detention of U.S. nationals by the Government of Nicaragua**. U.S. citizens should reconsider travel to Nicaragua, including to work for or volunteer with non-profits or religious organizations. Since 2018, the Government of Nicaragua has closed more than 5,300 civil society organizations, including religious organizations. Nicaraguan security services have arrested U.S. citizens on false charges. This includes dual U.S.-Nicaraguan citizens. Those arrested can be denied fair and transparent treatment. Convictions routinely occur in non-public trials without adequate defense or credible evidence. Nicaraguan authorities also arbitrarily enforce laws against U.S. citizen religious workers. Nicaraguan authorities have conducted questionable criminal investigations against U.S. citizens engaged in religious activity. U.S. citizens arrested in Nicaragua may be detained for long periods without charges. Judicial processes often lack transparency. This is especially true in politically motivated arrests and property disputes. Political objectives and pressure may affect the willingness of a local attorney to assist and impact the outcomes of legal processes. Prison conditions can be harsh and life-threatening.
+U.S. citizens may be denied entry or prevented from leaving Nicaragua without explanation. The Nicaraguan government has targeted:
 
-Managua has a sole private hospital that is JCAHO (Joint Commission on Accreditation of Healthcare Organizations) accredited and certified, with labs and radiology services available, though it has a very limited number of specialists for acute emergencies. Medical services outside Managua are limited, including for victims of crime. Government hospitals are understaffed and some hospitals throughout the country may not be able to assist in emergencies. Tap water is not reliably potable. Drink only purified bottled water.
+  * Nongovernmental organization (NGO) workers
+  * Teachers, professors, researchers, and students
+  * Business representatives
+  * Civil society leaders
+  * Religious and charity workers, including missionaries
+  * Journalists
+  * U.S. government employees, both active and former
 
-Travelers should exercise increased caution and remain alert to the risks of crime. These include violent crimes such as sexual assault and armed robbery.  
-  
-Poor infrastructure can limit the Embassy's emergency assistance to U.S. citizens. Travel by U.S. government personnel may be restricted at any time.  
-  
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Nicaragua.html) for additional information on travel to Nicaragua. 
 
-If you decide to travel to Nicaragua:
 
-  * Consider arrangements to depart the country quickly. 
-  * Ensure your U.S. passport is valid for your entire stay. 
-  * Avoid demonstrations and restrict unnecessary travel. 
-  * Do not attempt to drive through crowds, barricades, or roadblocks. 
-  * Maintain adequate supplies of food, cash, potable water, and fuel in case you need to shelter in place. 
-  * Use caution when walking or driving at night. 
-  * Keep a low profile. 
-  * Do not display signs of wealth such as expensive watches or jewelry. 
-  * Remain aware of your surroundings. 
-  * Develop a communication plan with family and/or your employer or host organization. 
-  * Be prepared for the high risk of indefinite arbitrary detention on false __ charges without consular access. 
-  * Visit our website for [Travel to High-Risk Areas](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftravel.state.gov.mcas.ms%2Fcontent%2Ftravel%2Fen%2Finternational-travel%2Fbefore-you-go%2Ftravelers-with-special-considerations%2Fhigh-risk-travelers.html%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567). 
-  * Enroll in the [Smart Traveler Enrollment Program](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fstep.state.gov.mcas.ms%2F%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567) ([STEP](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fstep.state.gov.mcas.ms%2F%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567)) to receive Alerts and make it easier to locate you in an emergency. 
-  * Follow the Department of State on [Facebook ](https://www.facebook.com/embusanic/)and [X](https://x.com/usembnicaragua) (formerly known as "Twitter"). 
-  * Review the [Country Security Report](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.osac.gov.mcas.ms%2FContent%2FBrowse%2FReport%3FsubContentTypes%3DCountry%2520Security%2520Report%26McasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567) for Nicaragua. 
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Ftravel.state.gov.mcas.ms%2Fcontent%2Ftravel%2Fen%2Finternational-travel%2Fbefore-you-go%2Ftravelers-checklist.html%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567). 
-  * Visit the CDC page for the latest [Travel Health Information](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwwwnc.cdc.gov.mcas.ms%2Ftravel%2Fdestinations%2Ftraveler%2Fnone%2Fnicaragua%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567) related to your travel.
+**Crime  
+**Violent crime, including robberies, sexual assault, and murder can occur anywhere in Nicaragua.
+
+  * Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings.
+  * Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
+
+
+
+**Health  
+**Medical services for routine and emergency care are limited. Comprehensive quality healthcare is available only in Managua. Medical clinics outside of Managua lack basic resources and supplies.
+
+  * Managua has only one hospital with [Joint Commission International](https://www.jointcommission.org/en/about-us/recognizing-excellence/find-accredited-international-organizations?rfkid_7:content_filters=country:eq:Nicaragua) certification. Labs and radiology services may be available, but the number of specialists is limited, especially for acute emergencies.
+  * Public hospitals are understaffed and lack basic supplies, modern equipment, and trained specialists.
+  * Travelers with preexisting medical conditions or those requiring regular medical care should reconsider traveling to Nicaragua.
+  * Hospitals throughout the country may not be able to assist in emergencies. Medical evacuation to the United States may be the only option in some cases. Medical evacuations are expensive and often are not covered by most insurance.
+  * Tap water is generally not potable. Drink only bottled water.
+
+
+
+**Natural Disaster  
+**Nicaragua regularly experiences hurricanes and tropical storms, earthquakes, and volcanic eruptions. Review our information on weather and natural disasters in Nicaragua.
+
+**If you decide to travel to Nicaragua:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Nicaragua/Content/Detail/Report/ffbdfa45-24ed-4cdb-a534-1c229dd738a3) for Nicaragua.
+  * The best way to avoid wrongful detention is to avoid travel to Nicaragua.
+  * Be ready for the possibility of being held in detention for an unknown amount of time. Nicaraguan authorities may not give you a clear reason for your detention. You may not be able to contact the U.S. embassy for help.
+  * If you choose to travel despite the risk and this warning, develop a communication plan with family, your employer, or host organization. Decide how and when you'll confirm you're safe (text or call). Specify how often you will do this.
+  * Consider the risks involved in having dual U.S.-Nicaragua nationality. If you have Nicaraguan citizenship but live abroad, the Government of Nicaragua may be suspicious of your foreign ties. The United States is less likely to be able to secure consular access to monitor your health and safety as a dual national if you are arrested.
+  * Before you travel, delete any sensitive photos, comments, or content that might be seen as controversial or inappropriate in your destination. Do this for your social media accounts, cameras, laptops, phones, and other accounts and devices.
+  * Keep travel documents up to date and easily accessible.
+  * Avoid demonstrations and crowds.
+  * Keep a low profile.
+  * Stay aware of your surroundings.
+  * Check local media for breaking news. Be prepared to adjust your plans.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Refer to our list of [medical providers](https://ni.usembassy.gov/medical-assitance/).
+  * Make sure your insurance includes medical evacuation coverage.
+  * Check with your doctor about required vaccines and shots for high-risk exposure before you go to Nicaragua.
+  * Bring enough supplies of over the counter and prescription medicines to cover the duration of your trip.
+  * Review our information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report for Nicaragua](https://www.osac.gov/Country/Nicaragua/Detail).
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/nicaragua) for Nicaragua.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

@@ -1,36 +1,44 @@
 # Namibia
 
 **Level 2 Advisory**
-**Date:** Mon, 23 Dec 2024
+**Date:** Fri, 15 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/namibia-travel-advisory.html)
 
 ---
 
-**_Updated to include a risk indicator for health and updates to crime._**
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
-Exercise increased caution in Namibia due to **crime** and**health** risks.
+Exercise increased caution in Namibia due to **crime** and **health**.
 
-**Country Summary:  **Potentially violent crimes, such as home invasions, break-ins, muggings, and "smash and grabs" from vehicles stopped at intersections, parked near common tourist areas, or located in shopping mall parking lots are increasingly common. Crimes of opportunity, primarily the theft of money, cell phones, and personal property, are common.
+**Advisory Summary**
 
-Namibia is sparsely-populated and many visitors travel to remote areas far from emergency services and medical facilities. Health facilities are limited and may not have adequate supplies of basic medications, especially outside of large cities. 
+**Crime**
 
-Read the [Country Information Page](https://travel.state.gov/content/passports/en/country/namibia.html) for additional information on travel to Namibia.
+  * Non-violent crimes of opportunity are common. Most crimes against foreigners are crimes of opportunity, like purse snatching, pickpocketing, and smash and grabs from unoccupied parked vehicles. Potentially violent crimes are possible, including home invasions and armed robberies. Weapons most commonly used by criminals are knives and machetes.
 
-If you decide to travel to Namibia:
 
-  * Avoid walking alone, especially after dark.
-  * Do not display large amounts of cash or other valuables.
-  * Keep car doors locked and windows shut at all times.
-  * Be cautious of people appearing to request assistance by the side of the road.
-  * Use ATMs located in well-lit public places or inside a bank or other business and be cautious of anyone offering assistance in using the ATM.
-  * Always carry a copy of your U.S. passport and Namibian visa or entry stamp (if applicable). Keep original documents in a secure location.
-  * While travel medical insurance is recommended for all travelers, local medical facilities are likely to require full payment in cash at the time of service and may otherwise deny care.
-  * Travelers to Namibia should have medical evacuation insurance.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter](https://twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Namibia.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html)
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/namibia) related to your travel.
+
+**Health**
+
+  * Namibia is sparsely populated. Many visitors travel to remote areas far from emergency services and medical facilities. Health facilities are limited and may not have adequate supplies of basic medications, especially outside of large cities.
+
+
+
+**If you decide to travel to Namibia:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Namibia/Detail "Country Security Report") for Namibia.__
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list "CDC atest Travel Health Information") for Namibia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
+  * Be cautious of people appearing to request help by the side of the road.
+  * Keep car doors locked, and windows always shut.
+  * Carry a copy of your passport and visa (if applicable). Leave originals in your hotel safe.
+  * Stay alert when visiting banks or ATMs.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Use caution when walking or driving at night.
+  * Medical services for routine and emergency procedures are limited. Read the Health section of the Travel Guidance on this page for more information.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad") and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime") _._
 
 
 
