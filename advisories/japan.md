@@ -2,13 +2,23 @@
 
 **Level 1 Advisory**
 **Date:** Thu, 15 May 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jpn.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/japan-travel-advisory.html)
 
 ---
 
-Exercise normal precaution
+**_Reissued after periodic review without changes._**
 
-in **Japan.**
+Exercise normal precautions in Japan.
 
-U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe.
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Japan.html) for additional information on travel to Japan.
+
+If you decide to travel to Japan, U.S. citizens should always exercise caution when traveling abroad. Use these general tips to stay safe: 
+
+  * Enroll in the[ Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Japan/Detail) for Japan.
+  * Prepare a contingency plan for emergency situations.  Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html#_blank).
+  * Visit the CDC page for [the latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
+  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+
+
 
