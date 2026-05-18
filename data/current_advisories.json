@@ -1,5 +1,21 @@
 [
   {
+    "country": "Rwanda",
+    "level": 3,
+    "full_title": "Rwanda - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rwa.html",
+    "filename_base": "rwanda",
+    "date": "Sun, 17 May 2026"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "level": 4,
+    "full_title": "Democratic Republic of the Congo - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
+    "filename_base": "democratic_republic_of_the_congo",
+    "date": "Sun, 17 May 2026"
+  },
+  {
     "country": "Sudan",
     "level": 4,
     "full_title": "Sudan - Level 4: Do Not Travel",
@@ -69,14 +85,6 @@
     "full_title": "Lebanon - Level 4: Do Not Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
     "filename_base": "lebanon",
-    "date": "Wed, 06 May 2026"
-  },
-  {
-    "country": "Rwanda",
-    "level": 2,
-    "full_title": "Rwanda - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rwa.html",
-    "filename_base": "rwanda",
     "date": "Wed, 06 May 2026"
   },
   {
@@ -488,6 +496,14 @@
     "date": "Fri, 16 Jan 2026"
   },
   {
+    "country": "Central African Republic",
+    "level": 4,
+    "full_title": "Central African Republic - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.caf.html",
+    "filename_base": "central_african_republic",
+    "date": "Thu, 15 Jan 2026"
+  },
+  {
     "country": "Comoros",
     "level": 2,
     "full_title": "Comoros - Level 2: Exercise Increased Caution",
@@ -547,9 +563,9 @@
     "country": "Cabo Verde",
     "level": 1,
     "full_title": "Cabo Verde - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cabo-verde-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cpv.html",
     "filename_base": "cabo_verde",
-    "date": "Mon, 15 Dec 2025"
+    "date": "Thu, 18 Dec 2025"
   },
   {
     "country": "Syria",
@@ -638,14 +654,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-sudan-travel-advisory.html",
     "filename_base": "south_sudan",
     "date": "Thu, 13 Nov 2025"
-  },
-  {
-    "country": "Central African Republic",
-    "level": 4,
-    "full_title": "Central African Republic - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/central-african-republic-travel-advisory.html",
-    "filename_base": "central_african_republic",
-    "date": "Mon, 10 Nov 2025"
   },
   {
     "country": "Tanzania",
@@ -768,14 +776,6 @@
     "date": "Fri, 05 Sep 2025"
   },
   {
-    "country": "Democratic Republic of the Congo",
-    "level": 3,
-    "full_title": "Democratic Republic of the Congo - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/democratic-republic-of-the-congo-travel-advisory.html",
-    "filename_base": "democratic_republic_of_the_congo",
-    "date": "Tue, 12 Aug 2025"
-  },
-  {
     "country": "Mexico Travel Advisory",
     "level": 2,
     "full_title": "Mexico Travel Advisory - Level 2: Exercise Increased Caution",
@@ -859,7 +859,7 @@
     "country": "Canada",
     "level": 1,
     "full_title": "Canada - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/canada-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.can.html",
     "filename_base": "canada",
     "date": "Wed, 11 Jun 2025"
   },
