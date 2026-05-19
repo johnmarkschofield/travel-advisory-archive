@@ -8,35 +8,21 @@
 
 Reconsider travel
 
- to Rwanda. **Do not travel at this time to Rwanda due to health (ebola outbreak in the region)**.  
+in Rwanda due to **crime** ,**unrest** and **health** risks. Some areas have increased risk. Read the entire Travel Advisory.
 
 The U.S. government has limited ability to provide emergency consular services to U.S. citizens in Rwanda due to the Health situation.
 
-**On May 15** , the U.S. Centers for Disease Control and Prevention (CDC) issued a [Level 2 (Practice Enhanced Precautions) Travel Health Notice for Ebola](https://wwwnc.cdc.gov/travel/notices/level2/ebola-democratic-republic-of-the-congo) for the Democratic Republic of the Congo (DRC). 
+Health  
+On May 15, the U.S. Centers for Disease Control and Prevention (CDC) issued a [Level 2 (Practice Enhanced Precautions) Travel Health Notice for Ebola](https://wwwnc.cdc.gov/travel/notices/level2/ebola-democratic-republic-of-the-congo) for the Democratic Republic of the Congo (DRC).   
 
-**On May 17** , the World Health Organization (WHO) declared the Ebola outbreak in the DRC and Uganda a [Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). 
 
-Outbreaks of serious infectious diseases are common in the Democratic Republic of the Congo. Visit the Centers for Disease Control and Prevention (CDC) website for the latest Travel Health Information before you travel.
+On May 17, the World Health Organization (WHO) declared the Ebola outbreak in the DRC and Uganda a [Public Health Emergency of International Concern](https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern). 
 
-Do not travel to Rwanda due to **crime, civil unrest** , and **health**. Some areas have increased risk due to armed conflict. Read the entire Travel Advisory.
+Crime  
+There is an increased risk of crime in Rwanda. This includes petty crime like pickpocketing or purse snatching, as well as violent crime like mugging, armed robbery, or assault.
 
-Do not travel to Rwanda for any reason.
-
-**Travel restrictions for government employees.**
-
-Crime
-
-There is an increased risk of **crime** in Rwanda. This includes petty crime like pickpocketing or purse snatching, as well as violent crime like mugging, armed robbery, or assault.
-
-Unrest 
-
+Unrest   
 Armed groups, individuals, and military forces often clash in nearby countries. The ongoing violence in these areas has the risk of spilling over into Rwanda.
 
-**Do not travel to:**
-
-  * Musanze District within 10 kilometers of Rwanda’s border with the Democratic Republic of the Congo due to unrest.
-  * Rubavu District within 10 kilometers of Rwanda’s border with the Democratic Republic of the Congo due to unrest.
-  * Rusizi District within 10 kilometers of Rwanda’s border with the Democratic Republic of the Congo due to unrest.
-
-
+**Do not travel** within **10 kilometers of Rwanda’s border with the Democratic Republic of the Congo** due to **unrest**.
 

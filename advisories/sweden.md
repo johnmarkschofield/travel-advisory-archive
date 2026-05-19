@@ -1,31 +1,45 @@
 # Sweden
 
 **Level 2 Advisory**
-**Date:** Wed, 24 Jul 2024
+**Date:** Mon, 18 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sweden-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review without changes_**
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
 Exercise increased caution in Sweden due to **terrorism**.
 
-**Country Summary:** Terrorist groups continue plotting possible attacks in Sweden. Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of worship, parks, major sporting and cultural events, educational institutions, airports, and other public areas.
+**Advisory summary  
+**There is risk of terrorist violence, including terrorist attacks and other activity in Sweden. Visit the U.S. Department of State's country reports on terrorism to learn more.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Sweden.html) for additional information on travel to Sweden.
+Terrorists may attack without warning and target:
 
-If you decide to travel to Sweden:
+  * Tourist locations
+  * Transportation hubs (airports) 
+  * Markets and shopping malls 
+  * Local government facilities 
+  * Hotels, clubs, and restaurants
+  * Places of worship and religious sites 
+  * Parks 
+  * Major sporting and cultural events 
+  * Educational institutions
+  * Other public areas
+  * Review our [travel guidance for Sweden](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Sweden.html "travel guidance for Sweden") to learn how to prepare for a safe trip.
 
-  * Be aware of your surroundings when traveling to tourist locations and crowded public venues.
-  * Follow the instructions of local authorities.
-  * Monitor local media for breaking events and adjust your plans based on new information.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [Twitter](http://www.twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Country/Sweden/Detail) for Sweden.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * Prepare a contingency plan for emergency situations.  Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
 
 
+**If you decide to travel to Sweden:**
 
- 
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Sweden/Detail "Country Security Report for Sweden") for Sweden.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list "CDC latest Travel Health Information") for Sweden. 
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Keep travel documents up to date and easily accessible.
+  * Have a plan to depart in an emergency.
+  * Review local laws and conditions before traveling.
+
+
 

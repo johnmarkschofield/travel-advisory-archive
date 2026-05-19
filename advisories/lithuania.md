@@ -25,9 +25,7 @@ Lithuania is generally a safe destination for travelers.
   * Monitor local media for breaking news. Be prepared to adjust your plans. 
   * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/lithuania?s_cid=ncezid-dgmq-travel-single-001 "CDC Travel Health Information") for Lithuania.  
   * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist"). 
-  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage. 
-  * Any need for comments about Americans seeking to cross the Russian border into Kaliningrad or the bilateral border into Belarus?
-  * Comment noted, Mr. Grondelski; because Lithuania is Level 1, we cannot reference it in the Travel Advisory, but we can add language on entry to Russia (Kaliningrad) and Belarus via Lithuania in the Lithuania DIP instead.
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

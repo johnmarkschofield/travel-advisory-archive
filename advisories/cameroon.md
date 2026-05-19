@@ -44,8 +44,6 @@ Kidnappings by terrorist organizations are a significant risk in the Far North R
 
 **Level 4 - Do Not Travel**
 
-** **
-
 **The Southwest, Northwest, and Far North Regions**
 
   * Do Not Travel to the Southwest, Northwest, and Far North Regions **for any reason** due to risk of **terrorism, unrest, crime, kidnapping,** and**improvised explosive devices (IEDs).**
@@ -80,11 +78,9 @@ Kidnappings by terrorist organizations are a significant risk in the Far North R
   * Do not physically resist any robbery attempt.
   * Use caution when walking or driving at night.
   * Keep a low profile.
-  * Stay aware of your surroundings.
+  * Stay aware of your surroundings
 
 
-
-** **
 
 **If you decide to travel to Cameroon** :
 
