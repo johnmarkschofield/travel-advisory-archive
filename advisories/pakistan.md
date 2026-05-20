@@ -1,20 +1,29 @@
 # Pakistan
 
 **Level 3 Advisory**
-**Date:** Thu, 05 Mar 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pak.html)
+**Date:** Tue, 03 Mar 2026
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/pakistan-travel-advisory.html)
 
 ---
 
-Reconsider travel
+There were no changes to the advisory level or risk indicators. Advisory summary was updated to reflect changes to U.S. mission operations.
 
-to **Pakistan** due to **armed conflict, terrorism, crime, and kidnapping**. Some areas have increased risk. Read the entire Travel Advisory.
+**Reconsider travel** to Pakistan due to **armed conflict** , **terrorism, crime** , and **kidnapping**. Some areas have increased risk. Read the entire Travel Advisory.
 
-On March 3, 2026, the Department of State ordered non-emergency U.S. government employees and the family members of U.S. government personnel from U.S. Consulates Lahore and Karachi to leave Pakistan due to safety risks. There is no change to the status of Embassy Islamabad.
+**Do not travel to:**
 
-**Terrorism**
+  * **Balochistan Province**  due to **terrorism  **and **kidnapping.**
+  * **Khyber Pakhtunkhwa (KP) Province** , including the former **Federally Administered Tribal Areas (FATA)** , due to **terrorism  **and **kidnapping**.
+  * The immediate vicinity of **the Line of Control**  due to **terrorism  **and the potential for **armed  conflict**.
 
-There is risk of terrorist violence, including terrorist attacks and other activity in Pakistan. Visit the U.S. Department of State's country reports on terrorism to learn more.
+
+
+**Advisory summary**
+
+On March 3, 2026, the Department of State ordered non-emergency U.S. government employees and the family members of U.S. government personnel from U.S. Consulates Lahore and Karachi to leave Pakistan due to safety risks.  There is no change to the status of Embassy Islamabad.
+
+**Terrorism  
+**There is risk of terrorist violence, including terrorist attacks and other activity in Pakistan. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
 Violent extremist groups have carried out attacks in Pakistan. Terrorist attacks typically happen in Balochistan and Khyber Pakhtunkhwa, including the former FATA, but they have also occurred in major cities such as Karachi and Islamabad. 
 
@@ -34,7 +43,7 @@ Local law prohibits protesting or demonstrating without a permit.
 
 **Crime**
 
-Pakistan’s security environment remains fluid. It sometimes changes without notice and can be a serious threat.
+Pakistan's security environment remains fluid. It sometimes changes without notice and can be a serious threat.
 
   * There are greater security resources and infrastructure in the major cities. Security forces in these areas may be more readily able to respond to an emergency compared to other areas of the country.
   * The most reported crimes are pickpocketing, bag-snatching, and phone theft. 
@@ -45,8 +54,8 @@ Pakistan’s security environment remains fluid. It sometimes changes without no
 
 The Government of Pakistan restricts the travel of U.S. government personnel working in Pakistan.
 
-  * U.S. government employees working in Pakistan are required to use armed escorts and armored vehicles when traveling in certain parts of the country, both for official and personal travel. 
-  * The U.S. government has a limited ability to assist or provide services to U.S. citizens in the KP Province, Balochistan Province, Pakistan-administered Azad Kashmir, and most areas outside of Islamabad, Lahore, and Karachi.
+  * U.S. government employees working in Pakistan are required to use armed escorts and armored vehicles when traveling in certain parts of the country, both for official and personal travel.  
+  * The U.S. government has a very limited ability to assist or provide services to U.S. citizens in the KP Province, Balochistan Province, Pakistan-administered Azad Kashmir, and most areas outside of Islamabad, Lahore, and Karachi.
   * U.S. government personnel working in Pakistan must obtain special authorization from the host government to travel to most areas outside of Islamabad, Lahore, and Karachi.
   * Additional restrictions on movements can occur suddenly and at any time. This depends on local circumstances and security conditions. 
   * U.S. government employees working in Pakistan are generally prohibited from attending most large gatherings, such as political rallies or religious ceremonies. 
@@ -57,11 +66,65 @@ The Government of Pakistan restricts the travel of U.S. government personnel wor
 
 The U.S. embassy and consulates have a limited ability to provide consular services to dual U.S.-Pakistani citizens who have been arrested or detained. Pakistani law considers such individuals to be exclusively citizens of Pakistan.
 
-**Do Not Travel to:**
+**Risks in specific areas**
 
-  * **Balochistan Province**  due to **terrorism  **and **kidnapping**.
-  * **Khyber Pakhtunkhwa (KP) Province** , including the former **Federally Administered Tribal Areas (FATA)** , due to **terrorism  **and **kidnapping**.
-  * The immediate vicinity of **the Line of Control**  due to **terrorism  **and the potential for **armed  conflict**.
+**Level: 4 - Do not travel**
+
+**Balochistan Province**
+
+**Do not travel** to **Balochistan Province** for any reason due to **terrorism**  and **kidnapping**.
+
+  * Extremist groups, including an active separatist movement, have conducted deadly terrorist attacks. They target civilians, foreign nationals, religious minorities, government offices, and security forces.
+  * Do not travel to Balochistan Province for any reason due to terrorism and kidnapping.
+  * Assassination and kidnapping attempts are common.
+  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html). 
+
+
+
+**Khyber Pakhtunkhwa (KP) Province, including former FATA**
+
+**Do not travel** to **Khyber Pakhtunkhwa Province** for any reason due to **terrorism**  and **kidnapping**.
+
+  * Active terrorist and insurgent groups routinely conduct attacks. They target civilians, non-governmental organizations, government offices, and security forces.
+  * These groups historically have targeted both government officials and civilians.
+  * Assassination and kidnapping attempts are common. Terrorists target polio eradication teams and Government of Pakistan security services, like police and military staff.
+  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html). 
+
+
+
+**Vicinity of Line of Control**
+
+Do not travel to the Line of Control for any reason due to **terrorism**  and the potential for **armed conflict**.
+
+  * Militant groups are known to operate in the area. India and Pakistan maintain a strong military presence on their respective sides of the Line of Control in the disputed territory of Kashmir.
+  * The only official Pakistan-India border crossing point for people who are not citizens of Pakistan or India is in the Province of Punjab between Wagah, Pakistan, and Atari, India. Confirm the status of the border crossing before your trip.
+  * An Indian visa is required to enter India. No visa services are available at the border.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html). 
+
+
+
+**If you decide to travel to Pakistan:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and travel to [High-Risk Areas.](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html)
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Monitor local media for breaking news.  Be prepared to adjust your plans.
+  * Stay aware of your surroundings.
+  * Stay alert in large crowds or tourist spots.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Monitor local media for breaking events. Be prepared to adjust your plans.
+  * Vary your travel routes and timing.
+  * Be aware of your surroundings, particularly around public markets, restaurants, hotels, police installations, places of worship, and government and military institutions.
+  * Avoid demonstrations and crowds.
+  * Keep travel documents up to date and easily accessible.
+  * Develop a communication plan with family, your employer or host organization. List how and when you'll confirm you're safe (text or call). Specify how often you will do this.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Pakistan.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis Response and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Visit the Centers for Disease Control and Prevention (CDC) page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/pakistan?s_cid=ncezid-dgmq-travel-single-001) for Pakistan.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelatio
 
 
 
