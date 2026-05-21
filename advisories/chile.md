@@ -1,10 +1,27 @@
 # Chile
 
 **Level 2 Advisory**
-**Date:** Thu, 16 Jan 2025
+**Date:** Wed, 20 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chile-travel-advisory.html)
 
 ---
+
+**The health risk indicator was added. There were no changes to the advisory level.  **
+
+Updated to include Health Information.
+
+Cases of Andes (Hantavirus) Virus have been reported in the region.   The risk for most travelers is extremely low; the United States is working with international partners to investigate and prevent further viral spread.  For further information on hantavirus, see here:  <https://www.cdc.gov/hantavirus/about/index.html>
+
+ To prevent exposure to Andes (hantavirus), travelers should:
+
+  * Avoid areas where rodents will likely be found or where there are signs of their presence (e.g., droppings/nests).  If not possible, wear a respirator.
+  * Wash hands often.
+  * Avoid contact with people who have symptoms like fatigue, fever, muscle aches, headaches, dizziness, chills, and/or abdominal pains/problems (nausea, vomiting, diarrhea).
+  * Store food and trash in receptacles with tight fitting lids.
+  * Take special precautions when cleaning/disinfecting areas contaminated by rodent droppings.
+  * Seek medical care and avoid exposure to other people if you experience the symptoms above.  Call ahead, share your travel history, and wear a respirator or well-fitting mask when visiting the healthcare facility.  Symptoms can progress rapidly.
+
+
 
 Exercise increased caution in Chile due to **crime and** **civil unrest.**
 
