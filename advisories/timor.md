@@ -1,31 +1,34 @@
 # Timor
 
 **Level 2 Advisory**
-**Date:** Fri, 21 Mar 2025
+**Date:** Thu, 21 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/timor-leste-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._** Exercise increased caution in Timor-Leste due to crime and civil unrest.
+**_There was no change to the advisory level or risk indicators. Advisory summary was updated._**
 
-**Country Summary:**  Timor-Leste has seen isolated instances of police responding to protests with force and the use of tear gas.
+**Advisory summary**
 
-Stone throwing attacks on vehicles can occur during gang conflicts and periods of unrest.  Sex-based violence is high in Timor-Leste and sexual harassment is fairly common.
+  * Police in Timor-Leste sometimes use force and tear gas against protestors. 
+  * Stone throwing attacks on vehicles can occur during gang conflicts and periods of unrest. 
+  * Sex-based violence and sexual harassment are common in Timor-Leste.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Timor-Leste.html) for additional information on travel to Timor-Leste.
 
-If you decide to travel to Timor-Leste:
 
-  * Keep a low profile.
-  * Be aware of your surroundings.
+**If you decide to travel to Timor-Leste:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/a04ec7bd-520d-4d00-937b-1cc10a6b8bab "Country Security Report") for Timor-Leste.
+  * Keep a low profile
+  * Always be aware of your personal safety and security.
   * Use caution when walking or driving at night.
-  * Avoid demonstrations or crowds.
-  * Keep travel documents up to date and easily accessible.
-  * Obtain comprehensive medical insurance that includes medical evacuation. 
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.     
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Timor-Leste.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).   
-  * We highly recommend you buy insurance before you travel.  Check with your travel insurance provider about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Avoid demonstrations or crowds
+  * Keep travel documents up-to-date and easily accessible.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad") and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime").
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/east-timor "CDC latest Travel Health Information") for Timor-Leste.
+  * Whether you're a first time or frequent traveler, use [the International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "the International Travel Checklist"). 
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

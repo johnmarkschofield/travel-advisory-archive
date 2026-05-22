@@ -6,39 +6,20 @@
 
 ---
 
-_**The health risk indicator was added. There were no changes to the advisory level. Advisory summary was updated.**_
+_**The health risk indicator was added. There were no changes to the advisory level. Advisory summary was updated. Updated to include Health Information.**_
 
-Updated to include Health Information:
+**Exercise normal precautions** in**  Argentina **due to**  health. **Some areas have increased risk. Read the entire Travel Advisory.
 
-Cases of Andes (Hantavirus) Virus have been reported in the region.
+**Health**  
+The U.S. Centers for Disease Control (CDC) has issued a Level 1 Travelers' Health Notice for Andes virus (Hantavirus) in the region. The risk for most travelers is extremely low; the United States is working with international partners to investigate and prevent further viral spread. Review the CDC's Travelers' Health Notice for more information on [Andes virus](https://wwwnc.cdc.gov/travel/notices/level1/andes-virus-south-america). 
 
-The risk for most travelers is extremely low; the United States is working with international partners to investigate and prevent further viral spread. Review the CDC for more information on [hantavirus](https://www.cdc.gov/hantavirus/about/index.html "CDC Hantavirus Information").
-
- To prevent exposure to Andes (hantavirus), travelers should:
-
-  * Avoid areas where rodents will likely be found or where there are signs of their presence (e.g., droppings/nests).  If not possible, wear a respirator.
-  * Wash hands often.
-  * Avoid contact with people who have symptoms like fatigue, fever, muscle aches, headaches, dizziness, chills, and/or abdominal pains/problems (nausea, vomiting, diarrhea).
-  * Store food and trash in receptacles with tight fitting lids.
-  * Take special precautions when cleaning/disinfecting areas contaminated by rodent droppings.
-  * Seek medical care and avoid exposure to other people if you experience the symptoms above.  Call ahead, share your travel history, and wear a respirator or well-fitting mask when visiting the healthcare facility.  Symptoms can progress rapidly.
-
-
-
-Exercise normal precautions in **Argentina** due to**health**.
-
-Some areas have increased risk. Read the entire Travel Advisory.
-
-**Advisory Summary**
-
-Exercise increased caution in **City of Rosario (Santa Fe province)** due to **crime**.
+**Advisory Summary  
+**Exercise increased caution in **City of Rosario (Santa Fe province)** due to **crime**.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Argentina.html) for additional information on travel to Argentina.
 
-**City of Rosario - Level 2: Exercise Increased Caution**  
-
-
-Criminal and narcotics trafficking elements are active in Rosario (Santa Fe province)__ resulting in increased crime and violence.
+**Level 2: Exercise Increased Caution - City of Rosario  
+**Criminal and narcotics trafficking elements are active in Rosario (Santa Fe province)__ resulting in increased crime and violence.
 
 **If you decide to travel to Argentina:  **
 

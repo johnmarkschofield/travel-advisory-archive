@@ -1,74 +1,135 @@
 # Tunisia
 
 **Level 2 Advisory**
-**Date:** Wed, 23 Oct 2024
+**Date:** Thu, 21 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html)
 
 ---
 
-**_Reissued to update information to high-risk areas, country summary, and the "If you decide to travel" section, and Level 4 "Do Not Travel" areas._**
+**_There was no change to the advisory level. The "Crime" and "Unrest" risk indicators were added. Advisory summary was updated._**
 
-Exercise increased caution in Tunisia due to terrorism. Some areas have increased risk. Read the entire Travel Advisory.
+Exercise Increased Caution in Tunisia due to **terrorism, crime,** and **unrest**.  Some areas have increased risk. Read the entire Travel Advisory.
 
-Do not travel to:
+**Do Not Travel to:**
 
-  * Within 16 km of the Algerian border due to terrorism, except for the cities of Tabarka and Ain Draham.
-  * Within 16 km of the border with Libya due to terrorism.
-  * The Mount Chaambi National Park, Mount Salloum, Mount Sammamma, and Mount Mghila in Kasserine governorate due to terrorism.
-  * The Mount Orbata area in the Gafsa governorate due to terrorism.
-  * The desert south of Remada due to the military zone.
+  * **Within 16 km of the Algerian border** due to **terrorism** , except for the cities of Tabarka and Ain Draham.
+  * **Within 16 km of the border with Libya** due to **terrorism**.
+  * **Mount Chaambi National Park, Mount Salloum, Mount Sammamma, and Mount Mghila in Kasserine governorate** due to **terrorism**.
+  * **Mount Orbata area in the Gafsa governorate** due to **terrorism**.
+  * The **desert south of Remada** as it is a military zone.
 
 
 
-**Country Summary:**  Terrorist groups continue plotting possible attacks in Tunisia. Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, museums, resorts, hotels, festivals, nightclubs, restaurants, religious sites, markets/shopping malls, government facilities and security forces. A country-wide state of emergency, which grants security forces more authority to maintain civil order and enables the government to focus on combating terrorism, is in effect.
+### **Advisory summary**
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens in some areas of Tunisia.
+**U.S. government employee travel restrictions**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Tunisia.html) for additional information on travel to Tunisia.
+U.S. government employees working in Tunisia are not allowed to travel to the following locations without prior coordination with the Tunisian government due to safety risks:
 
-If you decide to travel to Tunisia:
+  * 16 km of both the Algerian and Libyan border
+  * Mount Chaambi National Park
+  * Mount Salloum
+  * Mount Sammamma
+  * Mount Mghila in Kasserine governorate
+  * Mount Orbata in Gafsa governorate
+  * The military zone south of Remada
 
+
+
+U.S. citizens in Tunisia are strongly advised to take the same precautions and not travel to these areas for any reason.
+
+**Terrorism**
+
+There is risk of terrorist violence, including terrorist attacks and other activity in Tunisia. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/ "D.O.S. Country reports on terrorism") to learn more.
+
+Terrorist groups continue plotting possible attacks in Tunisia. Terrorist groups and individuals may attack, and may do so without warning or a pre-meditated target. There is a country-wide state of emergency in effect. It gives more authority to security forces to maintain civil order. It allows the government to focus on fighting terrorism.
+
+**Crime**
+
+  * Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings.
+  * Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
+  * Violent crime can occur and is more common after dark. Do not walk or drive at night. 
+
+
+
+**Unrest**
+
+There is high risk of violence and armed conflict in the Desert South of Remada. It is a military zone and requires special government permission to enter. For more information review the section on risks in specific areas.
+
+### **Risks in specific area**
+
+**Level 4: Do Not Travel**
+
+**Border with Algeria**
+
+**Do Not Travel** within **16 km of the Algerian border** due to **terrorism** , except for the cities of Tabarka and Ain Draham.
+
+  * Terrorist groups are present within 16 km of the Algerian border.
+  * U.S. government employees working in Tunisia need special authorization to travel within 16 miles of the border area of Algeria due to safety risks. Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html "Travel to High-Risk Areas").
+
+
+
+**Border with Libya**
+
+**Do Not Travel** within **16 km of the Libyan border** due to **terrorism**.****
+
+The Department of State advises U.S. citizens not to travel to Libya.  
+
+U.S. government employees working in Tunisia need special authorization for travel to Libya due to safety risks. Events in Libya continue to affect security in the Tunisian-Libyan border. This includes areas such as Ras Jedir and Dehiba, and the cities of Ben Guerdan and Medenine.
+
+  * The border with Libya is frequently closed to all traffic with short notice for extended periods.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html "Travel to High-Risk Areas").
+
+
+
+**Mount Chaambi National Park, Mount Salloum, Mount Sammamma, and Mount Mghila in Kasserine governorate**
+
+**Do Not Travel to Mount Chaambi National Park, Mount Salloum, Mount Sammamma, and Mount Mghila in Kasserine governorate** due to**terrorism.  **
+
+All U.S. government employees must follow U.S. embassy travel restrictions for travel to this area.
+
+  * Terrorist groups are present in the mountains of Western Tunisia near the Algerian border.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html "Travel to High-Risk Areas").
+
+
+
+**Mount Orbata area**
+
+**Do not travel to Orbata Mountains in Gafsa in West-Central Tunisia** due to**terrorism.**
+
+All U.S. government employees must follow U.S. embassy travel restrictions for travel to this area.
+
+  * Terrorist groups are present in the mountains of Western Tunisia near the Algerian border.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+
+
+
+**The Desert South of Remada**
+
+**Do not travel** to the **Desert South of Remada** , as it is a military zone**.**
+
+All U.S. government employees must follow U.S. embassy travel restrictions for travel to this area.
+
+  * The desert south of Remada is a military zone. You must have special authorization to enter the military zone.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html "Travel to High-Risk Areas").
+
+
+
+**If you decide to travel to Tunisia:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html "Terrorism") and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html "Travel to High-Risk Areas").
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad") __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime") _._
   * Exercise caution when using public transportation, due to safety and security concerns.
   * Avoid demonstrations and crowds.
   * Monitor local media for breaking events and be prepared to adjust your plans.
   * Avoid staying overnight outside of the main cities and tourist locations.
-  * Obtain comprehensive medical insurance that includes medical evacuation coverage valid for Tunisia.
-  * When entering or transiting through Tunisia, do not bring in Tunisian currency in any amount and avoid bringing in any foreign currency, including dollars, over TND 10,000 (about $3,000 USD). Upon departure, including transit through Tunisia, travelers leaving Tunisia must declare any currency amounts above TND 5,000 (about $1,600 USD) if they wish to export or depart with that amount.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow U.S. Embassy Tunis on [Facebook](https://www.facebook.com/usembassytunis), [Instagram](https://www.instagram.com/usembassytunis/), [Twitter/X](https://x.com/usembassytunis?lang=en) _,_ and [YouTube](https://www.youtube.com/user/usembassytunis) _,_  and the Department of State's Consular Affairs/Travel.gov on [Facebook](https://www.facebook.com/usembassytunis), [Instagram](https://www.instagram.com/travelgov/), and [Twitter/X](https://x.com/usembassytunis?lang=en).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Tunisia.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+  * Review the [Country Security Report](https://www.osac.gov/Country/Tunisia/Detail "Country Security Report") for Tunisia.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list "CDC latest Travel Health Information") for Tunisia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
-**Border with  Algeria - Level 4: Do Not Travel**
-
-Do not travel within 16 km of the Algerian border due to terrorism, except for the cities of Tabarka and Ain Draham.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**Border with Libya - Level 4: Do Not Travel**
-
-Developments in Libya continue to affect the security situation along the Tunisian-Libyan border in areas such as Ras Jedir and Dehiba along with the cities of Ben Guerdan and Medenine. The border with Libya is frequently closed to all traffic with short notice for extended periods. The Department of State advises U.S. citizens not to travel to Libya.
-
-Visit our webpage for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**The Mount Chaambi National Park, Mount Salloum, Mount Sammamma, and Mount Mghila in Kasserine governorate due to terrorism - Level 4: Do Not Travel**
-
-Terrorist groups continue to operate in mountains of Western Tunisia near the Algerian border.
-
-Visit our webpage for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**Orbata Mountains in Gafsa in West-Central Tunisia - Level 4: Do Not Travel**
-
-Terrorist groups continue to operate in the mountainous areas of Western Tunisia near the Algerian border.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
-
-**The Desert South of Remada - Level 4: Do Not Travel**
-
-The desert south of Remada is designated as a military zone by the Government of Tunisia. Special authorization is required for travelers wishing to enter the military zone.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+ 
 

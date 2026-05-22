@@ -1,95 +1,131 @@
 # Somalia
 
 **Level 4 Advisory**
-**Date:** Wed, 14 May 2025
+**Date:** Thu, 21 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html)
 
 ---
 
-_**Updated with changes to security information.**_
+**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
-Do not travel to Somalia due to **crime** , **terrorism** , **civil unrest** , **health** , **kidnapping** , **piracy** , and**lack of availability of routine consular services**.
+Do Not Travel to Somalia due to risk of **crime, kidnapping, terrorism, unrest, health, landmines, systematic mistreatment of women, and systematic mistreatment of gay and lesbian individuals, piracy, abuse of residents in rehabilitation centers, and confiscation of passports by family members.**
 
-**Country Summary  
-**Due to security risks, U.S. government employees working in Somalia are prohibited from traveling outside the Mogadishu International Airport complex where the U.S. Embassy is located. The U.S. Embassy in Mogadishu maintains normal staffing.
+**Advisory Summary**
 
-**Crime  
-**Violent crime is common throughout Somalia, including kidnapping and murder. Illegal roadblocks are widespread.
+**Do not travel to Somalia** for any reason.
 
-**Terrorism  
-**Terrorists continue to plot kidnappings, bombings, and other attacks in Somalia. They may attack with little or no warning and target: 
+The U.S. government has limited ability to offer emergency services to Americans in Somalia due to the safety risks.
 
-  * Airports
-  * Seaports
-  * Government buildings
-  * Hotels and restaurants
-  * Shopping areas
-  * Public places that attract large crowds and tourists
-  * Government, military, and other convoys
+U.S. government employees working in Somalia are not allowed to travel outside the Mogadishu International Airport complex, where the U.S. embassy is located, due to security risks. When they do travel within the complex they are accompanied by armed security. Family members cannot join U.S. government employees who work in Somalia.
+
+**Aviation safety**
+
+** **
+
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby Somalia. For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "Federal Aviation Administration’s Prohibitions, Restrictions and Notices").
+
+**Crime**
+
+Violent crime is common throughout Somalia, including homicide and kidnapping. Illegal roadblocks by armed individuals are widespread.
+
+**Kidnapping**
+
+Terrorists, criminal gangs, and other armed groups frequently kidnap for ransom. Local law enforcement officials are not equipped or trained to handle the threat of kidnapping or to respond to such crimes.
+
+**Terrorism**
+
+** **
+
+There is a notable risk of terrorist violence, including terrorist attacks and other activity. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/ "country reports on terrorism") to learn more.
+
+Terrorists plot kidnappings, bombings, and other attacks in Somalia. Terrorists attack without warning. They may target:
+
+  * airports
+  * seaports
+  * checkpoints
+  * government buildings including police stations and military bases
+  * hotels and restaurants
+  * shopping areas
+  * beaches and other public places that attract large crowds and tourists
+  * government, military, and other convoys
+  * house of worship and religious sites
 
 
 
-Attack methods can include car bombs, suicide bombers, individual attackers, and rocket fire.
+Attack methods can include car bombs, suicide bombers, individual attackers, and rocket or mortar fire.
 
-Some areas, like the Somaliland region, have seen less terrorist activity. However, violence and explosive attacks can happen anywhere in Somalia, at any time.
+**Unrest**
 
-**Civil Unrest  
-**Protests and demonstrations occur throughout Somalia. They can sometimes turn violent.
+** **
 
-  * Check local media for breaking events. Be prepared to adjust your plans.
+Protests and demonstrations occur throughout Somalia. They can turn violent quickly.
+
+**Health**
+
+** **
+
+Medical services in Somalia are extremely limited. They are often unavailable in rural areas. The health care system lacks sufficient pharmaceuticals, medical supplies, and medical professionals. Even minor health issues may require medical evacuation at your expense.
+
+**Other - Landmines**
+
+Landmines, improvised explosive devices (IEDs), and unexploded ordnance exist throughout Somalia. Areas of greatest risk are where Somali and regional security forces are fighting al-Shabaab and ISIS-Somalia. The locations of landmines and unexploded ordnance are often not marked or easy to recognize.
+
+**Other - Systematic mistreatment of women and gay and lesbian individuals**
+
+There are documented patterns of rape. Those responsible usually do not face consequences. Local authorities rarely prosecute these cases. Survivors struggle to get medical care or other help they need. Survivors are often discriminated against and stigmatized.
+
+Female genital mutilation or cutting (FGM/C) is practiced throughout the country. Up to 98 percent of Somali women have undergone FGM/C. This takes place even though circumcision of girls is illegal in Somalia.
+
+Young women, sometimes even minors, are often forced into marriage against their will.
+
+Consensual same-sex sexual relations are criminalized in Somalia. Penalties range from 3 months to 3 years in prison. Under some local interpretations of sharia, same-sex relations are punishable by death.
+
+** **
+
+**Other - Piracy**
+
+Pirates are active in the waters off the Horn of Africa.
+
+**Other - Abuse of residents in rehabilitation centers**
+
+Some schools and other facilities claim to "rehabilitate" people but operate with little or no government supervision. Physical and emotional abuse is common in these places. Beatings, withholding of food and water, and physical restraint by chains are well-documented abuses in such facilities. Residents, including Americans, have been held in these facilities against their will. Americans or residents who lure individuals to Somalia under false pretenses or forcibly place Americans into such facilities may be subject to legal repercussions in the United States.
+
+** **
+
+**Other - U.S. passports confiscated by family members**
+
+** **
+
+Americans are frequently encouraged to visit family members in Somalia, including relatives who are sick or dying. However, once they are in Somalia, their U.S. passports are confiscated by family members, preventing them from leaving the country. In many cases, their activities are monitored and they have difficulty leaving their family home.
+
+**For Americans in Somalia** :
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. government. Enrolling helps the U.S. government contact you or your emergency contact in an emergency.
+  * Review our information [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html "Terrorism") and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html "Travel to High-Risk Areas").
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad") and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime").
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html "Crisis and Evacuations").
+  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html "U.S. Citizens Missing Abroad") and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime").
+  * Be prepared to adjust your plans.
+  * Stay aware of your surroundings.
+  * Avoid demonstrations and crowds.
+  * Keep a low profile.
+  * Stay alert in tourist spots.
   * Keep travel documents up to date and easily accessible.
-  * Have evacuation plans that do not rely on U.S. government assistance.
-
-
-
-**Health  
-**Medical facilities in Somalia have limited capacity. They are often absent in rural areas. The health care system lacks sufficient pharmaceuticals, medical supplies, and medical professionals. Hospitals do not meet U.S. standards. 
-
-  * Bring enough supply of over the counter and prescription medicines, along with copies of their prescriptions, including the generic name for the medicines.
-
-
-
-**Piracy  
-**Pirates are active in the waters off the Horn of Africa, specifically off the coast of Puntland.
-
-**Kidnapping**  
-Violent crime, including kidnapping, is common throughout Somalia. Illegal roadblocks are widespread.
-
-**Lack of availability of consular services  
-**The U.S. government has extremely limited ability to help U.S. citizens in Somalia. There is no permanent consular officer in Somalia, not even the Somaliland region. If a traveler's passport is lost, stolen, expires, or if they become destitute, the U.S. government may not be able to help.
-
-**Other issues  
-**Some schools and other facilities act as "rehabilitation" centers. These facilities exist throughout Somalia with little or no licensing and oversight. Reports of physical abuse are common. People also report being held against their will in these facilities.
-
-There are frequent reports of U.S. citizens who have their passports taken by family members, leaving them unable to leave Somalia. This often occurs when U.S. citizens travel to Somalia to visit family or attend an event. Some adult U.S. citizens cannot leave the international airport because they need explicit consent from their family.
-
-Due to risks to civil aviation from extremist and military activity, the Federal Aviation Administration has issued a Special Federal Aviation Regulation that bans certain U.S. flights within or near Somalia. For more information, U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions, and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
-
-Read the [Country Information Page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Somalia.html) for additional information on travel to Somalia.
-
-If you decide to travel to Somalia:
-
-  * Review your personal security plan and visit our page on [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
-  * Make a plan to exit Somalia rapidly if the situation gets worse. Identify multiple options for leaving Somalia and know the entry requirements for U.S. citizens in to neighboring countries.
-  * Avoid sailing near the coast of Somalia and review the [Live Piracy Report](https://icc-ccs.org/map/) published by the International Maritime Bureau.
-  * Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
-  * Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
-  * Share important documents, login information, and points of contact with loved ones so that they can manage your affairs if you are unable to return as planned to the United States. [Find a suggested list of such documents here](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-  * Make your own personal security plan with your employer or host organization (if you are traveling on business) or consider consulting with a professional security organization.
-  * Develop a communication plan with family and/or your employer or host organization (if you are traveling on business), so that they can monitor your safety and location as you travel through high-risk areas. This plan should specify whom you would contact first, and how that person should share the information.
-  * Identify key sources of possible assistance for you and your family in case of emergency, such as your employer (if traveling on business), and local friends/family as well as friends/family outside Somalia.
-  * Appoint one family member to be the point of contact with hostage-takers and media.
-  * Appoint a family member to be the contact for the U.S. and host country government agencies, and members of Congress if you are taken hostage or detained.
-  * Discuss a proof of life protocol with your loved ones, so that if you are taken hostage, your loved ones can know specific questions (and answers) to ask the hostage-takers to be sure that you are alive (and to rule out a scam).
-  * Leave DNA samples with your medical provider in case it is necessary for your family to access them.
-  * Erase any sensitive photos, comments, or other materials from your social media pages, cameras, laptops, and other electronic devices. These could be considered controversial or provocative by local groups.
-  * Do not bring your sentimental belongings to Somalia.
-  * Enroll your trip in the State Department's [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Report/19e45fcf-3ac5-4059-ad39-269baefc3906) for Somalia.
-  * Prepare a backup plan for emergency situations. Review the Traveler's Checklist.
-  * Update [vaccinations](https://wwwnc.cdc.gov/travel/destinations/traveler/none/somalia) to include all up-to-date standard vaccinations, plus Cholera, Hepatitis A, Hepatitis B, rabies, and a Polio booster.
-  * All visitors should take Malaria prophylaxis. Somalia is high risk for Malaria.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/somalia?s_cid=ncezid-dgmq-travel-single-001) related to your travel.
+  * Develop a communication plan with family, your employer, or host organization. List how and when you will confirm you are safe (text or call). Specify how often you'll do this.
+  * Prepare a will. Designate appropriate insurance beneficiaries or powers of attorney.
+  * Establish a proof of life protocol with your loved ones. If you are taken hostage, your loved ones will know specific questions (and answers) to ask the hostage-takers to confirm that you are being held captive and alive.
+  * Leave DNA samples with your medical provider in case it is necessary for your family to access them for identification purposes.
+  * Do not physically resist any robbery attempt.
+  * Use caution when walking or driving at night.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Do not answer your door at your hotel or residence unless you know who it is.
+  * Stay alert when visiting banks or ATMs.
+  * Make sure your insurance includes medical evacuation coverage.
+  * Review the [Country Security Report for Somalia](https://www.osac.gov/Country/Somalia/Detail "Country Security Report for Somalia").
+  * Review the Department of State's Human Rights Report for your destination prior to traveling.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information for Somalia](https://wwwnc.cdc.gov/travel/destinations/traveler/none/somalia "CDC Travel Health Information for Somalia").
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

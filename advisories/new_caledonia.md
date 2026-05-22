@@ -1,34 +1,46 @@
 # New Caledonia
 
-**Level 3 Advisory**
-**Date:** Tue, 04 Jun 2024
+**Level 2 Advisory**
+**Date:** Thu, 21 May 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/new-caledonia-travel-advisory.html)
 
 ---
 
-**_Updated to reflect change to Travel Advisory Level 3._**
+The advisory level was decreased to 2. The "Unrest" risk indicator was removed. Advisory Summary was updated.
 
-Reconsider travel to New Caledonia due to **civil unrest and crime**.
+**Exercise Increased Caution** in**New Caledonia** due to risk of **crime.  **
 
-U.S. citizens should reconsider travel to New Caledonia or consider departing by commercial or other privately available transportation options, in light of the current security situation and infrastructure challenges following riots related to electoral reform in May 2024. The French Government has taken and/or could take additional measures, including declaring a state of emergency, curfews, restrictions on freedom of movement, ID verification, and increased security inspections. Follow any state of emergency measures imposed in your province.
+**Advisory summary**                                    
 
-Protests, demonstrations, tire burning, and roadblocks are frequent, unpredictable, and have turned violent. During civil unrest, commercial transportation may become unavailable without warning for U.S. citizens wishing to depart New Caledonia. The U.S. government is extremely limited in its ability to provide emergency services to U.S. citizens in New Caledonia - assistance on site is available only from local authorities.
+Exercise increased caution in New Caledonia.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/NewCaledonia.html) for additional information on travel to New Caledonia.  
+Review our travel guidance for New Caledonia to learn how to prepare for a safe trip.
+
+**Exercise increased caution** in**Areas Outside Noumea at night** due to**crime.**
+
+Due to the civil unrest in 2024, an increased police and military presence remains around the country.
+
+  * Political demonstrations and protests may turn violent with little notice. Demonstrations may disrupt transportation and other essential services.
+  * There may be language barriers in calling emergency services, potentially causing delays.
+  * Medical services for routine and emergency procedures are generally available in Noumea, but limited outside of the city. Review the Health section of the Travel Guidance on this page for more information.
+  * The U.S. government is extremely limited in its ability to provide emergency services to U.S. citizens in New Caledonia. Help on site is available only from local authorities.
 
 
-If you decide to travel to New Caledonia: 
 
-  * Avoid demonstrations and crowds.
-  * Do not attempt to drive through roadblocks.
-  * Monitor local media for breaking events and be prepared to adjust your plans.
-  * Be aware of your surroundings.
-  * Formulate departure plans that do not rely on U.S. government assistance.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.   
-  * Follow the Department of State on [Facebook ](https://www.facebook.com/travelgov/)and [Twitter/X.](https://x.com/TravelGov)
+**If you decide to travel to New Caledonia:**
+
+  * Enroll in the [ Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
   * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for New Caledonia.   
-  *  Visit the CDC page for the latest [Travel Health Information ](https://wwwnc.cdc.gov/travel/destinations/list)related to your travel. 
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).    
+  * Avoid demonstrations and crowds.
+  * Check local media for breaking news. Be prepared to adjust your plans.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html) _.  
+_
+  * Visit the Centers for Disease Control and Prevention CDC website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea) for New Caledonia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).  
+
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.  
+
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
 
 
 

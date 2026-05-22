@@ -6,24 +6,12 @@
 
 ---
 
-**The health risk indicator was added. There were no changes to the advisory level.  **
+**The health risk indicator was added. There were no changes to the advisory level.  Updated to include Health Information.**
 
-Updated to include Health Information.
+**Exercise increased caution** in Chile due to**  crime **and **civil unrest.**
 
-Cases of Andes (Hantavirus) Virus have been reported in the region.   The risk for most travelers is extremely low; the United States is working with international partners to investigate and prevent further viral spread.  For further information on hantavirus, see here:  <https://www.cdc.gov/hantavirus/about/index.html>
-
- To prevent exposure to Andes (hantavirus), travelers should:
-
-  * Avoid areas where rodents will likely be found or where there are signs of their presence (e.g., droppings/nests).  If not possible, wear a respirator.
-  * Wash hands often.
-  * Avoid contact with people who have symptoms like fatigue, fever, muscle aches, headaches, dizziness, chills, and/or abdominal pains/problems (nausea, vomiting, diarrhea).
-  * Store food and trash in receptacles with tight fitting lids.
-  * Take special precautions when cleaning/disinfecting areas contaminated by rodent droppings.
-  * Seek medical care and avoid exposure to other people if you experience the symptoms above.  Call ahead, share your travel history, and wear a respirator or well-fitting mask when visiting the healthcare facility.  Symptoms can progress rapidly.
-
-
-
-Exercise increased caution in Chile due to **crime and** **civil unrest.**
+**Health**  
+The U.S. Centers for Disease Control (CDC) has issued a Level 1 Travelers' Health Notice for Andes virus (Hantavirus) in the region. The risk for most travelers is extremely low; the United States is working with international partners to investigate and prevent further viral spread. Review the CDC's Travelers' Health Notice for more information on [Andes virus](https://wwwnc.cdc.gov/travel/notices/level1/andes-virus-south-america). 
 
 **Country Summary:**  Street crime (e.g., muggings, pick-pocketing, theft) is common in Chile. Rates of violent crime, such as assaults, homicide, carjackings, and residential break-ins, are increasing.
 
