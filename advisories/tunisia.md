@@ -20,7 +20,7 @@ Exercise Increased Caution in Tunisia due to **terrorism, crime,** and **unrest*
 
 
 
-### **Advisory summary**
+**Advisory summary**
 
 **U.S. government employee travel restrictions**
 
@@ -56,9 +56,7 @@ Terrorist groups continue plotting possible attacks in Tunisia. Terrorist groups
 
 There is high risk of violence and armed conflict in the Desert South of Remada. It is a military zone and requires special government permission to enter. For more information review the section on risks in specific areas.
 
-### **Risks in specific area**
-
-**Level 4: Do Not Travel**
+**Risks in specific area |  Level 4: Do Not Travel**
 
 **Border with Algeria**
 
@@ -130,6 +128,4 @@ All U.S. government employees must follow U.S. embassy travel restrictions for t
   * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
-
- 
 

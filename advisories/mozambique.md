@@ -1,7 +1,7 @@
 # Mozambique
 
 **Level 2 Advisory**
-**Date:** Mon, 16 Jun 2025
+**Date:** Wed, 16 Jul 2025
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mozambique-travel-advisory.html)
 
 ---

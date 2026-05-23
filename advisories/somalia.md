@@ -20,8 +20,6 @@ U.S. government employees working in Somalia are not allowed to travel outside t
 
 **Aviation safety**
 
-** **
-
 The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby Somalia. For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "Federal Aviation Administration’s Prohibitions, Restrictions and Notices").
 
 **Crime**
@@ -56,13 +54,9 @@ Attack methods can include car bombs, suicide bombers, individual attackers, and
 
 **Unrest**
 
-** **
-
 Protests and demonstrations occur throughout Somalia. They can turn violent quickly.
 
 **Health**
-
-** **
 
 Medical services in Somalia are extremely limited. They are often unavailable in rural areas. The health care system lacks sufficient pharmaceuticals, medical supplies, and medical professionals. Even minor health issues may require medical evacuation at your expense.
 
@@ -80,8 +74,6 @@ Young women, sometimes even minors, are often forced into marriage against their
 
 Consensual same-sex sexual relations are criminalized in Somalia. Penalties range from 3 months to 3 years in prison. Under some local interpretations of sharia, same-sex relations are punishable by death.
 
-** **
-
 **Other - Piracy**
 
 Pirates are active in the waters off the Horn of Africa.
@@ -90,11 +82,7 @@ Pirates are active in the waters off the Horn of Africa.
 
 Some schools and other facilities claim to "rehabilitate" people but operate with little or no government supervision. Physical and emotional abuse is common in these places. Beatings, withholding of food and water, and physical restraint by chains are well-documented abuses in such facilities. Residents, including Americans, have been held in these facilities against their will. Americans or residents who lure individuals to Somalia under false pretenses or forcibly place Americans into such facilities may be subject to legal repercussions in the United States.
 
-** **
-
 **Other - U.S. passports confiscated by family members**
-
-** **
 
 Americans are frequently encouraged to visit family members in Somalia, including relatives who are sick or dying. However, once they are in Somalia, their U.S. passports are confiscated by family members, preventing them from leaving the country. In many cases, their activities are monitored and they have difficulty leaving their family home.
 
