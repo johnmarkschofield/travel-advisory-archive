@@ -1,12 +1,12 @@
 # Suriname
 
 **Level 1 Advisory**
-**Date:** Sun, 01 Dec 2024
+**Date:** Fri, 13 Dec 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/suriname-travel-advisory.html)
 
 ---
 
-** _Reissued with obsolete COVID-19 page links removed._**
+**_Reissued with obsolete COVID-19 page links removed._**
 
 Exercise normal precautions in Suriname.
 
