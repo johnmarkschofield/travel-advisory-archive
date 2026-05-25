@@ -1,5 +1,13 @@
 [
   {
+    "country": "Bangladesh",
+    "level": 1,
+    "full_title": "Bangladesh - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bgd.html",
+    "filename_base": "bangladesh",
+    "date": "Mon, 25 May 2026"
+  },
+  {
     "country": "British Virgin Islands",
     "level": 1,
     "full_title": "British Virgin Islands - Level 1: Exercise Normal Precautions",
@@ -232,19 +240,19 @@
     "date": "Wed, 29 Apr 2026"
   },
   {
+    "country": "Chad",
+    "level": 4,
+    "full_title": "Chad - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tcd.html",
+    "filename_base": "chad",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
     "country": "Bolivia",
     "level": 2,
     "full_title": "Bolivia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html",
     "filename_base": "bolivia",
-    "date": "Tue, 28 Apr 2026"
-  },
-  {
-    "country": "Chad",
-    "level": 4,
-    "full_title": "Chad - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
-    "filename_base": "chad",
     "date": "Tue, 28 Apr 2026"
   },
   {
@@ -566,14 +574,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/uzbekistan-travel-advisory.html",
     "filename_base": "uzbekistan",
     "date": "Thu, 22 Jan 2026"
-  },
-  {
-    "country": "Bangladesh",
-    "level": 3,
-    "full_title": "Bangladesh - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
-    "filename_base": "bangladesh",
-    "date": "Tue, 20 Jan 2026"
   },
   {
     "country": "Jamaica",

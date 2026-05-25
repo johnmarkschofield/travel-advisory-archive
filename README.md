@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-05-24 08:49 UTC
+**Last Updated:** 2026-05-25 09:16 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 80 countries*
+*Total: 81 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -20,6 +20,7 @@ Click on a country to view the full archived text of the advisory.
 | **Aruba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/aruba.md) |
 | **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
 | **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
+| **Bangladesh** | Mon, 25 May 2026 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Barbados** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/barbados.md) |
 | **Bermuda** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/bermuda.md) |
 | **Bhutan** | Mon, 20 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
@@ -185,13 +186,12 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 27 countries*
+*Total: 26 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Azerbaijan** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/azerbaijan.md) |
 | **Bahrain** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/bahrain.md) |
-| **Bangladesh** | Tue, 20 Jan 2026 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
 | **Colombia** | Thu, 17 Apr 2025 | [📄 View Advisory](advisories/colombia.md) |
 | **Cyprus** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/cyprus.md) |
