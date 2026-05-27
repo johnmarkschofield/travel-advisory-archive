@@ -8,6 +8,8 @@
 
 **_There was no change to the advisory level or risk indicators. Advisory summary was updated._**
 
+Exercise Increased Caution in Timor-Leste due to risk of **unrest** and **crime**. Read the entire Travel Advisory.
+
 **Advisory summary**
 
   * Police in Timor-Leste sometimes use force and tear gas against protestors. 
