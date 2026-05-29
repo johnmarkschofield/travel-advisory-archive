@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-05-28 09:09 UTC
-**Total Countries Tracked:** 214
+**Last Updated:** 2026-05-29 09:05 UTC
+**Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 81 countries*
+*Total: 80 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -79,8 +79,7 @@ Click on a country to view the full archived text of the advisory.
 | **Singapore** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/singapore.md) |
 | **Sint Eustatius** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_eustatius.md) |
 | **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
-| **Slovakia** | Thu, 12 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
-| **Slovenia** | Fri, 15 May 2026 | [📄 View Advisory](advisories/slovenia.md) |
+| **Slovakia** | Tue, 10 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
 | **Slovenia** | Fri, 15 May 2026 | [📄 View Advisory](advisories/slovenia.md) |
 | **South Korea** | Wed, 28 May 2025 | [📄 View Advisory](advisories/south_korea.md) |
 | **Suriname** | Fri, 13 Dec 2024 | [📄 View Advisory](advisories/suriname.md) |
@@ -96,7 +95,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 82 countries*
+*Total: 83 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -106,6 +105,7 @@ Click on a country to view the full archived text of the advisory.
 | **Antarctica** | Tue, 23 Sep 2025 | [📄 View Advisory](advisories/antarctica.md) |
 | **Armenia** | Fri, 05 Sep 2025 | [📄 View Advisory](advisories/armenia.md) |
 | **Belgium** | Thu, 22 May 2025 | [📄 View Advisory](advisories/belgium.md) |
+| **Belize** | Thu, 12 Mar 2026 | [📄 View Advisory](advisories/belize.md) |
 | **Benin** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/benin.md) |
 | **Bolivia** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/bolivia.md) |
 | **Bosnia and Herzegovina** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/bosnia_and_herzegovina.md) |
@@ -147,7 +147,7 @@ Click on a country to view the full archived text of the advisory.
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
-| **Malawi** | Thu, 14 May 2026 | [📄 View Advisory](advisories/malawi.md) |
+| **Malawi** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/malawi.md) |
 | **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
 | **Mauritius** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/mauritius.md) |
 | **Mexico Travel Advisory** | Tue, 12 Aug 2025 | [📄 View Advisory](advisories/mexico_travel_advisory.md) |
@@ -184,12 +184,11 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 28 countries*
+*Total: 27 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Azerbaijan** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/azerbaijan.md) |
-| **Bahrain** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/bahrain.md) |
 | **Bahrain** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/bahrain.md) |
 | **Bangladesh** | Tue, 20 Jan 2026 | [📄 View Advisory](advisories/bangladesh.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
@@ -239,7 +238,7 @@ Click on a country to view the full archived text of the advisory.
 | **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **Russia** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/russia.md) |
 | **Somalia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/somalia.md) |
-| **South Sudan** | Sun, 17 May 2026 | [📄 View Advisory](advisories/south_sudan.md) |
+| **South Sudan** | Thu, 13 Nov 2025 | [📄 View Advisory](advisories/south_sudan.md) |
 | **Sudan** | Fri, 15 May 2026 | [📄 View Advisory](advisories/sudan.md) |
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
