@@ -17,7 +17,7 @@ Reconsider Travel to Nicaragua due to risk of **crime** , **health** , **wrongfu
   * U.S. government employees working in Nicaragua are generally **not allowed to drive after dark due** to safety risks. These include inadequate street lighting and poor road conditions. However, they are allowed to drive at all times in Managua and on Carretera Masaya between Managua and Granada.
   * U.S. government employees working in Nicaragua are **not allowed to use public transportation** due to safety risks.
   * U.S. government employees working in Nicaragua are not allowed to go to these places due to safety risks:
-    * Managua's oriental market
+    * Managua's Mercado Oriental
     * Managua's national baseball stadium
     * Casinos and strip clubs
 
