@@ -1,5 +1,13 @@
 [
   {
+    "country": "Burkina Faso",
+    "level": 1,
+    "full_title": "Burkina Faso - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bfa.html",
+    "filename_base": "burkina_faso",
+    "date": "Sat, 06 Jun 2026"
+  },
+  {
     "country": "Democratic Republic of the Congo",
     "level": 4,
     "full_title": "Democratic Republic of the Congo - Level 4: Do Not Travel",
@@ -32,22 +40,6 @@
     "date": "Fri, 22 May 2026"
   },
   {
-    "country": "Somalia",
-    "level": 4,
-    "full_title": "Somalia - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.som.html",
-    "filename_base": "somalia",
-    "date": "Thu, 21 May 2026"
-  },
-  {
-    "country": "Tunisia",
-    "level": 2,
-    "full_title": "Tunisia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tun.html",
-    "filename_base": "tunisia",
-    "date": "Thu, 21 May 2026"
-  },
-  {
     "country": "Andorra",
     "level": 1,
     "full_title": "Andorra - Level 1: Exercise Normal Precautions",
@@ -61,6 +53,14 @@
     "full_title": "Tunisia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html",
     "filename_base": "tunisia",
+    "date": "Thu, 21 May 2026"
+  },
+  {
+    "country": "Somalia",
+    "level": 4,
+    "full_title": "Somalia - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html",
+    "filename_base": "somalia",
     "date": "Thu, 21 May 2026"
   },
   {
@@ -144,43 +144,19 @@
     "date": "Mon, 18 May 2026"
   },
   {
-    "country": "South Sudan",
+    "country": "Sudan",
     "level": 4,
-    "full_title": "South Sudan - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ssd.html",
-    "filename_base": "south_sudan",
-    "date": "Sun, 17 May 2026"
-  },
-  {
-    "country": "Slovenia",
-    "level": 1,
-    "full_title": "Slovenia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.svn.html",
-    "filename_base": "slovenia",
+    "full_title": "Sudan - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sudan-travel-advisory.html",
+    "filename_base": "sudan",
     "date": "Fri, 15 May 2026"
   },
   {
     "country": "Cameroon",
     "level": 2,
     "full_title": "Cameroon - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cmr.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cameroon-travel-advisory.html",
     "filename_base": "cameroon",
-    "date": "Fri, 15 May 2026"
-  },
-  {
-    "country": "Namibia",
-    "level": 2,
-    "full_title": "Namibia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nam.html",
-    "filename_base": "namibia",
-    "date": "Fri, 15 May 2026"
-  },
-  {
-    "country": "Sudan",
-    "level": 4,
-    "full_title": "Sudan - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sudan-travel-advisory.html",
-    "filename_base": "sudan",
     "date": "Fri, 15 May 2026"
   },
   {
@@ -198,22 +174,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovenia-travel-advisory.html",
     "filename_base": "slovenia",
     "date": "Fri, 15 May 2026"
-  },
-  {
-    "country": "Malawi",
-    "level": 2,
-    "full_title": "Malawi - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mwi.html",
-    "filename_base": "malawi",
-    "date": "Thu, 14 May 2026"
-  },
-  {
-    "country": "Nicaragua",
-    "level": 3,
-    "full_title": "Nicaragua - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nic.html",
-    "filename_base": "nicaragua",
-    "date": "Thu, 14 May 2026"
   },
   {
     "country": "Nicaragua",
@@ -251,7 +211,7 @@
     "country": "Lebanon",
     "level": 4,
     "full_title": "Lebanon - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/lebanon-travel-advisory.html",
     "filename_base": "lebanon",
     "date": "Wed, 06 May 2026"
   },
@@ -259,17 +219,9 @@
     "country": "Iceland",
     "level": 1,
     "full_title": "Iceland - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isl.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iceland-travel-advisory.html",
     "filename_base": "iceland",
     "date": "Tue, 05 May 2026"
-  },
-  {
-    "country": "Burkina Faso",
-    "level": 4,
-    "full_title": "Burkina Faso - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bfa.html",
-    "filename_base": "burkina_faso",
-    "date": "Mon, 04 May 2026"
   },
   {
     "country": "Jordan",
@@ -288,19 +240,27 @@
     "date": "Wed, 29 Apr 2026"
   },
   {
-    "country": "Chad",
-    "level": 4,
-    "full_title": "Chad - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tcd.html",
-    "filename_base": "chad",
-    "date": "Tue, 28 Apr 2026"
-  },
-  {
     "country": "Bolivia",
     "level": 2,
     "full_title": "Bolivia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bolivia-travel-advisory.html",
     "filename_base": "bolivia",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Chad",
+    "level": 4,
+    "full_title": "Chad - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/chad-travel-advisory.html",
+    "filename_base": "chad",
+    "date": "Tue, 28 Apr 2026"
+  },
+  {
+    "country": "Turkey",
+    "level": 2,
+    "full_title": "Turkey - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkey-travel-advisory.html",
+    "filename_base": "turkey",
     "date": "Tue, 28 Apr 2026"
   },
   {
@@ -331,7 +291,7 @@
     "country": "Hungary",
     "level": 1,
     "full_title": "Hungary - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.hun.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hungary-travel-advisory.html",
     "filename_base": "hungary",
     "date": "Wed, 15 Apr 2026"
   },
@@ -363,7 +323,7 @@
     "country": "Oman",
     "level": 3,
     "full_title": "Oman - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/oman-travel-advisory.html",
     "filename_base": "oman",
     "date": "Thu, 09 Apr 2026"
   },
@@ -371,8 +331,16 @@
     "country": "Luxembourg",
     "level": 1,
     "full_title": "Luxembourg - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lux.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/luxembourg-travel-advisory.html",
     "filename_base": "luxembourg",
+    "date": "Wed, 08 Apr 2026"
+  },
+  {
+    "country": "Nigeria",
+    "level": 3,
+    "full_title": "Nigeria - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nigeria-travel-advisory.html",
+    "filename_base": "nigeria",
     "date": "Wed, 08 Apr 2026"
   },
   {
@@ -440,14 +408,6 @@
     "date": "Thu, 19 Mar 2026"
   },
   {
-    "country": "Finland",
-    "level": 1,
-    "full_title": "Finland - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fin.html",
-    "filename_base": "finland",
-    "date": "Fri, 13 Mar 2026"
-  },
-  {
     "country": "Saudi Arabia",
     "level": 3,
     "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
@@ -456,11 +416,27 @@
     "date": "Fri, 13 Mar 2026"
   },
   {
+    "country": "Finland",
+    "level": 1,
+    "full_title": "Finland - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/finland-travel-advisory.html",
+    "filename_base": "finland",
+    "date": "Fri, 13 Mar 2026"
+  },
+  {
     "country": "Guatemala",
     "level": 3,
     "full_title": "Guatemala - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html",
     "filename_base": "guatemala",
+    "date": "Thu, 12 Mar 2026"
+  },
+  {
+    "country": "Belize",
+    "level": 2,
+    "full_title": "Belize - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belizetravel-advisory.html",
+    "filename_base": "belize",
     "date": "Thu, 12 Mar 2026"
   },
   {
@@ -504,14 +480,6 @@
     "date": "Tue, 03 Mar 2026"
   },
   {
-    "country": "Bahrain",
-    "level": 3,
-    "full_title": "Bahrain - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
-    "filename_base": "bahrain",
-    "date": "Mon, 02 Mar 2026"
-  },
-  {
     "country": "Qatar",
     "level": 3,
     "full_title": "Qatar - Level 3: Reconsider Travel",
@@ -539,8 +507,16 @@
     "country": "Guinea",
     "level": 2,
     "full_title": "Guinea - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gin.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guinea-travel-advisory.html",
     "filename_base": "guinea",
+    "date": "Wed, 25 Feb 2026"
+  },
+  {
+    "country": "Malawi",
+    "level": 2,
+    "full_title": "Malawi - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malawi-travel-advisory.html",
+    "filename_base": "malawi",
     "date": "Wed, 25 Feb 2026"
   },
   {
@@ -595,7 +571,7 @@
     "country": "Bangladesh",
     "level": 3,
     "full_title": "Bangladesh - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bgd.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bangladesh-travel-advisory.html",
     "filename_base": "bangladesh",
     "date": "Tue, 20 Jan 2026"
   },
@@ -611,7 +587,7 @@
     "country": "The Gambia",
     "level": 2,
     "full_title": "The Gambia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gmb.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html",
     "filename_base": "the_gambia",
     "date": "Fri, 16 Jan 2026"
   },
@@ -651,7 +627,7 @@
     "country": "Russia",
     "level": 4,
     "full_title": "Russia - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rus.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/russia-travel-advisory.html",
     "filename_base": "russia",
     "date": "Mon, 29 Dec 2025"
   },
@@ -715,7 +691,7 @@
     "country": "Mauritius",
     "level": 2,
     "full_title": "Mauritius - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
     "filename_base": "mauritius",
     "date": "Mon, 08 Dec 2025"
   },
@@ -758,6 +734,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/taiwan-travel-advisory.html",
     "filename_base": "taiwan",
     "date": "Tue, 25 Nov 2025"
+  },
+  {
+    "country": "South Sudan",
+    "level": 4,
+    "full_title": "South Sudan - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-sudan-travel-advisory.html",
+    "filename_base": "south_sudan",
+    "date": "Thu, 13 Nov 2025"
   },
   {
     "country": "Central African Republic",
@@ -886,14 +870,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html",
     "filename_base": "mexico_travel_advisory",
     "date": "Tue, 12 Aug 2025"
-  },
-  {
-    "country": "Cambodia",
-    "level": 2,
-    "full_title": "Cambodia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.khm.html",
-    "filename_base": "cambodia",
-    "date": "Fri, 25 Jul 2025"
   },
   {
     "country": "Cambodia",
@@ -1483,7 +1459,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1491,7 +1467,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
