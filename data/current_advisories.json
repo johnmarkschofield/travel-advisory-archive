@@ -1,5 +1,13 @@
 [
   {
+    "country": "Mali",
+    "level": 4,
+    "full_title": "Mali - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mali-travel-advisory.html",
+    "filename_base": "mali",
+    "date": "Mon, 08 Jun 2026"
+  },
+  {
     "country": "Canada",
     "level": 1,
     "full_title": "Canada - Level 1: Exercise Normal Precautions",
@@ -216,19 +224,19 @@
     "date": "Fri, 15 May 2026"
   },
   {
-    "country": "Namibia",
-    "level": 2,
-    "full_title": "Namibia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nam.html",
-    "filename_base": "namibia",
-    "date": "Fri, 15 May 2026"
-  },
-  {
     "country": "Sudan",
     "level": 4,
     "full_title": "Sudan - Level 4: Do Not Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sdn.html",
     "filename_base": "sudan",
+    "date": "Fri, 15 May 2026"
+  },
+  {
+    "country": "Namibia",
+    "level": 2,
+    "full_title": "Namibia - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nam.html",
+    "filename_base": "namibia",
     "date": "Fri, 15 May 2026"
   },
   {
@@ -256,19 +264,19 @@
     "date": "Thu, 14 May 2026"
   },
   {
-    "country": "Nicaragua",
-    "level": 3,
-    "full_title": "Nicaragua - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nic.html",
-    "filename_base": "nicaragua",
-    "date": "Thu, 14 May 2026"
-  },
-  {
     "country": "Brunei",
     "level": 1,
     "full_title": "Brunei - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brn.html",
     "filename_base": "brunei",
+    "date": "Thu, 14 May 2026"
+  },
+  {
+    "country": "Nicaragua",
+    "level": 3,
+    "full_title": "Nicaragua - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nic.html",
+    "filename_base": "nicaragua",
     "date": "Thu, 14 May 2026"
   },
   {
@@ -702,14 +710,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.com.html",
     "filename_base": "comoros",
     "date": "Mon, 12 Jan 2026"
-  },
-  {
-    "country": "Mali",
-    "level": 4,
-    "full_title": "Mali - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mali-travel-advisory.html",
-    "filename_base": "mali",
-    "date": "Fri, 09 Jan 2026"
   },
   {
     "country": "Czechia",
