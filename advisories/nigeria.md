@@ -1,12 +1,12 @@
 # Nigeria
 
 **Level 3 Advisory**
-**Date:** Wed, 08 Apr 2026
+**Date:** Fri, 12 Jun 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nigeria-travel-advisory.html)
 
 ---
 
-**_There were no changes to the Travel Advisory Level or risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations. Do not travel to Plateau, Jigawa, Kwara, Niger, Taraba states were added._**
+**_There was no change to the advisory level or risk indicators.   Advisory summary was updated._**
 
 Reconsider travel to Nigeria due to **crime** , **terrorism** , **unrest** , **kidnapping** , and**  inconsistent availability of health care services**.** ** Some areas have increased risk. Read the entire Travel Advisory.
 
@@ -19,7 +19,7 @@ Reconsider travel to Nigeria due to **crime** , **terrorism** , **unrest** , **k
 
 
 **Advisory summary** :   
-On April 8, 2026, the Department of State authorized non-emergency U.S. government employees and U.S. government employee family members to leave U.S. Embassy Abuja due to the deteriorating security situation.
+
 
 **Crime  and Kidnapping  
 **Violent crime is common throughout Nigeria. This includes armed robbery, assault, carjacking, kidnapping, hostage-taking, roadside banditry, and rape.
