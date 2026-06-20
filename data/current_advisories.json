@@ -1,13 +1,5 @@
 [
   {
-    "country": "The Kyrgyz Republic",
-    "level": 1,
-    "full_title": "The Kyrgyz Republic - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kgz.html",
-    "filename_base": "the_kyrgyz_republic",
-    "date": "Fri, 19 Jun 2026"
-  },
-  {
     "country": "Lesotho",
     "level": 2,
     "full_title": "Lesotho - Level 2: Exercise Increased Caution",
@@ -80,14 +72,6 @@
     "date": "Fri, 22 May 2026"
   },
   {
-    "country": "Somalia",
-    "level": 4,
-    "full_title": "Somalia - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.som.html",
-    "filename_base": "somalia",
-    "date": "Thu, 21 May 2026"
-  },
-  {
     "country": "Andorra",
     "level": 1,
     "full_title": "Andorra - Level 1: Exercise Normal Precautions",
@@ -101,6 +85,14 @@
     "full_title": "Tunisia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html",
     "filename_base": "tunisia",
+    "date": "Thu, 21 May 2026"
+  },
+  {
+    "country": "Somalia",
+    "level": 4,
+    "full_title": "Somalia - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/somalia-travel-advisory.html",
+    "filename_base": "somalia",
     "date": "Thu, 21 May 2026"
   },
   {
@@ -475,7 +467,7 @@
     "country": "Guatemala",
     "level": 3,
     "full_title": "Guatemala - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gtm.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/guatemala-travel-advisory.html",
     "filename_base": "guatemala",
     "date": "Thu, 12 Mar 2026"
   },
@@ -589,6 +581,14 @@
     "full_title": "Slovakia - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html",
     "filename_base": "slovakia",
+    "date": "Tue, 10 Feb 2026"
+  },
+  {
+    "country": "The Kyrgyz Republic",
+    "level": 1,
+    "full_title": "The Kyrgyz Republic - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-kyrgyz-republic-travel-advisory.html",
+    "filename_base": "the_kyrgyz_republic",
     "date": "Tue, 10 Feb 2026"
   },
   {
@@ -1483,7 +1483,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1491,7 +1491,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
