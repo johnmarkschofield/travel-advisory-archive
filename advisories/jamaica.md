@@ -1,30 +1,38 @@
 # Jamaica
 
 **Level 2 Advisory**
-**Date:** Sat, 17 Jan 2026
+**Date:** Tue, 23 Jun 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/jamaica-travel-advisory.html)
 
 ---
 
-The advisory level was decreased to Level 2. There were no changes to the risk indicators. The advisory summary was updated.
+_**There was no change to the advisory level.   The "natural disaster" indicator was removed.  The advisory summary was updated.**_
 
-**Exercise Increased Caution** due to **crime, health,**  and **natural disaster** risks. Some areas have increased risk. Read the entire Travel Advisory.
+**Exercise Increased Caution** due to **crime and health** risks. Some areas have increased risk. Read the entire Travel Advisory.
+
+**Reconsider travel** to:
+
+  * **St. Ann 's Parish** - Steer Town due to risk of **crime**.
+  * **St. Catherine 's Parish **- Central Village, Waterford, March Pen, and Grange Lane due to risk of **crime**.
+  * **Clarendon Parish** - York Town and Western Park due to risk of **crime**.
+  * **St. Elizabeth 's Parish** - Crawford District and New Town due to risk of **crime**.
+  * **Hanover Parish** - The Green Island Area due to risk of **crime**.
+  * **St. James Parish** - Salt Spring, Flankers, Rose Heights, the Hart Street area, Norwood, and Mount Salem due to risk of **crime**.
+  * **Kingston and St. Andrew Parish** \- August Town, Brooke Valley, Mountain View, Nannyville Gardens, Swallowfield area, New Haven, the Sherlock Crescent area, Denham Town, Parade Gardens, and Greenwich Town due to risk of **crime**.
+  * **Manchester Parish** - Old England, New Hall, and Grey Ground due to risk of **crime**.
+  * **St. Thomas Parish** - The Seaforth area (Blacksmith Lane and Navarre Lane) due to risk of **crime**.
+  * **Westmoreland Parish** - Grange Hill and Savanna-la-Mar due to risk of **crime**.
+
+
 
 **Advisory Summary  
 **
 
 **U.S. government employee travel restrictions  
-**U.S. government employees working in Jamaica are not allowed to use public buses or drive between cities at night. They are also not allowed to travel to certain high-risk areas, as noted below.
+**  
+U.S. government employees working in Jamaica are not allowed to use public buses or drive between cities at night due to road conditions and safety risks. They are also not allowed to travel to areas with increased safety risks without prior authorization.
 
-U.S. citizens in Jamaica should take the same precautions.
-
-**Natural disaster**
-
-Jamaica continues to recover from Hurricane Melissa, which made landfall there on October 28, 2025. The hurricane caused widespread damage to the western part of the island. Some areas are still experiencing post-storm impacts on infrastructure and services. 
-
-  * All major airports have reopened for commercial flights.
-  * Some areas in the western part of Jamaica, such as Black River and Montego Bay, are in varying stages of recovery from the hurricane. Exercise increased caution if traveling to affected areas at this time.
-  * Confirm availability of services and amenities at your destination before you travel to Jamaica.
+  * U.S. citizens in Jamaica should take the same precautions.
 
 
 
@@ -40,48 +48,124 @@ Jamaica continues to recover from Hurricane Melissa, which made landfall there o
 
 
 **Health  
-**Basic and specialized medical care may not be available in many parts of Jamaica. This includes slower emergency service response times and less availability of care for illness or injury.
+**  
+Basic and specialized medical care may not be available in many parts of Jamaica. This includes slower emergency service response times and less availability of care for illness or injury. Read the Health section of the Travel Guidance on this page for more information.
 
-  * Health care facilities in western Jamaica were badly damaged by Hurricane Melissa.
   * Private hospitals require payment up front before admitting patients. They may not be able to provide specialized care.
   * Ambulance services are not always staffed with EMTs. They are not always readily available, especially in rural areas.
-  * U.S. citizens should bring extra prescription medication. Common medications, such as insulin, can be difficult to obtain.
+  * U.S. citizens should bring extra prescription medication. Common medications, such as insulin, can be difficult to obtain. Be sure to bring enough of your medications (including prescription and over-the-counter) to last the full duration of your trip.
   * U.S. Medicare and Medicaid do not apply abroad.
   * Most hospitals and doctors abroad do not accept U.S. health insurance.
-  * Air ambulance service to the United States costs $30,000 on the low end.
+  * Air ambulance service to the United States costs approximately 30,000 USD as a minimum price.
   * We strongly recommend that you have travel insurance and confirm your coverage. Travel insurance should include medical insurance, evacuation assistance, and other trip coverage.
+  * If you purchase medical travel insurance, you are responsible for seeking reimbursement from your medical insurance. Follow their guidance and instructions for filing claims.
+  * The Department of State **does not** pay medical bills.
 
 
 
-The Department of State does not pay medical bills.
+**Risks in specific areas**
 
-**Level 4 - Do Not Travel**
+**Level 3 - Reconsider Travel**
 
-**High crime areas**
+**St. Ann 's Parish - Steer Town**
 
-**Do Not Travel  **to**  high crime areas **due to risk of**  crime.**
+**Reconsider travel  **to**  St. Ann's Parish - Steer Town **due to risk of**  crime.**
 
 **U.S. government employee travel restrictions**
 
-U.S. government employees working in Jamaica are not allowed to travel to the following high-risk areas. U.S. citizens in Jamaica are advised to take the same precautions.
-
-Do not travel to these areas for any reason:
-
-  * **St. Ann 's Parish - **Steer Town and the Buckfield neighborhood near Ocho Rios.
-  * **St. Catherine 's Parish - **Spanish Town, Central Village, areas within Portmore, including: Naggo Head, New Land, Old Braeton, Portmore Lane, Gregory Park, and Waterford.
-  * **Clarendon Parish -  **All of Clarendon Parish, except passing through Clarendon Parish using the T1 and A2 highways.
-  * **St. Elizabeth 's Parish - **Vineyard District Community, between the communities of Salt Spring and Burnt Savanna, St. Elizabeth.
-  * **Hanover Parish -  **Logwood and Orange Bay.
-  * **St. James Parish/Montego Bay -  **Inland side of the A1 highway and The Queen's Drive from San San to Harmony Beach Park.
-  * **Kingston and St. Andrew Parish -  **Cassava Piece, Duhaney Park, Grants Pen, Standpipe, Swallowfield, Elleston Flats, August Town, and downtown Kingston, defined as between Mountain View Avenue and Hagley Park Road, and south of Half Way Tree and Old Hope Roads. Downtown Kingston includes Arnett Gardens, Cockburn Gardens, Denham Town, Olympic Gardens, Seaview Gardens, Trench Town, and Tivoli Gardens.
-  * **Manchester Parish -  **Green Vale and Gray Ground neighborhoods of Mandeville.
-  * **St. Thomas Parish -  **Black Lane neighborhood in Seaforth, Grands Penn, Church Corner neighborhood near Yallahs, Town of Yallahs, except when driving through on the main highway.
-  * **Trelawny Parish -  **Clarks Town.
-  * **Westmoreland Parish -  **Russia community in Savanna-la-Mar (The Southeastern quadrant of Savannah la Mar east of Darling Street and south of the A2 highway/Barracks Road), Morgan Bay, Kings Valley, The Whitehall, Bethel Town, and Red Ground neighborhoods of Negril.
+  * U.S. government employees working in Jamaica are not allowed to travel to St. Ann's Parish - Steer Town without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
 
 
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+**St. Catherine 's Parish** **-  Central Village, Waterford, March Pen, and Grange Lane**
+
+**Reconsider travel  **to**  St. Catherine's Parish - **Central Village, Waterford, March Pen, and Grange Lane due to risk of**  crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to St. Catherine's Parish - Central Village, Waterford, March Pen, and Grange Lane without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**Clarendon Parish -  York Town and Western Park**
+
+**Reconsider travel  **to**  Clarendon Parish - York Town and Western Park** due to risk of**  crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to Clarendon Parish - York Town and Western Park without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**St. Elizabeth 's Parish - Crawford District and New Town**
+
+**Reconsider travel  **to**  St. Elizabeth's Parish - Crawford District and New Town** due to risk of**  crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to St. Elizabeth's Parish - Crawford District and New Town without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**Hanover Parish -  The Green Island Area**
+
+**Reconsider travel  **to**  Hanover Parish - The Green Island Area **due to risk of**  crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to Hanover Parish - The Green Island Area without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**St. James Parish -  Salt Spring, Flankers, Rose Heights, the Hart Street area, Norwood, and Mount Salem**
+
+**Reconsider travel  **to**St. James Parish -  Salt Spring, Flankers, Rose Heights, the Hart Street area, Norwood, and Mount Salem **due to risk of**  crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to St. James Parish - Salt Spring, Flankers, Rose Heights, the Hart Street area, Norwood, and Mount Salem without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**Kingston and St. Andrew Parish - August Town, Brooke Valley, Mountain View, Nannyville Gardens, Swallowfield area, New Haven, the Sherlock Crescent Area, Denham Town, Parade Gardens, and Greenwich Town**
+
+**Reconsider travel** to**Kingston and St. Andrew Parish - August Town, Brooke Valley, Mountain View, Nannyville Gardens, Swallowfield area, New Haven, the Sherlock Crescent Area, Denham Town, Parade Gardens, and Greenwich Town** due to risk of **crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to Kingston and St. Andrew Parish - August Town, Brooke Valley, Mountain View, Nannyville Gardens, Swallowfield area, New Haven, the Sherlock Crescent Area, Denham Town, Parade Gardens, and Greenwich Town without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**Manchester Parish - Old England, New Hall, and Grey Ground**
+
+**Reconsider travel** to **Manchester Parish - Old England, New Hall, and Grey Ground **due to risk of **crime.**
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to Manchester Parish - Old England, New Hall, and Grey Ground without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**St. Thomas Parish - The Seaforth Area (Blacksmith Lane and Navarre Lane)**
+
+**Reconsider travel** to **St. Thomas Parish - The Seaforth Area (Blacksmith Lane and Navarre Lane) **due to risk of **crime**.
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to St. Thomas Parish - The Seaforth Area (Blacksmith Lane and Navarre Lane) without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
+
+**Westmoreland Parish - Grange Hill and Savanna-la-Mar**
+
+**Reconsider travel** to **Westmoreland Parish - Grange Hill and Savanna-la-Mar **due to risk of **crime**.
+
+**U.S. government employee travel restrictions**
+
+  * U.S. government employees working in Jamaica are not allowed to travel to Westmoreland Parish - Grange Hill and Savanna-la-Mar without prior authorization as crime rates are elevated above national averages and violent incidents occur. While violence is typically targeted in nature, U.S. citizens in Jamaica should reconsider travel.
+
+
 
 **If you decide to travel to Jamaica:**
 
