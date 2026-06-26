@@ -1,61 +1,64 @@
 # El Salvador
 
 **Level 1 Advisory**
-**Date:** Tue, 08 Apr 2025
+**Date:** Thu, 25 Jun 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/el-salvador-travel-advisory.html)
 
 ---
 
-**_Updated due to change in travel advisory level to reflect changes in crime._**
+**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**
 
-**Country Summary:** Exercise normal precautions in El Salvador. Gang activity has decreased over the last three years. This has caused a drop in violent crimes and murders.
-
-U.S. government employees working in El Salvador are allowed to travel throughout the country during daylight hours. However, due to the risks, U.S. government employees are prohibited from traveling between cities or departments at night.
+**Advisory Summary  
+**  
+U.S. government employees working in El Salvador are allowed to travel throughout the country during daylight hours. However, due to road conditions, hilly terrain, possible landslides during the rainy season, and general lack of streetlights, U.S. government employees are prohibited from traveling between cities or departments (the Salvadoran equivalent of states) at night. Gang activity has decreased dramatically since 2022, causing a drop in violent crime and murders.
 
 There are exceptions. U.S. government employees are allowed to travel at all hours between San Salvador and:
 
-  * El Salvador's international airport.
-  * La Libertad department.
+  * El Salvador's international airport
+  * La Libertad department
 
 
 
 U.S. government employees are prohibited from using public buses.
 
-**State of Exception**
+  * Review our [travel guidance](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.slv.html#requirements "Travel Guidance") for El Salvador to learn how to prepare for a safe trip.
+
+
+
+**State of Exemption**
 
 In March 2022, the Government of El Salvador declared a "State of Exception" in response to an increase in gang murders:
 
   * The State of Exception allows local authorities to arrest anyone they think is involved in gang activity.
-  * It suspends several constitutional rights. This includes the normal protections of criminal procedure, like the right to a speedy or fair trial.
-  * Tens of thousands of people are currently in prison under the State of Exception.
-  * Several U.S. and other foreign citizens have been detained under the State of Exception. They remain in prison and have yet to face trial.
+  * It suspends several constitutional rights. This includes the normal protections of criminal procedure, such as the right to a speedy trial and access to counsel.
+  * Tens of thousands of people are currently in prison under the State of Exception, all awaiting trial.
 
 
 
-The State of Exception is still in place.
+Several U.S. citizens have been detained under the State of Exception. They have yet to face trial. The State of Exception is still in place.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/ElSalvador.html) for additional information on travel to El Salvador.
+#### If you decide to travel to El Salvador:
 
-If you decide to travel to El Salvador: 
-
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report for El Salvador](https://www.osac.gov/Country/ElSalvador/Detail).
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) for El Salvador.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
+  * Review our information on [Crime Abroad](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/travel-advisories/crime.html) and for [Victims of Crime](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/help-abroad/victims-crime.html).
+  * You are subject to local laws when traveling abroad. The U.S. government cannot guarantee your release when you are detained or arrested abroad.
+  * Visit our page regarding [Arrest and Detention Abroad](http://pdcwowwftsg03.ca.state.sbu/content/tsg_aem/us/en/home/international-travel/help-abroad/arrest-detention.html) for more information on what happens when you or a loved one is arrested abroad.
+  * El Salvador has zero tolerance for driving under the influence of alcohol. You can be detained for having any level of alcohol while driving. Do not drink and drive.
   * Always use major highways and roads.
   * Minimize travel outside of major cities at night.
-  * El Salvador has zero tolerance for driving under the influence of alcohol. You can be detained for having any level of alcohol while driving. Do not drink and drive.
   * Stay aware of your surroundings.
-  * When possible, travel in pairs or in groups, especially for long trips and in rural places.
-  * Avoid relying on online maps or applications. They might not accurately show local road conditions.
+  * When possible, travel in pairs or in groups.
   * Do not hitchhike.
   * Ensure you have multiple forms of communication when traveling and the ability to charge your devices.
   * Do not physically resist any robbery attempt.
   * Stay alert when visiting banks or ATMs.
   * Do not display signs of wealth, such as expensive watches or jewelry.
-  * Engage local guides certified by the national or local tourist authority when hiking in backcountry areas. 
-  * Use caution when swimming near El Salvador's beaches. Follow water condition warnings.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Country/ElSalvador/Detail) for El Salvador.
-  * Prepare a backup plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html) _._
-  * Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Engage local guides certified by the national or local tourist authority when hiking in backcountry areas.
+  * Use caution when swimming near El Salvador's beaches. Follow water condition warnings (such as red and black flags) and be aware of riptides. Use extra caution when visiting beaches that do not have the flag warning system. When in doubt, stay out of the water.
 
 
 
