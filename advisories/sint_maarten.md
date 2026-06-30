@@ -6,9 +6,9 @@
 
 ---
 
-**Reissued after periodic review without changes.**
+**_Reissued after periodic review without changes._**
 
-Exercise normal precautions in Sint Maarten.
+Exercise normal precautions in**Sint Maarten**.
 
 Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SintMaarten.html) for additional information on travel to Sint Maarten.
 
