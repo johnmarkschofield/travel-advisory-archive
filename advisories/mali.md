@@ -6,7 +6,7 @@
 
 ---
 
-**_There was no change to the advisory level or risk indicators. Advisory summary was updated to reflect changes to U.S. Embassy operations_**.
+** _There was no change to the advisory level or risk indicators. Advisory summary was updated to reflect changes to U.S. Embassy operations_**.
 
 **Do Not Travel** to Mali for any reason due to **crime, terrorism, kidnapping** , **unrest** and **health.**
 
