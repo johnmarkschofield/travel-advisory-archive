@@ -1,36 +1,68 @@
 # Moldova
 
 **Level 2 Advisory**
-**Date:** Fri, 29 Nov 2024
+**Date:** Wed, 07 Jul 2027
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/moldova-travel-advisory.html)
 
 ---
 
-** _Reissued after periodic review with minor edits._**
+_**There was no change to the advisory level. The "other" risk indicator was added for landmine risk and the "unrest" indicator for Transnistria. Advisory summary was updated.**_
 
-Exercise increased caution while traveling to Moldova. This is due to unresolved conflict between the breakaway region of Transnistria and the central government. Read the entire Travel Advisory.
+**Exercise Increased Caution** in **Moldova** due to risk of **unexploded ordnance (UXO)**. Some areas have increased risk. Read the entire travel advisory.
 
-**Country Summary:  **There have been reports of debris from airborne projectiles landing in Moldova, however there is no indication that Moldova is being targeted in Russia's war against Ukraine. The Chisinau airport is operating normally although there are no flights available to or from Belarus, Russia or Ukraine.
+**Reconsider Travel** to**Transnistria** due to risk of **armed conflict.**
 
-Read the Moldova [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Moldova.html) for additional information on travel.
+**Advisory Summary**
 
-If you decide to travel to Moldova:
-
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter.](https://twitter.com/TravelGov)
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Moldova.
-  * Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/moldova-travel-advisory.html#ExternalPopup) related to your travel.
-  * U.S. citizens who travel abroad should always have a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * There are ongoing security threats related to Russia's war against Ukraine.
+  * Petty crime such as purse snatching and pickpocketing is common, especially in popular tourist locations. Stay aware of your surroundings. Be wary of people posing as police officers demanding fines. Take safety precautions against ATM "skimming" devices and online scams.
 
 
 
-**Transnistria - Level 3: Reconsider Travel**
+**Unexploded Ordnance (UXO)**
 
-Transnistria. There is also military conflict in nearby Ukraine.
+Although Moldova declared itself "mine-safe" in March 2001, some areas have increased risk.  
 
-Transnistria is a region that is not under the control of the Moldovan government. Visitors must show identification to cross into Transnistria. Those without a Moldovan government-issued identification document will have to show a passport. Visitors may also have to show ID such as a passport at checkpoints. This is at roads leading into and out of the region. Ukraine has closed its border crossing points into the Transnistrian region. Taking photographs of military facilities and security forces is not allowed and may result in trouble with authorities. 
+Unexploded ordnance and landmines exist in central Moldova:
 
-The U.S. government's ability to provide emergency services to U.S. citizens traveling in Transnistria maybe be limited or delayed since Transnistria's de facto authorities control access to the region.
+  * These unexploded ordnances and landmines are primarily found in agricultural fields, forests, and along the banks of the Dniester (Nistru) River.
+  * They are found in the districts of Anenii Noi, Causeni, Stefan-Voda, and Ungheni, as well as in Chisinau, Ialoveni, Hincesti, Nisporeni, Calarasi, and Straseni.
+  * These areas are marked with warning signs featuring a red triangle pointing downwards, a skull and crossbones, and the word "Mine."
+  * Landmines and unexploded ordnance in central Moldova are from World War II and the 1992 Transnistrian conflict.
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+
+
+**Risks in specific areas**
+
+**Level 3 - Reconsider Travel**
+
+**Transnistria**
+
+**Reconsider Travel** to**Transnistria** due to risk of **armed conflict.**
+
+  * Transnistria is an unrecognized separatist region not under the control of the Moldovan government. There are Russian troops stationed there.
+  * Past incidents in the region have included explosions. The security situation could deteriorate abruptly.
+  * The U.S. government's ability to provide emergency services to U.S. citizens in Transnistria maybe be limited or delayed. Transnistria's de facto authorities control access to the region.
+  * Taking photographs of military facilities and security forces is not allowed and may result in detention or arrest. 
+  * Visitors must pass through checkpoints with unpredictable requirements.
+  * Military officers and representatives of the local regime may arbitrarily enforce local laws. This increases the risk of detention.
+  * Ukraine has closed entry or exit to Transnistria from the Ukrainian border.
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html "Crisis and Evacuations").
+  * Review our information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html "Travel to High-Risk Areas").
+
+
+
+**If you decide to travel to Moldova:**
+
+  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/ "Smart Traveler Enrollment Program \(STEP\)") ([STEP](https://step.state.gov/step/)) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency. 
+  * Review the [Country Security report for Moldova](https://www.osac.gov/Content/Report/4676cdd7-df8a-4386-adb6-1cf4094a4247 "Country Security report for Moldova").   
+  * Stay alert when visiting banks or ATMs.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Monitor local media for breaking events.
+  * Ensure travel documents are valid and easily accessible.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information for Moldova.](https://search.cdc.gov/search/?query=moldova&dpage=1 "CDC latest Travel Health Information for Moldova")
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist.](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist")
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
+
+
 

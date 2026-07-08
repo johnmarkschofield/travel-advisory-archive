@@ -1,47 +1,66 @@
 # Indonesia
 
 **Level 2 Advisory**
-**Date:** Wed, 30 Apr 2025
+**Date:** Tue, 07 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/indonesia-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+**_There was no change to the advisory level or risk indicators. Advisory summary was updated._**
 
-Exercise increased caution in Indonesia due to **terrorism and natural disasters.**  Some areas have increased risk. Read the entire Travel Advisory.
+Exercise increased caution in Indonesia due to risk of natural disasters, unrest, and terrorism. Some areas have increased risk. Read the entire Travel Advisory.
 
-**Do Not travel to:**
+**Do not travel** to the **provinces of Central Papua** , or "Papua Tengah," and **Highland Papua** , or "Papua Pegunungan," due to **civil unrest**. 
 
-  * The provinces of Central Papua (Papua Tengah) and Highland Papua (Papua Pegunungan) due to civil unrest.
+**Advisory summary  **
 
+**Unrest**
 
+Demonstrations occur frequently in Indonesia, and they are a normal part of the political landscape, but the type, size, and impact vary significantly, and some demonstrations can turn violent. Avoid demonstrations and crowds.
 
-**Country Summary:** Terrorists continue plotting possible attacks in Indonesia. Terrorists may attack with little or no warning, targeting police stations, places of worship, hotels, bars, nightclubs, markets/shopping malls, and restaurants[. Visit the U.S. Department of State's country reports on terrorism](https://www.state.gov/reports/country-reports-on-terrorism-2023/) to learn more.
+**Natural disasters**
 
-Natural disasters such as earthquakes, tsunamis, or volcanic eruptions may result in disruptions to transportation, infrastructure, sanitation, and the availability of health services.
+Indonesia regularly experiences natural disasters such as earthquakes, tsunamis, and volcanic eruptions. These may result in disruptions to transportation, infrastructure, sanitation, and health services. Review our information on Weather and Natural Disasters in Indonesia.
 
-Demonstrations occur frequently and have the potential to become violent.  Avoid demonstrations and crowds. 
+**Terrorism**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Indonesia.html) for additional information on travel to Indonesia.  
+There is a risk of terrorist violence, including terrorist attacks and other activity in Indonesia. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
-If you decide to travel to Indonesia:
-
-  * Monitor local media for breaking events and be prepared to adjust your plans. 
-  * Visit the websites for [Badan Geologi](https://www.bnpb.go.id/) (Indonesian Geological Agency, Indonesian language only) for the latest information from the Government of Indonesia on current natural disasters.
-  * Review the [CDC's suggestions on how to prepare for natural disasters.](https://emergency.cdc.gov/planning/index.asp)
-  * Be aware of your personal safety and security at all times. 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive alerts and make it easier to locate you in an emergency.
-  * Ensure your passport is valid for at least six months beyond your  arrival date.
-  * Review the [Country Security Report](https://www.osac.gov/Content/Report/2f175626-cf19-4566-ad27-1c73ac561a97) for Indonesia.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+  * Terrorists may attack with little or no warning.
 
 
 
-**Central Papua and Highland Papua - Level 4: Do Not Travel**
+  * Terrorists target police stations, places of worship, hotels, bars, nightclubs, markets, shopping malls, and restaurants.
 
-In Central Papua and Highland Papua, violent demonstrations and conflict could result in injury or death to U.S. citizens. Avoid demonstrations and crowds. Armed separatists may kidnap foreign nationals.
 
-Due to the risks, the U.S. government has limited ability to provide emergency services to U.S. citizens in Central Papua and Highland Papua because U.S. government employees working in Indonesia must obtain special authorization before traveling to those areas.
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
+
+**Risks in specific areas**
+
+**Level 4 - Do Not Travel **
+
+**Central Papua** and **Highland Papua**
+
+**Do Not Travel** to **Central Papua** and **Highland Papua** due to risk of **civil unrest**.
+
+Central Papua and Highland Papua experience sporadic but persistent, localized conflict. Armed separatist groups have kidnapped foreign nationals in isolated incidents. Avoid these regions.
+
+  * U.S. government employees working in Indonesia need special authorization to travel to Central Papua and Highland Papua due to safety risks.
+  * The U.S. government has limited ability to provide emergency services to U.S. citizens in Central Papua and Highland Papua due to safety risks.
+  * Do not travel to Central Papua and Highland Papua for any reason.
+
+
+
+**If you decide to travel to Indonesia:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Indonesia/Detail "Country Security Report") for Indonesia.
+  * Review our information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html "Travel to High-Risk Areas").
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Have a plan to depart in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html "Crisis and Evacuations"). Visit the [Indonesian geological agency](https://www.bnpb.go.id/ "Indonesian geological agency") for the latest information on natural disasters from the Government of Indonesia.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/indonesia "CDC the latest Travel Health Information") for Indonesia.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
+
+
 

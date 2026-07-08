@@ -1,31 +1,66 @@
 # Turks and Caicos Islands
 
 **Level 2 Advisory**
-**Date:** Tue, 04 Mar 2025
+**Date:** Tue, 07 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turks-and-caicos-travel-advisory.html)
 
 ---
 
-**_Updated to reflect information on traveling with firearms and ammunition._**
+**_There are no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
 Exercise increased caution in the Turks and Caicos Islands due to**crime**. 
 
-**Country Summary:**  Most crime occurs in Providenciales. Police may have limited investigatory resources. U.S. Embassy Nassau, located in The Bahamas, provides consular services (including assistance to victims of crime) for U.S. citizens in the Turks and Caicos Islands.
+**Advisory summary**
 
-Firearms and ammunition, **including single bullets brought by mistake in carry-on bags or luggage** , are illegal. **Police strictly enforce  these laws,** even at the airport when travelers are leaving. Travelers face arrest, jail time, and heavy fines. Some U.S. citizens have been detained and unable to depart for several weeks or more after being found with bullets in their luggage. Offenders can face 12 years or more in prison. Though the law allows for some exceptions and discretion, the Department of State cannot guarantee your release.
+**Crime**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/TurksandCaicosIslands.html) for additional information on travel to the Turks and Caicos Islands.
+Most crime occurs in Providenciales. Police may have limited resources to investigate crimes.
 
-If you decide to travel to the Turks and Caicos Islands:
+  * There have been reports of sexual assaults in the Turks and Caicos Islands. 
+  * Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings.
+  * Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
+  * Tourists should beware of overcharging and scams in tourist areas. You may encounter aggressive vendors. Some will offer "free" gifts that lead to money demands. Most sites have tourist police available to help in uncomfortable situations.
+  * U.S. Embassy Nassau in The Bahamas helps U.S. citizens who are victims of crime in the Turks and Caicos Islands.
 
-  * Check your luggage and hand baggage carefully for bullets or firearms before leaving the United States. Do not bring these items to the Turks and Caicos Islands. 
-  * Avoid walking alone and at night.
-  * Do not answer your door at your hotel/residence unless you know who it is.
+
+
+**Ammunition arrests**
+
+  * U.S. citizens must follow local laws abroad. If you break laws in another country - even by mistake - you could be deported, fined, or imprisoned.
+
+
+
+**It is illegal to have firearms and ammunition in the Turks and Caicos Islands.** This includes**** single bullets and cartridges brought by mistake in carry-on bags or luggage.  A firearm license or permit obtained in the United States or any other country is not valid in the Turks and Caicos Islands.
+
+  * Police strictly enforce these laws, especially at the airport when travelers are leaving the country.
+  * Travelers may face arrest, jail time, and heavy fines.
+  * Some U.S. citizens have been detained and unable to depart for several weeks or more after being found with bullets in their luggage.
+  * Offenders may face 12 years or more in prison.
+  * We cannot get U.S. citizens out of detention.
+
+
+
+**Hurricanes**
+
+The Turks and Caicos Islands regularly experiences hurricanes. Review our information on [Weather and Natural Disasters](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html) in the Turks and Caicos Islands.
+
+  * Review our _Travel Guidance for the Turks and Caicos Islands_ to learn how to prepare for a safe trip.
+
+
+
+**If you decide to travel to** the **Turks and Caicos Islands:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/86d54e92-35c7-429b-9570-1d10df6c6303 "Country Security Report") for the Turks and Caicos Islands.
+  * Before you leave the United States for the Turks and Caicos Islands, carefully check your luggage for any loose ammunition or weapons you may have forgotten. Review our information on _Local Laws and Customs_ in the Turks and Caicos Islands.
+  * You may wish to use different bags for travel than the ones you use to store or carry weapons and ammunition at home. This may help you avoid accidentally bringing illegal items into the Turks and Caicos Islands.
+  * Do not answer your door at your hotel or residence unless you know who it is.
+  * Use caution when walking or driving at night.
   * Do not physically resist any robbery attempt.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html "Crime Abroad") __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html "Victims of Crime") _._
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information ](https://wwwnc.cdc.gov/travel/destinations/traveler/none/turks-and-caicos "CDC latest Travel Health Information")for the Turks and Caicos Islands.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "Travel Insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 

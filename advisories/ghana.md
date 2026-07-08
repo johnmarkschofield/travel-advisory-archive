@@ -1,49 +1,71 @@
 # Ghana
 
 **Level 2 Advisory**
-**Date:** Tue, 08 Apr 2025
+**Date:** Tue, 07 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ghana-travel-advisory.html)
 
 ---
 
-**_Updated to reflect threats against women travelers and increased risks in specific regions._**
+There was no change to the advisory level. The "health" risk indicator was added. The "unrest" indicator was removed from the area of increased risk. Advisory summary was updated. 
 
-Exercise increased caution in Ghana due to **crime**  and **violence against women travelers and lesbian, gay, and bisexual travelers**.  Some areas of Ghana have increased risk. Read the entire Travel Advisory.
+Exercise increased caution when traveling to Ghana due to **crime, poor health infrastructure,** **violence against women, and violence against lesbian and gay travelers**. Some areas have increased risk. Read the entire Travel Advisory.
 
-Reconsider Travel to:
+**Reconsider travel** to the northern border in the Upper East Region, the Northeast Region, the Upper West Region, and areas west of the N12 highway in the Savannah Region due to **crime.**
 
-  * The Upper East Region, North East Region, Upper West Region, and the western portion of the Savannah Region (all areas west of the N12 Highway) that shares a border with Burkina Faso and Cộte d'Ivoire due to **civil unrest** and **crime.**
+**Advisory Summary**    
+
+**Crime**
+
+Violent crime, such as carjacking, street mugging, assault, and rape occurs in Ghana. These crimes often happen at night and in remote locations. Criminal groups may use blockades to slow down or stop vehicles. Stay aware of your surroundings, especially when walking or driving at night. Do not physically resist any robbery attempt.
+
+Crimes of opportunity, including petty theft, are a serious problem in Ghana. Thieves often target people who seem wealthy or vulnerable. These crimes usually happen at night and in remote places. Always stay aware of your surroundings, especially if you are walking by yourself.
+
+Sexual assault, such as rape, is significantly underreported in Ghana. Domestic violence is a crime in Ghana, but police rarely respond to reports of domestic violence. Female genital mutilation and cutting (FGM/C) and child marriage under the age of 18 is illegal in Ghana. However, both remain a serious problem for girls younger than 18 in some regions.
+
+**Poor health infrastructure**
+
+Medical infrastructure is limited in Ghana. There are limited emergency medical services outside of Accra. Serious medical emergencies in Ghana require medical evacuation. Make sure your insurance includes medical evacuation coverage.
+
+**Violence involving Sexual Orientation**
+
+Ghanaian law makes it illegal for people of the same sex to have sexual relationships. This law is mostly enforced against men.
+
+Punishments can include fines or incarceration for up to 3 years. In recent years, there has been more criticism of, and violence against, people because of their sexual orientation. There are also reports of practices pressuring gay and lesbian people to "recant" their identities.
+
+**Level 3 - Reconsider Travel**
+
+**Northern border in the Upper East Region, the Northeast Region, the Upper West Region**
+
+Reconsider travel due to **crime**. Many violent crimes occur in these areas, including highway robbery, carjacking, assault, and rape. These areas also have limited police presence. Travelers in these areas cannot easily receive help from local police.
+
+Terrorist groups have conducted attacks throughout Burkina Faso, including in areas close to the border with Ghana. Review the [Burkina Faso Travel Advisory](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BurkinaFaso.html) for more information.
+
+U.S. government employees working in Ghana require special authorization to travel to these areas. The U.S. government has limited ability to offer emergency services to U.S. citizens in these areas due to the safety risks. Review our information on Travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+
+**Areas West of the N12 Highway in the Savannah Region**
+
+Reconsider travel due to **crime**. Many violent crimes occur in this area. Crimes include highway robbery, carjacking, assault, and rape. This area also has limited police presence. Travelers cannot easily receive help from local police.
+
+U.S. government employees working in Ghana require special authorization to travel to this area. The U.S. government has limited ability to offer emergency services to U.S. citizens in this area due to the safety risks. Review our information on Travel to [High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
+
+**If you decide to travel to Ghana:**
+
+  * Enroll in the [Smart Traveler Enrollment Program](https://mytravel.state.gov/s/step) (STEP) to get important updates and alerts from the U.S. embassy. Enrolling helps the U.S. embassy contact you or your emergency contact in an emergency.   
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/59b606e3-59bc-48e5-ab3b-1ca4b5396238) for Ghana. 
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/ghana?s_cid=ncezid-dgmq-travel-single-001) for Ghana.  
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html). 
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) _ _ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html) _._  
+  * Review our information on [Women Travelers](https://travel.state.gov/en/international-travel/planning/personal-needs/women.html) and on [Gay and Lesbian Travelers.](https://travel.state.gov/en/international-travel/planning/personal-needs/gay-lesbian.html)
+  * Do not physically resist any robbery attempt.
+  * Use caution when walking or driving at night.
+  * Keep a low profile.
+  * Stay aware of your surroundings.
+  * Do not display signs of wealth, like expensive watches or jewelry.
+  * Stay alert in tourist spots.
+  * Stay alert when visiting banks or ATMs.
+  * Be aware of possible online dating scams, either for potential financial theft or physical harm.
+  * Refer to our list of [medical providers](https://gh.usembassy.gov/services/medical-assistance/).
+  * Make sure your insurance includes medical evacuation coverage. 
 
 
-
-**Country Summary:  **Violent crimes, such as carjacking, street mugging, assaults, and rape do occur.  These crimes often happen at night and in isolated locations.  Sexual assault, such as rape, is significantly underreported and remains a serious problem.  While domestic violence is criminal under Ghanian law, police rarely respond to reports of domestic violence.  
-
-  * In urban areas and crowded markets
-  * When traveling by private or public transportation after dark as criminal elements may use blockades to slow down and restrict movement of vehicles
-
-
-
-Ghanaian law contains prohibitions on "unnatural carnal knowledge" - generally interpreted as any kind of sexual intimacy - between persons of the same sex, though in practice, the law is largely used to target men.  Punishments can include fines and/or incarceration of up to three years.  Rhetoric and violence targeting individuals on the basis of sexual orientation have increased in recent years.  Individuals have reported safety incidents that include targeted assault, rape, mob attacks, and harassment due to their sexual orientation. 
-
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Ghana.html) for additional information on travel to Ghana.
-
-If you decide to travel to Ghana:
-
-  * Review our page for health and security risks for [Women Travelers](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/women-travelers.html).
-  * See our [Lesbian, Gay, and Bisexual Travelers Information page](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/lgb.html) and  our [Human Rights Report](https://www.state.gov/reports/2023-country-reports-on-human-rights-practices/ghana/) for further details.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive alerts and make it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Content/Report/59b606e3-59bc-48e5-ab3b-1ca4b5396238) for Ghana.
-  * Prepare a plan for emergency situations.  Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/ghana?s_cid=ncezid-dgmq-travel-single-001) related to your travel.
-  * We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage. 
-
-
-
-**Areas Near the Northern Border in the Upper East Region, Upper West Region, and western area of the Savannah Region - Level 3:  Reconsider Travel**
-
-U.S. citizens in Ghana should reconsider travel to the northern border areas near Burkina Faso and Cote d'Ivoire due to **civil unrest and crime**.  Due to the risks, U.S. government employees working in Ghana must obtain special authorization to travel to the Upper West Region, the Upper East Region, the North East Region, and the western area of the Savannah Region.  The U.S. government has limited ability to provide emergency services to U.S. citizens in these areas.  Be sure to read the Burkina Faso Travel Advisory [here](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burkina-faso-travel-advisory.html).
-
-Local police may lack the resources to respond effectively to more serious crimes.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
 

@@ -1,32 +1,32 @@
 # Saint Vincent and the Grenadines
 
 **Level 1 Advisory**
-**Date:** Fri, 06 Dec 2024
+**Date:** Tue, 07 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-vincent-and-the-grenadines.html)
 
 ---
 
-** _Updated to add Petit Saint Vincent to the list of islands affected by Hurricane Beryl in July 2024._**
+**_There are no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
-Exercise normal precautions in Saint Vincent and the Grenadines. The islands of Canouan, Mayreau, Palm Island, Petit Saint Vincent, and Union Island are in varying stages of recovery from Hurricane Beryl.
+**Exercise normal precautions** in **Saint Vincent and the Grenadines**. ****
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SaintVincentandtheGrenadines.html) for additional information on travel to Saint Vincent and the Grenadines. 
+**Advisory summary**
 
-If you decide to travel to St. Vincent and the Grenadines:
+Saint Vincent and the Grenadines is generally a safe destination for travelers.
 
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://facebook.com/travelgov) and [X (formerly known as "Twitter _")_](https://x.com/TravelGov). 
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for the Eastern Caribbean, which includes Saint Vincent and the Grenadines
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
+Saint Vincent and the Grenadines regularly experiences hurricanes. Review our information on [Weather and Natural Disasters](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html) in Saint Vincent and the Grenadines.
+
+  * Review our _Travel Guidance for Saint Vincent and the Grenadines_ to learn how to prepare for a safe trip.
 
 
 
-**  
-Canouan, Mayreau, Palm Island, Petit Saint Vincent, and Union Island  
-**In July 2024, Hurricane Beryl damaged many buildings on these islands.  Until repairs are complete, fewer hotels and transportation options may be available.
+**If you decide to travel to** **Saint Vincent and the Grenadines:**
 
-  * Contact your destination before traveling to these islands
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step "Smart Traveler Enrollment Program \(STEP\)") to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/c6978ae5-3608-45ca-9900-1c4b57c0cfd6 "Country Security Report") for the Eastern Caribbean.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/saint-vincent-and-the-grenadines "CDC latest Travel Health Information") for Saint Vincent and the Grenadines.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html "International Travel Checklist").
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html "travel insurance") about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
