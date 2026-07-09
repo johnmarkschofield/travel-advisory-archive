@@ -1,22 +1,26 @@
 # French Guiana
 
 **Level 1 Advisory**
-**Date:** Thu, 16 Jan 2025
+**Date:** Wed, 08 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-guiana-travel-advisory.html)
 
 ---
 
-Exercise normal precautions in French Guiana.
+**There were no changes to the advisory level or risk indicators. The Advisory summary was updated.**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FrenchGuiana.html) for additional information on travel to French Guiana.
+**Advisory summary**
+
+French Guiana is generally a safe destination for travelers.
+
+There is no official U.S. consular representation in French Guiana.  Consular services are provided by the [U.S. Embassy in Paramaribo, Suriname](https://sr.usembassy.gov/).
+
+Review our [Travel Guidance for French Guiana](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/FrenchGuiana.html) to learn how to prepare for a safe trip.
 
 If you decide to travel to French Guiana:
 
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter](https://twitter.com/TravelGov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for French Guiana.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel. 
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) for French Guiana.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
 
 
 
