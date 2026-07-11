@@ -6,7 +6,7 @@
 
 ---
 
- _**There were no changes to the advisory level or risk indicators. Advisory summary was updated. Do Not Travel to the Democratic Republic of the Congo due to  the Ebola Bundibugyo Virus Disease outbreak in Ituri Province in the DRC. Advisory summary was updated. **_
+_**There were no changes to the advisory level or risk indicators. Advisory summary was updated. Do Not Travel to the Democratic Republic of the Congo due to  the Ebola Bundibugyo Virus Disease outbreak in Ituri Province in the DRC. Advisory summary was updated. **_
 
 **Do not  travel **to the **Democratic Republic of the Congo (DRC)** due to **crime** ,**  unrest**,**  terrorism, kidnapping, **and** health. **
 
