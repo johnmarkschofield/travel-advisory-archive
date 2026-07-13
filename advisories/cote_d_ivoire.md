@@ -6,7 +6,7 @@
 
 ---
 
- _There was no change to the advisory level or risk indicators. Advisory summary was updated._
+_There was no change to the advisory level or risk indicators. Advisory summary was updated._
 
 Exercise increased caution in Cote d'Ivoire due to **crime, terrorism, unrest, health** , and **piracy** in nearby waters. Some areas have increased risk. Read the entire Travel Advisory. 
 
