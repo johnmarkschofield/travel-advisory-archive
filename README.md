@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-07-16 09:57 UTC
+**Last Updated:** 2026-07-17 09:47 UTC
 **Total Countries Tracked:** 213
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -13,237 +13,237 @@ Click on a country to view the full archived text of the advisory.
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Andorra** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/andorra.md) |
-| **Anguilla** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/anguilla.md) |
-| **Antigua and Barbuda** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/antigua_and_barbuda.md) |
-| **Argentina** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/argentina.md) |
-| **Aruba** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/aruba.md) |
-| **Australia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/australia.md) |
-| **Austria** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/austria.md) |
-| **Barbados** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/barbados.md) |
-| **Bermuda** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bermuda.md) |
-| **Bhutan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bhutan.md) |
-| **Bonaire** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bonaire.md) |
-| **British Virgin Islands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/british_virgin_islands.md) |
-| **Brunei** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/brunei.md) |
-| **Bulgaria** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bulgaria.md) |
-| **Cabo Verde** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cabo_verde.md) |
-| **Canada** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/canada.md) |
-| **Cayman Islands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cayman_islands.md) |
-| **Croatia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/croatia.md) |
-| **Curaçao** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/curaao.md) |
-| **Cyprus** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cyprus.md) |
-| **Czechia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/czechia.md) |
-| **Dominica** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/dominica.md) |
-| **El Salvador** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/el_salvador.md) |
-| **Estonia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/estonia.md) |
-| **Federated States of Micronesia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
-| **Fiji** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/fiji.md) |
-| **Finland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/finland.md) |
-| **French Guiana** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/french_guiana.md) |
-| **French Polynesia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/french_polynesia.md) |
-| **French West Indies** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/french_west_indies.md) |
-| **Georgia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/georgia.md) |
-| **Greece** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/greece.md) |
-| **Hungary** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/hungary.md) |
-| **Iceland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/iceland.md) |
-| **Ireland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/ireland.md) |
-| **Japan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/japan.md) |
-| **Kazakhstan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kazakhstan.md) |
-| **Kiribati** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kiribati.md) |
-| **Latvia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/latvia.md) |
-| **Liechtenstein** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/liechtenstein.md) |
-| **Lithuania** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/lithuania.md) |
-| **Luxembourg** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/luxembourg.md) |
-| **Malaysia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/malaysia.md) |
-| **Malta** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/malta.md) |
-| **Marshall Islands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/marshall_islands.md) |
-| **Mongolia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mongolia.md) |
-| **Montenegro** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/montenegro.md) |
-| **Montserrat** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/montserrat.md) |
-| **Nauru** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/nauru.md) |
-| **New Zealand** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/new_zealand.md) |
-| **North Macedonia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/north_macedonia.md) |
-| **Norway** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/norway.md) |
-| **Palau** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/palau.md) |
-| **Paraguay** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/paraguay.md) |
-| **Poland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/poland.md) |
-| **Portugal** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/portugal.md) |
-| **Romania** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/romania.md) |
-| **Saba** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/saba.md) |
-| **Saint Kitts and Nevis** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
-| **Saint Vincent and the Grenadines** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
-| **Samoa** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/samoa.md) |
-| **Senegal** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/senegal.md) |
-| **Seychelles** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/seychelles.md) |
-| **Singapore** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/singapore.md) |
-| **Sint Eustatius** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sint_eustatius.md) |
-| **Sint Maarten** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sint_maarten.md) |
-| **Slovakia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/slovakia.md) |
-| **Slovenia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/slovenia.md) |
-| **South Korea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/south_korea.md) |
-| **Suriname** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/suriname.md) |
-| **Switzerland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/switzerland.md) |
-| **Taiwan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/taiwan.md) |
-| **Thailand** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/thailand.md) |
-| **The Kyrgyz Republic** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/the_kyrgyz_republic.md) |
-| **Tonga** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/tonga.md) |
-| **Turkmenistan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/turkmenistan.md) |
-| **Tuvalu** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/tuvalu.md) |
-| **Uzbekistan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
-| **Vanuatu** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/vanuatu.md) |
-| **Vietnam** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/vietnam.md) |
-| **Zambia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/zambia.md) |
+| **Andorra** | Thu, 21 May 2026 | [📄 View Advisory](advisories/andorra.md) |
+| **Anguilla** | Fri, 22 May 2026 | [📄 View Advisory](advisories/anguilla.md) |
+| **Antigua and Barbuda** | Wed, 20 May 2026 | [📄 View Advisory](advisories/antigua_and_barbuda.md) |
+| **Argentina** | Wed, 20 May 2026 | [📄 View Advisory](advisories/argentina.md) |
+| **Aruba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/aruba.md) |
+| **Australia** | Fri, 30 May 2025 | [📄 View Advisory](advisories/australia.md) |
+| **Austria** | Fri, 23 Aug 2024 | [📄 View Advisory](advisories/austria.md) |
+| **Barbados** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/barbados.md) |
+| **Bermuda** | Fri, 10 Apr 2026 | [📄 View Advisory](advisories/bermuda.md) |
+| **Bhutan** | Mon, 20 Oct 2025 | [📄 View Advisory](advisories/bhutan.md) |
+| **Bonaire** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/bonaire.md) |
+| **British Virgin Islands** | Fri, 22 May 2026 | [📄 View Advisory](advisories/british_virgin_islands.md) |
+| **Brunei** | Thu, 14 May 2026 | [📄 View Advisory](advisories/brunei.md) |
+| **Bulgaria** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/bulgaria.md) |
+| **Cabo Verde** | Thu, 18 Dec 2025 | [📄 View Advisory](advisories/cabo_verde.md) |
+| **Canada** | Fri, 05 Jun 2026 | [📄 View Advisory](advisories/canada.md) |
+| **Cayman Islands** | Thu, 21 May 2026 | [📄 View Advisory](advisories/cayman_islands.md) |
+| **Croatia** | Mon, 18 May 2026 | [📄 View Advisory](advisories/croatia.md) |
+| **Curaçao** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/curaao.md) |
+| **Cyprus** | Mon, 01 Jun 2026 | [📄 View Advisory](advisories/cyprus.md) |
+| **Czechia** | Thu, 08 Jan 2026 | [📄 View Advisory](advisories/czechia.md) |
+| **Dominica** | Wed, 20 May 2026 | [📄 View Advisory](advisories/dominica.md) |
+| **El Salvador** | Thu, 25 Jun 2026 | [📄 View Advisory](advisories/el_salvador.md) |
+| **Estonia** | Tue, 31 Mar 2026 | [📄 View Advisory](advisories/estonia.md) |
+| **Federated States of Micronesia** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/federated_states_of_micronesia.md) |
+| **Fiji** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/fiji.md) |
+| **Finland** | Fri, 13 Mar 2026 | [📄 View Advisory](advisories/finland.md) |
+| **French Guiana** | Wed, 08 Jul 2026 | [📄 View Advisory](advisories/french_guiana.md) |
+| **French Polynesia** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/french_polynesia.md) |
+| **French West Indies** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/french_west_indies.md) |
+| **Georgia** | Thu, 13 Mar 2025 | [📄 View Advisory](advisories/georgia.md) |
+| **Greece** | Thu, 23 Oct 2025 | [📄 View Advisory](advisories/greece.md) |
+| **Hungary** | Wed, 15 Apr 2026 | [📄 View Advisory](advisories/hungary.md) |
+| **Iceland** | Tue, 05 May 2026 | [📄 View Advisory](advisories/iceland.md) |
+| **Ireland** | Fri, 20 Mar 2026 | [📄 View Advisory](advisories/ireland.md) |
+| **Japan** | Thu, 15 May 2025 | [📄 View Advisory](advisories/japan.md) |
+| **Kazakhstan** | Mon, 05 Aug 2024 | [📄 View Advisory](advisories/kazakhstan.md) |
+| **Kiribati** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kiribati.md) |
+| **Latvia** | Wed, 01 Apr 2026 | [📄 View Advisory](advisories/latvia.md) |
+| **Liechtenstein** | Thu, 22 May 2025 | [📄 View Advisory](advisories/liechtenstein.md) |
+| **Lithuania** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/lithuania.md) |
+| **Luxembourg** | Wed, 08 Apr 2026 | [📄 View Advisory](advisories/luxembourg.md) |
+| **Malaysia** | Sun, 22 Feb 2026 | [📄 View Advisory](advisories/malaysia.md) |
+| **Malta** | Thu, 09 Jul 2026 | [📄 View Advisory](advisories/malta.md) |
+| **Marshall Islands** | Thu, 21 May 2026 | [📄 View Advisory](advisories/marshall_islands.md) |
+| **Mongolia** | Wed, 22 Jan 2025 | [📄 View Advisory](advisories/mongolia.md) |
+| **Montenegro** | Tue, 26 Nov 2024 | [📄 View Advisory](advisories/montenegro.md) |
+| **Montserrat** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/montserrat.md) |
+| **Nauru** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/nauru.md) |
+| **New Zealand** | Wed, 29 Apr 2026 | [📄 View Advisory](advisories/new_zealand.md) |
+| **North Macedonia** | Tue, 14 Jan 2025 | [📄 View Advisory](advisories/north_macedonia.md) |
+| **Norway** | Mon, 06 Jul 2026 | [📄 View Advisory](advisories/norway.md) |
+| **Palau** | Tue, 06 Aug 2024 | [📄 View Advisory](advisories/palau.md) |
+| **Paraguay** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/paraguay.md) |
+| **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
+| **Portugal** | Mon, 03 Mar 2025 | [📄 View Advisory](advisories/portugal.md) |
+| **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
+| **Saba** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/saba.md) |
+| **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
+| **Saint Vincent and the Grenadines** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
+| **Samoa** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/samoa.md) |
+| **Senegal** | Mon, 01 Dec 2025 | [📄 View Advisory](advisories/senegal.md) |
+| **Seychelles** | Tue, 09 Dec 2025 | [📄 View Advisory](advisories/seychelles.md) |
+| **Singapore** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/singapore.md) |
+| **Sint Eustatius** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_eustatius.md) |
+| **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
+| **Slovakia** | Thu, 12 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
+| **Slovenia** | Fri, 15 May 2026 | [📄 View Advisory](advisories/slovenia.md) |
+| **South Korea** | Wed, 28 May 2025 | [📄 View Advisory](advisories/south_korea.md) |
+| **Suriname** | Fri, 13 Dec 2024 | [📄 View Advisory](advisories/suriname.md) |
+| **Switzerland** | Tue, 20 May 2025 | [📄 View Advisory](advisories/switzerland.md) |
+| **Taiwan** | Tue, 25 Nov 2025 | [📄 View Advisory](advisories/taiwan.md) |
+| **Thailand** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/thailand.md) |
+| **The Kyrgyz Republic** | Tue, 10 Feb 2026 | [📄 View Advisory](advisories/the_kyrgyz_republic.md) |
+| **Tonga** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tonga.md) |
+| **Turkmenistan** | Fri, 28 Feb 2025 | [📄 View Advisory](advisories/turkmenistan.md) |
+| **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
+| **Uzbekistan** | Thu, 22 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
+| **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
+| **Vietnam** | Wed, 24 Jun 2026 | [📄 View Advisory](advisories/vietnam.md) |
+| **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
 *Total: 83 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Albania** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/albania.md) |
-| **Algeria** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/algeria.md) |
-| **Angola** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/angola.md) |
-| **Antarctica** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/antarctica.md) |
-| **Armenia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/armenia.md) |
-| **Belgium** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/belgium.md) |
-| **Belize** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/belize.md) |
-| **Benin** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/benin.md) |
-| **Bolivia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bolivia.md) |
-| **Bosnia and Herzegovina** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bosnia_and_herzegovina.md) |
-| **Botswana** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/botswana.md) |
-| **Brazil** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/brazil.md) |
-| **Cambodia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cambodia.md) |
-| **Cameroon** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cameroon.md) |
-| **Chile** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/chile.md) |
-| **Comoros** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/comoros.md) |
-| **Costa Rica** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/costa_rica.md) |
-| **Cote d Ivoire** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
-| **Cuba** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/cuba.md) |
-| **Djibouti** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/djibouti.md) |
-| **Dominican Republic** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/dominican_republic.md) |
-| **Ecuador** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/ecuador.md) |
-| **Egypt** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/egypt.md) |
-| **Equatorial Guinea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/equatorial_guinea.md) |
-| **Eritrea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/eritrea.md) |
-| **Eswatini** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/eswatini.md) |
-| **France** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/france.md) |
-| **Gabon** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/gabon.md) |
-| **Germany** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/germany.md) |
-| **Ghana** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/ghana.md) |
-| **Greenland** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/greenland.md) |
-| **Grenada** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/grenada.md) |
-| **Guinea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/guinea.md) |
-| **Hong Kong** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/hong_kong.md) |
-| **India** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/india.md) |
-| **Indonesia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/indonesia.md) |
-| **Italy** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/italy.md) |
-| **Jamaica** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/jamaica.md) |
-| **Kenya** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kenya.md) |
-| **Kingdom of Denmark** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
-| **Kosovo** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kosovo.md) |
-| **Laos** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/laos.md) |
-| **Lesotho** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/lesotho.md) |
-| **Liberia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/liberia.md) |
-| **Madagascar** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/madagascar.md) |
-| **Mainland China, Hong Kong & Macau** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
-| **Mainland China, Hong Kong & Macau** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
-| **Mainland China, Hong Kong & Macau** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
-| **Malawi** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/malawi.md) |
-| **Maldives** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/maldives.md) |
-| **Mauritius** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mauritius.md) |
-| **Mexico Travel Advisory** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mexico_travel_advisory.md) |
-| **Moldova** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/moldova.md) |
-| **Morocco** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/morocco.md) |
-| **Mozambique** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mozambique.md) |
-| **Namibia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/namibia.md) |
-| **Nepal** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/nepal.md) |
-| **Netherlands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/netherlands.md) |
-| **New Caledonia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/new_caledonia.md) |
-| **Panama** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/panama.md) |
-| **Peru** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/peru.md) |
-| **Philippines** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/philippines.md) |
-| **Republic of the Congo** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
-| **Saint Lucia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/saint_lucia.md) |
-| **Sao Tome and Principe** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sao_tome_and_principe.md) |
-| **Serbia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/serbia.md) |
-| **Sierra Leone** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sierra_leone.md) |
-| **Solomon Islands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/solomon_islands.md) |
-| **South Africa** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/south_africa.md) |
-| **Spain** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/spain.md) |
-| **Sri Lanka** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sri_lanka.md) |
-| **Sweden** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sweden.md) |
-| **Tajikistan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/tajikistan.md) |
-| **The Bahamas** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/the_bahamas.md) |
-| **The Gambia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/the_gambia.md) |
-| **Timor** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/timor.md) |
-| **Togo** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/togo.md) |
-| **Tunisia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/tunisia.md) |
-| **Turkey** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/turkey.md) |
-| **Turks and Caicos Islands** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
-| **United Kingdom** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/united_kingdom.md) |
-| **Uruguay** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/uruguay.md) |
-| **Zimbabwe** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/zimbabwe.md) |
+| **Albania** | Tue, 31 Dec 2024 | [📄 View Advisory](advisories/albania.md) |
+| **Algeria** | Thu, 26 Sep 2024 | [📄 View Advisory](advisories/algeria.md) |
+| **Angola** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/angola.md) |
+| **Antarctica** | Tue, 23 Sep 2025 | [📄 View Advisory](advisories/antarctica.md) |
+| **Armenia** | Fri, 05 Sep 2025 | [📄 View Advisory](advisories/armenia.md) |
+| **Belgium** | Thu, 22 May 2025 | [📄 View Advisory](advisories/belgium.md) |
+| **Belize** | Thu, 12 Mar 2026 | [📄 View Advisory](advisories/belize.md) |
+| **Benin** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/benin.md) |
+| **Bolivia** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/bolivia.md) |
+| **Bosnia and Herzegovina** | Thu, 12 Dec 2024 | [📄 View Advisory](advisories/bosnia_and_herzegovina.md) |
+| **Botswana** | Wed, 17 Jun 2026 | [📄 View Advisory](advisories/botswana.md) |
+| **Brazil** | Thu, 29 May 2025 | [📄 View Advisory](advisories/brazil.md) |
+| **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
+| **Cameroon** | Fri, 15 May 2026 | [📄 View Advisory](advisories/cameroon.md) |
+| **Chile** | Wed, 20 May 2026 | [📄 View Advisory](advisories/chile.md) |
+| **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
+| **Costa Rica** | Thu, 02 Apr 2026 | [📄 View Advisory](advisories/costa_rica.md) |
+| **Cote d Ivoire** | Wed, 18 Feb 2026 | [📄 View Advisory](advisories/cote_d_ivoire.md) |
+| **Cuba** | Wed, 07 May 2025 | [📄 View Advisory](advisories/cuba.md) |
+| **Djibouti** | Thu, 06 Mar 2025 | [📄 View Advisory](advisories/djibouti.md) |
+| **Dominican Republic** | Thu, 12 Jun 2025 | [📄 View Advisory](advisories/dominican_republic.md) |
+| **Ecuador** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/ecuador.md) |
+| **Egypt** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/egypt.md) |
+| **Equatorial Guinea** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/equatorial_guinea.md) |
+| **Eritrea** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/eritrea.md) |
+| **Eswatini** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/eswatini.md) |
+| **France** | Wed, 28 May 2025 | [📄 View Advisory](advisories/france.md) |
+| **Gabon** | Mon, 30 Mar 2026 | [📄 View Advisory](advisories/gabon.md) |
+| **Germany** | Tue, 13 May 2025 | [📄 View Advisory](advisories/germany.md) |
+| **Ghana** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/ghana.md) |
+| **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
+| **Grenada** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/grenada.md) |
+| **Guinea** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/guinea.md) |
+| **Hong Kong** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/hong_kong.md) |
+| **India** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/india.md) |
+| **Indonesia** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/indonesia.md) |
+| **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
+| **Jamaica** | Tue, 23 Jun 2026 | [📄 View Advisory](advisories/jamaica.md) |
+| **Kenya** | Mon, 17 Mar 2025 | [📄 View Advisory](advisories/kenya.md) |
+| **Kingdom of Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
+| **Kosovo** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/kosovo.md) |
+| **Laos** | Thu, 21 Nov 2024 | [📄 View Advisory](advisories/laos.md) |
+| **Lesotho** | Wed, 17 Jun 2026 | [📄 View Advisory](advisories/lesotho.md) |
+| **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
+| **Madagascar** | Thu, 04 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
+| **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
+| **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
+| **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
+| **Malawi** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/malawi.md) |
+| **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
+| **Mauritius** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/mauritius.md) |
+| **Mexico Travel Advisory** | Tue, 12 Aug 2025 | [📄 View Advisory](advisories/mexico_travel_advisory.md) |
+| **Moldova** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/moldova.md) |
+| **Morocco** | Mon, 21 Apr 2025 | [📄 View Advisory](advisories/morocco.md) |
+| **Mozambique** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/mozambique.md) |
+| **Namibia** | Fri, 15 May 2026 | [📄 View Advisory](advisories/namibia.md) |
+| **Nepal** | Tue, 31 Mar 2026 | [📄 View Advisory](advisories/nepal.md) |
+| **Netherlands** | Fri, 09 Aug 2024 | [📄 View Advisory](advisories/netherlands.md) |
+| **New Caledonia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/new_caledonia.md) |
+| **Panama** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/panama.md) |
+| **Peru** | Fri, 16 May 2025 | [📄 View Advisory](advisories/peru.md) |
+| **Philippines** | Thu, 08 May 2025 | [📄 View Advisory](advisories/philippines.md) |
+| **Republic of the Congo** | Wed, 02 Oct 2024 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
+| **Saint Lucia** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/saint_lucia.md) |
+| **Sao Tome and Principe** | Wed, 08 Oct 2025 | [📄 View Advisory](advisories/sao_tome_and_principe.md) |
+| **Serbia** | Fri, 11 Apr 2025 | [📄 View Advisory](advisories/serbia.md) |
+| **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
+| **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
+| **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
+| **Spain** | Mon, 12 May 2025 | [📄 View Advisory](advisories/spain.md) |
+| **Sri Lanka** | Thu, 09 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
+| **Sweden** | Mon, 18 May 2026 | [📄 View Advisory](advisories/sweden.md) |
+| **Tajikistan** | Fri, 16 May 2025 | [📄 View Advisory](advisories/tajikistan.md) |
+| **The Bahamas** | Mon, 31 Mar 2025 | [📄 View Advisory](advisories/the_bahamas.md) |
+| **The Gambia** | Fri, 16 Jan 2026 | [📄 View Advisory](advisories/the_gambia.md) |
+| **Timor** | Thu, 21 May 2026 | [📄 View Advisory](advisories/timor.md) |
+| **Togo** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/togo.md) |
+| **Tunisia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/tunisia.md) |
+| **Turkey** | Tue, 09 Jun 2026 | [📄 View Advisory](advisories/turkey.md) |
+| **Turks and Caicos Islands** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/turks_and_caicos_islands.md) |
+| **United Kingdom** | Thu, 08 May 2025 | [📄 View Advisory](advisories/united_kingdom.md) |
+| **Uruguay** | Wed, 07 May 2025 | [📄 View Advisory](advisories/uruguay.md) |
+| **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
 *Total: 26 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Azerbaijan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/azerbaijan.md) |
-| **Bahrain** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bahrain.md) |
-| **Bangladesh** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/bangladesh.md) |
-| **Burundi** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/burundi.md) |
-| **Colombia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/colombia.md) |
-| **Ethiopia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/ethiopia.md) |
-| **Guatemala** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/guatemala.md) |
-| **Guinea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/guinea.md) |
-| **Guyana** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/guyana.md) |
-| **Honduras** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/honduras.md) |
-| **Jordan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/jordan.md) |
-| **Kuwait** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/kuwait.md) |
-| **Macau** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/macau.md) |
-| **Mauritania** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mauritania.md) |
-| **Nicaragua** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/nicaragua.md) |
-| **Nigeria** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/nigeria.md) |
-| **Oman** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/oman.md) |
-| **Pakistan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/pakistan.md) |
-| **Papua New Guinea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/papua_new_guinea.md) |
-| **Qatar** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/qatar.md) |
-| **Rwanda** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/rwanda.md) |
-| **Saudi Arabia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
-| **Tanzania** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/tanzania.md) |
-| **Trinidad and Tobago** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
-| **United Arab Emirates** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
-| **Venezuela** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/venezuela.md) |
+| **Azerbaijan** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/azerbaijan.md) |
+| **Bahrain** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/bahrain.md) |
+| **Bangladesh** | Tue, 20 Jan 2026 | [📄 View Advisory](advisories/bangladesh.md) |
+| **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
+| **Colombia** | Tue, 31 Mar 2026 | [📄 View Advisory](advisories/colombia.md) |
+| **Ethiopia** | Wed, 01 Apr 2026 | [📄 View Advisory](advisories/ethiopia.md) |
+| **Guatemala** | Thu, 12 Mar 2026 | [📄 View Advisory](advisories/guatemala.md) |
+| **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
+| **Guyana** | Mon, 12 May 2025 | [📄 View Advisory](advisories/guyana.md) |
+| **Honduras** | Tue, 10 Dec 2024 | [📄 View Advisory](advisories/honduras.md) |
+| **Jordan** | Mon, 04 May 2026 | [📄 View Advisory](advisories/jordan.md) |
+| **Kuwait** | Sun, 28 Jun 2026 | [📄 View Advisory](advisories/kuwait.md) |
+| **Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/macau.md) |
+| **Mauritania** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/mauritania.md) |
+| **Nicaragua** | Thu, 14 May 2026 | [📄 View Advisory](advisories/nicaragua.md) |
+| **Nigeria** | Fri, 12 Jun 2026 | [📄 View Advisory](advisories/nigeria.md) |
+| **Oman** | Thu, 09 Apr 2026 | [📄 View Advisory](advisories/oman.md) |
+| **Pakistan** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/pakistan.md) |
+| **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
+| **Qatar** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/qatar.md) |
+| **Rwanda** | Mon, 11 May 2026 | [📄 View Advisory](advisories/rwanda.md) |
+| **Saudi Arabia** | Fri, 13 Mar 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
+| **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
+| **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
+| **United Arab Emirates** | Tue, 03 Mar 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
+| **Venezuela** | Thu, 19 Mar 2026 | [📄 View Advisory](advisories/venezuela.md) |
 
 ## 🔴 Level 4: Do Not Travel
 *Total: 23 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Afghanistan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/afghanistan.md) |
-| **Belarus** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/belarus.md) |
-| **Burkina Faso** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/burkina_faso.md) |
-| **Burma** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/burma.md) |
-| **Central African Republic** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
-| **Chad** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/chad.md) |
+| **Afghanistan** | Fri, 20 Feb 2026 | [📄 View Advisory](advisories/afghanistan.md) |
+| **Belarus** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
+| **Burkina Faso** | Mon, 04 May 2026 | [📄 View Advisory](advisories/burkina_faso.md) |
+| **Burma** | Fri, 08 May 2026 | [📄 View Advisory](advisories/burma.md) |
+| **Central African Republic** | Thu, 15 Jan 2026 | [📄 View Advisory](advisories/central_african_republic.md) |
+| **Chad** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/chad.md) |
 | **Democratic Republic of the Congo** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/democratic_republic_of_the_congo.md) |
-| **Haiti** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/haiti.md) |
-| **Iran** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/iran.md) |
-| **Iraq** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/iraq.md) |
-| **Lebanon** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/lebanon.md) |
-| **Libya** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/libya.md) |
-| **Mali** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/mali.md) |
-| **Niger** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/niger.md) |
-| **North Korea** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/north_korea.md) |
-| **Russia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/russia.md) |
-| **Somalia** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/somalia.md) |
-| **South Sudan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/south_sudan.md) |
-| **Sudan** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/sudan.md) |
-| **Syria** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/syria.md) |
-| **Uganda** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/uganda.md) |
-| **Ukraine** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/ukraine.md) |
-| **Yemen** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/yemen.md) |
+| **Haiti** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/haiti.md) |
+| **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
+| **Iraq** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/iraq.md) |
+| **Lebanon** | Wed, 06 May 2026 | [📄 View Advisory](advisories/lebanon.md) |
+| **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
+| **Mali** | Mon, 08 Jun 2026 | [📄 View Advisory](advisories/mali.md) |
+| **Niger** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/niger.md) |
+| **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
+| **Russia** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/russia.md) |
+| **Somalia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/somalia.md) |
+| **South Sudan** | Sun, 17 May 2026 | [📄 View Advisory](advisories/south_sudan.md) |
+| **Sudan** | Fri, 15 May 2026 | [📄 View Advisory](advisories/sudan.md) |
+| **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
+| **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
+| **Ukraine** | Thu, 14 Nov 2024 | [📄 View Advisory](advisories/ukraine.md) |
+| **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
 *Automated by GitHub Actions.*
