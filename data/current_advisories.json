@@ -40,14 +40,6 @@
     "date": "Fri, 10 Jul 2026"
   },
   {
-    "country": "Eswatini",
-    "level": 2,
-    "full_title": "Eswatini - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/eswatini-travel-advisory.html",
-    "filename_base": "eswatini",
-    "date": "Fri, 10 Jul 2026"
-  },
-  {
     "country": "Niger",
     "level": 4,
     "full_title": "Niger - Level 4: Do Not Travel",
@@ -70,6 +62,14 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-guiana-travel-advisory.html",
     "filename_base": "french_guiana",
     "date": "Wed, 08 Jul 2026"
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "level": 1,
+    "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fsm.html",
+    "filename_base": "federated_states_of_micronesia",
+    "date": "Tue, 07 Jul 2026"
   },
   {
     "country": "Ghana",
@@ -101,14 +101,6 @@
     "full_title": "Samoa - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.wsm.html",
     "filename_base": "samoa",
-    "date": "Tue, 07 Jul 2026"
-  },
-  {
-    "country": "Federated States of Micronesia",
-    "level": 1,
-    "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fsm.html",
-    "filename_base": "federated_states_of_micronesia",
     "date": "Tue, 07 Jul 2026"
   },
   {
@@ -149,14 +141,6 @@
     "full_title": "Montserrat - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/montserrat-travel-advisory.html",
     "filename_base": "montserrat",
-    "date": "Tue, 07 Jul 2026"
-  },
-  {
-    "country": "Federated States of Micronesia",
-    "level": 1,
-    "full_title": "Federated States of Micronesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/federated-states-of-micronesia-travel-advisory.html",
-    "filename_base": "federated_states_of_micronesia",
     "date": "Tue, 07 Jul 2026"
   },
   {
