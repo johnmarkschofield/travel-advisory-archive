@@ -1,5 +1,13 @@
 [
   {
+    "country": "Belgium",
+    "level": 2,
+    "full_title": "Belgium - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html",
+    "filename_base": "belgium",
+    "date": "Thu, 23 Jul 2026"
+  },
+  {
     "country": "Democratic Republic of the Congo",
     "level": 4,
     "full_title": "Democratic Republic of the Congo - Level 4: Do Not Travel",
@@ -523,6 +531,14 @@
     "country": "Barbados",
     "level": 1,
     "full_title": "Barbados - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.brb.html",
+    "filename_base": "barbados",
+    "date": "Fri, 10 Apr 2026"
+  },
+  {
+    "country": "Barbados",
+    "level": 1,
+    "full_title": "Barbados - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/barbados-travel-advisory.html",
     "filename_base": "barbados",
     "date": "Fri, 10 Apr 2026"
@@ -816,6 +832,14 @@
     "date": "Thu, 08 Jan 2026"
   },
   {
+    "country": "Palau",
+    "level": 1,
+    "full_title": "Palau - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.plw.html",
+    "filename_base": "palau",
+    "date": "Wed, 07 Jan 2026"
+  },
+  {
     "country": "Benin",
     "level": 2,
     "full_title": "Benin - Level 2: Exercise Increased Caution",
@@ -846,6 +870,14 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.blr.html",
     "filename_base": "belarus",
     "date": "Mon, 29 Dec 2025"
+  },
+  {
+    "country": "Portugal",
+    "level": 1,
+    "full_title": "Portugal - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.prt.html",
+    "filename_base": "portugal",
+    "date": "Tue, 23 Dec 2025"
   },
   {
     "country": "Yemen",
@@ -1120,14 +1152,6 @@
     "date": "Fri, 30 May 2025"
   },
   {
-    "country": "Brazil",
-    "level": 2,
-    "full_title": "Brazil - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/brazil-travel-advisory.html",
-    "filename_base": "brazil",
-    "date": "Thu, 29 May 2025"
-  },
-  {
     "country": "France",
     "level": 2,
     "full_title": "France - Level 2: Exercise Increased Caution",
@@ -1165,14 +1189,6 @@
     "full_title": "Liechtenstein - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lie.html",
     "filename_base": "liechtenstein",
-    "date": "Thu, 22 May 2025"
-  },
-  {
-    "country": "Belgium",
-    "level": 2,
-    "full_title": "Belgium - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html",
-    "filename_base": "belgium",
     "date": "Thu, 22 May 2025"
   },
   {
@@ -1358,14 +1374,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/djibouti-travel-advisory.html",
     "filename_base": "djibouti",
     "date": "Thu, 06 Mar 2025"
-  },
-  {
-    "country": "Portugal",
-    "level": 1,
-    "full_title": "Portugal - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/portugal-travel-advisory.html",
-    "filename_base": "portugal",
-    "date": "Mon, 03 Mar 2025"
   },
   {
     "country": "Turkmenistan",
@@ -1662,14 +1670,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/netherlands-travel-advisory.html",
     "filename_base": "netherlands",
     "date": "Fri, 09 Aug 2024"
-  },
-  {
-    "country": "Palau",
-    "level": 1,
-    "full_title": "Palau - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/palau-travel-advisory.html",
-    "filename_base": "palau",
-    "date": "Tue, 06 Aug 2024"
   },
   {
     "country": "Kazakhstan",

@@ -1,44 +1,41 @@
 # Belgium
 
 **Level 2 Advisory**
-**Date:** Thu, 22 May 2025
+**Date:** Thu, 23 Jul 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/belgium-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review with minor edits._**
+**There was no change to the advisory level.  The "crime" and "unrest" risk indicators were added. Advisory summary was updated.**
 
-Exercise increased caution in Belgium due to **terrorism.**
+**Advisory summary  
+**Exercise increased caution in Belgium due to **crime** , **terrorism** , and **unrest**.
 
-**Country Summary:** There is a risk of terrorist violence, including terrorist attacks and other related activities in Belgium.
+**Crime  
+**Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings.
 
-Terrorists may attack with little or no warning. They target:
+Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
 
-  * Tourist locations
-  * Transportation hubs (e.g. airports, train stations, mass transit)
-  * Markets and shopping malls
-  * Local government buildings
-  * Hotels, clubs, and restaurants
-  * Places of worship
-  * Parks
-  * Major sporting, music, and cultural events
-  * Schools
-  * Public areas
+**Terrorism  
+**There is risk of terrorist violence, including terrorist attacks and other activity in Belgium. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
+**Unrest  
+**Large-scale, generally peaceful demonstrations related to the local political situation may occur. Demonstrations may disrupt transportation and other essential services.
 
+Review our [Travel Guidance for Belgium](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Belgium.html) to learn how to prepare for a safe trip.
 
-Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+**If you decide to travel to Belgium:**
 
-Read the [country information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Belgium.html) page for additional information on travel to Belgium.
-
-If you decide to travel to Belgium:
-
-  * Stay alert in tourist spots. 
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency. 
-  * Review the Country Security Report for Belgium. 
-  * Prepare a plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html). 
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/belgium?s_cid=ncezid-dgmq-travel-single-001) related to your travel and return to the United States.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) provider about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Country/Belgium/Detail) for Belgium.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
+  * Avoid demonstrations and crowds.
+  * Monitor local media for breaking news. Be prepared to adjust your plans.
+  * Stay aware of your surroundings.
+  * Stay alert in tourist spots.
+  * Stay alert when visiting banks or ATMs.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/belgium?s_cid=ncezid-dgmq-travel-single-001) for Belgium.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist.](https://travel.state.gov/en/international-travel/planning/checklist.html)
 
 
 
