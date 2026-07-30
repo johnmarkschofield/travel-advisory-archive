@@ -8,6 +8,8 @@
 
 **There were no changes to the advisory level or risk indicators.  Advisory summary updated.**
 
+Exercise increased caution in **Laos** due to **crime, unrest,** and**unexploded ordnances**.   Some areas have increased risk.  Read the entire Travel Advisory.
+
 **Increased Risk Areas:**
 
   * **Reconsider Travel** to **Xaisomboun Province** due to **civil unrest**  
@@ -17,8 +19,6 @@
 
 
 **Advisory summary:**
-
-Exercise increased caution due to **crime, unrest,** and**unexploded ordnances**.   Some areas have increased risk.  Read the entire Travel Advisory.
 
 Review our _Travel Guidance_ for Laos to learn how to prepare for a safe trip.
 

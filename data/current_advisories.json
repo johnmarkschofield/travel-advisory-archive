@@ -1,5 +1,13 @@
 [
   {
+    "country": "Mongolia",
+    "level": 1,
+    "full_title": "Mongolia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html",
+    "filename_base": "mongolia",
+    "date": "Wed, 29 Jul 2026"
+  },
+  {
     "country": "Uruguay",
     "level": 2,
     "full_title": "Uruguay - Level 2: Exercise Increased Caution",
@@ -1446,14 +1454,6 @@
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkmenistan-travel-advisory.html",
     "filename_base": "turkmenistan",
     "date": "Fri, 28 Feb 2025"
-  },
-  {
-    "country": "Mongolia",
-    "level": 1,
-    "full_title": "Mongolia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mongolia-travel-advisory.html",
-    "filename_base": "mongolia",
-    "date": "Wed, 22 Jan 2025"
   },
   {
     "country": "North Macedonia",
