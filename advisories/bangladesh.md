@@ -39,3 +39,10 @@ U.S. citizens in Bangladesh are advised to take similar precautions as U.S. gove
 
 The U.S. government has limited ability to provide emergency services to U.S. citizens in Bangladesh, particularly outside of Dhaka. This is due to these travel restrictions, a lack of infrastructure, and limited emergency responses from the local government.
 
+Do not travel to:
+
+  * **Chittagong Hill Tracts Region** for any reason due to **unrest** , **crime** , **terrorism** , and **kidnapping**.
+  * Areas near **the border with Burma and refugee camps near Cox’s Bazar** for any reason due to **unrest** , **crime** , and **kidnapping**.
+
+
+
