@@ -2,7 +2,7 @@
 
 **Level 3 Advisory**
 **Date:** Fri, 13 Mar 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saudi-arabia-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saudi-arabia-travel-advisory.html)
 
 ---
 

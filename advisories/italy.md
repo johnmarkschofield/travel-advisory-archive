@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Fri, 23 May 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/italy-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/italy-travel-advisory.html)
 
 ---
 

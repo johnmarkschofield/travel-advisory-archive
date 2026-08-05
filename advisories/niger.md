@@ -2,7 +2,7 @@
 
 **Level 4 Advisory**
 **Date:** Fri, 31 Oct 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/niger-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/niger-travel-advisory.html)
 
 ---
 

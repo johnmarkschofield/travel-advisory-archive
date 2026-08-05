@@ -2,11 +2,11 @@
 
 **Level 1 Advisory**
 **Date:** Fri, 23 Aug 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/austria-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/austria-travel-advisory.html)
 
 ---
 
-**_Reissued after periodic review without changes._**
+** _Reissued after periodic review without changes._**
 
 Exercise normal precautions in Austria.
 

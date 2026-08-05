@@ -2,7 +2,7 @@
 
 **Level 3 Advisory**
 **Date:** Thu, 19 Mar 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/venezuela-travel-advisory.html)
 
 ---
 

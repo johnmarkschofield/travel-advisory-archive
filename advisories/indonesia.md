@@ -2,11 +2,11 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 07 Jul 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/indonesia-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/indonesia-travel-advisory.html)
 
 ---
 
-**_There was no change to the advisory level or risk indicators. Advisory summary was updated._**
+** _There was no change to the advisory level or risk indicators. Advisory summary was updated._**
 
 Exercise increased caution in Indonesia due to risk of natural disasters, unrest, and terrorism. Some areas have increased risk. Read the entire Travel Advisory.
 

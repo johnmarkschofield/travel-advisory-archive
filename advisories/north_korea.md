@@ -2,7 +2,7 @@
 
 **Level 4 Advisory**
 **Date:** Tue, 29 Apr 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/north-korea-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/north-korea-travel-advisory.html)
 
 ---
 

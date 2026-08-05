@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Mon, 21 Apr 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/morocco-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/morocco-travel-advisory.html)
 
 ---
 

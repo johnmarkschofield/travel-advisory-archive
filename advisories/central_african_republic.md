@@ -2,7 +2,7 @@
 
 **Level 4 Advisory**
 **Date:** Mon, 10 Nov 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/central-african-republic-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/central-african-republic-travel-advisory.html)
 
 ---
 

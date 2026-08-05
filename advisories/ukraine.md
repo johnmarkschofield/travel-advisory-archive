@@ -2,7 +2,7 @@
 
 **Level 4 Advisory**
 **Date:** Thu, 14 Nov 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ukraine-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ukraine-travel-advisory.html)
 
 ---
 

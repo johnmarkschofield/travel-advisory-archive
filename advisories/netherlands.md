@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Fri, 09 Aug 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/netherlands-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/netherlands-travel-advisory.html)
 
 ---
 

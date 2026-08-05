@@ -2,7 +2,7 @@
 
 **Level 3 Advisory**
 **Date:** Thu, 17 Apr 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/colombia-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/colombia-travel-advisory.html)
 
 ---
 

@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Fri, 25 Jul 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cambodia-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cambodia-travel-advisory.html)
 
 ---
 

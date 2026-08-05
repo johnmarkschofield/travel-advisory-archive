@@ -2,7 +2,7 @@
 
 **Level 1 Advisory**
 **Date:** Tue, 06 Aug 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/palau-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/palau-travel-advisory.html)
 
 ---
 

@@ -2,11 +2,11 @@
 
 **Level 1 Advisory**
 **Date:** Wed, 28 May 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-korea-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/south-korea-travel-advisory.html)
 
 ---
 
-** _Updated to reflect information on demonstrations and ongoing physician shortage.  _**
+**_Updated to reflect information on demonstrations and ongoing physician shortage.  _**
 
 Exercise normal precautions when traveling to the Republic of Korea (ROK or South Korea). 
 

@@ -2,7 +2,7 @@
 
 **Level 1 Advisory**
 **Date:** Mon, 01 Jun 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cyprus-travel-advisory.html)
 
 ---
 

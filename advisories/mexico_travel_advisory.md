@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 12 Aug 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mexico-travel-advisory.html)
 
 ---
 

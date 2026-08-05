@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 29 Oct 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html)
 
 ---
 

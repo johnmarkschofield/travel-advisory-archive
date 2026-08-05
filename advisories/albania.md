@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 31 Dec 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/albania-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/albania-travel-advisory.html)
 
 ---
 

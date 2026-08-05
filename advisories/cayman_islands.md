@@ -2,11 +2,11 @@
 
 **Level 1 Advisory**
 **Date:** Thu, 21 May 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cayman-islands-travel-advisory.html)
+**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cayman-islands-travel-advisory.html)
 
 ---
 
-**_There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
+** _There were no changes to the advisory level or risk indicators. Advisory summary was updated._**
 
 **Exercise normal precautions** in the Cayman Islands.
 
