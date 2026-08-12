@@ -2,7 +2,7 @@
 
 **Level 3 Advisory**
 **Date:** Tue, 10 Dec 2024
-**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/honduras-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/honduras-travel-advisory.html)
 
 ---
 

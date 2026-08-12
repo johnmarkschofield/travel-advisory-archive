@@ -2,7 +2,7 @@
 
 **Level 2 Advisory**
 **Date:** Tue, 17 Sep 2024
-**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html)
 
 ---
 

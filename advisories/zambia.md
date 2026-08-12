@@ -2,7 +2,7 @@
 
 **Level 1 Advisory**
 **Date:** Mon, 31 Jul 2023
-**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zambia-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/zambia-travel-advisory.html)
 
 ---
 

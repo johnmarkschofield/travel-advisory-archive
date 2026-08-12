@@ -2,7 +2,7 @@
 
 **Level 3 Advisory**
 **Date:** Fri, 31 Oct 2025
-**Source:** [State.gov Link](http://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tanzania-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tanzania-travel-advisory.html)
 
 ---
 
