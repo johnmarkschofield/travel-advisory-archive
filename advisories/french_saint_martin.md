@@ -1,7 +1,7 @@
 # French Saint Martin
 
 **Level 1 Advisory**
-**Date:** Tue, 30 Jun 2026
+**Date:** Fri, 14 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.maf.html)
 
 ---
