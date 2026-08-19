@@ -1,24 +1,16 @@
 # Kazakhstan
 
 **Level 1 Advisory**
-**Date:** Mon, 05 Aug 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kazakhstan-travel-advisory.html)
+**Date:** Tue, 18 Aug 2026
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kaz.html)
 
 ---
 
-**Reissued after periodic review without changes.**
+Exercise normal precaution
 
-Exercise normal precautions in Kazakhstan.
+in **Kazakhstan**. 
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kazakhstan.html) for additional information on travel to Kazakhstan.
+Kazakhstan is generally a safe destination for travelers. 
 
-If you decide to travel to Kazakhstan:
-
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Kazakhstan.
-  * Visit the CDC page for the latest [Travel Health Information](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kazakhstan.html#ExternalPopup) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-
-
+Review our [Travel Guidance](https://travel.state.gov/en/international-travel/travel-advisories/kazakhstan.html#requirements "Travel Guidance for Kazakhstan") for Kazakhstan to learn how to prepare for a safe trip. Kazakhstan regularly experiences flooding. Review our information on [Weather and Natural Disasters](https://travel.state.gov/en/international-travel/travel-advisories/kazakhstan.html#weather "Weather and Natural Disasters in Kazakhstan") in Kazakhstan.
 
