@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-08-19 08:24 UTC
-**Total Countries Tracked:** 218
+**Last Updated:** 2026-08-20 08:25 UTC
+**Total Countries Tracked:** 219
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -68,7 +68,7 @@ Click on a country to view the full archived text of the advisory.
 | **North Macedonia** | Tue, 14 Jan 2025 | [📄 View Advisory](advisories/north_macedonia.md) |
 | **Norway** | Mon, 06 Jul 2026 | [📄 View Advisory](advisories/norway.md) |
 | **Palau** | Wed, 07 Jan 2026 | [📄 View Advisory](advisories/palau.md) |
-| **Paraguay** | Wed, 30 Apr 2025 | [📄 View Advisory](advisories/paraguay.md) |
+| **Paraguay** | Wed, 19 Aug 2026 | [📄 View Advisory](advisories/paraguay.md) |
 | **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
 | **Portugal** | Tue, 23 Dec 2025 | [📄 View Advisory](advisories/portugal.md) |
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
@@ -117,7 +117,7 @@ Click on a country to view the full archived text of the advisory.
 | **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Fri, 15 May 2026 | [📄 View Advisory](advisories/cameroon.md) |
-| **Chile** | Wed, 20 May 2026 | [📄 View Advisory](advisories/chile.md) |
+| **Chile** | Wed, 19 Aug 2026 | [📄 View Advisory](advisories/chile.md) |
 | **China** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/china.md) |
 | **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Thu, 02 Apr 2026 | [📄 View Advisory](advisories/costa_rica.md) |
@@ -163,7 +163,7 @@ Click on a country to view the full archived text of the advisory.
 | **Nepal** | Tue, 31 Mar 2026 | [📄 View Advisory](advisories/nepal.md) |
 | **Netherlands** | Tue, 18 Aug 2026 | [📄 View Advisory](advisories/netherlands.md) |
 | **New Caledonia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/new_caledonia.md) |
-| **Panama** | Mon, 23 Sep 2024 | [📄 View Advisory](advisories/panama.md) |
+| **Panama** | Wed, 19 Aug 2026 | [📄 View Advisory](advisories/panama.md) |
 | **Peru** | Fri, 16 May 2025 | [📄 View Advisory](advisories/peru.md) |
 | **Philippines** | Thu, 08 May 2025 | [📄 View Advisory](advisories/philippines.md) |
 | **Republic of the Congo** | Wed, 02 Oct 2024 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
@@ -222,7 +222,7 @@ Click on a country to view the full archived text of the advisory.
 | **Venezuela** | Sat, 27 Jun 2026 | [📄 View Advisory](advisories/venezuela.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 23 countries*
+*Total: 24 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -239,6 +239,7 @@ Click on a country to view the full archived text of the advisory.
 | **Iraq** | Mon, 02 Mar 2026 | [📄 View Advisory](advisories/iraq.md) |
 | **Lebanon** | Wed, 06 May 2026 | [📄 View Advisory](advisories/lebanon.md) |
 | **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
+| **Mali** | Mon, 08 Jun 2026 | [📄 View Advisory](advisories/mali.md) |
 | **Niger** | Thu, 09 Jul 2026 | [📄 View Advisory](advisories/niger.md) |
 | **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **Russia** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/russia.md) |
