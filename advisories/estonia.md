@@ -6,7 +6,7 @@
 
 ---
 
-**_There were no changes to the advisory level or risk indicators. Advisory summary was updated_**
+** _There were no changes to the advisory level or risk indicators. Advisory summary was updated_**
 
 Exercise normal precautions in **Estonia**.
 
