@@ -739,7 +739,7 @@
     "country": "Ireland",
     "level": 1,
     "full_title": "Ireland - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irl.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/ireland-travel-advisory.html",
     "filename_base": "ireland",
     "date": "Fri, 20 Mar 2026"
   },
@@ -859,7 +859,7 @@
     "country": "Malaysia",
     "level": 1,
     "full_title": "Malaysia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mys.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/malaysia-travel-advisory.html",
     "filename_base": "malaysia",
     "date": "Sun, 22 Feb 2026"
   },
@@ -867,7 +867,7 @@
     "country": "Afghanistan",
     "level": 4,
     "full_title": "Afghanistan - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.afg.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/afghanistan-advisory.html",
     "filename_base": "afghanistan",
     "date": "Fri, 20 Feb 2026"
   },
@@ -883,9 +883,9 @@
     "country": "Slovakia",
     "level": 1,
     "full_title": "Slovakia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.svk.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovakia-travel-advisory.html",
     "filename_base": "slovakia",
-    "date": "Thu, 12 Feb 2026"
+    "date": "Tue, 10 Feb 2026"
   },
   {
     "country": "The Kyrgyz Republic",
@@ -915,7 +915,7 @@
     "country": "The Gambia",
     "level": 2,
     "full_title": "The Gambia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.gmb.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/the-gambia-travel-advisory.html",
     "filename_base": "the_gambia",
     "date": "Fri, 16 Jan 2026"
   },
@@ -947,7 +947,7 @@
     "country": "Russia",
     "level": 4,
     "full_title": "Russia - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.rus.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/russia-travel-advisory.html",
     "filename_base": "russia",
     "date": "Mon, 29 Dec 2025"
   },
@@ -1011,7 +1011,7 @@
     "country": "Mauritius",
     "level": 2,
     "full_title": "Mauritius - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/mauritius-travel-advisory.html",
     "filename_base": "mauritius",
     "date": "Mon, 08 Dec 2025"
   },
@@ -1595,7 +1595,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1603,7 +1603,7 @@
     "country": "Mainland China, Hong Kong & Macau",
     "level": 2,
     "full_title": "Mainland China, Hong Kong & Macau - See Summaries - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/hong-kong-travel-advisory1.html",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/macau-travel-advisory1.html",
     "filename_base": "mainland_china_hong_kong__macau",
     "date": "Wed, 27 Nov 2024"
   },
@@ -1656,20 +1656,20 @@
     "date": "Tue, 17 Sep 2024"
   },
   {
+    "country": "Sint Maarten",
+    "level": 1,
+    "full_title": "Sint Maarten - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sxm.html",
+    "filename_base": "sint_maarten",
+    "date": "Mon, 26 Aug 2024"
+  },
+  {
     "country": "French West Indies",
     "level": 1,
     "full_title": "French West Indies - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-west-indies-travel-advisory.html",
     "filename_base": "french_west_indies",
     "date": "Thu, 22 Aug 2024"
-  },
-  {
-    "country": "Sint Maarten",
-    "level": 1,
-    "full_title": "Sint Maarten - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sxm.html",
-    "filename_base": "sint_maarten",
-    "date": "Mon, 19 Aug 2024"
   },
   {
     "country": "Aruba",
