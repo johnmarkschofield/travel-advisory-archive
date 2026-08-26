@@ -1,53 +1,54 @@
 # Kosovo
 
 **Level 2 Advisory**
-**Date:** Mon, 02 Dec 2024
+**Date:** Tue, 25 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kosovo-travel-advisory.html)
 
 ---
 
-**_Last Update: Reissued after periodic review with minor edits_**
+**Exercise increased caution** in Kosovo due to risk of **unrest and terrorism.**
 
-Exercise increased caution due to **terrorism**.** ** Some areas have increased risk. Read the entire Travel Advisory.
+Some areas have increased risk. Read the entire Travel Advisory.
 
-**Reconsider Travel To:**  
-North Mitrovica, Leposavic, Zubin Potok, and Zvecan. Due to ethnic tensions, these areas have a potential risk for civil unrest.
+**Reconsider travel** to **North** **Kosovo area** due to risk of **unrest.**
 
-**Country Summary:**  Terrorist groups continue plotting attacks in the Balkans region, including Kosovo. Terrorists may attack with little or no warning. 
+**Advisory summary**
 
-They may target:
+**Unrest**
 
-  * High-profile public events (sporting contests, political rallies, demonstrations, holiday events, celebratory gatherings, etc.)
-  * Hotels, clubs, and restaurants frequented by tourists
-  * Places of worship
-  * Schools
-  * Parks
-  * Tourism infrastructure
-  * Shopping malls and markets
-  * Public transportation systems (including subways, buses, trains, and scheduled commercial flights)
+Demonstrations related to the local political situation may occur with little notice.  They may disrupt transportation and other essential services.
 
+**Terrorism**
 
+There is risk of terrorist violence, including terrorist attacks and other activity in the Balkans region, including Kosovo.  Visit the U.S. Department of State's [Kosovo](https://www.state.gov/reports/country-reports-on-terrorism-2024/kosovo/) country reports on terrorism to learn more[MA1] [CU2] .
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Kosovo.html) for additional information on travel to Kosovo.
+**Risk in specific areas**
 
-If you decide to travel to Kosovo:
+**Level 3 - Reconsider Travel**
 
-  * Avoid demonstrations.
-  * Stay alert in locations frequented by Westerners.
-  * Monitor local media for breaking events and adjust your plans based on new information.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [Twitter](http://www.twitter.com/travelgov).
-  * Review the [Country Security Report ](https://www.osac.gov/Country/Kosovo/Detail)for Kosovo.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+**North Kosovo**
+
+**Reconsider travel** to **North** **Kosovo area** including North Mitrovica, Leposavic, Zubin Potok, and Zvecan due to risk of **unrest.**
+
+  * Due to ethnic tensions, these areas have a potential risk of violent civil **unrest.**
+  * Demonstrations related to the local political situation may occur with little notice.  They may disrupt transportation and other essential services.
+  * The U.S. government has limited ability to provide emergency services to U.S. citizens in the north of Kosovo.  U.S. government employee travel to North Mitrovica, Leposavic, Zubin Potok, and Zvecan is restricted. 
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 
 
 
-**North Mitrovica, Leposavic, Zubin Potok, and Zvecan - Level 3: Reconsider Travel**
+**If you decide to travel to Kosovo:**
 
-Recent unrest has been politically related. While it has not impacted tourists or members of the international community, there is a risk that bystanders can be affected.
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate.  Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report for Kosovo](https://www.osac.gov/Country/Kosovo/Detail).
+  * Avoid demonstrations and crowds.
+  * Have a plan to leave in an emergency that does not depend on U.S.  
+government help.
+  * Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html)
+  * Check local media for breaking news.  Be prepared to adjust your plans.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [GR7] latest [Travel Health Information for Kosovo](https://wwwnc.cdc.gov/travel/destinations/traveler/none/kosovo?s_cid=ncezid-dgmq-travel-single-001).
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coveragoff
 
-The U.S. government has limited ability to provide emergency services to U.S. citizens in the north of Kosovo as U.S. government employee travel to North Mitrovica, Leposavic, Zubin Potok, and Zvecan is restricted. 
 
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html)
 
