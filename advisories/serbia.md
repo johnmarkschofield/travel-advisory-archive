@@ -1,34 +1,38 @@
 # Serbia
 
 **Level 2 Advisory**
-**Date:** Fri, 11 Apr 2025
+**Date:** Thu, 27 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/serbia-travel-advisory.html)
 
 ---
 
-**_Reissued with minor changes._**
+**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**
 
-Exercise increased caution in Serbia due to **crime**.
+Exercise increased caution in **Serbia** due to **crime**.
 
-**Country Summary:** Violence associated with organized crime and high-profile sporting events in Serbia is common.
+**Advisory summary**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Serbia.html) for additional information on travel to Serbia.
+Crime can occur anywhere in Serbia. Police may take longer to respond than they do in the United States.
 
-If you decide to travel to Serbia:   
+**Crime**
 
-  * Be aware of your surroundings.
-  * Do not display signs of wealth, such as expensive watches or jewelry.
-  * Do not answer your door at your hotel/residence unless you know who it is.
-  * Stay alert in locations frequented by Westerners.
-  * Be extra vigilant when visiting banks or ATMs.
-  * Carry a copy of your passport and visa (if applicable) and leave the original in your hotel safe.
-  * Provide your itinerary to a family member or friend.
-  * Monitor local media.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Pages/ContentReportDetails.aspx?cid=23164) for Serbia.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel. 
-  * We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.  
+  * Violence associated with organized crime and high-profile sporting events is common.
+  * Petty crime is common, especially in popular tourist locations. Stay aware of your surroundings.
+  * Most crimes against foreigners are crimes of opportunity, like purse snatching and pickpocketing.
+
+
+
+**If you decide to travel to Serbia:**
+
+  * Enroll in the Smart Traveler Enrollment Program ([STEP](https://mytravel.state.gov/s/step)) to get important updates and alerts from the U.S. embassy. Enrolling helps the U.S. embassy contact you or your emergency contact in an emergency. 
+  * Review the[ Country Security Report](https://www.osac.gov/Content/Report/af43eec0-4c8e-444f-8574-1d91412c0797) for Serbia.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html) _._
+  * Use caution when walking or driving at night.
+  * Stay aware of your surroundings.
+  * Follow the instructions of local authorities.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/serbia?s_cid=ncezid-dgmq-travel-single-001) for Serbia.  
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html). 
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage. 
 
 
 

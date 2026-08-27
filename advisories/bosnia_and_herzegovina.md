@@ -1,27 +1,55 @@
 # Bosnia and Herzegovina
 
 **Level 2 Advisory**
-**Date:** Thu, 12 Dec 2024
+**Date:** Thu, 27 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bosinia-and-herzegovina-travel-advisory.html)
 
 ---
 
-Exercise increased caution in Bosnia and Herzegovina due to **terrorism, crime,  **and**  land mines**.
+**Exercise increased caution** in Bosnia and Herzegovina due to risk of **crime, landmines,** and **terrorism.**
 
-**Country Summary:  **Terrorist groups continue plotting possible attacks in Bosnia and Herzegovina. Terrorists may attack with little or no warning, targeting tourist locations, transportation hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of worship, parks, major sporting and cultural events, educational institutions, airports, and other public areas. Theft and other crimes of opportunity are common, especially against tourists. Violent crimes, such as robbery and murder, also occur due to the availability of firearms remaining from the war. Minefields and land mines are present throughout Bosnia and Herzegovina. While suspected hazardous areas are normally clearly marked, several people are killed or injured each year.
+**Advisory summary**
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BosniaandHerzegovina.html) for additional information on travel to Bosnia and Herzegovina.
+  * Recent unrest has been politically related. While it has not impacted tourists or members of the international community, there is a risk that bystanders can be affected.
+  * Review our Travel Guidance for Bosnia and Herzegovina to learn how to prepare for a safe trip.
 
-If you decide to travel to Bosnia and Herzegovina:  
 
-  * Be aware of your surroundings and maintain situational awareness when traveling to tourist locations and crowded public venues.
+
+**Crime**
+
+  * Sarajevo has a high rate of property-related crime, including robberies, residential and vehicle break-ins, and theft.
+  * Petty crime is common, especially in popular tourist locations. Stay  
+aware of your surroundings.
+  * Most crimes against foreigners are crimes of opportunity, like purse  
+snatching and pickpocketing.
+
+
+
+**Other**
+
+  * Landmines and unexploded ordnance exist throughout Bosnia and Herzegovina.
+  * While suspected hazardous areas are normally clearly marked, deaths from explosions have occurred as recently as August 2025.
+
+
+
+**Terrorism   **
+
+  * There is risk of terrorist violence, such as terrorist attacks and other activity in the Balkans region, including Bosnia and Herzegovina. 
+  * Visit the U.S. Department of State's Bosnia and Herzegovina [country](https://www.state.gov/reports/country-reports-on-terrorism-2023/bosnia-and-herzegovina/) reports on terrorism to learn more.
+
+
+
+**If you decide to travel to Bosnia and Herzegovina:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report for Bosnia and Herzegovina](https://www.osac.gov/Content/Report/ee24fbaf-1ad6-43ee-8756-1cf40af29f7a).
+  * Avoid demonstrations and crowds.
   * Monitor local media for breaking events and adjust your plans based on new information.
-  * Remain on hard-surfaced roads and stay out of abandoned buildings due to risks from land mines.
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov/) and [X/Twitter](https://x.com/travelgov). 
-  * Review the [Country Security Report](https://www.osac.gov/Country/BosniaHerzegovina/Detail) for Bosnia and Herzegovina.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/notices) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Check](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html)
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information ](https://wwwnc.cdc.gov/travel/destinations/traveler/none/bosnia-and-herzegovina?s_cid=ncezid-dgmq-travel-leftnav-traveler)for Bosnia and Herzegovina
+  * Prepare a backup plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html)
 
 
 

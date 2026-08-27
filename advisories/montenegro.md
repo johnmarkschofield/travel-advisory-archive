@@ -1,24 +1,30 @@
 # Montenegro
 
 **Level 1 Advisory**
-**Date:** Tue, 26 Nov 2024
+**Date:** Thu, 27 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/montenegro-travel-advisory.html)
 
 ---
 
-**Reissued after periodic review without changes.**
+**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**
 
-Exercise normal precautions in Montenegro.
+Exercise normal precautions in **Montenegro**.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Montenegro.html) for additional information on travel to Montenegro.
+**Advisory summary**
 
-If you decide to travel to Montenegro:  
+Montenegro is generally a safe destination for travelers.
 
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://www.facebook.com/travelgov) and [X/Twitter](http://www.twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Country/Montenegro/Detail) for Montenegro.
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-checklist.html).
+  * Review our Travel Guidance for Montenegro to learn how to prepare for a safe trip.
+
+
+
+**If you decide to travel to Montenegro:**
+
+  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report ](https://www.osac.gov/Content/Report/34b08450-6a22-4d92-932e-1d5002320f68)for Montenegro.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/montenegro?s_cid=ncezid-dgmq-travel-single-001) for Montenegro.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist.](https://travel.state.gov/en/international-travel/planning/checklist.html)
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
