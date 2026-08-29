@@ -1,62 +1,75 @@
 # Iraq
 
 **Level 4 Advisory**
-**Date:** Mon, 02 Mar 2026
+**Date:** Sat, 29 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/iraq-travel-advisory.html)
 
 ---
 
-**There were no changes to the advisory level or risk indicators. Advisory summary was updated to reflect changes to U.S. embassy operations.**
+**There were no changes to the Travel Advisory Level.  The "Crime" risk indicator was added.  Advisory summary was updated to reflect changes to U.S. embassy operations.**
 
-Do not travel to Iraq due to **terrorism, kidnapping, armed conflict, civil unrest, and the U.S. government 's limited ability to provide emergency services to U.S. citizens in Iraq. Do not travel to Iraq for any reason.  Leave now if you are there.**
+Do not travel to Iraq due to **terrorism, kidnapping, armed conflict, crime, health risks,** and**the U.S. government 's limited ability to provide emergency services to U.S. citizens in Iraq.**
 
 **_Advisory Summary_**
 
-On March 2, 2026, the Department of State ordered non-emergency U.S. government employees to leave Iraq due to security concerns.
+Do not travel to Iraq for any reason.  The U.S. government has limited ability to offer emergency services to U.S. citizens in Iraq due to the safety risks.
 
-U.S. citizens in Iraq face high risks, including violence and kidnapping. Terrorist and insurgent groups regularly attack Iraqi security forces and civilians. Anti-U.S. militias threaten U.S. citizens and international companies. Attacks using improvised explosive devices, indirect fire, and unmanned aerial vehicles occur in many areas, including major cities. The Department of State requires U.S. government personnel in Iraq to live and work under strict security due to serious threats.
+The Iraqi government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict.
 
-**_Terrorism_**
+**U.S. government employee travel restrictions  **
 
-There is risk of terrorist violence, including terrorist attacks and other activity in Iraq. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+The Department of State requires U.S. government personnel working in Iraq to live and work under strict security protocols due to serious threats.  
 
-**_Unrest_**
+Due to safety risks, U.S. government employees need special authorization to travel to Iraq. Only family members who meet the following requirements may join U.S. government employees working in Iraq:
 
-Demonstrations, protests, and strikes occur frequently throughout the country. These events can develop quickly without prior notice, often interrupting traffic, transportation, and other services, and sometimes turn violent.
-
-**Armed Conflict**
-
-Do not travel near armed groups or Iraq's northern borders due to:
-
-  * Continued threat of attacks by terrorist groups
-  * Armed conflict
-  * Aerial bombardment
-  * Civil unrest
+  * Are 21 years of age or older, and
+  * Are employed by the U.S. government.
 
 
 
-U.S. citizens should not travel through Iraq to engage in armed conflict in Syria, where they would face extreme personal risks (kidnapping, injury, or death) and legal risks (arrest, fines, and expulsion). The Kurdistan Regional Government in Iraq has stated it will impose prison sentences of up to ten years on individuals who illegally cross the Iraq-Syria border. Fighting on behalf of or providing other forms of support to designated terrorist organizations can constitute the provision of material support to a foreign terrorist organization, which is a crime under U.S. law that can result in penalties including prison time and large fines. Read the [Syria Travel Advisory](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/syria-travel-advisory.html) for more information.
+**Kidnapping**
 
-Because of security concerns, U.S. government personnel in Baghdad are prohibited from using Baghdad International Airport.
+U.S. citizens in Iraq face high risks, including violence and kidnapping.
 
-**_Aviation Safety_**
+**Terrorism**
 
-The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR) due to risks to civil aviation operating within or in the vicinity of Iraq. For more information, U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions, and Notices.](https://www.faa.gov/air_traffic/publications/us_restrictions#Iraq)
+There is a risk of terrorist violence, including terrorist attacks and other activity in Iraq.   Terrorists, including Iran-aligned militias and ISIS, encourage and conduct attacks against U.S. persons and interests in Iraq.  Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/ "Country reports on terrorism") to learn more.
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Iraq.html) for additional information on travel to Iraq.
+**Crime and armed conflict**
 
-For U.S. citizens in Iraq:
+Anti-U.S. militias threaten U.S. citizens and international companies.  Attacks using improvised explosive devices, indirect fire, and unmanned aerial vehicles occur in many areas, including major cities.  Targets of recent attacks have included hotels, universities, energy infrastructure, airports, and other locations perceived as affiliated with the United States, including diplomatic facilities.
 
+**Health**
+
+Emergency and intensive care facilities in Iraq are limited and likely unavailable outside of the largest cities.
+
+If you need emergency medical assistance, hospitals, doctors, ambulances, and medical supplies may be low quality or unavailable.  Problems with transportation, roads, and safety can result in delays if you need medical evacuation.
+
+**Aviation safety**
+
+The Federal Aviation Administration (FAA) has issued a Special Federal Aviation Regulation (SFAR) and a Notice to Airmen (NOTAM) prohibiting certain flights in the region.  This is due to risks to civil aviation operating within or near Iraq.
+
+  * For more information U.S. citizens should consult the [Federal Aviation Administration's Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions "Federal Aviation Administration’s Prohibitions, Restrictions and Notices"). 
+
+
+
+**For U.S. citizens in Iraq:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. Embassy or consulate.  Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Iraq, information on [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html), and information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html).
+  * Have a plan to leave in an emergency that does not depend on U.S. government help.  Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Review our information on [U.S. Citizens Missing Abroad](https://travel.state.gov/en/international-travel/help-abroad/missing-us-citizen.html).
+  * Landmines and unexploded ordnance exist throughout Iraq.  The locations of landmines and unexploded ordnance are often not marked or easy to recognize.
   * Establish a personal security plan in coordination with your employer or host organization or consider consulting with a professional security organization.
-  * Draft a will and designate appropriate insurance beneficiaries and/or power of attorney.
+  * Prepare a will.  Designate appropriate insurance beneficiaries or power of attorney.
   * Leave DNA samples with your medical provider in case it is necessary for your family to access them for identification purposes.
-  * Have departure plans that do not rely on U.S. government assistance.
-  * Discuss a plan with loved ones regarding care/custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
+  * Discuss a plan with loved ones regarding care or custody of children, pets, property, belongings, non-liquid assets (collections, artwork, etc.), funeral wishes, etc.
   * Share important documents, login information, and points of contact with loved ones so that they can manage your affairs if you are unable to return to the United States as planned.
-  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
-  * Enroll in the __[Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.  Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Iraq.
+  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html) _._
+  * Medical services for routine and emergency procedures are limited.  Read the Health section of the Travel Guidance on this page for more information.
   * Visit the CDC website for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel and return to the United States.
-  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html). We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) about evacuation assistance, medical insurance, and trip cancellation coverage.
+  * Prepare a backup plan for emergency situations
+  * We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html?cq_ck=1708701048867) about evacuation assistance, medical insurance, and trip cancellation coverage.
 
 
 
