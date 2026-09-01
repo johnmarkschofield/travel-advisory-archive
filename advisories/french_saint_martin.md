@@ -12,7 +12,7 @@ in **French Saint Martin**.
 
 French Saint Martin is generally a safe destination for travelers.
 
-French Saint Martin regularly experiences hurricanes. Review our information on [Weather and Natural Disasters](/en/international-travel/travel-advisories/french-west-indies.html#weather "Weather and Natural Disasters") in French Saint Martin.
+French Saint Martin regularly experiences hurricanes. Review our information on [Weather and Natural Disasters](/en/international-travel/travel-advisories/french-saint-martin.html#weather "Weather and Natural Disasters") in French Saint Martin.
 
-Review our [Travel Guidance](/en/international-travel/travel-advisories/french-west-indies.html#requirements "Saint Martin Travel Guidance") for French Saint Martin to learn how to prepare for a safe trip.
+Review our [Travel Guidance](/en/international-travel/travel-advisories/french-saint-martin.html#requirements "Saint Martin Travel Guidance") for French Saint Martin to learn how to prepare for a safe trip.
 
