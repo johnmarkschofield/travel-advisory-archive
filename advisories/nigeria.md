@@ -6,7 +6,7 @@
 
 ---
 
-**_There was no change to the advisory level or risk indicators.   Advisory summary was updated._**
+** _There was no change to the advisory level or risk indicators.   Advisory summary was updated._**
 
 Reconsider travel to Nigeria due to **crime** , **terrorism** , **unrest** , **kidnapping** , and**  inconsistent availability of health care services**.** ** Some areas have increased risk. Read the entire Travel Advisory.
 

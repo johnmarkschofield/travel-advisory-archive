@@ -1,16 +1,18 @@
 # Morocco
 
 **Level 2 Advisory**
-**Date:** Mon, 21 Apr 2025
+**Date:** Fri, 04 Sep 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mar.html)
 
 ---
 
 Exercise increased caution
 
-in**Morocco** due to **terrorism**.
+in **Morocco** due to risk of **terrorism**. Some areas have increased risk. Read the entire Travel Advisory.
 
-Terrorist groups continue plotting possible attacks in Morocco. Terrorists may attack with little or no warning.  They target tourist locations, transportation hubs, markets, shopping malls, and local government facilities.
+**Terrorism  **
 
-Review the [Travel Guidances](/en/international-travel/travel-advisories/morocco.html#requirements "Travel Guidances") for additional information on travel to Morocco.
+There is risk of terrorist violence, including terrorist attacks and other activity in Morocco.  
+
+Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.  
 
