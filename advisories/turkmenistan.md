@@ -2,26 +2,38 @@
 
 **Level 1 Advisory**
 **Date:** Fri, 21 Aug 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tkm.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/turkmenistan-travel-advisory.html)
 
 ---
 
-Exercise normal precaution
+**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**
 
-in **Turkmenistan**.
+Exercise normal precautions in Turkmenistan.
 
-**Turkmenistan is generally a safe destination for travelers.**
+**Advisory summary**
+
+Turkmenistan is generally a safe destination for travelers.
 
 Medical services for routine and emergency procedures are limited.
 
-  * Review the [Health section of the Travel Guidance](/en/international-travel/travel-advisories/turkmenistan.html#health "Turkmenistan Heatlh Sectrion") on this page for more information.
+  * Review the [Health section of the Travel Guidance](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Turkmenistan.html) on this page for more information.
 
 
 
 Turkmenistan is located in a seismically active zone.
 
-  * Review our information on [Weather and Natural Distasters](/en/international-travel/travel-advisories/turkmenistan.html#weather "Weather and Natural Distasters in Turkmenistan"). 
-  * Review our [Travel Guidance for Turkmenistan](/en/international-travel/travel-advisories/turkmenistan.html#requirements "Travel Guidance for Turkmenistan") to learn how to prepare for a safe trip.
+  * Review our information on [Weather and Natural Distasters](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Turkmenistan.html). 
+  * Review our [Travel Guidance for Turkmenistan](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Turkmenistan.html) to learn how to prepare for a safe trip.
+
+
+
+**If you decide to travel to Turkmenistan:**
+
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
+  * Review the [Country Security Report](https://www.osac.gov/Content/Report/3112ae3a-90da-49a9-8ace-1c245ebc376f) for Turkmenistan.
+  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/turkmenistan) for Turkmenistan.
+  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
+  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
 
 
 
