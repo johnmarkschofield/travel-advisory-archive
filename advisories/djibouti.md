@@ -2,19 +2,13 @@
 
 **Level 2 Advisory**
 **Date:** Thu, 06 Mar 2025
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/djibouti-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dji.html)
 
 ---
 
-**_Updated to remove Crime indicator and to include area-specific Level 3 advisory for the border with Eritrea._**
+Exercise increased caution
 
-Exercise increased caution in Djibouti due to **terrorism**. Some areas have increased risk. Read the entire Travel Advisory.****
-
-**Reconsider travel to:**
-
-  * Areas bordering Eritrea due to**border tensions**
-
-
+in **Djibouti** due to **terrorism**. Some areas have increased risk. Read the entire Travel Advisory.
 
 **Terrorists** may attack with little or no warning. Terrorists target public areas including:
 
@@ -27,28 +21,10 @@ Exercise increased caution in Djibouti due to **terrorism**. Some areas have inc
   * Parks and public areas
   * Major sporting and cultural events
   * Hospitals
+  * Read the [Travel Guidance](/en/international-travel/travel-advisories/djibouti.html#requirements "Travel guidance for Djibouti") for more information on travel to Djibouti.
 
 
 
-Read the [Country Information Page](https://travel.state.gov/content/passports/en/country/djibouti.html) for more information on travel to Djibouti.
+**Reconsider travel** to areas **bordering Eritrea** due to **border tensions**.  
 
-If you decide to travel to Djibouti:
-
-  * Stay aware of your surroundings.
-  * Check local media for breaking news. Be prepared to adjust your plans.
-  * Enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) ([STEP](https://step.state.gov/step/)) to receive alerts from the U.S. Embassy. It makes it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Content/Report/85c702b3-caa5-4490-8fdb-1d1697d44b6f) for Djibouti.
-  * Prepare a backup plan for emergency situations.  Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/djibouti?s_cid=ncezid-dgmq-travel-single-001) related to your travel and return to the United States.
-  * We highly recommend that you buy insurance before you travel.  Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
-
-
-
-**Border with Eritrea - Level 3: Reconsider Travel**
-
-U.S. citizens should reconsider travel within 10 miles of the border with Eritrea in the Tadjoura and Obock regions due to government of Djibouti restrictions.
-
-The U.S. government has limited ability to provide emergency services to U.S. citizens in the region. U.S. government employees are prohibited from travelling after dark anywhere within 10 miles of the Eritrean border region.
-
-Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/travel/en/international-travel/before-you-go/travelers-with-special-considerations/high-risk-travelers.html).
 
