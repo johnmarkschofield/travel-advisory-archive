@@ -200,7 +200,7 @@ Extra security measures, such as security checks and increased levels of police 
 
 Authorities may impose curfews and travel restrictions on short notice.
 
-If you decide to travel to the Tibet Autonomous Region:
+**If you decide to travel to the Tibet Autonomous Region:**
 
   * Enroll in [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
   * Enter China on your U.S. passport with a valid Chinese visa and keep it with you.
