@@ -1,59 +1,53 @@
 # Honduras
 
 **Level 3 Advisory**
-**Date:** Tue, 25 Aug 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.hnd.html)
+**Date:** Tue, 10 Dec 2024
+**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/honduras-travel-advisory.html)
 
 ---
 
-Reconsider travel
+_Reconsider travel to Honduras due to**crime**. Read the entire Travel Advisory._
 
-to Honduras due to **crime** and **terrorism**. Some areas have an increased risk. Read the entire Travel Advisory.
+Do not travel to:
 
-**U.S. government travel restrictions**
-
-  * U.S. government employees working in Honduras are not allowed to travel to Gracias a Dios department due to safety risks.
-  * U.S. government employees working in Honduras are not allowed to visit adult clubs nor casinos. Extortion, overcharging, criminal surveillance, and other potential criminal activity can take place in these locations.
-  * U.S. government employees working in Honduras are not permitted to travel between cities after dark. After dark travel between Palmerola International Airport (XPL)/Soto Cano Airbase and Tegucigalpa is authorized. There is an increased risk of vehicle accidents and carjackings after dark on major highways. 
-  * U.S. government employees working in Honduras are not permitted to drive through or to high crime zones unless previously approved by the Regional Security Office. Designated high crime zones in Honduras include but are not limited to:
-    * Distrito Central (Francisco Morazan): 
-      * Colonia Villa Nueva, Nueva Suyapa, Flor de Campo, Los Pinos, Los Laureles, El Carrizal, Villa Cristina, La Travesia, Pueblo Nuevo, Barrio Concepción, Villa Fanca, La Laguna, San Ignacio, and Torocagua.
-    * Cortes: 
-      * Lomas del Carmen, Barrio Medina, Brisas del Merendon, Col. La Pradera, Col. Rivera Hernandez, Brisas del Sauce, La Planeta, Cerrito Lindo, Col. 6 de Mayo, Cofradia, Col. Central, Col. Hector Sabillon Cruz, Barrio El Centro, Barrio Barandilla, Chamelecon, Choloma.
-    * Department of Colon
+  * Gracias a Dios Department, most eastern department, due to **crime**.
 
 
 
-**Crime**
+**Country Summary** : Violent crime, such as homicide, armed robbery, and kidnapping, remains common. Violent gang activity, such as extortion, violent street crime, rape, narcotics, and human trafficking, is widespread. Local authorities may lack sufficient resources to respond effectively to serious crime incidents. Around resort areas in the Bay Islands, which include Roatan, Utila, and Guanaja, there is a concentration of resources, and these areas are better policed.
 
-  * Violent crime is common. Common crimes include murder, armed robbery, and kidnappings.
-  * Violent gang activity is widespread in designated high-crime zones.
-  * Crimes may also include violent street crime, rape, extortion, human trafficking, and drug-related crime. Robberies perpetuated by motorcyclists on pedestrians are common.
-  * Local authorities may lack the resources to respond effectively to serious crimes. 
+Demonstrations occur regularly throughout the country and can be about a variety of political or economic issues. Protests, demonstrations, tire burnings, and roadblocks are frequent, unpredictable, and can turn violent. They can shutdown roads and highways, often without prior notice or estimated reopening timelines. 
 
+In December 2022, the Government of Honduras declared a "State of Exception" in response to high levels of extortion and other crimes. The declaration remains in effect and has been modified to include more cities. It allows the police to suspend constitutional rights in 226 of the country's 298 municipalities. 
 
+The Honduran Ministry of Health declared in June 2024 a national emergency in Honduras due to an increase in dengue cases. The Ministry of Health has carried out dengue prevention, control, and surveillance activities, along with the promotion of preventive measures through the media and educational campaigns. It also carried out clean-up operations and campaigns, including the use of chemical and biological agents for vector control.
 
-In December 2022, the Government of Honduras declared a “State of Exception” in response to high levels of extortion and other crimes. The declaration remains in effect and has been modified to include more cities. It allows the police to suspend constitutional rights in 226 of the country’s 298 municipalities. 
+Please review the [U.S. Centers for Disease Control and Prevention ](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwwwnc.cdc.gov.mcas.ms%2Ftravel%2Fdestinations%2Ftraveler%2Fnone%2Fhonduras%3Fs_cid%3Dncezid-dgmq-travel-single-001%26McasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567)(CDC) website and [CDC Global Dengue](https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwwwnc.cdc.gov.mcas.ms%2Ftravel%2Fnotices%2Flevel1%2Fdengue-global%3FMcasTsid%3D20892&McasCSRF=c0faf6210156a766d6d56a468090eadbf7ff14e9134b92c8bb1ab41cbd1c7567) for further information.
 
-**Terrorism  **
+Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Honduras.html) for additional information on travel to Honduras.
 
-Given the high level of gang activity, including gangs identified as foreign terrorist organizations, there is risk of terrorist violence, including terrorist attacks and other activity in Honduras. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+If you decide to travel to Honduras:
 
-**Unrest**
-
-Large-scale demonstrations related to local political situations may occur with little notice. Demonstrations may become violent and result in death and injuries. 
-
-Demonstrations may disrupt transportation and other essential services, often without warning, including: 
-
-  * Roads and highways
-  * Airports and other domestic transportation 
-  * Retail goods and services
-
-
-
-**Do not travel to** :
-
-  * **Gracias a Dios Department** due to **crime**.
+  * Avoid demonstrations.
+  * Be aware of your surroundings.
+  * Avoid walking or driving at night.
+  * Do not physically resist any robbery attempt.
+  * Be extra vigilant when visiting banks or ATMs.
+  * Do not display signs of wealth, such as wearing expensive watches or jewelry.
+  * Do not take public transportation, including white car taxis. U.S. government personnel and their family members are prohibited from using these forms of transportation.
+  * Monitor local media for breaking events and be prepared to adjust your plans.
+  * Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html).
+  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
+  * Follow the Department of State on [Facebook](https://www.facebook.com/travelgov) and [X/Twitter](https://twitter.com/StateDept?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor).
+  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for Honduras.
+  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
+  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel.
 
 
+
+**Gracias a Dios Department - Level 4: Do Not Travel**
+
+U.S. government personnel and family members are restricted from traveling to Gracias a Dios, the most eastern department. The department is an isolated region with high levels of criminal activity. Narcotics trafficking is widespread, and large portions of the department are particularly vulnerable to drug trafficking organizations. Infrastructure is weak, government services are limited, and police and military presence is scarce.
+
+Visit our website for [Travel to High-Risk Areas](https://travel.state.gov/content/passports/en/go/TraveltoHighRiskAreas.html)
 
