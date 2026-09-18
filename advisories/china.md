@@ -8,13 +8,7 @@
 
 Exercise increased caution
 
-in mainland **China** due to the **arbitrary enforcement of local laws, the use of exit bans without a fair and transparent process under the law, and the risk of unjust arrest or detention**. 
-
-Some areas have increased risk. Read the entire Travel Advisory.
-
-Exercise increased caution in Hong Kong Special Administrative Region (SAR) due to the **arbitrary enforcement of local laws.**
-
-Reconsider travel to Macau Special Administrative Region (SAR) due to a **limited ability to provide emergency consular services**. Exercise increased caution due to the **arbitrary enforcement of local laws.**
+in mainland **China** due to the **arbitrary enforcement of local laws, the use of exit bans without a fair and transparent process under the law, and the risk of unjust arrest or detention**. Some areas have increased risk. Read the entire Travel Advisory.
 
 **Exercise increased caution** in mainland China due to the **arbitrary enforcement of local laws, the use of exit bans without a fair and transparent process under the law, and the risk of unjust arrest or detention.**
 
@@ -38,15 +32,17 @@ Exercise increased caution in the Hong Kong Special Administrative Region (SAR) 
 
 Reconsider travel to Macau Special Administrative Region (SAR) due to a limited ability to provide emergency consular services. Exercise increased caution due to the arbitrary enforcement of local laws.
 
-Review specific risks and conditions in each jurisdiction.
+  * Review specific risks and conditions in each jurisdiction.
+
+
 
 #### Mainland China – Level 2:  Exercise Increased Caution
 
-**Arbitrary enforcement of local laws**
+##### **Arbitrary enforcement of local laws**
 
 The government of China arbitrarily enforces local laws. It may issue exit bans on U.S. citizens and citizens of other countries without fair and transparent processes under the law.
 
-**National security laws**
+##### **National security laws**
 
 Chinese law includes an expansive definition of national security and grants Chinese officials with broad discretion to portray a wide range of documents, data, statistics, or materials as “state secrets,” including retroactively.
 
@@ -72,7 +68,7 @@ China has disproportionately targeted U.S. citizens of Chinese heritage or natur
 
 People accused of violating national security laws, including espionage, are often denied access to a lawyer. There is increased official scrutiny of U.S. and third-country firms operating in China, such as professional service and due diligence companies. China’s security services have detained U.S. citizens, who have faced prosecution, including for conducting academic and business research or accessing publicly available material inside China.
 
-**Wrongful detention and exit bans**
+##### **Wrongful detention and exit bans**
 
 The Secretary of State has determined that China is wrongfully detaining some U.S. citizens. China has also used restrictions on travel or departure from China, referred to as “exit bans,” to:
 
@@ -91,7 +87,7 @@ In some cases, the Chinese government has told U.S. citizens that the exit bans 
 
 The U.S. Embassy has received reports from U.S. citizens of being forced to sign statements Chinese officials know to be untrue. In multiple cases, exit bans related to civil or business disputes have remained in place for years. These exit bans have prevented U.S. citizens from obtaining needed medical treatment outside of China.   
 
-**Dual nationals and U.S. citizens of Chinese heritage**
+##### **Dual nationals and U.S. citizens of Chinese heritage**
 
 China does not recognize dual nationality. The Chinese government claims to represent the interests of all ethnic Chinese individuals all over the world, regardless of nationality. 
 
@@ -109,7 +105,7 @@ U.S. citizens who were formerly Chinese citizens may also face departure restric
 
 The Chinese government has imposed exit bans while denying claims of U.S. citizenship for natural born and naturalized (non-dual) U.S. citizens of Chinese descent who entered China using a U.S. passport.
 
-**Communication and expression**
+##### **Communication and expression**
 
 Assume that China’s security services can read your emails, texts, and social media posts if you send them to or from China. 
 
@@ -123,7 +119,7 @@ Assume they can also read your messages if you use Chinese apps, even when you a
 
 The government of China strictly manages the religious activities of foreigners. Foreigners wishing to hold collective religious services must abide by Chinese laws. Religious exchanges between foreigners and Chinese religious institutions are controlled by national or provincial religious associations. There are restrictions on the transport of religious materials to China. U.S. citizens conducting collective religious services have reported interference by Chinese authorities. Foreign citizens engaging in proselytizing, distributing religious materials, or conducting religious services or education with Chinese citizens without prior approval is strictly prohibited and may result in fines, detention, or deportation.
 
-**Drugs**
+##### **Drugs**
 
 Do not use illegal drugs in China or before you go to China. 
 
@@ -131,7 +127,7 @@ If you test positive for drugs, even if the drug was legal elsewhere, Chinese po
 
 Chinese authorities may force you to give blood, urine, or hair samples for drug testing. Penalties for illicit drug offenses such as importation, possession, or consumption are severe. 
 
-**Guns and munitions**
+##### **Guns and munitions**
 
 China has extremely strict laws about weapons and ammunition. If you break these laws, even by mistake, you could go to prison. 
 
@@ -141,7 +137,7 @@ China has extremely strict laws about weapons and ammunition. If you break these
 
 
 
-**Demonstrations**
+##### **Demonstrations**
 
 Do not join protests or demonstrations in China. 
 
@@ -158,37 +154,13 @@ This includes things the government sees as:
 
 Stay aware of your surroundings and avoid demonstrations.
 
-**Xinjiang Uyghur Autonomous Region and Tibetan Autonomous Prefectures**
+##### **Xinjiang Uyghur Autonomous Region and Tibetan Autonomous Prefectures**
 
 Extra security measures, such as security checks and increased levels of police presence and surveillance, are common in the Xinjiang Uyghur Autonomous Region and Tibetan Autonomous Prefectures. 
 
 Authorities may impose curfews and travel restrictions on short notice.
 
-**If you decide to travel to mainland China:**
-
-  * Enroll in [Smart Traveler Enrollment Program (STEP)](/en/international-travel/travel-advisories/smart-traveler-enrollment-program.html) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
-  * Enter China on your U.S. passport with a valid Chinese visa and keep it with you.
-  * Read the [destination information page for Mainland China](https://travel.state.gov/en/international-travel/travel-advisories/china.html).
-  * Check with the Embassy of the People’s Republic of China in the United States for the most updated information on Chinese government requirements for travel to China.  
-  * Review the [China Country Security Repor](https://www.osac.gov/Content/Report/77b1dc96-82d6-497f-9836-1c4f67baa024)t. 
-  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/china?s) for China.
-  * Whether you are a first-time or frequent traveler, use the International Traveler’s Checklist.
-  * We highly recommend that you buy travel insurance before you travel. Check with your travel insurance provider about evacuation assistance, medical insurance, and trip cancellation coverage.
-  * Be aware that U.S. citizens and U.S. Lawful Permanent Residents (LPRs) with Chinese heritage or with a connection to the United States government may be targeted for harassment, arrest, detention, or exit ban. 
-  * Avoid demonstrations.
-  * Avoid communicating, either privately or publicly, opinions or observations that might be considered embarrassing or otherwise negative about China or the Chinese authorities.
-  * Exercise caution near large gatherings or protests.
-  * Avoid taking photographs of protesters or police without permission.
-  * Keep a low profile.
-  * If you are arrested or detained, ask police or prison officials to notify the U.S. Embassy in Beijing or the nearest U.S. Consulate General immediately.
-  * Do not consume illegal drugs in China or before going to China.
-  * Do not bring any bullets, cartridges, weapons, munitions, or even remnants of or partial munitions to China.
-  * Follow U.S. Embassy Beijing on [X](https://x.com/USA_China_Talk), [WeChat](https://china.usembassy-china.org.cn/social-media/wechat/), and [Weibo](https://weibo.com/usembassy).
-  * Prepare a contingency plan for emergency situations.
-
-
-
-**Tibet Autonomous Region**
+#### Tibet Autonomous Region
 
 China has severely restricted U.S. consular officers from traveling to the Tibet Autonomous Region.
 
@@ -200,7 +172,7 @@ Extra security measures, such as security checks and increased levels of police 
 
 Authorities may impose curfews and travel restrictions on short notice.
 
-**If you decide to travel to the Tibet Autonomous Region:**
+##### **If you decide to travel to the Tibet Autonomous Region:**
 
   * Enroll in [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/step/) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
   * Enter China on your U.S. passport with a valid Chinese visa and keep it with you.
@@ -222,4 +194,8 @@ Authorities may impose curfews and travel restrictions on short notice.
   * Follow U.S. Embassy Beijing on [X](https://x.com/USA_China_Talk), [WeChat](https://china.usembassy-china.org.cn/social-media/wechat/), and [Weibo](https://weibo.com/usembassy).
 
 
+
+**Exercise increased caution** in **Hong Kong Special Administrative Region (SAR)** due to the **arbitrary enforcement of local laws**.
+
+**Reconsider travel** to **Macau Special Administrative Region (SAR)** due to a l**imited ability to provide emergency consular services.** **Exercise increased caution** due to the a**rbitrary enforcement of local laws.**
 
