@@ -6,7 +6,7 @@
 
 ---
 
-**_Updated to reflect information on demonstrations and ongoing physician shortage.  _**
+** _Updated to reflect information on demonstrations and ongoing physician shortage.  _**
 
 Exercise normal precautions when traveling to the Republic of Korea (ROK or South Korea). 
 
