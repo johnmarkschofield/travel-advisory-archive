@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-09-23 13:07 UTC
-**Total Countries Tracked:** 217
+**Last Updated:** 2026-09-24 13:01 UTC
+**Total Countries Tracked:** 216
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 84 countries*
+*Total: 81 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -31,7 +31,7 @@ Click on a country to view the full archived text of the advisory.
 | **Canada** | Wed, 11 Jun 2025 | [📄 View Advisory](advisories/canada.md) |
 | **Cayman Islands** | Thu, 21 May 2026 | [📄 View Advisory](advisories/cayman_islands.md) |
 | **Croatia** | Mon, 18 May 2026 | [📄 View Advisory](advisories/croatia.md) |
-| **Curaçao** | Wed, 09 Sep 2026 | [📄 View Advisory](advisories/curaao.md) |
+| **Curaçao** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/curaao.md) |
 | **Cyprus** | Mon, 01 Jun 2026 | [📄 View Advisory](advisories/cyprus.md) |
 | **Czechia** | Mon, 28 Apr 2025 | [📄 View Advisory](advisories/czechia.md) |
 | **Dominica** | Wed, 20 May 2026 | [📄 View Advisory](advisories/dominica.md) |
@@ -45,7 +45,6 @@ Click on a country to view the full archived text of the advisory.
 | **French West Indies** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/french_west_indies.md) |
 | **Georgia** | Thu, 13 Mar 2025 | [📄 View Advisory](advisories/georgia.md) |
 | **Greece** | Thu, 23 Oct 2025 | [📄 View Advisory](advisories/greece.md) |
-| **Guadeloupe** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/guadeloupe.md) |
 | **Hungary** | Wed, 15 Apr 2026 | [📄 View Advisory](advisories/hungary.md) |
 | **Iceland** | Tue, 05 May 2026 | [📄 View Advisory](advisories/iceland.md) |
 | **Ireland** | Fri, 20 Mar 2026 | [📄 View Advisory](advisories/ireland.md) |
@@ -59,7 +58,6 @@ Click on a country to view the full archived text of the advisory.
 | **Malaysia** | Sun, 22 Feb 2026 | [📄 View Advisory](advisories/malaysia.md) |
 | **Malta** | Thu, 09 Jul 2026 | [📄 View Advisory](advisories/malta.md) |
 | **Marshall Islands** | Thu, 21 May 2026 | [📄 View Advisory](advisories/marshall_islands.md) |
-| **Martinique** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/martinique.md) |
 | **Mongolia** | Wed, 29 Jul 2026 | [📄 View Advisory](advisories/mongolia.md) |
 | **Montenegro** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/montenegro.md) |
 | **Montserrat** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/montserrat.md) |
@@ -72,15 +70,14 @@ Click on a country to view the full archived text of the advisory.
 | **Poland** | Thu, 05 Jun 2025 | [📄 View Advisory](advisories/poland.md) |
 | **Portugal** | Mon, 03 Mar 2025 | [📄 View Advisory](advisories/portugal.md) |
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
-| **Saba and Sint Eustatius** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saba_and_sint_eustatius.md) |
-| **Saint Barthelemy** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saint_barthelemy.md) |
-| **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
+| **Saba** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saba.md) |
 | **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
 | **Saint Vincent and the Grenadines** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
 | **Samoa** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/samoa.md) |
 | **Senegal** | Mon, 01 Dec 2025 | [📄 View Advisory](advisories/senegal.md) |
 | **Seychelles** | Tue, 09 Dec 2025 | [📄 View Advisory](advisories/seychelles.md) |
 | **Singapore** | Mon, 09 Mar 2026 | [📄 View Advisory](advisories/singapore.md) |
+| **Sint Eustatius** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/sint_eustatius.md) |
 | **Sint Maarten** | Mon, 19 Aug 2024 | [📄 View Advisory](advisories/sint_maarten.md) |
 | **Slovakia** | Tue, 10 Feb 2026 | [📄 View Advisory](advisories/slovakia.md) |
 | **Slovenia** | Fri, 15 May 2026 | [📄 View Advisory](advisories/slovenia.md) |
@@ -99,7 +96,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 81 countries*
+*Total: 82 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -136,7 +133,7 @@ Click on a country to view the full archived text of the advisory.
 | **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
 | **Grenada** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/grenada.md) |
 | **Guinea** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/guinea.md) |
-| **Hong Kong** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/hong_kong.md) |
+| **Hong Kong** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/hong_kong.md) |
 | **India** | Mon, 16 Jun 2025 | [📄 View Advisory](advisories/india.md) |
 | **Indonesia** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Fri, 23 May 2025 | [📄 View Advisory](advisories/italy.md) |
@@ -148,6 +145,7 @@ Click on a country to view the full archived text of the advisory.
 | **Lesotho** | Wed, 17 Jun 2026 | [📄 View Advisory](advisories/lesotho.md) |
 | **Liberia** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/liberia.md) |
 | **Madagascar** | Thu, 04 Dec 2025 | [📄 View Advisory](advisories/madagascar.md) |
+| **Mainland China, Hong Kong & Macau** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Mainland China, Hong Kong & Macau** | Wed, 27 Nov 2024 | [📄 View Advisory](advisories/mainland_china_hong_kong__macau.md) |
 | **Malawi** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/malawi.md) |
 | **Maldives** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/maldives.md) |
@@ -221,7 +219,7 @@ Click on a country to view the full archived text of the advisory.
 | **West Bank** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/west_bank.md) |
 
 ## 🔴 Level 4: Do Not Travel
-*Total: 23 countries*
+*Total: 24 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -240,9 +238,10 @@ Click on a country to view the full archived text of the advisory.
 | **Libya** | Wed, 16 Jul 2025 | [📄 View Advisory](advisories/libya.md) |
 | **Mali** | Mon, 08 Jun 2026 | [📄 View Advisory](advisories/mali.md) |
 | **Niger** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/niger.md) |
+| **North Korea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/north_korea.md) |
 | **Russia** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/russia.md) |
 | **Somalia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/somalia.md) |
-| **South Sudan** | Sun, 17 May 2026 | [📄 View Advisory](advisories/south_sudan.md) |
+| **South Sudan** | Thu, 13 Nov 2025 | [📄 View Advisory](advisories/south_sudan.md) |
 | **Sudan** | Fri, 15 May 2026 | [📄 View Advisory](advisories/sudan.md) |
 | **Syria** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/syria.md) |
 | **Uganda** | Mon, 08 Dec 2025 | [📄 View Advisory](advisories/uganda.md) |
