@@ -2,15 +2,13 @@
 
 **Level 1 Advisory**
 **Date:** Thu, 20 Aug 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bonaire-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bes.html)
 
 ---
 
-**There was no change to the advisory level. Advisory summary was updated.**
+Exercise normal precaution
 
-Exercise normal precautions in Bonaire.
-
-**Advisory summary**
+in **Bonaire**.
 
 Bonaire is generally a safe destination for travelers.
 
@@ -22,16 +20,5 @@ Bonaire is generally a safe destination for travelers.
 
 
 
-Review our [Travel Guidance for Bonaire](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/BonaireSintEustatiusandSaba.html "Travel Guidance") to learn how to prepare for a safe trip.
-
-If you decide to travel to Bonaire:
-
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://mytravel.state.gov/s/step) to get important updates and alerts from the U.S. embassy or consulate. Enrolling helps the U.S. embassy or consulate contact you or your emergency contact in an emergency.
-  * Review the Country Security Report for the [Dutch Caribbean](https://www.osac.gov/Content/Report/dccfe992-4b6c-4ddd-97cd-1d2d3fc22a21).
-  * You may wish to use different bags for travel than the ones you use to store or carry weapons and ammunition at home. This may help you avoid accidentally bringing illegal items into Bonaire.
-  * Visit the Centers for Disease Control and Prevention (CDC) website for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/bonaire) for Bonaire.
-  * Whether you're a first time or frequent traveler, use the [International Travel Checklist](https://travel.state.gov/en/international-travel/planning/checklist.html).
-  * We highly recommend that you buy travel insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/en/international-travel/planning/guidance/insurance.html) about evacuation assistance, medical insurance, and trip cancelation coverage.
-
-
+Review our Travel Guidance for Bonaire to learn how to prepare for a safe trip.
 
