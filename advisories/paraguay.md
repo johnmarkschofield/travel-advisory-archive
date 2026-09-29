@@ -2,38 +2,18 @@
 
 **Level 1 Advisory**
 **Date:** Wed, 19 Aug 2026
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/paraguay-travel-advisory.html)
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pry.html)
 
 ---
 
-**There were no changes to the advisory level or risk indicators. Advisory summary was updated.**
+Exercise normal precaution
 
-**Exercise Increased Caution** in **Departments of Alto Paran a, Amambay, Canindeyu, Concepcion, and San Pedro** due to **crime.**
+in **Paraguay** due to **crime.**
 
-**Advisory summary**
+Paraguay is generally a safe destination for travelers. Some areas have increased crime risk. U.S. government employees working in Paraguay need special authorization to travel to some areas. U.S. government employees are prohibited from using municipal buses in Paraguay because of risk of robbery and assault. 
 
-Paraguay is generally a safe destination for travelers. Some areas have increased crime risk. U.S. government employees working in Paraguay need special authorization to travel to some areas. U.S. government employees are prohibited from using municipal buses in Paraguay because of risk of robbery and assault.
+Review the [Travel Guidances for Paraguay](/en/international-travel/travel-advisories/paraguay.html#requirements "Travel Guidances for Paraguay") for additional information on travel.
 
-Read the [Country Information Page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/Paraguay.html) for additional information on travel to Paraguay.
-
-**Risks in specific areas**
-
-**Level 2 - Exercise Increased Caution -  Departments of Alto Parana, Amambay, Canindeyu, Concepcion, and San Pedro**
-
-Exercise increased caution in these areas due to the risk of **crime**.
-
-Criminal groups are active in these areas, smuggling weapons, drugs, and other goods along the northeastern border of Paraguay with Brazil. Police presence in some of these areas is low.
-
-Due to security risks, U.S. government employees working in Paraguay need special authorization to travel to Alto Parana, Amambay, Canindeyu, Concepcion, and San Pedro, and are prohibited from nighttime driving between these departments.
-
-**If you decide to travel to Paraguay:**
-
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive messages and Alerts from the U.S. Embassy and make it easier to locate you in an emergency.
-  * Review the [Country Security Report](https://www.osac.gov/Content/Search?contentTypes=Report&subContentTypes=Country%20Security%20Report) for Paraguay.
-  * Review our information on [Crime Abroad](https://travel.state.gov/en/international-travel/travel-advisories/crime.html) __ and for [Victims of Crime](https://travel.state.gov/en/international-travel/help-abroad/victims-crime.html).
-  * Whether you're a first time or frequent traveler, use the  [International Travel Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the [latest Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/traveler/none/paraguay?s_cid=ncezid-dgmq-travel-single-001) related to your travel.
-  * We highly recommend that you buy insurance before you travel. Check with your [travel insurance provider](https://travel.state.gov/content/travel/en/international-travel/before-you-go/your-health-abroad/Insurance_Coverage_Overseas.html) about evacuation assistance, medical insurance, and trip cancellation coverage.
-
-
+**Exercise Increased Caution** in **Departments of Alto Paraná** , **Amambay** , **Canindeyú** , **Concepcion** , and **San Pedro** due to **crime**.  
+ 
 
