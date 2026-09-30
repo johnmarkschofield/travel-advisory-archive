@@ -6,7 +6,7 @@
 
 ---
 
-** _There was no change to the advisory level. The "unrest" risk indicator was added. Advisory summary was updated._**
+**_There was no change to the advisory level. The "unrest" risk indicator was added. Advisory summary was updated._**
 
 Exercise Increased Caution in Benin due to**  unrest, crime, terrorism, **and**kidnapping.  **Some areas have increased risk. Read the entire Travel Advisory.
 
