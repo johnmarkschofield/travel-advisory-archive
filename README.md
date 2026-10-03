@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-02 14:18 UTC
-**Total Countries Tracked:** 216
+**Last Updated:** 2026-10-03 12:51 UTC
+**Total Countries Tracked:** 217
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -45,6 +45,7 @@ Click on a country to view the full archived text of the advisory.
 | **French West Indies** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/french_west_indies.md) |
 | **Georgia** | Thu, 13 Mar 2025 | [📄 View Advisory](advisories/georgia.md) |
 | **Greece** | Thu, 23 Oct 2025 | [📄 View Advisory](advisories/greece.md) |
+| **Guadeloupe** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/guadeloupe.md) |
 | **Hungary** | Wed, 15 Apr 2026 | [📄 View Advisory](advisories/hungary.md) |
 | **Iceland** | Tue, 05 May 2026 | [📄 View Advisory](advisories/iceland.md) |
 | **Ireland** | Fri, 20 Mar 2026 | [📄 View Advisory](advisories/ireland.md) |
@@ -72,7 +73,6 @@ Click on a country to view the full archived text of the advisory.
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
 | **Saba** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saba.md) |
 | **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
-| **Saint Lucia** | Fri, 02 Oct 2026 | [📄 View Advisory](advisories/saint_lucia.md) |
 | **Saint Vincent and the Grenadines** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
 | **Samoa** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/samoa.md) |
 | **Senegal** | Mon, 01 Dec 2025 | [📄 View Advisory](advisories/senegal.md) |
@@ -97,7 +97,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 81 countries*
+*Total: 82 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -163,6 +163,7 @@ Click on a country to view the full archived text of the advisory.
 | **Peru** | Fri, 16 May 2025 | [📄 View Advisory](advisories/peru.md) |
 | **Philippines** | Thu, 08 May 2025 | [📄 View Advisory](advisories/philippines.md) |
 | **Republic of the Congo** | Wed, 02 Oct 2024 | [📄 View Advisory](advisories/republic_of_the_congo.md) |
+| **Saint Lucia** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/saint_lucia.md) |
 | **Sao Tome and Principe** | Wed, 08 Oct 2025 | [📄 View Advisory](advisories/sao_tome_and_principe.md) |
 | **Serbia** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
