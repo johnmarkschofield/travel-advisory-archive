@@ -1,24 +1,22 @@
 # Sint Maarten
 
 **Level 1 Advisory**
-**Date:** Mon, 19 Aug 2024
-**Source:** [State.gov Link](https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/sint-maarten-travel-advisory.html)
+**Date:** Mon, 24 Aug 2026
+**Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sxm.html)
 
 ---
 
-**_Reissued after periodic review without changes._**
+Exercise normal precaution
 
-Exercise normal precautions in**Sint Maarten**.
+in Sint Maarten
 
-Read the [country information page](https://travel.state.gov/content/travel/en/international-travel/International-Travel-Country-Information-Pages/SintMaarten.html) for additional information on travel to Sint Maarten.
-
-If you decide to travel to Sint Maarten:
-
-  * Enroll in the [Smart Traveler Enrollment Program (STEP)](https://step.state.gov/) to receive Alerts and make it easier to locate you in an emergency.
-  * Follow the Department of State on [Facebook](http://facebook.com/travelgov) and [X/Twitter](http://twitter.com/travelgov).
-  * Review the [Country Security Report](https://www.osac.gov/Content/Browse/Report?subContentTypes=Country%20Security%20Report) for the Dutch Caribbean.
-  * Prepare a contingency plan for emergency situations. Review the [Traveler's Checklist](https://travel.state.gov/content/passports/en/go/checklist.html).
-  * Visit the CDC page for the latest [Travel Health Information](https://wwwnc.cdc.gov/travel/destinations/list) related to your travel. 
+  * Sint Maarten is generally a safe destination for travelers.
+  * Petty crime is most likely to occur in popular tourist locations. Stay aware of your surroundings. 
+  * Most crimes against foreigners are crimes of opportunity, such as theft of unsecured property or vehicle break-ins. 
+  * Beware of overcharges and scams in tourist areas. You may encounter aggressive vendors. Most sites have tourist police available to help in uncomfortable situations. 
+  * Crime rates are low. However, armed robberies occur at businesses storing large amounts of cash or involved in drug or gang activities. 
+  * It is illegal to bring guns, ammunition, and even spent shells or casings into Sint Maarten. You may face arrest and detention for long periods of time. 
+  * Review our Travel Guidance for Sint Maarten to learn how to prepare for a safe trip.
 
 
 
