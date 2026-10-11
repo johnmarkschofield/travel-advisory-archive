@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-10 14:05 UTC
+**Last Updated:** 2026-10-11 14:29 UTC
 **Total Countries Tracked:** 223
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -217,7 +217,7 @@ Click on a country to view the full archived text of the advisory.
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Qatar** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |
-| **Saudi Arabia** | Tue, 15 Sep 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
+| **Saudi Arabia** | Sat, 10 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **United Arab Emirates** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
@@ -253,7 +253,7 @@ Click on a country to view the full archived text of the advisory.
 | **Syria** | Fri, 07 Aug 2026 | [📄 View Advisory](advisories/syria.md) |
 | **Uganda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/uganda.md) |
 | **Ukraine** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/ukraine.md) |
-| **Yemen** | Fri, 19 Dec 2025 | [📄 View Advisory](advisories/yemen.md) |
+| **Yemen** | Sat, 10 Oct 2026 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
 *Automated by GitHub Actions.*
