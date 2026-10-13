@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-12 17:08 UTC
+**Last Updated:** 2026-10-13 15:24 UTC
 **Total Countries Tracked:** 223
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -217,7 +217,7 @@ Click on a country to view the full archived text of the advisory.
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Qatar** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |
-| **Saudi Arabia** | Sat, 10 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
+| **Saudi Arabia** | Mon, 12 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **United Arab Emirates** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |

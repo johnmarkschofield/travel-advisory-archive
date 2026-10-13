@@ -1,23 +1,22 @@
 # Saudi Arabia
 
 **Level 3 Advisory**
-**Date:** Sat, 10 Oct 2026
+**Date:** Mon, 12 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html)
 
 ---
 
 Reconsider travel
 
-to **Saudi Arabia** due to risk of **drone and missile targeting of American interests by Iran and the Iranian-supported Houthis, armed conflict, terrorism, exit bans,** and **local laws regarding social media activity.** Some areas have increased risk. Read the entire Travel Advisory.
+to **Saudi Arabia** due to risk of**drone and missile targeting of American interests by Iran and the Iranian-supported Houthis, armed conflict, terrorism, exit bans** , and **local laws regarding social media activity**. Some areas have increased risk. Read the entire Travel Advisory.
 
 **U.S. government employee travel restrictions**
 
-  * U.S. government employees working in Saudi Arabia require special authorization to use the King Khalid International Airport in Riyadh.
+  * U.S. government employees working in Saudi Arabia require special authorization to use any airport in Saudi Arabia.
   * U.S. government employees working in Saudi Arabia are not allowed to travel within 20 miles of the Yemen border due to safety risks.
   * U.S. government employees working in Saudi Arabia need special authorization to travel to:
     * The cities of Qatif, Taif and Yanbu
     * The provinces of Jizan, Asir, and Najran.
-    * King Khalid International Airport
   * U.S. citizens in Saudi Arabia are advised to take similar precautions.
 
 
@@ -55,6 +54,7 @@ Iran and Iran-backed Houthi rebels have launched missile and drone attacks into 
   * Iran-backed Houthi rebels have threatened to attack Saudi Arabia again.
   * Falling debris from intercepted drones and missiles are also a risk.
   * U.S. citizens living and working near energy infrastructure and military bases may be at increased risk, especially closer to the border with Yemen.
+  * Do not photograph, film, or share information about missile or drone interceptions or impact sites. Saudi authorities have detained U.S. citizens for taking photos of recent events.
 
 
 
@@ -81,8 +81,16 @@ The Government of Saudi Arabia has imposed exit bans on some U.S. citizens that 
 
 **Aviation safety**
 
-The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby the Persian Gulf and the Gulf of Oman region, including Saudi Arabia. Consult the [Federal Aviation Administration](https://www.faa.gov/air_traffic/publications/us_restrictions "Federal Aviation Administration") for the most up to date information on current FAA warnings.
+The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) or a Special Federal Aviation Regulation (SFAR). This is due to risks to civil aviation operating within or nearby Saudi Arabia. For more information, U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
 
-**Do Not Travel** to the **Yemen border** due to threat of **terrorism**.  
+Private car, train, and bus options may provide alternatives to air travel. Below are some transportation resources for your consideration. Please confirm availability and schedules directly with the providers.
 
+  * [Saudi Arabia Railways](https://www.sar.com.sa/)
+  * [SAT Transportation](https://satrans.com.sa/)
+  * [SAPTCO](https://saptco.com.sa/en)
+
+
+
+**Do Not Travel** to the **Yemen border** due to **terrorism**.  
+ 
 

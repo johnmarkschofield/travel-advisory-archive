@@ -1,18 +1,18 @@
 [
   {
-    "country": "Yemen",
-    "level": 4,
-    "full_title": "Yemen - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
-    "filename_base": "yemen",
-    "date": "Sat, 10 Oct 2026"
-  },
-  {
     "country": "Saudi Arabia",
     "level": 3,
     "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
     "filename_base": "saudi_arabia",
+    "date": "Mon, 12 Oct 2026"
+  },
+  {
+    "country": "Yemen",
+    "level": 4,
+    "full_title": "Yemen - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+    "filename_base": "yemen",
     "date": "Sat, 10 Oct 2026"
   },
   {
