@@ -67,7 +67,7 @@ Violent crime, including robberies, sexual assault, and murder can occur anywher
 
 ##### Health
 
-Medical services for routine and emergency care are limited. Comprehensive quality healthcare is available only in Managua.  Medical clinics outside of Managua lack basic resources and supplies.
+Medical services for routine and emergency care are limited. Comprehensive quality healthcare is available only in Managua. Medical clinics outside of Managua lack basic resources and supplies.
 
   * Managua has only one hospital with [Joint Commission International certification](https://www.jointcommission.org/en/about-us/recognizing-excellence/find-accredited-international-organizations?rfkid_7:content_filters=country:eq:Nicaragua "Joint Commission International certification"). Labs and radiology services may be available, but the number of specialists is limited, especially for acute emergencies.
   * Public hospitals are understaffed and lack basic supplies, modern equipment, and trained specialists.
