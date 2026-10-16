@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-15 12:57 UTC
-**Total Countries Tracked:** 223
+**Last Updated:** 2026-10-16 12:51 UTC
+**Total Countries Tracked:** 227
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 85 countries*
+*Total: 87 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -92,15 +92,17 @@ Click on a country to view the full archived text of the advisory.
 | **Taiwan** | Tue, 25 Nov 2025 | [📄 View Advisory](advisories/taiwan.md) |
 | **Thailand** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/thailand.md) |
 | **The Kyrgyz Republic** | Tue, 10 Feb 2026 | [📄 View Advisory](advisories/the_kyrgyz_republic.md) |
+| **Tonga** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tonga.md) |
 | **Turkmenistan** | Fri, 21 Aug 2026 | [📄 View Advisory](advisories/turkmenistan.md) |
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
 | **Uzbekistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
+| **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Wed, 24 Jun 2026 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 86 countries*
+*Total: 88 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -173,12 +175,14 @@ Click on a country to view the full archived text of the advisory.
 | **Serbia** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
 | **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
+| **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Sat, 01 Aug 2026 | [📄 View Advisory](advisories/spain.md) |
 | **Sri Lanka** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
 | **Sweden** | Mon, 18 May 2026 | [📄 View Advisory](advisories/sweden.md) |
 | **São Tomé and Príncipe** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/so_tom_and_prncipe.md) |
 | **Tajikistan** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/tajikistan.md) |
+| **Tanzania** | Fri, 16 Oct 2026 | [📄 View Advisory](advisories/tanzania.md) |
 | **The Bahamas** | Tue, 28 Jul 2026 | [📄 View Advisory](advisories/the_bahamas.md) |
 | **The Gambia** | Fri, 16 Jan 2026 | [📄 View Advisory](advisories/the_gambia.md) |
 | **Timor** | Thu, 21 May 2026 | [📄 View Advisory](advisories/timor.md) |
@@ -215,10 +219,10 @@ Click on a country to view the full archived text of the advisory.
 | **Oman** | Sun, 30 Aug 2026 | [📄 View Advisory](advisories/oman.md) |
 | **Pakistan** | Tue, 16 Jun 2026 | [📄 View Advisory](advisories/pakistan.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
+| **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Qatar** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |
 | **Saudi Arabia** | Mon, 12 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
-| **Tanzania** | Fri, 31 Oct 2025 | [📄 View Advisory](advisories/tanzania.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **United Arab Emirates** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **Venezuela** | Sat, 27 Jun 2026 | [📄 View Advisory](advisories/venezuela.md) |

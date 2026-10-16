@@ -1,40 +1,40 @@
 # Tanzania
 
-**Level 3 Advisory**
-**Date:** Fri, 31 Oct 2025
+**Level 2 Advisory**
+**Date:** Fri, 16 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html)
 
 ---
 
-Reconsider travel
+Exercise increased caution
 
-to **Tanzania** due to **unrest** , **crime** , **terrorism** , and **targeting of gay and lesbian individuals**. Some areas have increased risk. Read the entire Travel Advisory.
+in **Tanzania** due to **crime, terrorism, health, unrest** , **arbitrary enforcement of laws** , and **targeting gay and lesbian individuals**. Some areas have increased risk. Read the entire Travel Advisory.
 
-##### Unrest
+**Crime**
 
-Demonstrations often take place in response to political or economic issues. They may also occur on holidays or during large events.
+Violent crime happens in Tanzania. It includes assault, sexual assault, robberies, mugging, and express kidnapping. Crime can happen at any time. It is more common in crowded urban areas and when people are not paying attention. Local law enforcement may be slow to help if a crime happens. 
 
-  * Demonstrations can be unpredictable.
-  * The Tanzanian government increases security presence around protests. This includes stationary checkpoints and roadblocks.
-  * The Tanzanian government limits or does not authorize large gatherings.
+**Terrorism**
 
+There is a risk of terrorist violence, including terrorist attacks and other activity in Tanzania. Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more. 
 
+**Unrest**
 
-##### Crime
+Demonstrations can take place in response to political or economic issues. The Tanzanian government increases security presence around protests. This includes checkpoints and roadblocks. The Tanzanian government may limit or prohibit rallies or demonstrations.
 
-Violent crime is common. It includes assault, sexual assault, robberies, mugging, and carjacking. Local police have limited resources to respond effectively to serious crime.
+The government may shut down or limit internet, cell data, and phone service before, during, or after unrest. The Tanzanian government has used internet laws to punish people who share information perceived as criticizing the government. 
 
-##### Terrorism
+**Health**
 
-There is risk of terrorist violence, including terrorist attacks and other activity in Tanzania. 
+Medical services for routine and emergency procedures are limited, especially outside of the urban areas of Dar es Salaam and Arusha. Read the Health section of the Travel Guidance on this page for more information.
 
-  * Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
+**Arbitrary enforcement of local laws**
 
+The Tanzanian government arbitrarily enforces its own laws and regulations. U.S. citizens have been detained or prevented from leaving the country for several weeks without criminal charges. The U.S. embassy cannot guarantee your release. Local authorities do not consistently report detentions of U.S. citizens to the U.S. embassy in a timely manner. 
 
+**Targeting of gay and lesbian individuals**
 
-The risk of terrorist violence is most common in the Mtwara Region.
+Same-sex relationships are illegal in Tanzania and carry severe penalties. Members of the gay and lesbian community have been arrested and harassed. Police may target people who identify as gay or lesbian.
 
-##### Targeting of gay and lesbian individuals
-
-Members of the gay and lesbian community have been arrested, targeted, and harassed. People who identify as gay or lesbian may experience a higher likelihood of being targeted by police. People detained under suspicion of same-sex sexual conduct may face invasive physical exams.
+Reconsider travel to the **border between Tanzania and Mozambique in the Mtwara Region** due **to terrorism.**
 

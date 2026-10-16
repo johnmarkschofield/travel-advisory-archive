@@ -1,5 +1,13 @@
 [
   {
+    "country": "Tanzania",
+    "level": 2,
+    "full_title": "Tanzania - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html",
+    "filename_base": "tanzania",
+    "date": "Fri, 16 Oct 2026"
+  },
+  {
     "country": "Saudi Arabia",
     "level": 3,
     "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
@@ -1464,14 +1472,6 @@
     "date": "Tue, 25 Nov 2025"
   },
   {
-    "country": "Tanzania",
-    "level": 3,
-    "full_title": "Tanzania - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html",
-    "filename_base": "tanzania",
-    "date": "Fri, 31 Oct 2025"
-  },
-  {
     "country": "Greece",
     "level": 1,
     "full_title": "Greece - Level 1: Exercise Normal Precautions",
@@ -1611,6 +1611,14 @@
     "country": "Vanuatu",
     "level": 1,
     "full_title": "Vanuatu - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.vut.html",
+    "filename_base": "vanuatu",
+    "date": "Thu, 22 May 2025"
+  },
+  {
+    "country": "Vanuatu",
+    "level": 1,
+    "full_title": "Vanuatu - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/vanuatu-travel-advisory.html",
     "filename_base": "vanuatu",
     "date": "Thu, 22 May 2025"
@@ -1635,7 +1643,7 @@
     "country": "Cuba",
     "level": 2,
     "full_title": "Cuba - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/cuba-travel-advisory.html",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cub.html",
     "filename_base": "cuba",
     "date": "Wed, 07 May 2025"
   },
@@ -1645,6 +1653,22 @@
     "full_title": "Burundi - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bdi.html",
     "filename_base": "burundi",
+    "date": "Tue, 29 Apr 2025"
+  },
+  {
+    "country": "Papua New Guinea",
+    "level": 3,
+    "full_title": "Papua New Guinea - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.png.html",
+    "filename_base": "papua_new_guinea",
+    "date": "Tue, 29 Apr 2025"
+  },
+  {
+    "country": "Solomon Islands",
+    "level": 2,
+    "full_title": "Solomon Islands - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.slb.html",
+    "filename_base": "solomon_islands",
     "date": "Tue, 29 Apr 2025"
   },
   {
@@ -1686,6 +1710,14 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dji.html",
     "filename_base": "djibouti",
     "date": "Thu, 06 Mar 2025"
+  },
+  {
+    "country": "Tonga",
+    "level": 1,
+    "full_title": "Tonga - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ton.html",
+    "filename_base": "tonga",
+    "date": "Mon, 02 Dec 2024"
   },
   {
     "country": "Tuvalu",
