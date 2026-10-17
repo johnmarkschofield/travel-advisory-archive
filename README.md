@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-16 12:51 UTC
-**Total Countries Tracked:** 227
+**Last Updated:** 2026-10-17 11:51 UTC
+**Total Countries Tracked:** 223
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 87 countries*
+*Total: 86 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -97,12 +97,11 @@ Click on a country to view the full archived text of the advisory.
 | **Tuvalu** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/tuvalu.md) |
 | **Uzbekistan** | Mon, 26 Jan 2026 | [📄 View Advisory](advisories/uzbekistan.md) |
 | **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
-| **Vanuatu** | Thu, 22 May 2025 | [📄 View Advisory](advisories/vanuatu.md) |
 | **Vietnam** | Wed, 24 Jun 2026 | [📄 View Advisory](advisories/vietnam.md) |
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 88 countries*
+*Total: 86 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -121,7 +120,6 @@ Click on a country to view the full archived text of the advisory.
 | **Botswana** | Wed, 17 Jun 2026 | [📄 View Advisory](advisories/botswana.md) |
 | **Brazil** | Mon, 31 Aug 2026 | [📄 View Advisory](advisories/brazil.md) |
 | **Cambodia** | Tue, 15 Sep 2026 | [📄 View Advisory](advisories/cambodia.md) |
-| **Cambodia** | Fri, 25 Jul 2025 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Fri, 15 May 2026 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Wed, 19 Aug 2026 | [📄 View Advisory](advisories/chile.md) |
 | **China** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/china.md) |
@@ -175,7 +173,6 @@ Click on a country to view the full archived text of the advisory.
 | **Serbia** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/serbia.md) |
 | **Sierra Leone** | Mon, 15 Sep 2025 | [📄 View Advisory](advisories/sierra_leone.md) |
 | **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
-| **Solomon Islands** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/solomon_islands.md) |
 | **South Africa** | Tue, 27 May 2025 | [📄 View Advisory](advisories/south_africa.md) |
 | **Spain** | Sat, 01 Aug 2026 | [📄 View Advisory](advisories/spain.md) |
 | **Sri Lanka** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/sri_lanka.md) |
@@ -196,7 +193,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 27 countries*
+*Total: 26 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -218,7 +215,6 @@ Click on a country to view the full archived text of the advisory.
 | **Nigeria** | Fri, 12 Jun 2026 | [📄 View Advisory](advisories/nigeria.md) |
 | **Oman** | Sun, 30 Aug 2026 | [📄 View Advisory](advisories/oman.md) |
 | **Pakistan** | Tue, 16 Jun 2026 | [📄 View Advisory](advisories/pakistan.md) |
-| **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
 | **Qatar** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |

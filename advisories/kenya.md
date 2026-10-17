@@ -8,9 +8,9 @@
 
 Exercise increased caution
 
-in **Kenya** due to risk of **crime** , **kidnapping** , **terrorism** , **unrest** , **health** , and **traffic safety**. Some areas have increased risk. Read the entire Travel Advisory.
+in **Kenya** due to risk of **health** , **crime** , **kidnapping** , **terrorism** , **unrest** , and**traffic safety**. Some areas have increased risk. Read the entire Travel Advisory. 
 
-##### Crime
+##### **Crime**
 
 Violent crime can occur at any time. Violent crimes include armed carjacking, mugging, home invasion, sexual assault, and kidnapping for ransom. Petty crime is common. Criminal fraud targeting Americans is a concern.
 
@@ -23,19 +23,13 @@ Violent crime can occur at any time. Violent crimes include armed carjacking, mu
 
 
 
-##### Kidnapping
+##### **Kidnapping**
 
-  * Terrorists, criminal gangs, and other armed groups kidnap for ransom. 
-  * Local law enforcement officials are not equipped or trained to handle the threat of kidnapping.
+Terrorists, criminal gangs, and other armed groups kidnap for ransom. Local law enforcement officials are not equipped or trained to handle the threat of kidnapping.
 
+##### **Terrorism**
 
-
-##### Terrorism
-
-  * There is risk of terrorist violence, including terrorist attacks and other activity. 
-  * Visit the U.S. Department of State’s [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
-
-
+There is risk of terrorist violence, including terrorist attacks and other activity. Visit the U.S. Department of State’s [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
 Terrorists plot kidnappings, bombings, grenade attacks, armed assaults, suicide attacks, and other action in Kenya. Terrorists attack without warning. They have targeted:
 
@@ -48,37 +42,34 @@ Terrorists plot kidnappings, bombings, grenade attacks, armed assaults, suicide 
 
 
 
-##### Unrest
+##### **Unrest**
 
-  * Cross-border incursions occur along the border with Ethiopia.
-  * Demonstrations, strikes, and other political and economic protests are common. They can turn violent.
-  * Protests often block key intersections and highways, resulting in widespread traffic jams. Protestors have also attacked vehicles containing Americans, including motorcycle taxis and safari vehicles.
-  * Violence during protests has occurred across Kenya. This includes rock-throwing by protesters and use of deadly force by police. Violent protests are most common in Nairobi and in western Kenya.
+Cross-border incursions occur along the border with Ethiopia.
 
+Demonstrations, strikes, and other political and economic protests are common. They can turn violent.
 
+Protests often block key intersections and highways, resulting in widespread traffic jams. Protestors have also attacked vehicles containing Americans, including motorcycle taxis and safari vehicles.
 
-##### Health
+Violence during protests has occurred across Kenya. This includes rock-throwing by protesters and use of deadly force by police. Violent protests are most common in Nairobi and in western Kenya.
 
-Medical services in Kenya are limited. They are often unavailable in rural areas. 
+##### **Health**
 
-  * Medical facilities in Kenya often lack sufficient medicine and equipment. Except for a few private medical facilities based in the large urban centers with enhanced capability, many health issues may require medical evacuation at your expense. 
-  * Medical facilities will usually deny service if payment is not made upfront.
+Medical services in Kenya are limited. They are often unavailable in rural areas. Medical facilities in Kenya often lack sufficient medicine and equipment. Except for a few private medical facilities based in the large urban centers with enhanced capability, many health issues may require medical evacuation at your expense. Medical facilities will usually deny service if payment is not made upfront.
 
+Some schools, substance abuse centers, and other facilities claim to rehabilitate people, but operate with little or no government supervision. Physical and emotional abuse is common in these places. Residents, including Americans, have been held in these facilities against their will.
 
+Americans or residents who lure individuals to Kenya under false pretenses or forcibly place Americans into such rehabilitation facilities may be subject to legal repercussions in the United States.
 
-Some schools, substance abuse centers, and other facilities claim to rehabilitate people, but operate with little or no government supervision. 
+##### **Traffic safety**
 
-  * Physical and emotional abuse is common in these places. Residents, including Americans, have been held in these facilities against their will.
-  * Americans or residents who lure individuals to Kenya under false pretenses or forcibly place Americans into such rehabilitation facilities may be subject to legal repercussions in the United States.
+Automobile accidents are one of the main causes of injury and death of Americans in Kenya. Major highways between Nairobi and Nakuru and Nairobi and Mombasa are only two lanes, and drivers frequently pass with little attention to oncoming traffic. Tourists, who may not always use seatbelts, have also been seriously injured or killed in safari vehicle accidents. 
 
+**Do Not Travel** to the **Nairobi neighborhoods of Eastleigh and Kibera** due to risk of **crime** and **kidnapping**.
 
+**Do Not Travel** to the**counties of Garissa, Wajir, Mandera, Lamu, Tana River** (except Tsavo National Park), **Kilifi**(north of highway C103), and **coastal areas north of Malindi** , due to risk of **kidnapping** and **terrorism**.
 
-##### Traffic safety
+**Do Not Travel** to **West Pokot County and western Turkana County** due to risk of **crime**.
 
-Automobile accidents are one of the main causes of injury and death of Americans in Kenya. 
-
-  * Major highways between Nairobi and Nakuru and Nairobi and Mombasa are only two lanes, and drivers frequently pass with little attention to oncoming traffic. 
-  * Tourists, who may not always use seatbelts, have also been seriously injured or killed in safari vehicle accidents. 
-
+**Do Not Travel** to (Marsabit and Turkana Counties within 30 miles** 50 kilometers**) **of the border with Ethiopia** due to risk of **unrest**.  
 
 
