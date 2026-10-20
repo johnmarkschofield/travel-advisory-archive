@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-19 15:08 UTC
+**Last Updated:** 2026-10-20 13:08 UTC
 **Total Countries Tracked:** 223
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -101,7 +101,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zambia** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/zambia.md) |
 
 ## 🟡 Level 2: Exercise Increased Caution
-*Total: 86 countries*
+*Total: 85 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -122,7 +122,7 @@ Click on a country to view the full archived text of the advisory.
 | **Cambodia** | Tue, 15 Sep 2026 | [📄 View Advisory](advisories/cambodia.md) |
 | **Cameroon** | Fri, 15 May 2026 | [📄 View Advisory](advisories/cameroon.md) |
 | **Chile** | Wed, 19 Aug 2026 | [📄 View Advisory](advisories/chile.md) |
-| **China** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/china.md) |
+| **China** | Mon, 19 Oct 2026 | [📄 View Advisory](advisories/china.md) |
 | **Comoros** | Mon, 12 Jan 2026 | [📄 View Advisory](advisories/comoros.md) |
 | **Costa Rica** | Thu, 02 Apr 2026 | [📄 View Advisory](advisories/costa_rica.md) |
 | **Cuba** | Wed, 07 May 2025 | [📄 View Advisory](advisories/cuba.md) |
@@ -146,7 +146,6 @@ Click on a country to view the full archived text of the advisory.
 | **Indonesia** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/indonesia.md) |
 | **Italy** | Thu, 10 Sep 2026 | [📄 View Advisory](advisories/italy.md) |
 | **Jamaica** | Tue, 23 Jun 2026 | [📄 View Advisory](advisories/jamaica.md) |
-| **Kenya** | Tue, 28 Jul 2026 | [📄 View Advisory](advisories/kenya.md) |
 | **Kingdom of Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/kingdom_of_denmark.md) |
 | **Kosovo** | Tue, 25 Aug 2026 | [📄 View Advisory](advisories/kosovo.md) |
 | **Laos** | Tue, 28 Jul 2026 | [📄 View Advisory](advisories/laos.md) |
@@ -193,7 +192,7 @@ Click on a country to view the full archived text of the advisory.
 | **Zimbabwe** | Tue, 27 Jun 2023 | [📄 View Advisory](advisories/zimbabwe.md) |
 
 ## 🟠 Level 3: Reconsider Travel
-*Total: 26 countries*
+*Total: 27 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -208,6 +207,7 @@ Click on a country to view the full archived text of the advisory.
 | **Honduras** | Tue, 25 Aug 2026 | [📄 View Advisory](advisories/honduras.md) |
 | **Israel** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/israel.md) |
 | **Jordan** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/jordan.md) |
+| **Kenya** | Mon, 19 Oct 2026 | [📄 View Advisory](advisories/kenya.md) |
 | **Kuwait** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/kuwait.md) |
 | **Macau** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/macau.md) |
 | **Mauritania** | Tue, 18 Aug 2026 | [📄 View Advisory](advisories/mauritania.md) |
