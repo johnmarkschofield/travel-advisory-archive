@@ -8,19 +8,19 @@
     "date": "Wed, 21 Oct 2026"
   },
   {
-    "country": "Kenya",
-    "level": 3,
-    "full_title": "Kenya - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ken.html",
-    "filename_base": "kenya",
-    "date": "Mon, 19 Oct 2026"
-  },
-  {
     "country": "China",
     "level": 2,
     "full_title": "China - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.chn.html",
     "filename_base": "china",
+    "date": "Mon, 19 Oct 2026"
+  },
+  {
+    "country": "Kenya",
+    "level": 3,
+    "full_title": "Kenya - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ken.html",
+    "filename_base": "kenya",
     "date": "Mon, 19 Oct 2026"
   },
   {
@@ -672,14 +672,6 @@
     "date": "Tue, 07 Jul 2026"
   },
   {
-    "country": "Saint Kitts and Nevis",
-    "level": 1,
-    "full_title": "Saint Kitts and Nevis - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kn.html",
-    "filename_base": "saint_kitts_and_nevis",
-    "date": "Tue, 07 Jul 2026"
-  },
-  {
     "country": "Saint Vincent and the Grenadines",
     "level": 1,
     "full_title": "Saint Vincent and the Grenadines - Level 1: Exercise Normal Precautions",
@@ -736,19 +728,19 @@
     "date": "Tue, 07 Jul 2026"
   },
   {
+    "country": "Saint Kitts and Nevis",
+    "level": 1,
+    "full_title": "Saint Kitts and Nevis - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kna.html",
+    "filename_base": "saint_kitts_and_nevis",
+    "date": "Tue, 07 Jul 2026"
+  },
+  {
     "country": "Thailand",
     "level": 1,
     "full_title": "Thailand - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tha.html",
     "filename_base": "thailand",
-    "date": "Tue, 07 Jul 2026"
-  },
-  {
-    "country": "Saint Kitts and Nevis",
-    "level": 1,
-    "full_title": "Saint Kitts and Nevis - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/saint-kitts-and-nevis-travel-advisory.html",
-    "filename_base": "saint_kitts_and_nevis",
     "date": "Tue, 07 Jul 2026"
   },
   {

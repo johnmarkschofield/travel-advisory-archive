@@ -1,7 +1,7 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-21 13:18 UTC
-**Total Countries Tracked:** 223
+**Last Updated:** 2026-10-22 13:18 UTC
+**Total Countries Tracked:** 222
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
 Click on a country to view the full archived text of the advisory.
@@ -9,7 +9,7 @@ Click on a country to view the full archived text of the advisory.
 ---
 
 ## 🟢 Level 1: Exercise Normal Precautions
-*Total: 86 countries*
+*Total: 85 countries*
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
@@ -75,7 +75,6 @@ Click on a country to view the full archived text of the advisory.
 | **Romania** | Tue, 14 Oct 2025 | [📄 View Advisory](advisories/romania.md) |
 | **Saba and Sint Eustatius** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saba_and_sint_eustatius.md) |
 | **Saint Barthelemy** | Thu, 20 Aug 2026 | [📄 View Advisory](advisories/saint_barthelemy.md) |
-| **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
 | **Saint Kitts and Nevis** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_kitts_and_nevis.md) |
 | **Saint Vincent and the Grenadines** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/saint_vincent_and_the_grenadines.md) |
 | **Samoa** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/samoa.md) |
