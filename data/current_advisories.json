@@ -1,5 +1,21 @@
 [
   {
+    "country": "French Polynesia",
+    "level": 1,
+    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html",
+    "filename_base": "french_polynesia",
+    "date": "Wed, 02 Dec 2026"
+  },
+  {
+    "country": "The West Bank",
+    "level": 3,
+    "full_title": "The West Bank - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xwb.html",
+    "filename_base": "the_west_bank",
+    "date": "Mon, 26 Oct 2026"
+  },
+  {
     "country": "France",
     "level": 2,
     "full_title": "France - Level 2: Exercise Increased Caution",
@@ -288,6 +304,22 @@
     "date": "Thu, 27 Aug 2026"
   },
   {
+    "country": "Gaza",
+    "level": 4,
+    "full_title": "Gaza - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xgz.html",
+    "filename_base": "gaza",
+    "date": "Wed, 26 Aug 2026"
+  },
+  {
+    "country": "Israel",
+    "level": 3,
+    "full_title": "Israel - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+    "filename_base": "israel",
+    "date": "Wed, 26 Aug 2026"
+  },
+  {
     "country": "Guyana",
     "level": 3,
     "full_title": "Guyana - Level 3: Reconsider Travel",
@@ -301,30 +333,6 @@
     "full_title": "Albania - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.alb.html",
     "filename_base": "albania",
-    "date": "Wed, 26 Aug 2026"
-  },
-  {
-    "country": "Israel",
-    "level": 3,
-    "full_title": "Israel - Level 3: Reconsider Travel - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/israel-west-bank-and-gaza-travel-advisory.html",
-    "filename_base": "israel",
-    "date": "Wed, 26 Aug 2026"
-  },
-  {
-    "country": "West Bank",
-    "level": 3,
-    "full_title": "West Bank - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/west-bank.html",
-    "filename_base": "west_bank",
-    "date": "Wed, 26 Aug 2026"
-  },
-  {
-    "country": "Gaza",
-    "level": 4,
-    "full_title": "Gaza - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/Gaza.html",
-    "filename_base": "gaza",
     "date": "Wed, 26 Aug 2026"
   },
   {
@@ -936,6 +944,14 @@
     "date": "Thu, 21 May 2026"
   },
   {
+    "country": "New Caledonia",
+    "level": 2,
+    "full_title": "New Caledonia - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ncl.html",
+    "filename_base": "new_caledonia",
+    "date": "Thu, 21 May 2026"
+  },
+  {
     "country": "Tunisia",
     "level": 2,
     "full_title": "Tunisia - Level 2: Exercise Increased Caution",
@@ -944,12 +960,12 @@
     "date": "Thu, 21 May 2026"
   },
   {
-    "country": "New Caledonia",
-    "level": 2,
-    "full_title": "New Caledonia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/new-caledonia-travel-advisory.html",
-    "filename_base": "new_caledonia",
-    "date": "Thu, 21 May 2026"
+    "country": "Dominica",
+    "level": 1,
+    "full_title": "Dominica - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dma.html",
+    "filename_base": "dominica",
+    "date": "Wed, 20 May 2026"
   },
   {
     "country": "Antigua and Barbuda",
@@ -957,14 +973,6 @@
     "full_title": "Antigua and Barbuda - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.atg.html",
     "filename_base": "antigua_and_barbuda",
-    "date": "Wed, 20 May 2026"
-  },
-  {
-    "country": "Dominica",
-    "level": 1,
-    "full_title": "Dominica - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dma.html",
-    "filename_base": "dominica",
     "date": "Wed, 20 May 2026"
   },
   {
@@ -1680,6 +1688,38 @@
     "date": "Mon, 02 Dec 2024"
   },
   {
+    "country": "Kiribati",
+    "level": 1,
+    "full_title": "Kiribati - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kir.html",
+    "filename_base": "kiribati",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
+    "country": "Tuvalu",
+    "level": 1,
+    "full_title": "Tuvalu - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tuv.html",
+    "filename_base": "tuvalu",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
+    "country": "Fiji",
+    "level": 1,
+    "full_title": "Fiji - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fji.html",
+    "filename_base": "fiji",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
+    "country": "Naoero",
+    "level": 1,
+    "full_title": "Naoero - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.nru.html",
+    "filename_base": "naoero",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
     "country": "Tuvalu",
     "level": 1,
     "full_title": "Tuvalu - Level 1: Exercise Normal Precautions",
@@ -1704,20 +1744,12 @@
     "date": "Mon, 02 Dec 2024"
   },
   {
-    "country": "Nauru",
-    "level": 1,
-    "full_title": "Nauru - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/nauru-travel-advisory.html",
-    "filename_base": "nauru",
-    "date": "Mon, 02 Dec 2024"
-  },
-  {
-    "country": "Fiji",
-    "level": 1,
-    "full_title": "Fiji - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/fiji-travel-advisory.html",
-    "filename_base": "fiji",
-    "date": "Mon, 02 Dec 2024"
+    "country": "Greenland",
+    "level": 2,
+    "full_title": "Greenland - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grl.html",
+    "filename_base": "greenland",
+    "date": "Tue, 29 Oct 2024"
   },
   {
     "country": "Greenland",
@@ -1734,6 +1766,14 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cog.html",
     "filename_base": "republic_of_congo",
     "date": "Wed, 02 Oct 2024"
+  },
+  {
+    "country": "Denmark",
+    "level": 2,
+    "full_title": "Denmark - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html",
+    "filename_base": "denmark",
+    "date": "Tue, 17 Sep 2024"
   },
   {
     "country": "Kingdom of Denmark",
