@@ -1,7 +1,7 @@
 # Jordan
 
 **Level 3 Advisory**
-**Date:** Sat, 29 Aug 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html)
 
 ---
@@ -10,11 +10,13 @@ Reconsider travel
 
 to **Jordan** due to **terrorism** and **armed conflict**. Some areas have increased risk. Read the entire Travel Advisory.
 
-As of August 29, 2026, family members may join U.S. government employees who work in Jordan.
+##### U.S. government employee travel restrictions
 
-##### **Armed Conflict**
+Due to safety risks, U.S. government employees need special authorization to travel to Jordan. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues.
 
-Following the onset of hostilities between the United States and Iran on February 28, 2026, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+##### **Armed conflict**
+
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area. 
 
 ##### **Terrorism**
 
@@ -59,10 +61,10 @@ For more information, Americans should consult the [Federal Aviation Administrat
 
 **Do not travel to:**
 
-  * Mansheyat al Ghayyath, Ruwayshid, and the border with Syria and Iraq due to the risk of **terrorism** and **unrest**.
-  * Designated Syrian refugee camps in Jordan due to the **Government of Jordan’s restrictions on entry into these camps**.
-  * Rusayfah city due to the risk of **terrorism** and **crime**.
-  * The Baqa’a neighborhood of Ayn Basha due to risk of **terrorism** and **crime**.  
+  * **Mansheyat al Ghayyath, Ruwayshid,** and the **border with Syria and Iraq** due to the risk of **terrorism** and **unrest**.
+  * **Designated Syrian refugee camps in Jordan** due to the **Government of Jordan’s restrictions on entry into these camps**.
+  * **Rusayfah city** due to the risk of **terrorism** and **crime**.
+  * **The Baqa’a neighborhood of Ayn Basha** due to risk of **terrorism** and **crime**.  
 
 
 

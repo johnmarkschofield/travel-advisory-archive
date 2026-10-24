@@ -1,35 +1,27 @@
 # Lebanon
 
 **Level 4 Advisory**
-**Date:** Fri, 21 Aug 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html)
 
 ---
 
 Do not travel
 
-to **Lebanon** due to the risk of **crime, terrorism, unrest, kidnapping, landmines** , and **armed conflict.**
+to **Lebanon** due to the **risk of crime, terrorism, unrest, kidnapping, landmines,** and **armed conflict**. 
 
-**Do not travel** to Lebanon for any reason.
+**U.S. government employee travel restrictions**
 
-The U.S. government has limited ability to offer emergency services to U.S. citizens in Lebanon due to the safety risks. 
+Do not travel to Lebanon for any reason. The U.S. government has limited ability to offer emergency services to U.S. citizens in Lebanon due to the safety risks _._ U.S. Embassy Beirut personnel are restricted from personal travel throughout Lebanon without advance permission. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues.
 
-**U.S. government employee travel restrictions  **
+Armed Conflict Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area.
 
-  * U.S. Embassy Beirut personnel are restricted from personal travel throughout Lebanon without advance permission.
-  * Additional travel restrictions may be imposed on U.S. personnel under Chief of Mission security responsibility, with little to no notice due to increased security issues or threats.
-  * The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict.
-
-
-
-U.S. citizens in Lebanon are advised to take similar precautions. 
-
-Due to safety risks, only family members 21 years of age or older may join U.S. government employees who work in Lebanon.  
+The Lebanese government cannot guarantee the safety of U.S. citizens against sudden outbreaks of violence and armed conflict.
 
 **Aviation Safety**
 
   * The Federal Aviation Administration (FAA) advises caution for flights operating in the airspace within 200 nautical miles of the Damascus Flight Information Region (FIR) due to heightened military activity in or around Syria.
-  * For more information U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions).
+  * For more information U.S. citizens should consult the [Federal Aviation Administration’s Prohibitions, Restrictions and Notices](https://www.faa.gov/air_traffic/publications/us_restrictions)
 
 
 
@@ -69,6 +61,15 @@ There is an ongoing risk of kidnapping and hostage-taking in Lebanon.  Local aut
   * Landmines and unexploded ordnance exist throughout Lebanon.
   * Areas of greatest risk are the border with Syria, south of the Litani river, and refugee settlements.
   * The locations of landmines and unexploded ordnance are often not marked or easy to recognize. 
+
+
+
+**High risk areas**
+
+  * Southern Lebanon is very dangerous due to risk of terrorism, kidnapping, and armed conflict.
+  * The border with Syria is very dangerous due to risk of terrorism, kidnapping, unexploded ordnance, and armed conflict.
+  * The Dahiyeh and areas of southern Beirut are very dangerous due to risk of terrorism, kidnapping, unexploded ordnance, and armed conflict.
+  * Refugee settlements are very dangerous due to risk of crime, terrorism, civil unrest, unexploded ordnance, and armed conflict.
 
 
 

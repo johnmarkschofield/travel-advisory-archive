@@ -16,6 +16,110 @@
     "date": "Mon, 26 Oct 2026"
   },
   {
+    "country": "Iraq",
+    "level": 4,
+    "full_title": "Iraq - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
+    "filename_base": "iraq",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "United Arab Emirates",
+    "level": 3,
+    "full_title": "United Arab Emirates - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
+    "filename_base": "united_arab_emirates",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Qatar",
+    "level": 3,
+    "full_title": "Qatar - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
+    "filename_base": "qatar",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Israel",
+    "level": 3,
+    "full_title": "Israel - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+    "filename_base": "israel",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Iran",
+    "level": 4,
+    "full_title": "Iran - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html",
+    "filename_base": "iran",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Syria",
+    "level": 4,
+    "full_title": "Syria - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
+    "filename_base": "syria",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Yemen",
+    "level": 4,
+    "full_title": "Yemen - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
+    "filename_base": "yemen",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Bahrain",
+    "level": 3,
+    "full_title": "Bahrain - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
+    "filename_base": "bahrain",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Jordan",
+    "level": 3,
+    "full_title": "Jordan - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html",
+    "filename_base": "jordan",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Lebanon",
+    "level": 4,
+    "full_title": "Lebanon - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
+    "filename_base": "lebanon",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Oman",
+    "level": 3,
+    "full_title": "Oman - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
+    "filename_base": "oman",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Saudi Arabia",
+    "level": 3,
+    "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
+    "filename_base": "saudi_arabia",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Kuwait",
+    "level": 3,
+    "full_title": "Kuwait - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
+    "filename_base": "kuwait",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
     "country": "France",
     "level": 2,
     "full_title": "France - Level 2: Exercise Increased Caution",
@@ -46,22 +150,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tza.html",
     "filename_base": "tanzania",
     "date": "Fri, 16 Oct 2026"
-  },
-  {
-    "country": "Saudi Arabia",
-    "level": 3,
-    "full_title": "Saudi Arabia - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html",
-    "filename_base": "saudi_arabia",
-    "date": "Mon, 12 Oct 2026"
-  },
-  {
-    "country": "Yemen",
-    "level": 4,
-    "full_title": "Yemen - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html",
-    "filename_base": "yemen",
-    "date": "Sat, 10 Oct 2026"
   },
   {
     "country": "Cambodia",
@@ -200,54 +288,6 @@
     "date": "Mon, 31 Aug 2026"
   },
   {
-    "country": "Oman",
-    "level": 3,
-    "full_title": "Oman - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.omn.html",
-    "filename_base": "oman",
-    "date": "Sun, 30 Aug 2026"
-  },
-  {
-    "country": "Iraq",
-    "level": 4,
-    "full_title": "Iraq - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
-    "filename_base": "iraq",
-    "date": "Sat, 29 Aug 2026"
-  },
-  {
-    "country": "United Arab Emirates",
-    "level": 3,
-    "full_title": "United Arab Emirates - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
-    "filename_base": "united_arab_emirates",
-    "date": "Sat, 29 Aug 2026"
-  },
-  {
-    "country": "Jordan",
-    "level": 3,
-    "full_title": "Jordan - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.jor.html",
-    "filename_base": "jordan",
-    "date": "Sat, 29 Aug 2026"
-  },
-  {
-    "country": "Qatar",
-    "level": 3,
-    "full_title": "Qatar - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
-    "filename_base": "qatar",
-    "date": "Fri, 28 Aug 2026"
-  },
-  {
-    "country": "Kuwait",
-    "level": 3,
-    "full_title": "Kuwait - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
-    "filename_base": "kuwait",
-    "date": "Fri, 28 Aug 2026"
-  },
-  {
     "country": "Ukraine",
     "level": 4,
     "full_title": "Ukraine - Level 4: Do Not Travel",
@@ -269,14 +309,6 @@
     "full_title": "Ethiopia - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.eth.html",
     "filename_base": "ethiopia",
-    "date": "Thu, 27 Aug 2026"
-  },
-  {
-    "country": "Bahrain",
-    "level": 3,
-    "full_title": "Bahrain - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html",
-    "filename_base": "bahrain",
     "date": "Thu, 27 Aug 2026"
   },
   {
@@ -309,14 +341,6 @@
     "full_title": "Gaza - Level 4: Do Not Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xgz.html",
     "filename_base": "gaza",
-    "date": "Wed, 26 Aug 2026"
-  },
-  {
-    "country": "Israel",
-    "level": 3,
-    "full_title": "Israel - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
-    "filename_base": "israel",
     "date": "Wed, 26 Aug 2026"
   },
   {
@@ -373,14 +397,6 @@
     "full_title": "Turkmenistan - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.tkm.html",
     "filename_base": "turkmenistan",
-    "date": "Fri, 21 Aug 2026"
-  },
-  {
-    "country": "Lebanon",
-    "level": 4,
-    "full_title": "Lebanon - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lbn.html",
-    "filename_base": "lebanon",
     "date": "Fri, 21 Aug 2026"
   },
   {
@@ -542,14 +558,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.maf.html",
     "filename_base": "french_saint_martin",
     "date": "Fri, 14 Aug 2026"
-  },
-  {
-    "country": "Syria",
-    "level": 4,
-    "full_title": "Syria - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html",
-    "filename_base": "syria",
-    "date": "Fri, 07 Aug 2026"
   },
   {
     "country": "Spain",
@@ -1446,14 +1454,6 @@
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mus.html",
     "filename_base": "mauritius",
     "date": "Mon, 08 Dec 2025"
-  },
-  {
-    "country": "Iran",
-    "level": 4,
-    "full_title": "Iran - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irn.html",
-    "filename_base": "iran",
-    "date": "Fri, 05 Dec 2025"
   },
   {
     "country": "Madagascar",

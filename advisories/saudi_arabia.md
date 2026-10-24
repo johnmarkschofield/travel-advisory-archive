@@ -1,14 +1,16 @@
 # Saudi Arabia
 
 **Level 3 Advisory**
-**Date:** Mon, 12 Oct 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.sau.html)
 
 ---
 
 Reconsider travel
 
-to **Saudi Arabia** due to risk of**drone and missile targeting of American interests by Iran and the Iranian-supported Houthis, armed conflict, terrorism, exit bans** , and **local laws regarding social media activity**. Some areas have increased risk. Read the entire Travel Advisory.
+to **Saudi Arabia** due to risk of **drone and missile targeting of American interests by Iran** **and the Iranian-supported Houthis, armed conflict, terrorism, exit bans** , and **local laws regarding social media activity.** Some areas have increased risk. Read the entire Travel Advisory.
+
+On October 23, 2026, the Department of State ordered non-emergency U.S. government employees and U.S. government employee family members to leave Saudi Arabia due to safety risks.
 
 **U.S. government employee travel restrictions**
 
@@ -17,13 +19,13 @@ to **Saudi Arabia** due to risk of**drone and missile targeting of American inte
   * U.S. government employees working in Saudi Arabia need special authorization to travel to:
     * The cities of Qatif, Taif and Yanbu
     * The provinces of Jizan, Asir, and Najran.
-  * U.S. citizens in Saudi Arabia are advised to take similar precautions.
+  * Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues.
 
 
 
 **Armed conflict**
 
-Following the onset of hostilities between the United States and Iran on February 28, 2026, there has been an ongoing threat of drone and missile attacks from Iran. Commercial flights are operational from Saudi Arabia, though they have been significantly disrupted at times.
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area.
 
 **Terrorism**
 
@@ -50,7 +52,7 @@ Potential targets include:
 
 Iran and Iran-backed Houthi rebels have launched missile and drone attacks into Saudi Arabia.
 
-  * Attacks have targeted cities, infrastructure, airports, military bases, diplomatic, and energy facilities throughout the country.
+  * Attacks have impacted cities, infrastructure, airports, military bases, diplomatic, and energy facilities throughout the country.
   * Iran-backed Houthi rebels have threatened to attack Saudi Arabia again.
   * Falling debris from intercepted drones and missiles are also a risk.
   * U.S. citizens living and working near energy infrastructure and military bases may be at increased risk, especially closer to the border with Yemen.
@@ -92,5 +94,5 @@ Private car, train, and bus options may provide alternatives to air travel. Belo
 
 
 **Do Not Travel** to the **Yemen border** due to **terrorism**.  
- 
+
 

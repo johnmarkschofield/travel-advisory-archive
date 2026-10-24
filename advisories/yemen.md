@@ -1,7 +1,7 @@
 # Yemen
 
 **Level 4 Advisory**
-**Date:** Sat, 10 Oct 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.yem.html)
 
 ---
@@ -12,17 +12,19 @@ in **Yemen** due to risk of **terrorism** , **unrest** , **crime** , **health ri
 
 Do not travel to Yemen for any reason, including the island of Socotra. The U.S. Embassy in Sana’a suspended its operations in February 2015. The U.S. government cannot offer emergency services to U.S. citizens in Yemen due to the safety risks.
 
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area.
+
 **Terrorism**
 
-The Department of State re-designated Ansarallah, commonly referred to as the Houthis, as a Foreign Terrorist Organization in March of 2025.
+The Department of State re-designated Ansarallah, commonly referred to as the Houthis, as a Foreign Terrorist Organization in March of 2025. 
 
-  * Other terrorist groups also plan and carry out attacks in Yemen. These include Al-Qa'ida in the Arabian Peninsula (AQAP) and Islamic State affiliates.
-  * Terrorists may attack with little or no warning and may target:
-    * Public sites
-    * Places of worship
-    * Transportation hubs
-    * Markets
-    * Government buildings and facilities
+  * Other terrorist groups also plan and carry out attacks in Yemen. These include Al-Qa'ida in the Arabian Peninsula (AQAP) and Islamic State affiliates. 
+  * Terrorists may attack with little or no warning and may target: 
+  * Public sites
+  * Places of worship
+  * Transportation hubs
+  * Markets
+  * Government buildings and facilities
 
 
 
@@ -30,13 +32,13 @@ There is high risk of terrorist violence, including terrorist attacks and other 
 
 Review our information on [Terrorism](https://travel.state.gov/en/international-travel/travel-advisories/global-events/terrorism.html) and [Travel to High-Risk Areas](https://travel.state.gov/en/international-travel/travel-advisories/high-risk-areas.html).
 
-**Unrest**
+**Unrest  **
 
 A civil war continues in Yemen. Yemen faces instability and the Houthis have repeatedly clashed with Yemeni government forces. The Houthis have launched missile and drone attacks against Yemeni government personnel, as well as civilians and infrastructure across the country since July 2026. The Houthis have also targeted infrastructure in Saudi Arabia and shipping in the Red Sea and the Bab al-Mandeb.
 
-  * Do not rely on significant assistance from local authorities.
+  * Do not rely on significant assistance from local authorities. 
   * Foreigners are frequently targets of kidnapping and carjacking, especially outside of urban areas.
-  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](https://travel.state.gov/en/international-travel/help-abroad/crisis-response.html).
+  * Have a plan to leave in an emergency that does not depend on U.S. government help. Review our information on [Crisis and Evacuations](/en/international-travel/help-abroad/crisis-response.html).
   * Military conflict has destroyed basic infrastructure like housing, medical facilities, schools, and utilities. This makes it hard to get electricity, clean water, and medical care. Humanitarian groups face obstacles in delivering food, medicine, and water.
 
 
@@ -49,17 +51,17 @@ Violent and organized crime is common in Yemen. Local law enforcement may not be
 
 Medical services for routine and emergency procedures in Yemen are limited and poor. There is a re-emergence of diseases like cholera, polio, and measles which are spreading in Houthi-controlled areas. Medicine and medical supplies are hard to find. Adequate medical treatment for routine and emergency procedures is often not available. If you decide to travel to Yemen:
 
-  * Read the Health section of the Travel Guidance on this page for more information.
-  * Visit the [CDC’s Travel Health](https://wwwnc.cdc.gov/travel/destinations/traveler/none/yemen?s_cid=ncezid-dgmq-travel-single-001) page for the latest information.
+  * Read the Health section of the Travel Guidance on this page for more information. 
+  * Visit the [CDC's Travel Health](https://wwwnc.cdc.gov/travel/destinations/traveler/none/yemen?s_cid=ncezid-dgmq-travel-single-001) page for the latest information.
 
 
 
-**Kidnapping**
+**Kidnapping  **
 
 U.S. citizens, especially dual U.S.-Yemeni citizens, are at high risk of kidnapping and detention in Yemen.
 
-  * Young U.S. citizens may be kidnapped or trafficked for forced marriage. Family members in the United States or Yemen are often involved in these kidnappings.
-  * The Houthis control Sana’a. They have detained U.S. citizens without cause, including some with dual citizenship.
+  * Young U.S. citizens may be kidnapped or trafficked for forced marriage. Family members in the United States or Yemen are often involved in these kidnappings. 
+  * The Houthis control Sana’a. They have detained U.S. citizens without cause, including some with dual citizenship. 
   * U.S. citizens have faced difficulty and delays when trying to leave Yemen.
 
 
@@ -72,15 +74,15 @@ Landmines and unexploded ordnance exist throughout Yemen. Their location is ofte
 
 **Socotra Island**
 
-Do not travel to Socotra Island or any part of Yemen. Some companies outside Yemen have misrepresented the safety of the Yemeni island of Socotra.
+Do not travel to Socotra Island or any part of Yemen. Some companies outside Yemen have misrepresented the safety of the Yemeni island of Socotra. 
 
-  * They offer tourist trips with unofficial and invalid "visas."
-  * These companies put tourists in danger and legal jeopardy.
-  * Only the Republic of Yemen government can issue valid Yemeni visas.
+  * They offer tourist trips with unofficial and invalid "visas." 
+  * These companies put tourists in danger and legal jeopardy. 
+  * Only the Republic of Yemen government can issue valid Yemeni visas. 
 
 
 
-The U.S. government cannot help U.S. citizens in Socotra.
+The U.S. government cannot help U.S. citizens in Socotra. 
 
 **Aviation safety**
 
@@ -90,11 +92,11 @@ Due to risks to civil aviation operating within or in the vicinity of Yemen, the
 
 **Maritime travel**
 
-Due to risks to commercial shipping operating within or in the vicinity of Yemen territorial waters, the Department of Transportation’s Maritime Administration (MARAD) has issued a Maritime Advisory. For more information, mariners and passengers planning travel to Yemen should check the following:
+Due to risks to commercial shipping operating within or in the vicinity of Yemen territorial waters, the Department of Transportation’s Maritime Administration (MARAD) has issued a Maritime Advisory. For more information, mariners and passengers planning travel to Yemen should check the following: 
 
   * [U.S. Maritime Advisories](https://www.maritime.dot.gov/msci-advisories)
   * [U.S. Maritime Alerts](https://www.maritime.dot.gov/msci-alerts)
-  * [Maritime Safety Office Navigational Warnings](https://msi.nga.mil/NavWarnings)
+  * [Maritime Safety Office Navigational Warnings](https://msi.nga.mil/NavWarnings) 
   * [U.S. Coast Guard Maritime Commons](https://www.news.uscg.mil/maritime-commons/)
 
 

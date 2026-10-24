@@ -1,7 +1,7 @@
 # Bahrain
 
 **Level 3 Advisory**
-**Date:** Thu, 27 Aug 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.bhr.html)
 
 ---
@@ -12,17 +12,17 @@ to **Bahrain** due to **terrorism** and **armed conflict**.
 
 **U.S. government employee travel restrictions  **
 
-Due to safety risks, U.S. government employees need special authorization to travel to Bahrain. Only family members 18 years of age or older may join U.S. government employees who work in Bahrain. 
+Due to safety risks, U.S. government employees need special authorization to travel to Bahrain.  Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues.__
 
 **Armed Conflict**
 
-Following the onset of hostilities between the United States and Iran on February 28, 2026, there has been an ongoing threat of drone and missile attacks from Iran and significant disruptions to commercial flights.
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area.
 
 **Terrorism**
 
 There is a risk of terrorist violence, including terrorist attacks and other activity in Bahrain. Visit the U.S. Department of State’s [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.  
 
-Terrorist groups continue plotting possible attacks in Bahrain. Terrorists may attack with little or no warning. Targets may include tourist sites, transportation hubs, markets, shopping malls, and religious sites as well as government and military facilities.
+Terrorist groups continue plotting possible attacks in Bahrain.  Terrorists may attack with little or no warning.  Targets may include tourist sites, transportation hubs, markets, shopping malls, and religious sites as well as government and military facilities.
 
 **Aviation Safety**
 

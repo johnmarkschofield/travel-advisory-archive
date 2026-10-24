@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-23 12:57 UTC
+**Last Updated:** 2026-10-24 12:20 UTC
 **Total Countries Tracked:** 227
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -201,7 +201,7 @@ Click on a country to view the full archived text of the advisory.
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
 | **Azerbaijan** | Tue, 28 Apr 2026 | [📄 View Advisory](advisories/azerbaijan.md) |
-| **Bahrain** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/bahrain.md) |
+| **Bahrain** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/bahrain.md) |
 | **Burundi** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/burundi.md) |
 | **Colombia** | Tue, 31 Mar 2026 | [📄 View Advisory](advisories/colombia.md) |
 | **Ethiopia** | Thu, 27 Aug 2026 | [📄 View Advisory](advisories/ethiopia.md) |
@@ -209,23 +209,23 @@ Click on a country to view the full archived text of the advisory.
 | **Guinea** | Thu, 11 Dec 2025 | [📄 View Advisory](advisories/guinea.md) |
 | **Guyana** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/guyana.md) |
 | **Honduras** | Tue, 25 Aug 2026 | [📄 View Advisory](advisories/honduras.md) |
-| **Israel** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/israel.md) |
-| **Jordan** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/jordan.md) |
+| **Israel** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/israel.md) |
+| **Jordan** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/jordan.md) |
 | **Kenya** | Mon, 19 Oct 2026 | [📄 View Advisory](advisories/kenya.md) |
-| **Kuwait** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/kuwait.md) |
+| **Kuwait** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/kuwait.md) |
 | **Macau** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/macau.md) |
 | **Mauritania** | Tue, 18 Aug 2026 | [📄 View Advisory](advisories/mauritania.md) |
 | **Nicaragua** | Thu, 14 May 2026 | [📄 View Advisory](advisories/nicaragua.md) |
 | **Nigeria** | Fri, 12 Jun 2026 | [📄 View Advisory](advisories/nigeria.md) |
-| **Oman** | Sun, 30 Aug 2026 | [📄 View Advisory](advisories/oman.md) |
+| **Oman** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/oman.md) |
 | **Pakistan** | Tue, 16 Jun 2026 | [📄 View Advisory](advisories/pakistan.md) |
 | **Papua New Guinea** | Tue, 29 Apr 2025 | [📄 View Advisory](advisories/papua_new_guinea.md) |
-| **Qatar** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/qatar.md) |
+| **Qatar** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |
-| **Saudi Arabia** | Mon, 12 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
+| **Saudi Arabia** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
 | **The West Bank** | Mon, 26 Oct 2026 | [📄 View Advisory](advisories/the_west_bank.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
-| **United Arab Emirates** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
+| **United Arab Emirates** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **Venezuela** | Sat, 27 Jun 2026 | [📄 View Advisory](advisories/venezuela.md) |
 
 ## 🔴 Level 4: Do Not Travel
@@ -243,9 +243,9 @@ Click on a country to view the full archived text of the advisory.
 | **Democratic Republic of the Congo** | Wed, 15 Jul 2026 | [📄 View Advisory](advisories/democratic_republic_of_the_congo.md) |
 | **Gaza** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/gaza.md) |
 | **Haiti** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/haiti.md) |
-| **Iran** | Fri, 05 Dec 2025 | [📄 View Advisory](advisories/iran.md) |
-| **Iraq** | Sat, 29 Aug 2026 | [📄 View Advisory](advisories/iraq.md) |
-| **Lebanon** | Fri, 21 Aug 2026 | [📄 View Advisory](advisories/lebanon.md) |
+| **Iran** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/iran.md) |
+| **Iraq** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/iraq.md) |
+| **Lebanon** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/lebanon.md) |
 | **Libya** | Mon, 31 Aug 2026 | [📄 View Advisory](advisories/libya.md) |
 | **Mali** | Mon, 08 Jun 2026 | [📄 View Advisory](advisories/mali.md) |
 | **Niger** | Thu, 09 Jul 2026 | [📄 View Advisory](advisories/niger.md) |
@@ -254,10 +254,10 @@ Click on a country to view the full archived text of the advisory.
 | **Somalia** | Thu, 21 May 2026 | [📄 View Advisory](advisories/somalia.md) |
 | **South Sudan** | Sun, 17 May 2026 | [📄 View Advisory](advisories/south_sudan.md) |
 | **Sudan** | Fri, 15 May 2026 | [📄 View Advisory](advisories/sudan.md) |
-| **Syria** | Fri, 07 Aug 2026 | [📄 View Advisory](advisories/syria.md) |
+| **Syria** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/syria.md) |
 | **Uganda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/uganda.md) |
 | **Ukraine** | Fri, 28 Aug 2026 | [📄 View Advisory](advisories/ukraine.md) |
-| **Yemen** | Sat, 10 Oct 2026 | [📄 View Advisory](advisories/yemen.md) |
+| **Yemen** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/yemen.md) |
 
 ---
 *Automated by GitHub Actions.*

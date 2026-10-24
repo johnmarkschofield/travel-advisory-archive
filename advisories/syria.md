@@ -1,7 +1,7 @@
 # Syria
 
 **Level 4 Advisory**
-**Date:** Fri, 07 Aug 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.syr.html)
 
 ---
@@ -14,7 +14,11 @@ to **Syria** for any reason due to the risk of **terrorism** , **unrest** , **ki
 
 The U.S. government suspended U.S. Embassy operations in 2012. The Czech Republic is the protecting power for the United States in Syria. The U.S. government cannot offer emergency or routine consular services to U.S. citizens in Syria due to the safety risks. 
 
-##### Unrest
+**Armed conflict**
+
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area.
+
+**Unrest**
 
 Syria has experienced active armed conflict since 2011. No part of Syria is safe from violence.
 
@@ -23,7 +27,7 @@ Syria has experienced active armed conflict since 2011. No part of Syria is safe
 
 
 
-##### Terrorism
+**Terrorism**
 
 There is risk of terrorist violence, including terrorist attacks and other activity in Syria. Visit the U.S. Department of State’s [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/) to learn more.
 
@@ -32,21 +36,21 @@ There is risk of terrorist violence, including terrorist attacks and other activ
 
 
 
-##### Hostage taking
+**Hostage taking**
 
 Hostage taking of U.S. citizens and other foreign nationals is a risk throughout the country.  
 
-##### Crime
+**Crime**
 
 There is a risk of violent and non-violent crime throughout the country affecting all residents regardless of nationality. This includes scams, kidnapping, armed robbery, and assault. Police struggle to respond to crime in rural locations due to limited resources.
 
-##### Other
+**Other**
 
-##### Unexploded ordinance
+**Unexploded ordinance**
 
 Landmines and unexploded ordinance are a hazard in Syria, especially in rural areas. Avoid roadside ditches, shoulders, and unmarked trails. Never touch anything resembling unexploded ordinance.
 
-##### Air travel
+**Air travel**
 
 The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) and a Special Federal Aviation Regulation (SFAR) advising against travel to Syria due to risks to civil aviation operating within or nearby Syria.
 
@@ -54,7 +58,7 @@ The Federal Aviation Administration (FAA) has issued a Notice to Airmen (NOTAM) 
 
 
 
-##### Maritime travel
+**Maritime travel**
 
 The U.S. Coast Guard determined Syrian ports do not have effective anti-terrorism measures.
 
@@ -63,9 +67,9 @@ The U.S. Coast Guard determined Syrian ports do not have effective anti-terroris
 
 
 
-##### Czech Protecting Power in Damascus
+**Czech Protecting Power in Damascus**
 
-The U.S. government suspended U.S. Embassy operations in 2012. Czechia serves as the protecting power for the United States in Syria. 
+The U.S. government suspended U.S. Embassy operations in 2012. The Czech Republic serves as the protecting power for the United States in Syria. 
 
 The Czech Protecting Power provides emergency services only to U.S. citizens, including:
 

@@ -1,7 +1,7 @@
 # Kuwait
 
 **Level 3 Advisory**
-**Date:** Fri, 28 Aug 2026
+**Date:** Fri, 23 Oct 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html)
 
 ---
@@ -12,12 +12,13 @@ to **Kuwait** due to the threat of armed **conflict** , **landmines** , and **cr
 
 The U.S. government has limited ability to offer services to U.S. citizens in Kuwait due to safety risks.
 
-U.S. government employee travel restrictions   
-Due to safety risks, U.S. government employees need special authorization to travel to Kuwait. Only family members 18 years of age or older may join U.S. government employees working in Kuwait.
+##### U.S. government employee travel restrictions 
+
+Due to safety risks, U.S. government employees need special authorization to travel to Kuwait. Additional staffing posture adjustments may be imposed on U.S. personnel under Chief of Mission security responsibility due to evolving security issues.
 
 ##### **Armed conflict**
 
-Following the onset of hostilities between the United States and Iran on February 28, 2026, there has been an ongoing threat of drone and missile attacks from Iran. Commercial aviation has also been seriously disrupted.
+Iranian-supported Houthis have engaged in hostilities against Saudi Arabia, including attacks on civilian airports and other critical infrastructure resulting in civilian casualties and severe travel disruptions. The hostilities have the potential to escalate rapidly beyond that immediate area..
 
 ##### **Aviation safety**
 
