@@ -328,14 +328,6 @@
     "date": "Thu, 27 Aug 2026"
   },
   {
-    "country": "Bosnia and Herzegovina",
-    "level": 2,
-    "full_title": "Bosnia and Herzegovina - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/bosinia-and-herzegovina-travel-advisory.html",
-    "filename_base": "bosnia_and_herzegovina",
-    "date": "Thu, 27 Aug 2026"
-  },
-  {
     "country": "Gaza",
     "level": 4,
     "full_title": "Gaza - Level 4: Do Not Travel",
@@ -960,14 +952,6 @@
     "date": "Thu, 21 May 2026"
   },
   {
-    "country": "Tunisia",
-    "level": 2,
-    "full_title": "Tunisia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tunisia-travel-advisory.html",
-    "filename_base": "tunisia",
-    "date": "Thu, 21 May 2026"
-  },
-  {
     "country": "Dominica",
     "level": 1,
     "full_title": "Dominica - Level 1: Exercise Normal Precautions",
@@ -1040,22 +1024,6 @@
     "date": "Fri, 15 May 2026"
   },
   {
-    "country": "Namibia",
-    "level": 2,
-    "full_title": "Namibia - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/namibia-travel-advisory.html",
-    "filename_base": "namibia",
-    "date": "Fri, 15 May 2026"
-  },
-  {
-    "country": "Slovenia",
-    "level": 1,
-    "full_title": "Slovenia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/slovenia-travel-advisory.html",
-    "filename_base": "slovenia",
-    "date": "Fri, 15 May 2026"
-  },
-  {
     "country": "Brunei",
     "level": 1,
     "full_title": "Brunei - Level 1: Exercise Normal Precautions",
@@ -1084,14 +1052,6 @@
     "level": 4,
     "full_title": "Burma - Level 4: Do Not Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.mmr.html",
-    "filename_base": "burma",
-    "date": "Fri, 08 May 2026"
-  },
-  {
-    "country": "Burma",
-    "level": 4,
-    "full_title": "Burma - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/burma-travel-advisory.html",
     "filename_base": "burma",
     "date": "Fri, 08 May 2026"
   },
@@ -1720,27 +1680,11 @@
     "date": "Mon, 02 Dec 2024"
   },
   {
-    "country": "Tuvalu",
+    "country": "Tonga",
     "level": 1,
-    "full_title": "Tuvalu - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tuvalu-travel-advisory.html",
-    "filename_base": "tuvalu",
-    "date": "Mon, 02 Dec 2024"
-  },
-  {
-    "country": "Kiribati",
-    "level": 1,
-    "full_title": "Kiribati - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/kiribati-travel-advisory.html",
-    "filename_base": "kiribati",
-    "date": "Mon, 02 Dec 2024"
-  },
-  {
-    "country": "French Polynesia",
-    "level": 1,
-    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/french-polynesia-travel-advisory.html",
-    "filename_base": "french_polynesia",
+    "full_title": "Tonga - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/tonga-travel-advisory.html",
+    "filename_base": "tonga",
     "date": "Mon, 02 Dec 2024"
   },
   {
@@ -1748,14 +1692,6 @@
     "level": 2,
     "full_title": "Greenland - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grl.html",
-    "filename_base": "greenland",
-    "date": "Tue, 29 Oct 2024"
-  },
-  {
-    "country": "Greenland",
-    "level": 2,
-    "full_title": "Greenland - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/greenland-travel-advisory.html",
     "filename_base": "greenland",
     "date": "Tue, 29 Oct 2024"
   },
@@ -1773,14 +1709,6 @@
     "full_title": "Denmark - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html",
     "filename_base": "denmark",
-    "date": "Tue, 17 Sep 2024"
-  },
-  {
-    "country": "Kingdom of Denmark",
-    "level": 2,
-    "full_title": "Kingdom of Denmark - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories/denmark-travel-advisory.html",
-    "filename_base": "kingdom_of_denmark",
     "date": "Tue, 17 Sep 2024"
   },
   {
