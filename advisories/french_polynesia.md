@@ -1,7 +1,7 @@
 # French Polynesia
 
 **Level 1 Advisory**
-**Date:** Wed, 02 Dec 2026
+**Date:** Mon, 02 Dec 2024
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html)
 
 ---

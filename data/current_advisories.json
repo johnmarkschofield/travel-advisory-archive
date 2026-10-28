@@ -1,13 +1,5 @@
 [
   {
-    "country": "French Polynesia",
-    "level": 1,
-    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html",
-    "filename_base": "french_polynesia",
-    "date": "Wed, 02 Dec 2026"
-  },
-  {
     "country": "The West Bank",
     "level": 3,
     "full_title": "The West Bank - Level 3: Reconsider Travel",
@@ -1645,6 +1637,14 @@
     "full_title": "Tonga - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.ton.html",
     "filename_base": "tonga",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
+    "country": "French Polynesia",
+    "level": 1,
+    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html",
+    "filename_base": "french_polynesia",
     "date": "Mon, 02 Dec 2024"
   },
   {

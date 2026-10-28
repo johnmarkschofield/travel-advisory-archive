@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-27 13:45 UTC
+**Last Updated:** 2026-10-28 14:41 UTC
 **Total Countries Tracked:** 218
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -41,7 +41,7 @@ Click on a country to view the full archived text of the advisory.
 | **Fiji** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/fiji.md) |
 | **Finland** | Fri, 13 Mar 2026 | [📄 View Advisory](advisories/finland.md) |
 | **French Guiana** | Wed, 08 Jul 2026 | [📄 View Advisory](advisories/french_guiana.md) |
-| **French Polynesia** | Wed, 02 Dec 2026 | [📄 View Advisory](advisories/french_polynesia.md) |
+| **French Polynesia** | Mon, 02 Dec 2024 | [📄 View Advisory](advisories/french_polynesia.md) |
 | **French Saint Martin** | Fri, 14 Aug 2026 | [📄 View Advisory](advisories/french_saint_martin.md) |
 | **French West Indies** | Thu, 22 Aug 2024 | [📄 View Advisory](advisories/french_west_indies.md) |
 | **Georgia** | Thu, 13 Mar 2025 | [📄 View Advisory](advisories/georgia.md) |
