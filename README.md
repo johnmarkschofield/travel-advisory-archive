@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-10-28 14:41 UTC
+**Last Updated:** 2026-10-29 14:46 UTC
 **Total Countries Tracked:** 218
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -215,7 +215,7 @@ Click on a country to view the full archived text of the advisory.
 | **Qatar** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/qatar.md) |
 | **Rwanda** | Thu, 04 Jun 2026 | [📄 View Advisory](advisories/rwanda.md) |
 | **Saudi Arabia** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/saudi_arabia.md) |
-| **The West Bank** | Mon, 26 Oct 2026 | [📄 View Advisory](advisories/the_west_bank.md) |
+| **The West Bank** | Wed, 26 Aug 2026 | [📄 View Advisory](advisories/the_west_bank.md) |
 | **Trinidad and Tobago** | Mon, 13 Apr 2026 | [📄 View Advisory](advisories/trinidad_and_tobago.md) |
 | **United Arab Emirates** | Fri, 23 Oct 2026 | [📄 View Advisory](advisories/united_arab_emirates.md) |
 | **Venezuela** | Sat, 27 Jun 2026 | [📄 View Advisory](advisories/venezuela.md) |

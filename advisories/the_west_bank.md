@@ -1,7 +1,7 @@
 # The West Bank
 
 **Level 3 Advisory**
-**Date:** Mon, 26 Oct 2026
+**Date:** Wed, 26 Aug 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xwb.html)
 
 ---

@@ -1,45 +1,5 @@
 [
   {
-    "country": "The West Bank",
-    "level": 3,
-    "full_title": "The West Bank - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xwb.html",
-    "filename_base": "the_west_bank",
-    "date": "Mon, 26 Oct 2026"
-  },
-  {
-    "country": "Iraq",
-    "level": 4,
-    "full_title": "Iraq - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
-    "filename_base": "iraq",
-    "date": "Fri, 23 Oct 2026"
-  },
-  {
-    "country": "United Arab Emirates",
-    "level": 3,
-    "full_title": "United Arab Emirates - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
-    "filename_base": "united_arab_emirates",
-    "date": "Fri, 23 Oct 2026"
-  },
-  {
-    "country": "Qatar",
-    "level": 3,
-    "full_title": "Qatar - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
-    "filename_base": "qatar",
-    "date": "Fri, 23 Oct 2026"
-  },
-  {
-    "country": "Israel",
-    "level": 3,
-    "full_title": "Israel - Level 3: Reconsider Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
-    "filename_base": "israel",
-    "date": "Fri, 23 Oct 2026"
-  },
-  {
     "country": "Iran",
     "level": 4,
     "full_title": "Iran - Level 4: Do Not Travel",
@@ -109,6 +69,38 @@
     "full_title": "Kuwait - Level 3: Reconsider Travel",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.kwt.html",
     "filename_base": "kuwait",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Iraq",
+    "level": 4,
+    "full_title": "Iraq - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.irq.html",
+    "filename_base": "iraq",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "United Arab Emirates",
+    "level": 3,
+    "full_title": "United Arab Emirates - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.are.html",
+    "filename_base": "united_arab_emirates",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Qatar",
+    "level": 3,
+    "full_title": "Qatar - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.qat.html",
+    "filename_base": "qatar",
+    "date": "Fri, 23 Oct 2026"
+  },
+  {
+    "country": "Israel",
+    "level": 3,
+    "full_title": "Israel - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.isr.html",
+    "filename_base": "israel",
     "date": "Fri, 23 Oct 2026"
   },
   {
@@ -341,6 +333,14 @@
     "full_title": "Albania - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.alb.html",
     "filename_base": "albania",
+    "date": "Wed, 26 Aug 2026"
+  },
+  {
+    "country": "The West Bank",
+    "level": 3,
+    "full_title": "The West Bank - Level 3: Reconsider Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.xwb.html",
+    "filename_base": "the_west_bank",
     "date": "Wed, 26 Aug 2026"
   },
   {
@@ -608,19 +608,19 @@
     "date": "Wed, 15 Jul 2026"
   },
   {
-    "country": "Argentina",
-    "level": 1,
-    "full_title": "Argentina - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.arg.html",
-    "filename_base": "argentina",
-    "date": "Fri, 10 Jul 2026"
-  },
-  {
     "country": "Saint Lucia",
     "level": 2,
     "full_title": "Saint Lucia - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.lca.html",
     "filename_base": "saint_lucia",
+    "date": "Fri, 10 Jul 2026"
+  },
+  {
+    "country": "Argentina",
+    "level": 1,
+    "full_title": "Argentina - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.arg.html",
+    "filename_base": "argentina",
     "date": "Fri, 10 Jul 2026"
   },
   {
@@ -1640,14 +1640,6 @@
     "date": "Mon, 02 Dec 2024"
   },
   {
-    "country": "French Polynesia",
-    "level": 1,
-    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html",
-    "filename_base": "french_polynesia",
-    "date": "Mon, 02 Dec 2024"
-  },
-  {
     "country": "Kiribati",
     "level": 1,
     "full_title": "Kiribati - Level 1: Exercise Normal Precautions",
@@ -1669,6 +1661,14 @@
     "full_title": "Fiji - Level 1: Exercise Normal Precautions",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.fji.html",
     "filename_base": "fiji",
+    "date": "Mon, 02 Dec 2024"
+  },
+  {
+    "country": "French Polynesia",
+    "level": 1,
+    "full_title": "French Polynesia - Level 1: Exercise Normal Precautions",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.pyf.html",
+    "filename_base": "french_polynesia",
     "date": "Mon, 02 Dec 2024"
   },
   {
