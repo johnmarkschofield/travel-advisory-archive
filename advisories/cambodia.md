@@ -8,9 +8,9 @@
 
 Exercise increased caution
 
-in **Cambodia** due to **crime** , **unrest** , and **unexploded ordnance**.
+in **Cambodia** due to **crime** , **unrest** , and **unexploded ordinance**.
 
-**Exercise increased caution**  in **Cambodia** due to **crime** , **unrest** , and **unexploded ordnance**. Some areas have increased risk. Read the entire Travel Advisory.
+**Exercise increased caution** in **Cambodia** due to **crime** , **unrest** , and **unexploded ordnance**. Some areas have increased risk. Read the entire Travel Advisory.
 
 Review our [Travel Guidance for Cambodia](https://travel.state.gov/en/international-travel/travel-advisories/cambodia.html#requirements "Travel Guidance for Cambodia") to learn how to prepare for a safe trip. 
 
