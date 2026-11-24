@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-11-23 19:39 UTC
+**Last Updated:** 2026-11-24 19:12 UTC
 **Total Countries Tracked:** 218
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
@@ -125,11 +125,11 @@ Click on a country to view the full archived text of the advisory.
 | **Costa Rica** | Thu, 02 Apr 2026 | [📄 View Advisory](advisories/costa_rica.md) |
 | **Cuba** | Wed, 07 May 2025 | [📄 View Advisory](advisories/cuba.md) |
 | **Côte d’Ivoire** | Wed, 18 Feb 2026 | [📄 View Advisory](advisories/cte_divoire.md) |
-| **Denmark** | Tue, 17 Sep 2024 | [📄 View Advisory](advisories/denmark.md) |
+| **Denmark** | Mon, 23 Nov 2026 | [📄 View Advisory](advisories/denmark.md) |
 | **Djibouti** | Thu, 06 Mar 2025 | [📄 View Advisory](advisories/djibouti.md) |
 | **Dominican Republic** | Thu, 12 Jun 2025 | [📄 View Advisory](advisories/dominican_republic.md) |
 | **Ecuador** | Tue, 18 Aug 2026 | [📄 View Advisory](advisories/ecuador.md) |
-| **Egypt** | Tue, 15 Jul 2025 | [📄 View Advisory](advisories/egypt.md) |
+| **Egypt** | Tue, 24 Nov 2026 | [📄 View Advisory](advisories/egypt.md) |
 | **Equatorial Guinea** | Tue, 07 Oct 2025 | [📄 View Advisory](advisories/equatorial_guinea.md) |
 | **Eritrea** | Mon, 31 Jul 2023 | [📄 View Advisory](advisories/eritrea.md) |
 | **Eswatini** | Fri, 10 Jul 2026 | [📄 View Advisory](advisories/eswatini.md) |
@@ -137,7 +137,7 @@ Click on a country to view the full archived text of the advisory.
 | **Gabon** | Mon, 30 Mar 2026 | [📄 View Advisory](advisories/gabon.md) |
 | **Germany** | Tue, 13 May 2025 | [📄 View Advisory](advisories/germany.md) |
 | **Ghana** | Tue, 07 Jul 2026 | [📄 View Advisory](advisories/ghana.md) |
-| **Greenland** | Tue, 29 Oct 2024 | [📄 View Advisory](advisories/greenland.md) |
+| **Greenland** | Mon, 23 Nov 2026 | [📄 View Advisory](advisories/greenland.md) |
 | **Grenada** | Mon, 05 Jan 2026 | [📄 View Advisory](advisories/grenada.md) |
 | **Guinea** | Wed, 25 Feb 2026 | [📄 View Advisory](advisories/guinea.md) |
 | **Hong Kong** | Fri, 04 Sep 2026 | [📄 View Advisory](advisories/hong_kong.md) |
@@ -225,7 +225,7 @@ Click on a country to view the full archived text of the advisory.
 
 | Country | Date Issued | Local Archive |
 | :--- | :--- | :--- |
-| **Afghanistan** | Fri, 20 Feb 2026 | [📄 View Advisory](advisories/afghanistan.md) |
+| **Afghanistan** | Tue, 24 Nov 2026 | [📄 View Advisory](advisories/afghanistan.md) |
 | **Belarus** | Mon, 29 Dec 2025 | [📄 View Advisory](advisories/belarus.md) |
 | **Burkina Faso** | Mon, 04 May 2026 | [📄 View Advisory](advisories/burkina_faso.md) |
 | **Burma** | Fri, 08 May 2026 | [📄 View Advisory](advisories/burma.md) |

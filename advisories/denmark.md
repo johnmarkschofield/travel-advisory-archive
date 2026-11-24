@@ -1,16 +1,29 @@
 # Denmark
 
 **Level 2 Advisory**
-**Date:** Tue, 17 Sep 2024
+**Date:** Mon, 23 Nov 2026
 **Source:** [State.gov Link](https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html)
 
 ---
 
 Exercise increased caution
 
- in the **Kingdom of Denmark** due to **terrorism**.
+in **Denmark** due to **terrorism**.
 
-Terrorist groups continue plotting possible attacks in the Kingdom of Denmark.  Terrorists can attack with little or no warning. They could target tourist spots, transport hubs, markets/shopping malls, local government facilities, hotels, clubs, restaurants, places of religious importance, parks, major sporting and cultural events, schools, airports, and other public areas.
+Terrorist groups continue plotting possible attacks in the Kingdom of Denmark.  Visit the U.S. Department of State's [country reports on terrorism](https://www.state.gov/country-reports-on-terrorism/ "DOS Country reports on terrorism") to learn more.
 
-The Kingdom of Denmark consists of Denmark, the Faroe Islands, and Greenland.  For additional information, please review the [travel guidances for Denmark](/en/international-travel/travel-advisories/denmark.html#requirements "Travel guidance for Denmark") and the Faroe Islands and for [Greenland](/en/international-travel/travel-advisories/greenland.html#requirements "Travel guidance for Greenland").
+Terrorists may attack without warning and target:
+
+  * Tourist locations
+  * Transportation hubs (airports)
+  * Markets and shopping malls  
+  * Local government facilities
+  * Hotels, clubs, and restaurants
+  * Places of religious significance
+  * Parks
+  * Major sporting and cultural events
+  * Educational institutions
+  * Other Public Areas
+
+
 

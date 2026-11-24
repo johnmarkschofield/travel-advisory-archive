@@ -16,9 +16,11 @@ The U.S. government has limited ability to provide emergency consular services t
 
 ##### **Health**
 
-On May 17, the World Health Organization (WHO) declared the Ebola outbreak in the DRC and Uganda a [Public Health Emergency of International Concern](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.who.int%2Fnews%2Fitem%2F17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern&data=05%7C02%7CSimmonsJA%40state.gov%7Cf302333d1605434708e208deb44fa316%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C639146451298212903%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=bK3Mt0nZHztFoH%2BKe1KvwBdM7%2B5q75ddFxAo4qM4t%2Bc%3D&reserved=0 "Public Health Emergency of International Concern").
+The U.S. Centers for Disease Control and Prevention (CDC) updated its Travel Health Notice for Ebola Bundibugyo Virus Disease.  Review the [Travel Health Notice for Ebola](https://wwwnc.cdc.gov/travel/notices/level2/ebola-uganda "CDC Travel Health Notice for Ebola") for Uganda.
 
-The U.S. Centers for Disease Control and Prevention (CDC) updated its Travel Health Notice for Ebola Bundibugyo Virus Disease. Review the [Travel Health Notice for Ebola](https://wwwnc.cdc.gov/travel/notices/level2/ebola-uganda "CDC Travel Health Notice for Ebola") for Uganda.
+ 
+
+On May 17, the World Health Organization (WHO) declared the Ebola outbreak in the DRC and Uganda a [Public Health Emergency of International Concern](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.who.int%2Fnews%2Fitem%2F17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern&data=05%7C02%7COCSContentManager%40state.gov%7Ce2ff0f0338d84131266b08df4a3e233a%7C66cf50745afe48d1a691a12b2121f44b%7C0%7C0%7C639311302902483463%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=cCaJCtQfH5tq8H0LEg6g98AfoDrNv9jorZI2OM3YLRk%3D&reserved=0 "Public Health Emergency of International Concern").
 
 Due to the Ebola outbreak, Uganda has temporarily closed border crossings with DRC. The only exceptions are for authorized Ebola response teams, humanitarian operations, food and cargo transportation, and security under strict health screening and monitoring protocols.
 

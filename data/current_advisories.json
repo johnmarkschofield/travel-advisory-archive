@@ -1,5 +1,37 @@
 [
   {
+    "country": "Afghanistan",
+    "level": 4,
+    "full_title": "Afghanistan - Level 4: Do Not Travel",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.afg.html",
+    "filename_base": "afghanistan",
+    "date": "Tue, 24 Nov 2026"
+  },
+  {
+    "country": "Egypt",
+    "level": 2,
+    "full_title": "Egypt - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html",
+    "filename_base": "egypt",
+    "date": "Tue, 24 Nov 2026"
+  },
+  {
+    "country": "Denmark",
+    "level": 2,
+    "full_title": "Denmark - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html",
+    "filename_base": "denmark",
+    "date": "Mon, 23 Nov 2026"
+  },
+  {
+    "country": "Greenland",
+    "level": 2,
+    "full_title": "Greenland - Level 2: Exercise Increased Caution",
+    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grl.html",
+    "filename_base": "greenland",
+    "date": "Mon, 23 Nov 2026"
+  },
+  {
     "country": "Iran",
     "level": 4,
     "full_title": "Iran - Level 4: Do Not Travel",
@@ -1248,14 +1280,6 @@
     "date": "Sun, 22 Feb 2026"
   },
   {
-    "country": "Afghanistan",
-    "level": 4,
-    "full_title": "Afghanistan - Level 4: Do Not Travel",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.afg.html",
-    "filename_base": "afghanistan",
-    "date": "Fri, 20 Feb 2026"
-  },
-  {
     "country": "C\u00f4te d\u2019Ivoire",
     "level": 2,
     "full_title": "C\u00f4te d\u2019Ivoire - Level 2: Exercise Increased Caution",
@@ -1504,14 +1528,6 @@
     "date": "Fri, 05 Sep 2025"
   },
   {
-    "country": "Egypt",
-    "level": 2,
-    "full_title": "Egypt - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.egy.html",
-    "filename_base": "egypt",
-    "date": "Tue, 15 Jul 2025"
-  },
-  {
     "country": "India",
     "level": 2,
     "full_title": "India - Level 2: Exercise Increased Caution",
@@ -1688,28 +1704,12 @@
     "date": "Mon, 02 Dec 2024"
   },
   {
-    "country": "Greenland",
-    "level": 2,
-    "full_title": "Greenland - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.grl.html",
-    "filename_base": "greenland",
-    "date": "Tue, 29 Oct 2024"
-  },
-  {
     "country": "Republic of Congo",
     "level": 2,
     "full_title": "Republic of Congo - Level 2: Exercise Increased Caution",
     "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.cog.html",
     "filename_base": "republic_of_congo",
     "date": "Wed, 02 Oct 2024"
-  },
-  {
-    "country": "Denmark",
-    "level": 2,
-    "full_title": "Denmark - Level 2: Exercise Increased Caution",
-    "remote_link": "https://travel.state.gov/content/tsg_aem/us/en/home/international-travel/travel-advisories/destination.dnk.html",
-    "filename_base": "denmark",
-    "date": "Tue, 17 Sep 2024"
   },
   {
     "country": "French West Indies",
