@@ -1,6 +1,6 @@
 # 🌍 US State Department Travel Advisories Archive
 
-**Last Updated:** 2026-11-24 19:12 UTC
+**Last Updated:** 2026-11-25 18:17 UTC
 **Total Countries Tracked:** 218
 
 This repository automatically archives travel advisories from the [US State Department](https://travel.state.gov/).
